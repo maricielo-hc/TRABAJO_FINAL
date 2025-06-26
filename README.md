@@ -151,8 +151,7 @@ Con el proyecto se busca un sistema funcional capaz de:
 
 - **Especie:** *Jaguar*  
 - **Noticia detectada:** "Disminuye el hábitat del jaguar en México por incendios y agricultura"  
-- **Clima:** Temperaturas + sequías en región mencionada  
-- **Mapa:** Se traza su distribución actual + zonas afectadas por cambio climático  
+- **Clima:** Temperaturas + sequías en región mencionada   
 - **Alerta:** Quedan ~14,000 ejemplares en estado salvaje
 
 <p align="center">
