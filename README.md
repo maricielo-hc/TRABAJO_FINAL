@@ -29,7 +29,7 @@
 
 ---
 
-### 📰 B**Bing News Search API – Noticias sobre fauna y medio ambiente**
+### 📰 **Bing News Search API – Noticias sobre fauna y medio ambiente**
 **🔍 Objetivo** 
 Obtener noticias actualizadas de medios reconocidos a nivel global relacionadas con especies en peligro de extinción, pérdida de hábitat, cambio climático, caza ilegal y conservación.
 
