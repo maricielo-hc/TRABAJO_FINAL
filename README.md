@@ -141,11 +141,11 @@ El fin último es **generar conciencia ambiental** y contribuir a una **toma de 
 
 Con el proyecto se busca un sistema funcional capaz de:
 
-- **Consultar múltiples APIs** de datos ambientales y noticiosos de forma automatizada.
-- **Detectar menciones** de especies y amenazas relevantes en medios de comunicación.
-- **Generar un mapa interactivo** que muestre la distribución de especies amenazadas, filtrable por país, especie o tipo de riesgo.
-- **Presentar la información** en una **interfaz web amigable**, enfocada en el usuario, con énfasis en la **comunicación visual**, dejando de lado tecnicismos innecesarios.
-- **Contribuir a la concientización** y **sensibilización de la comunidad** mediante la presentación **clara, visual y accesible** de datos críticos sobre la biodiversidad global.
+- 🔗 **Consultar múltiples APIs** de datos ambientales y noticiosos de forma automatizada.
+- 📌 **Detectar menciones** de especies y amenazas relevantes en medios de comunicación.
+- 🗺️ **Generar un mapa interactivo** que muestre la distribución de especies amenazadas, filtrable por país, especie o tipo de riesgo.
+- 💻 **Presentar la información** en una **interfaz web amigable**, enfocada en el usuario, con énfasis en la **comunicación visual**, dejando de lado tecnicismos innecesarios.
+- 🌱 **Contribuir a la concientización** y **sensibilización de la comunidad** mediante la presentación **clara, visual y accesible** de datos críticos sobre la biodiversidad global.
 
 
 <p align="center">
