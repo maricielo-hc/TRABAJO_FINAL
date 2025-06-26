@@ -19,6 +19,86 @@
 ![Habitat](imagenes/HABITAT.jpg)
 
 ---
+## 🌐 Fuentes de Datos
+
+### 📰 Bing News Search API – Noticias sobre fauna y medio ambiente
+
+#### 🔍 Objetivo
+Obtener noticias actualizadas de medios reconocidos a nivel global relacionadas con especies en peligro de extinción, pérdida de hábitat, cambio climático, caza ilegal y conservación.
+
+#### 🔧 Acceso
+- Sitio principal: [https://www.microsoft.com/en-us/bing/apis/bing-news-search-api](https://www.microsoft.com/en-us/bing/apis/bing-news-search-api)
+- Acceso mediante una cuenta gratuita en Azure Portal
+- Requiere crear un recurso y obtener una **clave de API** y un **endpoint**
+- Consultas disponibles mediante peticiones HTTP (RESTful) o usando la biblioteca `requests` en Python
+
+#### 📥 Datos disponibles
+- Título de la noticia  
+- Resumen o descripción del contenido  
+- Fecha de publicación  
+- Medio de comunicación (ej. BBC, El País, National Geographic)  
+- Enlace directo a la noticia  
+- Categorías temáticas (si están disponibles)  
+- Imagen destacada (en algunos casos)
+
+---
+
+### 🐾 UICN – Lista Roja de Especies en Peligro
+
+#### 🔍 Objetivo
+Obtener información científica y oficial sobre el estado de conservación de especies amenazadas a nivel global.
+
+#### 🔧 Acceso
+- Sitio oficial: [https://www.iucnredlist.org](https://www.iucnredlist.org)
+- API oficial: [https://apiv3.iucnredlist.org/api/v3](https://apiv3.iucnredlist.org/api/v3) (requiere registro gratuito y token)
+
+#### 📥 Datos disponibles
+- Estado de conservación (ej. “EN” = En Peligro, “CR” = Crítico)  
+- Descripción de amenazas y acciones de conservación  
+- Lista de países donde habita la especie  
+- Estimación de individuos restantes
+
+---
+
+### 🌍 GBIF – Plataforma Global de Información sobre Biodiversidad
+
+#### 🔍 Objetivo
+Obtener datos geográficos y temporales sobre **avistamientos u ocurrencias** de especies silvestres.
+
+#### 🔧 Acceso
+- Sitio web: [https://www.gbif.org](https://www.gbif.org)
+- API abierta y documentada: [https://www.gbif.org/developer/summary](https://www.gbif.org/developer/summary)
+- Accesible mediante peticiones HTTP o con el paquete `pygbif` en Python
+
+#### 📥 Datos disponibles
+- Coordenadas de ocurrencia (latitud y longitud)  
+- Fecha del registro (año, mes, día)  
+- Número de registros por país o región  
+- Fuente del dato (observación directa, sensores, registros históricos)
+
+---
+
+### ☀️ OpenWeatherMap – Datos Climáticos y Eventos Extremos
+
+#### 🔍 Objetivo
+Obtener condiciones ambientales actuales e históricas en regiones donde viven especies amenazadas.
+
+#### 🔧 Acceso
+- Sitio web: [https://openweathermap.org/api](https://openweathermap.org/api)
+- Requiere una **API key gratuita**
+
+#### 📥 Datos disponibles
+- Temperatura actual y media  
+- Precipitaciones  
+- Incendios activos  
+- Calidad del aire  
+- Eventos climáticos extremos (sequías, olas de calor)
+
+---
+
+Estas fuentes permiten integrar información científica, ambiental y mediática en un sistema unificado para monitorear y visualizar la situación de especies amenazadas en todo el mundo.
+
+---
 ## 🌿 Objetivos y productos finales 🌿
 
 Los objetivos de este proyecto se dividen en dos partes:
