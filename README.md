@@ -56,3 +56,9 @@ Con el proyecto se busca un sistema funcional capaz de:
 - **Generar un mapa interactivo** que muestre la distribución de especies amenazadas, filtrable por país, especie o tipo de riesgo.
 - **Presentar la información** en una **interfaz web amigable**, enfocada en el usuario, con énfasis en la **comunicación visual**, dejando de lado tecnicismos innecesarios.
 - **Contribuir a la concientización** y **sensibilización de la comunidad** mediante la presentación **clara, visual y accesible** de datos críticos sobre la biodiversidad global.
+
+
+<p align="center">
+  <img src="imagenes/ajolote.gif" alt="ajolote" width="400"/>
+</p>
+
