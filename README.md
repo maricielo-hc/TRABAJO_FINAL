@@ -24,14 +24,17 @@
 ![Habitat](imagenes/HABITAT.jpg)
 
 ---
-## 🌐  **Fuentes de Datos**
+
+## 🌐 **Fuentes de Datos**
+
+---
 
 ### 📰 B**Bing News Search API – Noticias sobre fauna y medio ambiente**
-#### 🔍 Objetivo
+**🔍 Objetivo** 
 Obtener noticias actualizadas de medios reconocidos a nivel global relacionadas con especies en peligro de extinción, pérdida de hábitat, cambio climático, caza ilegal y conservación.
 
-#### 🔧 Acceso
-- Sitio principal: [https://www.microsoft.com/en-us/bing/apis/bing-news-search-api](https://www.microsoft.com/en-us/bing/apis/bing-news-search-api)
+**🔧 Acceso**
+- Sitio: [Bing News Search API](https://www.microsoft.com/en-us/bing/apis/bing-news-search-api)
 - Acceso mediante una cuenta gratuita en Azure Portal
 - Requiere crear un recurso y obtener una **clave de API** y un **endpoint**
 - Consultas disponibles mediante peticiones HTTP (RESTful) o usando la biblioteca `requests` en Python
@@ -47,16 +50,17 @@ Obtener noticias actualizadas de medios reconocidos a nivel global relacionadas 
 
 ---
 
-### 🐾 UICN – Lista Roja de Especies en Peligro
+### 🐾 **UICN – Lista Roja de Especies en Peligro**
 
-#### 🔍 Objetivo
+**🔍 Objetivo**  
 Obtener información científica y oficial sobre el estado de conservación de especies amenazadas a nivel global.
 
-#### 🔧 Acceso
-- Sitio oficial: [https://www.iucnredlist.org](https://www.iucnredlist.org)
-- API oficial: [https://apiv3.iucnredlist.org/api/v3](https://apiv3.iucnredlist.org/api/v3) (requiere registro gratuito y token)
+**🔧 Acceso**  
+- Sitio: [UICN Red List](https://www.iucnredlist.org)  
+- API: [API v3](https://apiv3.iucnredlist.org/api/v3)  
+- Requiere registro gratuito y token
 
-#### 📥 Datos disponibles
+**📥 Datos disponibles**  
 - Estado de conservación (ej. “EN” = En Peligro, “CR” = Crítico)  
 - Descripción de amenazas y acciones de conservación  
 - Lista de países donde habita la especie  
@@ -64,17 +68,17 @@ Obtener información científica y oficial sobre el estado de conservación de e
 
 ---
 
-### 🌍 GBIF – Plataforma Global de Información sobre Biodiversidad
+### 🌍 **GBIF – Plataforma Global de Información sobre Biodiversidad**
 
-#### 🔍 Objetivo
+**🔍 Objetivo**
 Obtener datos geográficos y temporales sobre **avistamientos u ocurrencias** de especies silvestres.
 
-#### 🔧 Acceso
-- Sitio web: [https://www.gbif.org](https://www.gbif.org)
-- API abierta y documentada: [https://www.gbif.org/developer/summary](https://www.gbif.org/developer/summary)
+**🔧 Acceso**  
+- Sitio: [GBIF](https://www.gbif.org)  
+- API: [GBIF Developer Summary](https://www.gbif.org/developer/summary) 
 - Accesible mediante peticiones HTTP o con el paquete `pygbif` en Python
 
-#### 📥 Datos disponibles
+**📥 Datos disponibles**  
 - Coordenadas de ocurrencia (latitud y longitud)  
 - Fecha del registro (año, mes, día)  
 - Número de registros por país o región  
@@ -82,16 +86,16 @@ Obtener datos geográficos y temporales sobre **avistamientos u ocurrencias** de
 
 ---
 
-### ☀️ OpenWeatherMap – Datos Climáticos y Eventos Extremos
+### ☀️ **OpenWeatherMap – Datos Climáticos y Eventos Extremos**
 
-#### 🔍 Objetivo
+**🔍 Objetivo**
 Obtener condiciones ambientales actuales e históricas en regiones donde viven especies amenazadas.
 
-#### 🔧 Acceso
-- Sitio web: [https://openweathermap.org/api](https://openweathermap.org/api)
-- Requiere una **API key gratuita**
+**🔧 Acceso**  
+- Sitio: [OpenWeatherMap](https://openweathermap.org/api)  
+- Requiere **API Key gratuita**
 
-#### 📥 Datos disponibles
+**📥 Datos disponibles** 
 - Temperatura actual y media  
 - Precipitaciones  
 - Incendios activos  
@@ -103,11 +107,12 @@ Obtener condiciones ambientales actuales e históricas en regiones donde viven e
 Estas fuentes permiten integrar información científica, ambiental y mediática en un sistema unificado para monitorear y visualizar la situación de especies amenazadas en todo el mundo.
 
 ---
-## 🌿 Objetivos y productos finales 🌿
 
-Los objetivos de este proyecto se dividen en dos partes:
+## 🌿 **Objetivos y Productos Finales**
 
-### 🐼 Objetivo general
+---
+
+### 🐼 **Objetivo General**
 
 Se busca utilizar herramientas digitales para la **recolección**, **análisis** y **visualización de datos** sobre **especies en peligro de extinción**, relacionando esta información con **reportes noticiosos** y **eventos climáticos** que afectan críticamente sus hábitats.  
 El fin último es **generar conciencia ambiental** y contribuir a una **toma de decisiones informada** frente a la pérdida de biodiversidad.
@@ -121,17 +126,18 @@ El fin último es **generar conciencia ambiental** y contribuir a una **toma de 
 
 ---
 
-### 🐼 Objetivos específicos
+### 🐼 **Objetivos Específicos**
 
-- **Recolectar información** desde fuentes confiables, como la **Lista Roja de la UICN**, portales climáticos y bases de datos de biodiversidad.
-- **Detectar noticias recientes** que informen sobre la **pérdida de hábitats** o **amenazas directas** a especies en peligro.
-- **Analizar la relación** entre el **cambio climático** (temperaturas extremas, sequías, incendios) y la **reducción de los ecosistemas naturales**.
-- **Visualizar geográficamente** las especies afectadas y su nivel de amenaza mediante **mapas interactivos**.
-- **Desarrollar un dashboard interactivo** que permita al usuario **explorar la información por especie, región o tipo de amenaza**, en un entorno accesible y comprensible.
+- 📚 **Recolectar información** desde fuentes confiables, como la **Lista Roja de la UICN**, portales climáticos y bases de datos de biodiversidad.
+- 📰 **Detectar noticias recientes** que informen sobre la **pérdida de hábitats** o **amenazas directas** a especies en peligro.
+- 🔥 **Analizar la relación** entre el **cambio climático** (temperaturas extremas, sequías, incendios) y la **reducción de los ecosistemas naturales**.
+- 🗺️ **Visualizar geográficamente** las especies afectadas y su nivel de amenaza mediante **mapas interactivos**.
+- 📊 **Desarrollar un dashboard interactivo** que permita al usuario **explorar la información por especie, región o tipo de amenaza**, en un entorno accesible y comprensible.
 
 ---
 
-## 🌿 Resultado final del proyecto 🌿
+
+## 🌿 **Resultado Final del Proyecto**
 
 Con el proyecto se busca un sistema funcional capaz de:
 
