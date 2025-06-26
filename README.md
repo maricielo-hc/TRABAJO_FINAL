@@ -24,6 +24,9 @@ Los objetivos de este proyecto se dividen en dos partes:
 Se busca utilizar herramientas digitales para la **recolección**, **análisis** y **visualización de datos** sobre **especies en peligro de extinción**, relacionando esta información con **reportes noticiosos** y **eventos climáticos** que afectan críticamente sus hábitats.  
 El fin último es **generar conciencia ambiental** y contribuir a una **toma de decisiones informada** frente a la pérdida de biodiversidad.
 
+![osos](imagenes/Cartoon_Network_Bear_Sticker_by_The_Oluk_-_Find_&_Share_on_GIPHY.gif)
+
+
 ---
 
 ### 🐼 Objetivos específicos
