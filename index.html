@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>GeoVida</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -14,7 +14,7 @@
       <a href="index.html" class="logo">GeoVida</a>
       <input type="checkbox" id="menu" />
       <label for="menu">
-        <img src="imagenes/menu.png" class="menu-icono" alt="menu">
+        <img src="imagenes/menu.png" class="menu-icono" alt="menu" />
       </label>
       <nav class="navbar">
         <ul>
@@ -30,7 +30,7 @@
 
   <section class="header-content container">
     <div class="header-txt">
-      <h1>Protege a los <span>animales</span><br>en peligro de extinción</h1>
+      <h1>Protege a los <span>animales</span><br />en peligro de extinción</h1>
       <p>
         Cada año, cientos de especies desaparecen debido a la destrucción de su hábitat, la contaminación y el cambio climático.
         En <strong>GeoVida</strong> te invitamos a conocerlas, ubicarlas en el mapa y sumarte a las iniciativas que trabajan por su conservación.
@@ -47,13 +47,13 @@
       <h2>Especies en Peligro</h2>
 
       <div class="search-container">
-        <input type="text" id="searchInput" placeholder="Buscar por nombre común o científico...">
+        <input type="text" id="searchInput" placeholder="Buscar por nombre común o científico..." />
         <button id="searchButton">Buscar</button>
       </div>
 
       <div class="carousel-container">
         <div class="carousel" id="speciesCarousel">
-          <!-- Tarjetas se generan con JS -->
+          <!-- Las tarjetas se generan dinámicamente -->
         </div>
         <button class="carousel-button prev">❮</button>
         <button class="carousel-button next">❯</button>
@@ -222,6 +222,8 @@
       renderExtinctCards();
     });
   </script>
+  <script src="script.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>
 
