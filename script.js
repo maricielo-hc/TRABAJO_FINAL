@@ -1,73 +1,93 @@
-const buscador = document.getElementById("buscador");
-const carrusel = document.getElementById("carrusel");
-const btnNext = document.getElementById("btn-next");
-const btnPrev = document.getElementById("btn-prev");
+// Traducciones de estado
+const traduccionesEstado = {
+    "Endangered": "En Peligro",
+    "Threatened": "Vulnerable",
+    "XN": "Población experimental no esencial"
+};
 
-let index = 0;
-let especiesFiltradas = especies;
+// Traducción de frases comunes en descripción
+function traducirDescripcion(texto) {
+    const reemplazos = {
+        "species of mammal": "especie de mamífero",
+        "subspecies of mammal": "subespecie de mamífero",
+        "species of extinct mammal": "especie de mamífero extinto",
+        "species of babirusa": "especie de babirusa",
+        "species of deer": "especie de ciervo",
+        "species of primate": "especie de primate",
+        "species of the ungulates": "especie de ungulado"
+    };
 
-function renderTarjeta() {
-  carrusel.innerHTML = "";
-
-  if (especiesFiltradas.length === 0) {
-    carrusel.innerHTML = "<p>No se encontraron especies.</p>";
-    return;
-  }
-
-  const especie = especiesFiltradas[index];
-  const card = document.createElement("div");
-  card.className = "carrusel-card active";
-  card.innerHTML = `
-    <img src="${especie.imagen}" alt="${especie.nombre_comun}">
-    <h3>${especie.nombre_comun}</h3>
-    <p><em>${especie.nombre_cientifico}</em></p>
-    <p><strong>Estado:</strong> ${especie.estado}</p>
-    <p><strong>Tipo:</strong> ${especie.tipo}</p>
-    <p class="desc">${especie.descripcion}</p>
-  `;
-
-  card.addEventListener("click", () => {
-    card.classList.toggle("expanded");
-  });
-
-  carrusel.appendChild(card);
-  btnPrev.disabled = index === 0;
-  btnNext.disabled = index === especiesFiltradas.length - 1;
+    let resultado = texto;
+    for (let en in reemplazos) {
+        resultado = resultado.replace(en, reemplazos[en]);
+    }
+    return resultado;
 }
 
-buscador.addEventListener("input", () => {
-  const q = buscador.value.toLowerCase();
-  especiesFiltradas = especies.filter(e =>
-    e.nombre_comun.toLowerCase().includes(q) ||
-    e.nombre_cientifico.toLowerCase().includes(q)
-  );
-  index = 0;
-  renderTarjeta();
-});
-
-btnNext.addEventListener("click", () => {
-  if (index < especiesFiltradas.length - 1) {
-    index++;
-    renderTarjeta();
-  }
-});
-
-btnPrev.addEventListener("click", () => {
-  if (index > 0) {
-    index--;
-    renderTarjeta();
-  }
-});
-
-function resaltarCard() {
-  const card = document.querySelector(".carrusel-card");
-  if (card) {
-    card.classList.add("resaltado");
-    setTimeout(() => card.classList.remove("resaltado"), 400);
-  }
+// Asigna clase según estado
+function getClaseEstado(estado) {
+    if (estado === "En Peligro") return "estado-en-peligro";
+    if (estado === "Vulnerable") return "estado-vulnerable";
+    if (estado === "Población experimental no esencial") return "estado-poblacion";
+    return "";
 }
 
-btnNext.addEventListener("mouseenter", resaltarCard);
-btnPrev.addEventListener("mouseenter", resaltarCard);
+document.addEventListener('DOMContentLoaded', function () {
+    const carousel = document.getElementById('speciesCarousel');
+    const prevButton = document.querySelector('.prev');
+    const nextButton = document.querySelector('.next');
+    const searchInput = document.getElementById('searchInput');
+    const searchButton = document.getElementById('searchButton');
 
-renderTarjeta();
+    function renderSpeciesCards(speciesArray) {
+        carousel.innerHTML = '';
+
+        speciesArray.forEach(species => {
+            const card = document.createElement('div');
+            card.className = 'species-card';
+
+            const estadoTraducido = traduccionesEstado[species.estado] || species.estado;
+            const claseEstado = getClaseEstado(estadoTraducido);
+            const descripcionTraducida = traducirDescripcion(species.descripcion);
+
+            card.innerHTML = `
+                <img src="${species.imagen}" alt="${species.nombre_comun}" class="species-img">
+                <div class="species-info">
+                    <h3 class="species-name">${species.nombre_comun}</h3>
+                    <p class="species-scientific">${species.nombre_cientifico}</p>
+                    <span class="species-status ${claseEstado}">${estadoTraducido}</span>
+                    <p class="species-description">${descripcionTraducida}</p>
+                </div>
+            `;
+
+            carousel.appendChild(card);
+        });
+    }
+
+    function searchSpecies() {
+        const term = searchInput.value.toLowerCase();
+        const results = term
+            ? especies.filter(s =>
+                s.nombre_comun.toLowerCase().includes(term) ||
+                s.nombre_cientifico.toLowerCase().includes(term))
+            : [...especies];
+
+        renderSpeciesCards(results);
+    }
+
+    searchButton.addEventListener('click', searchSpecies);
+    searchInput.addEventListener('keyup', function (e) {
+        if (e.key === 'Enter') searchSpecies();
+    });
+
+    prevButton.addEventListener('click', () => {
+        carousel.scrollBy({ left: -300, behavior: 'smooth' });
+    });
+
+    nextButton.addEventListener('click', () => {
+        carousel.scrollBy({ left: 300, behavior: 'smooth' });
+    });
+
+    renderSpeciesCards(especies);
+});
+
