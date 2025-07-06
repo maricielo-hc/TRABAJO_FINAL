@@ -1,73 +1,124 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>GeoVida</title>
-    <link rel="stylesheet" href="style.css" />
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GeoVida</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap" rel="stylesheet">
 </head>
 <body>
 
-    <!-- ENCABEZADO -->
-    <header class="header">
-        <div class="menu container">
-            <a href="index.html" class="logo">GeoVida</a>
-            <input type="checkbox" id="menu" />
-            <label for="menu">
-                <img src="imagenes/menu.png" class="menu-icono" alt="Menú">
-            </label>
-            <nav class="navbar">
-                <ul>
-                    <li><a href="index.html" class="active">Inicio</a></li>
-                    <li><a href="estadisticas.html">Estadísticas</a></li>
-                    <li><a href="mapa.html">Mapa</a></li>
-                    <li><a href="organizaciones.html">Organizaciones</a></li>
-                    <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
-                </ul>
-            </nav>
+  <header class="header">
+    <div class="menu container">
+      <a href="index.html" class="logo">GeoVida</a>
+      <input type="checkbox" id="menu" />
+      <label for="menu">
+        <img src="imagenes/menu.png" class="menu-icono" alt="menu">
+      </label>
+      <nav class="navbar">
+        <ul>
+          <li><a href="index.html" class="active">Inicio</a></li>
+          <li><a href="estadisticas.html">Estadísticas</a></li>
+          <li><a href="mapa.html">Mapa</a></li>
+          <li><a href="organizaciones.html">Organizaciones</a></li>
+          <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="header-content container">
+    <div class="header-txt">
+      <h1>Protege a los <span>animales</span><br>en peligro de extinción</h1>
+      <p>
+        Cada año, cientos de especies desaparecen debido a la destrucción de su hábitat, la contaminación y el cambio climático.
+        En <strong>GeoVida</strong> te invitamos a conocerlas, ubicarlas en el mapa y sumarte a las iniciativas que trabajan por su conservación.
+      </p>
+      <div class="butons">
+        <a href="mapa.html" class="btn-1">Ver Mapa</a>
+        <a href="organizaciones.html" class="btn-1">Iniciativas</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="species-section">
+    <div class="container">
+      <h2>Especies en Peligro</h2>
+
+      <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Buscar por nombre común o científico...">
+        <button id="searchButton">Buscar</button>
+      </div>
+
+      <div class="carousel-container">
+        <div class="carousel" id="speciesCarousel">
+          <!-- Tarjetas se generan con JS -->
         </div>
-    </header>
+        <button class="carousel-button prev">❮</button>
+        <button class="carousel-button next">❯</button>
+      </div>
+    </div>
+  </section>
 
-    <!-- PORTADA -->
-    <section class="header-content container">
-        <div class="header-txt">
-            <h1>Protege a los <span>animales</span><br>en peligro de extinción</h1>
-            <p>
-                Cada año, cientos de especies desaparecen debido a la destrucción de su hábitat, la contaminación y el cambio climático.
-                En <strong>GeoVida</strong> te invitamos a conocerlas, ubicarlas en el mapa y sumarte a las iniciativas que trabajan por su conservación.
-            </p>
-            <div class="butons">
-                <a href="mapa.html" class="btn-1">Ver Mapa</a>
-                <a href="organizaciones.html" class="btn-1">Iniciativas</a>
+  <!-- Cambiado: usamos especies_traducidas.js -->
+  <script src="especies_traducidas.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const carousel = document.getElementById('speciesCarousel');
+      const prevButton = document.querySelector('.prev');
+      const nextButton = document.querySelector('.next');
+      const searchInput = document.getElementById('searchInput');
+      const searchButton = document.getElementById('searchButton');
+
+      function renderSpeciesCards(speciesArray) {
+        carousel.innerHTML = '';
+        speciesArray.forEach(species => {
+          const card = document.createElement('div');
+          card.className = 'species-card';
+
+          card.innerHTML = `
+            <img src="${species.imagen}" alt="${species.nombre_comun_es || species.nombre_comun}" class="species-img">
+            <div class="species-info">
+              <h3 class="species-name">${species.nombre_comun_es || species.nombre_comun}</h3>
+              <p class="species-scientific">${species.nombre_cientifico}</p>
+              <span class="species-status">${species.estado}</span>
+              <p class="species-description">${species.descripcion}</p>
             </div>
-        </div>
-    </section>
+          `;
 
-    <!-- SECCIÓN DEL CARRUSEL -->
-    <section class="species-section">
-        <div class="container">
-            <h2>Especies en Peligro</h2>
+          carousel.appendChild(card);
+        });
+      }
 
-            <!-- Buscador -->
-            <div class="search-container">
-                <input type="text" id="searchInput" placeholder="Buscar por nombre común o científico..." />
-                <button id="searchButton">Buscar</button>
-            </div>
+      function searchSpecies() {
+        const term = searchInput.value.toLowerCase();
+        const results = term
+          ? especies.filter(s =>
+              (s.nombre_comun_es && s.nombre_comun_es.toLowerCase().includes(term)) ||
+              s.nombre_comun.toLowerCase().includes(term) ||
+              s.nombre_cientifico.toLowerCase().includes(term))
+          : [...especies];
 
-            <!-- Carrusel -->
-            <div class="carousel-container">
-                <button class="carousel-button prev">❮</button>
-                <div class="carousel" id="speciesCarousel">
-                    <!-- Tarjetas generadas dinámicamente -->
-                </div>
-                <button class="carousel-button next">❯</button>
-            </div>
-        </div>
-    </section>
+        renderSpeciesCards(results);
+      }
 
-    <!-- SCRIPTS -->
-    <script src="especies.js"></script>
-    <script src="script.js"></script>
+      searchButton.addEventListener('click', searchSpecies);
+      searchInput.addEventListener('keyup', function (e) {
+        if (e.key === 'Enter') searchSpecies();
+      });
+
+      prevButton.addEventListener('click', () => {
+        carousel.scrollBy({ left: -300, behavior: 'smooth' });
+      });
+
+      nextButton.addEventListener('click', () => {
+        carousel.scrollBy({ left: 300, behavior: 'smooth' });
+      });
+
+      renderSpeciesCards(especies);
+    });
+  </script>
 </body>
 </html>
+
