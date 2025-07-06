@@ -563,3 +563,319 @@ body {
     line-height: 1.5;
     font-size: 0.9rem;
 }
+
+
+/* =====================
+   ESTILOS CARRUSEL ESPECIES EXTINTAS 
+   ===================== */
+
+.extinct-section::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background: linear-gradient(90deg, #e74c3c, #c0392b);
+}
+
+.extinct-title {
+    text-align: center;
+    color: #333;
+    font-size: 3.2rem;
+    margin-bottom: 10px;
+    font-family: 'Playfair Display', serif;
+}
+
+.extinct-title span {
+    color: #e74c3c;
+    font-weight: 700;
+}
+
+.section-subtitle {
+    text-align: center;
+    color: #777;
+    margin-bottom: 50px;
+    font-size: 1.1rem;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+.section-subtitle::after {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 3px;
+    background: #e74c3c;
+    margin: 15px auto 0;
+}
+
+.timeline-container {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto 40px;
+    padding-top: 60px;
+}
+
+.timeline-bar {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    height: 4px;
+    background: #e74c3c;
+    z-index: 1;
+}
+
+.timeline-carousel {
+    position: relative;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    cursor: grab;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    z-index: 2;
+    padding-bottom: 20px;
+}
+
+.timeline-carousel:active {
+    cursor: grabbing;
+}
+
+.timeline-track {
+    display: flex;
+    padding: 30px 20px;
+    scroll-snap-align: start;
+    gap: 20px;
+}
+
+
+.extinct-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 12px 25px rgba(231, 76, 60, 0.3);
+}
+
+
+.extinct-card:hover .extinct-img {
+    transform: scale(1.05);
+}
+
+
+.extinct-name {
+    font-size: 1.3rem;
+    color: #333;
+    margin-bottom: 8px;
+    font-weight: 700;
+}
+
+.extinct-scientific {
+    font-style: italic;
+    color: #7f8c8d;
+    font-size: 0.95rem;
+    margin-bottom: 15px;
+}
+
+.extinct-place {
+    display: flex;
+    align-items: center;
+    color: #e74c3c;
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
+.extinct-place::before {
+    content: "📍";
+    margin-right: 8px;
+    font-size: 1.1rem;
+}
+
+.carousel-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+.year-indicator {
+    text-align: center;
+    min-width: 150px;
+}
+
+.year-indicator span {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #e74c3c;
+    display: block;
+}
+
+/* Indicador discreto de especie extinta */
+.extinto-label {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #e74c3c;
+  color: white;
+  font-size: 12px;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.95;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease;
+}
+
+.control-btn {
+    background: #e74c3c;
+    color: white;
+    border: none;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    font-size: 24px;
+    cursor: pointer;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 5px 15px rgba(231, 76, 60, 0.3);
+}
+
+.control-btn:hover {
+    background: #c0392b;
+    transform: scale(1.1);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .extinct-title {
+        font-size: 1.8rem;
+    }
+    
+    .extinct-card {
+        flex: 0 0 85%;
+    }
+    
+    .control-btn {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+    
+    .year-indicator span {
+        font-size: 1.5rem;
+    }
+    
+    .extinct-img-container {
+        height: 180px;
+    }
+    
+    .detail-item {
+        flex-direction: column;
+    }
+    
+    .detail-label {
+        min-width: auto;
+        margin-bottom: 3px;
+    }
+}
+
+/* Estilos para el segundo carrusel */
+.extinct-section {
+    padding: 60px 0;
+    background: linear-gradient(135deg, #fff5f5 0%, #ffecec 100%);
+}
+
+.extinct-card {
+    flex: 0 0 300px;
+    scroll-snap-align: center;
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(231, 76, 60, 0.1);
+    display: flex;
+    flex-direction: column;
+    min-height: 450px;
+    margin: 0 10px;
+}
+
+.extinct-img-container {
+    height: 180px;
+    background: #fff0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.extinct-img {
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+    padding: 10px;
+}
+
+.extinct-year-marker {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: #e74c3c;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.extinct-info {
+    padding: 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.extinct-details {
+    margin-top: auto;
+}
+
+.detail-item {
+    margin-bottom: 10px;
+}
+
+.detail-label {
+    font-weight: 600;
+    color: #e74c3c;
+    font-size: 0.85rem;
+}
+
+.detail-value {
+    color: #555;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    word-break: break-word;
+}
+
+/* [Resto de tus estilos existentes] */
+
+.extinct-info .extinto-label {
+  position: absolute;
+  bottom: 8px;
+  right: 12px;
+  font-size: 10px;
+  color: rgba(100, 100, 100, 0.4); /* casi invisible */
+  font-style: italic;
+  pointer-events: none;
+}
+
+.extinto-label {
+  display: none !important;
+}
