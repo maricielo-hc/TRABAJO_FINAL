@@ -87,3 +87,4 @@ document.addEventListener('DOMContentLoaded', function () {
 
   renderSpeciesCards(especies);
 });
+
