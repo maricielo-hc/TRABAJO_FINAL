@@ -61,8 +61,20 @@
     </div>
   </section>
 
-  <!-- Cambiado: usamos especies_traducidas.js -->
+  <!-- SEGUNDO CARRUSEL (ESPECIES EXTINTAS MODIFICADO) -->
+  <section class="extinct-section">
+    <div class="container">
+      <h2 class="extinct-title">Especies Extintas <span>en los últimos años</span></h2>
+      <p class="section-subtitle">Últimas especies desaparecidas en la era moderna</p>
+      <div class="timeline-carousel" id="extinctCarouselContainer">
+        <div class="timeline-track" id="extinctCarousel"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SCRIPTS -->
   <script src="especies_traducidas.js"></script>
+  <script src="animales_extintos.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', function () {
       const carousel = document.getElementById('speciesCarousel');
@@ -117,6 +129,97 @@
       });
 
       renderSpeciesCards(especies);
+
+      // Carrusel especies extintas
+      const extinctCarousel = document.getElementById('extinctCarousel');
+      const extinctCarouselContainer = document.getElementById('extinctCarouselContainer');
+
+      function renderExtinctCards() {
+        extinctCarousel.innerHTML = '';
+
+        animalesExtintos.forEach((especie) => {
+          const card = document.createElement('div');
+          card.className = 'extinct-card';
+
+          let imagenUrl = especie.imagen;
+          if (imagenUrl.includes('wikimedia') && imagenUrl.includes('/thumb/')) {
+            imagenUrl = imagenUrl.replace('/thumb/', '/').split('/').slice(0, -1).join('/');
+          }
+
+          card.innerHTML = `
+            <div class="extinct-img-container">
+              <img src="${imagenUrl}" alt="${especie.nombre_comun}" class="extinct-img" 
+                   onerror="this.src='imagenes/default-extinct.jpg'; this.style.objectFit='contain'; this.style.padding='20px';">
+              <div class="extinct-year-marker" style="position:absolute; top:10px; right:10px; background:#e74c3c; color:#fff; border-radius:50%; width:50px; height:50px; display:flex; align-items:center; justify-content:center; font-weight:bold;">${especie.año_extincion}</div>
+            </div>
+            <div class="extinct-info">
+              <h3 class="extinct-name">${especie.nombre_comun}</h3>
+              <p class="extinct-scientific">${especie.nombre_cientifico}</p>
+              <div class="extinct-details">
+                <div class="detail-item">
+                  <span class="detail-label">Ubicación:</span>
+                  <span class="detail-value">${especie.lugar}</span>
+                </div>
+                <div class="detail-item">
+                  <span class="detail-label">Causa probable:</span>
+                  <span class="detail-value">${getRandomCause()}</span>
+                </div>
+                <div class="detail-item">
+                  <span class="detail-label">Último avistamiento:</span>
+                  <span class="detail-value">${especie.año_extincion}</span>
+                </div>
+              </div>
+            </div>
+          `;
+
+          extinctCarousel.appendChild(card);
+        });
+
+        setupDragScroll();
+      }
+
+      function getRandomCause() {
+        const causes = [
+          "Pérdida de hábitat",
+          "Caza excesiva",
+          "Contaminación",
+          "Cambio climático",
+          "Especies invasoras",
+          "Enfermedades",
+          "Deforestación"
+        ];
+        return causes[Math.floor(Math.random() * causes.length)];
+      }
+
+      function setupDragScroll() {
+        let isDragging = false;
+        let startX, startScroll;
+
+        extinctCarouselContainer.addEventListener('mousedown', (e) => {
+          isDragging = true;
+          startX = e.pageX;
+          startScroll = extinctCarousel.scrollLeft;
+          extinctCarouselContainer.style.cursor = 'grabbing';
+        });
+
+        extinctCarouselContainer.addEventListener('mousemove', (e) => {
+          if (!isDragging) return;
+          const x = e.pageX;
+          const walk = (x - startX) * 2;
+          extinctCarousel.scrollLeft = startScroll - walk;
+        });
+
+        extinctCarouselContainer.addEventListener('mouseup', () => {
+          isDragging = false;
+          extinctCarouselContainer.style.cursor = 'grab';
+        });
+
+        extinctCarouselContainer.addEventListener('mouseleave', () => {
+          isDragging = false;
+        });
+      }
+
+      renderExtinctCards();
     });
   </script>
 </body>
