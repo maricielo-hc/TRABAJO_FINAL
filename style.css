@@ -788,81 +788,171 @@ body {
 /* Estilos para el segundo carrusel */
 .extinct-section {
     padding: 60px 0;
-    background: linear-gradient(135deg, #fff5f5 0%, #ffecec 100%);
+    background: #fef6f6;
+}
+
+.extinct-section h2 {
+    text-align: center;
+    color: #c0392b;
+    margin-bottom: 30px;
+    font-size: 2.2rem;
+}
+
+.carousel-container-extinct {
+    position: relative;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.carousel-extinct {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 20px;
+    padding: 20px;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+}
+
+.carousel-extinct::-webkit-scrollbar {
+    display: none;
 }
 
 .extinct-card {
-    flex: 0 0 300px;
     scroll-snap-align: center;
+    flex: 0 0 300px;
     background: white;
-    border-radius: 12px;
+    border-radius: 15px;
     overflow: hidden;
-    box-shadow: 0 5px 15px rgba(231, 76, 60, 0.1);
-    display: flex;
-    flex-direction: column;
-    min-height: 450px;
-    margin: 0 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    margin-right: 20px;
+}
+
+.extinct-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
 .extinct-img-container {
-    height: 180px;
-    background: #fff0f0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
+  position: relative;
 }
 
 .extinct-img {
-    max-width: 90%;
-    max-height: 90%;
-    object-fit: contain;
-    padding: 10px;
-}
-
-.extinct-year-marker {
-    position: absolute;
-    top: 15px;
-    right: 15px;
-    background: #e74c3c;
-    color: white;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: bold;
-    font-size: 0.9rem;
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-bottom: 3px solid #c0392b;
 }
 
 .extinct-info {
     padding: 20px;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
 }
 
-.extinct-details {
-    margin-top: auto;
+.extinct-name {
+    font-size: 1.3rem;
+    color: #2c3e50;
+    margin-bottom: 5px;
 }
 
-.detail-item {
+.extinct-name::before {
+    content: "Nombre común: ";
+    font-weight: bold;
+    color: #c0392b;
+}
+
+.extinct-scientific {
+    font-style: italic;
+    color: #7f8c8d;
     margin-bottom: 10px;
 }
 
-.detail-label {
-    font-weight: 600;
-    color: #e74c3c;
-    font-size: 0.85rem;
+.extinct-year-marker {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #e74c3c;
+  color: #fff;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 14px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 }
 
-.detail-value {
-    color: #555;
-    font-size: 0.85rem;
-    line-height: 1.4;
-    word-break: break-word;
+.extinct-year {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: #e74c3c;
+    color: white;
+    font-weight: bold;
 }
+
+.extinct-year::before {
+    content: "Año de extinción: ";
+}
+
+.extinct-description {
+    margin-top: 15px;
+    color: #555;
+    line-height: 1.5;
+    font-size: 0.9rem;
+}
+
+.carousel-button-extinct {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 50px;
+    height: 50px;
+    background: rgba(192, 57, 43, 0.8);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 10;
+    transition: all 0.3s;
+}
+
+.carousel-button-extinct:hover {
+    background: #c0392b;
+}
+
+.carousel-button-extinct.prev {
+    left: -25px;
+}
+
+.carousel-button-extinct.next {
+    right: -25px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .extinct-card {
+        flex: 0 0 85%;
+    }
+
+    .carousel-button-extinct {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+
+    .carousel-button-extinct.prev {
+        left: -15px;
+    }
+
+    .carousel-button-extinct.next {
+        right: -15px;
+    }
+}
+
 
 /* [Resto de tus estilos existentes] */
 

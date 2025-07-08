@@ -63,19 +63,27 @@
   </section>
 
   <!-- SEGUNDO CARRUSEL (ESPECIES EXTINTAS MODIFICADO) -->
+  
   <section class="extinct-section">
-    <div class="container">
-      <h2 class="extinct-title">Especies Extintas <span>en los últimos años</span></h2>
-      <p class="section-subtitle">Últimas especies desaparecidas en la era moderna</p>
-      <div class="timeline-carousel" id="extinctCarouselContainer">
-        <div class="timeline-track" id="extinctCarousel"></div>
+  <div class="container">
+    <h2 class="extinct-title">Especies Extintas <span>en los últimos años</span></h2>
+    <p class="section-subtitle">Últimas especies desaparecidas en la era moderna</p>
+
+    <div class="carousel-container">
+      <div class="carousel-extinct" id="extinctCarousel">
+        <!-- Las tarjetas de animales extintos se generan dinámicamente -->
       </div>
+      <button class="carousel-button-extinct prev">❮</button>
+      <button class="carousel-button-extinct next">❯</button>
+
     </div>
-  </section>
+  </div>
+</section>
 
   <!-- SCRIPTS -->
   <script src="especies_traducidas.js"></script>
   <script src="animales_extintos.js"></script>
+  <script src="script_extintos.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', function () {
       const carousel = document.getElementById('speciesCarousel');
@@ -164,10 +172,6 @@
                 <div class="detail-item">
                   <span class="detail-label">Causa probable:</span>
                   <span class="detail-value">${getRandomCause()}</span>
-                </div>
-                <div class="detail-item">
-                  <span class="detail-label">Último avistamiento:</span>
-                  <span class="detail-value">${especie.año_extincion}</span>
                 </div>
               </div>
             </div>
