@@ -1,32 +1,29 @@
 import json
-import re
 
-# Cargar el JSON
-with open("especies_animales.json", "r", encoding="utf-8") as f:
-    json_data = json.load(f)
+# Archivos de entrada
+archivo1 = "especies_animales.json"
+archivo2 = "especies_animales1.json"
 
-# Cargar el JS (parsear el array JS a lista Python)
-with open("especies_animales1.js", "r", encoding="utf-8") as f:
-    js_raw = f.read()
+# Leer los dos archivos
+with open(archivo1, "r", encoding="utf-8") as f1:
+    datos1 = json.load(f1)
 
-# Extraer objetos del JS con regex
-matches = re.findall(r'{\s*nombre_cientifico:\s*"([^"]+)"\s*}', js_raw)
-js_data = [{"nombre_cientifico": name} for name in matches]
+with open(archivo2, "r", encoding="utf-8") as f2:
+    datos2 = json.load(f2)
 
-# Unir ambas listas y eliminar duplicados
+# Unir y eliminar duplicados por nombre_cientifico
 nombres_unicos = set()
 combinado = []
 
-for item in json_data + js_data:
-    nombre = item["nombre_cientifico"]
-    if nombre not in nombres_unicos:
+for item in datos1 + datos2:
+    nombre = item.get("nombre_cientifico")
+    if nombre and nombre not in nombres_unicos:
         nombres_unicos.add(nombre)
-        combinado.append({"nombre_cientifico": nombre})
+        combinado.append({ "nombre_cientifico": nombre })
 
-# Generar nuevo JS
-with open("especies_animalesunc.js", "w", encoding="utf-8") as f:
-    f.write("const especies = [\n")
-    f.write(",\n".join(f'  {{ nombre_cientifico: "{item["nombre_cientifico"]}" }}' for item in combinado))
-    f.write("\n];\n")
+# Guardar en un nuevo archivo JSON
+with open("especies_animalesunc.json", "w", encoding="utf-8") as f:
+    json.dump(combinado, f, ensure_ascii=False, indent=2)
 
-print(f"✅ Archivo combinado generado: especies_animalesunc.js")
+print(f"✅ Archivo combinado creado: especies_animalesunc.json ({len(combinado)} especies)")
+
