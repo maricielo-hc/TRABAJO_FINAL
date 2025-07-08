@@ -32,7 +32,8 @@ nombres_unicos = list({json.dumps(n, ensure_ascii=False): n for n in nombres}.va
 nombres_ordenados = sorted(nombres_unicos, key=lambda x: x['nombre_cientifico'])
 
 # Guardar en archivo JSON
-with open('especies_extincion_limpio.json', 'w', encoding='utf-8') as f:
+with open('especies_animales.json', 'w', encoding='utf-8') as f:
     json.dump(nombres_ordenados, f, ensure_ascii=False, indent=2)
 
-print("✅ Datos limpios y guardados en 'especies_extincion_limpio.json'")
+print("Datos limpios y guardados en 'especies_animales.json'")
+
