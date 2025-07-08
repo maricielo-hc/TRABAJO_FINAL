@@ -2,7 +2,7 @@ import json
 
 # Archivos de entrada y salida
 input_path = "Index_of_CITES_Species_[CUSTOM]_2025-07-08 04_04.json"
-output_path = "especies_animales.js"
+output_path = "especies_animales1.js"
 
 # Leer archivo original
 with open(input_path, "r", encoding="utf-8") as f:
