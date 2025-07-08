@@ -1510,3 +1510,45 @@ body {
     gap: 30px;
 }
 
+/*CSS DE ESTADISTICA /*
+/* CSS MEJORADO PARA ESTADISTICAS */
+.estadisticas-hero {
+  background: url('imagenes/portadaest.png') no-repeat center center/cover;
+  padding: 120px 20px;
+  text-align: center;
+  position: relative;
+  color: white;
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.estadisticas-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4); /* oscurece ligeramente para que el texto se lea */
+  z-index: 0;
+}
+
+.estadisticas-hero h1,
+.estadisticas-hero p {
+  position: relative;
+  z-index: 1;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6); /* sombra para legibilidad */
+}
+
+.estadisticas-hero h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  font-family: 'Playfair Display', serif;
+}
+
+.estadisticas-hero p {
+  font-size: 1.2rem;
+  font-family: 'Poppins', sans-serif;
+  max-width: 800px;
+}
+
