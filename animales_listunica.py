@@ -24,9 +24,9 @@ for item in json_data + js_data:
         combinado.append({"nombre_cientifico": nombre})
 
 # Generar nuevo JS
-with open("especies_unico.js", "w", encoding="utf-8") as f:
+with open("especies_animalesunc.js", "w", encoding="utf-8") as f:
     f.write("const especies = [\n")
     f.write(",\n".join(f'  {{ nombre_cientifico: "{item["nombre_cientifico"]}" }}' for item in combinado))
     f.write("\n];\n")
 
-print(f"Archivo combinado generado: especies_unico.js")
+print(f"✅ Archivo combinado generado: especies_animalesunc.js")
