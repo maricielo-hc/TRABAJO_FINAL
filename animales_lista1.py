@@ -2,7 +2,7 @@ import json
 
 # Archivos de entrada y salida
 input_path = "Index_of_CITES_Species_[CUSTOM]_2025-07-08 04_04.json"
-output_path = "especies_animales1.js"
+output_path = "especies_animales1.json"
 
 # Leer archivo original
 with open(input_path, "r", encoding="utf-8") as f:
@@ -15,16 +15,9 @@ animales = [
     if item.get("kingdom_name") == "Animalia" and "full_name" in item
 ]
 
-# Generar código JS
-js_code = "const especies = [\n"
-js_code += ",\n".join(
-    f'  {{ nombre_cientifico: "{item["nombre_cientifico"]}" }}'
-    for item in animales
-)
-js_code += "\n];\n"
-
-# Guardar el archivo
+# Guardar como archivo JSON
 with open(output_path, "w", encoding="utf-8") as f:
-    f.write(js_code)
+    json.dump(animales, f, ensure_ascii=False, indent=2)
 
 print(f"✅ Archivo generado: {output_path} con {len(animales)} especies.")
+
