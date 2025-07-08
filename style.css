@@ -1145,7 +1145,43 @@ body {
     color: white;
     border-radius: 8px;
 }
-/* Estilos para Articulos*/
+/*Botones Flotantes de las redes*/
+.social-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  z-index: 1000;
+}
+
+.social-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.social-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+}
+
+.social-btn img {
+  width: 24px;
+  height: 24px;
+}
+
+
+/* ---------------------------- */
+/* EESTILOS PARA ARTÍCULOS*/
+/* ---------------------------- */
 #articlesList {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
