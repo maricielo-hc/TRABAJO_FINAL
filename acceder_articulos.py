@@ -1,45 +1,63 @@
-import requests
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup
-import json
 import time
+import json
 
-BASE_URL = "https://news.mongabay.com/list/endangered-species/page/{}/"
-HEADERS = {"User-Agent": "Mozilla/5.0"}
+URL = "https://es.mongabay.com/?s=&locations=latinoamerica+amazonia&topics=animales&formats=post+custom_story+podcasts+specials+short_article"
+OUTPUT_FILE = "articulos.js"
 
-# Palabras clave para excluir (relacionadas a plantas, árboles, corales, etc.)
-PALABRAS_EXCLUIDAS = [
-    "plant", "tree", "flora", "forest", "mangrove", "peat", "reef", "coral",
-    "mushroom", "fungi", "grain", "crop", "rice", "soy", "sugar", "wheat",
-    "maize", "corn", "coffee", "cacao", "cocoa", "bean", "timber", "banana",
-    "bamboo", "coconut", "fruit", "vegetable", "oil palm", "palma aceitera"
-]
+def cargar_toda_la_pagina(driver):
+    print("📥 Cargando artículos dinámicamente...")
+    max_intentos = 20
+    intentos = 0
 
-def contiene_palabra_excluida(texto):
-    texto = texto.lower()
-    return any(palabra in texto for palabra in PALABRAS_EXCLUIDAS)
+    while intentos < max_intentos:
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        articulos_antes = len(soup.select("div.article--container"))
 
-def extraer_articulos_de_pagina(html):
+        try:
+            boton = driver.find_element(By.CLASS_NAME, "load-more")
+            driver.execute_script("arguments[0].scrollIntoView();", boton)
+            time.sleep(1.5)
+
+            # 🔧 Clic usando JavaScript
+            driver.execute_script("arguments[0].click();", boton)
+            print(f"🔁 Clic en 'Cargar más' (artículos hasta ahora: {articulos_antes})")
+            time.sleep(3)
+
+            articulos_despues = len(BeautifulSoup(driver.page_source, "html.parser").select("div.article--container"))
+            if articulos_despues == articulos_antes:
+                intentos += 1
+                print(f"⏳ No hay nuevos artículos. Intento {intentos}")
+                time.sleep(2)
+            else:
+                intentos = 0
+        except NoSuchElementException:
+            print("✅ No se encontró más el botón 'Cargar más'. Fin.")
+            break
+
+def extraer_articulos(html):
     soup = BeautifulSoup(html, "html.parser")
-    contenedores = soup.find_all("div", class_="article--container")
+    contenedores = soup.select("div.article--container")
     articulos = []
 
     for cont in contenedores:
         a_tag = cont.find("a", href=True)
-        if not a_tag:
-            continue
+        url = a_tag["href"] if a_tag else ""
 
-        url = a_tag["href"]
-
-        titulo_tag = cont.find("div", class_="title")
+        titulo_tag = cont.select_one(".title h4")
         titulo = titulo_tag.get_text(strip=True) if titulo_tag else ""
 
-        if contiene_palabra_excluida(titulo):
-            continue  # saltar si trata sobre plantas, cultivos, etc.
-
         img_tag = cont.find("img")
-        imagen = img_tag["src"] if img_tag else ""
+        if img_tag:
+            imagen = img_tag.get("src") or img_tag.get("data-src") or ""
+        else:
+            imagen = ""
 
-        fecha_tag = cont.find("span", class_="date")
+        fecha_tag = cont.select_one(".post-meta .date")
         fecha = fecha_tag.get_text(strip=True) if fecha_tag else ""
 
         articulos.append({
@@ -51,31 +69,33 @@ def extraer_articulos_de_pagina(html):
 
     return articulos
 
-def obtener_articulos(paginas=143):
-    todos = []
-    for i in range(1, paginas + 1):
-        url = BASE_URL.format(i)
-        print(f"🌐 Procesando: {url}")
-        try:
-            res = requests.get(url, headers=HEADERS, timeout=10)
-            if res.status_code != 200:
-                print(f"❌ Error en página {i}: Código {res.status_code}")
-                continue
 
-            articulos = extraer_articulos_de_pagina(res.text)
-            print(f"✅ Página {i}: {len(articulos)} artículos válidos encontrados")
-            todos.extend(articulos)
-            time.sleep(1)
-        except Exception as e:
-            print(f"❌ Error procesando página {i}: {e}")
+def main():
+    print(f"🌍 Abriendo: {URL}")
+    chrome_options = Options()
+    chrome_options.add_argument("--headless=new")
+    chrome_options.add_argument("--disable-gpu")
+    driver = webdriver.Chrome(options=chrome_options)
+    driver.get(URL)
 
+    cargar_toda_la_pagina(driver)
+
+    print("🔍 Extrayendo artículos...")
+    html = driver.page_source
+    driver.quit()
+
+    articulos = extraer_articulos(html)
+
+    print(f"✅ Se extrajeron {len(articulos)} artículos.")
     # Guardar como archivo .js
     with open("articulos.js", "w", encoding="utf-8") as f:
         f.write("const articulos = ")
-        json.dump(todos, f, ensure_ascii=False, indent=2)
+        json.dump(articulos, f, ensure_ascii=False, indent=2)
         f.write(";")
 
-    print(f"\n✅ Se guardaron {len(todos)} artículos en 'articulos.js'")
+    print(f"\n✅ Se guardaron {len(articulos)} artículos en 'articulos.js'")
+
 
 if __name__ == "__main__":
-    obtener_articulos(paginas=143)
+    main()
+
