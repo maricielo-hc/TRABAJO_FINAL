@@ -1,10 +1,13 @@
+// Espera a que todo el DOM esté cargado antes de ejecutar el script
 document.addEventListener('DOMContentLoaded', function () {
-  const carousel = document.getElementById('speciesCarousel');
-  const prevButton = document.querySelector('.prev');
-  const nextButton = document.querySelector('.next');
-  const searchInput = document.getElementById('searchInput');
-  const searchButton = document.getElementById('searchButton');
+  // Referencias a los elementos del DOM
+  const carousel = document.getElementById('speciesCarousel'); // contenedor de las tarjetas de especies
+  const prevButton = document.querySelector('.prev');          // botón de navegación izquierda
+  const nextButton = document.querySelector('.next');          // botón de navegación derecha
+  const searchInput = document.getElementById('searchInput');  // campo de búsqueda
+  const searchButton = document.getElementById('searchButton'); // botón de búsqueda
 
+  // Diccionario de descripciones genéricas en inglés y su traducción al español
   const descripcionesGenericas = {
     "species of mammal": "especie de mamífero",
     "species of bird": "especie de ave",
@@ -32,20 +35,24 @@ document.addEventListener('DOMContentLoaded', function () {
     "species of damselfly": "especie de caballito del diablo"
   };
 
+  // Función que corrige descripciones genéricas si coinciden con alguna del diccionario
   function corregirDescripcion(desc) {
     if (!desc) return "";
     const normalizada = desc.trim().toLowerCase();
     return descripcionesGenericas[normalizada] || desc;
   }
 
+  // Función que crea y muestra todas las tarjetas de especies en el carrusel
   function renderSpeciesCards(speciesArray) {
-    carousel.innerHTML = '';
+    carousel.innerHTML = ''; // limpia el carrusel
     speciesArray.forEach(species => {
       const card = document.createElement('div');
-      card.className = 'species-card';
+      card.className = 'species-card'; // estilo CSS para cada tarjeta
 
+      // Aplica corrección de descripción si aplica
       const descripcionCorregida = corregirDescripcion(species.descripcion);
 
+      // Estructura HTML de la tarjeta de especie
       card.innerHTML = `
         <img src="${species.imagen}" alt="${species.nombre_comun_es || species.nombre_comun}" class="species-img">
         <div class="species-info">
@@ -56,10 +63,12 @@ document.addEventListener('DOMContentLoaded', function () {
         </div>
       `;
 
+      // Agrega la tarjeta al carrusel
       carousel.appendChild(card);
     });
   }
 
+  // Función de búsqueda: filtra especies por nombre común o científico
   function searchSpecies() {
     const term = searchInput.value.toLowerCase();
     const results = term
@@ -67,16 +76,18 @@ document.addEventListener('DOMContentLoaded', function () {
           (s.nombre_comun_es && s.nombre_comun_es.toLowerCase().includes(term)) ||
           s.nombre_comun.toLowerCase().includes(term) ||
           s.nombre_cientifico.toLowerCase().includes(term))
-      : [...especies];
+      : [...especies]; // si no hay término, muestra todas
 
-    renderSpeciesCards(results);
+    renderSpeciesCards(results); // muestra los resultados filtrados
   }
 
+  // Eventos para activar búsqueda
   searchButton.addEventListener('click', searchSpecies);
   searchInput.addEventListener('keyup', function (e) {
     if (e.key === 'Enter') searchSpecies();
   });
 
+  // Eventos para mover el carrusel hacia la izquierda o derecha
   prevButton.addEventListener('click', () => {
     carousel.scrollBy({ left: -300, behavior: 'smooth' });
   });
@@ -85,6 +96,6 @@ document.addEventListener('DOMContentLoaded', function () {
     carousel.scrollBy({ left: 300, behavior: 'smooth' });
   });
 
+  // Mostrar todas las especies al cargar la página
   renderSpeciesCards(especies);
 });
-

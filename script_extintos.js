@@ -1,22 +1,24 @@
-// Suponiendo que tienes un array llamado 'animalesExtintos' en animales_extintos.js
-// Este script debe estar cargado después de ese archivo en tu HTML
+// Este script asume que el archivo animales_extintos.js ya fue cargado antes en el HTML
+// Ese archivo debe definir un array global llamado `animalesExtintos`
 
 document.addEventListener('DOMContentLoaded', () => {
-  const carousel = document.getElementById('extinctCarousel');
-  const prevBtn = document.querySelector('.carousel-button-extinct.prev');
-  const nextBtn = document.querySelector('.carousel-button-extinct.next');
+  // Obtenemos referencias a los elementos del carrusel
+  const carousel = document.getElementById('extinctCarousel'); // contenedor principal del carrusel
+  const prevBtn = document.querySelector('.carousel-button-extinct.prev'); // botón izquierdo
+  const nextBtn = document.querySelector('.carousel-button-extinct.next'); // botón derecho
 
-  // Verificamos que el array animalesExtintos exista
+  // Verifica que el array animalesExtintos exista y tenga datos válidos
   if (!Array.isArray(animalesExtintos) || animalesExtintos.length === 0) {
     console.warn("No se encontraron animales extintos.");
-    return;
+    return; // Detiene la ejecución si no hay datos
   }
 
-  // Cargamos las tarjetas en el carrusel
+  // Recorre cada animal extinto y crea una tarjeta con su información
   animalesExtintos.forEach(animal => {
     const card = document.createElement('div');
-    card.className = 'species-card';
+    card.className = 'species-card'; // Clase CSS común para especies
 
+    // Contenido HTML de la tarjeta
     card.innerHTML = `
       <img src="${animal.imagen}" alt="${animal.nombre_comun}" class="species-img">
       <div class="species-info">
@@ -28,17 +30,20 @@ document.addEventListener('DOMContentLoaded', () => {
       </div>
     `;
 
+    // Agrega la tarjeta al carrusel
     carousel.appendChild(card);
   });
 
-  // Funcionalidad de flechas para mover el carrusel
+  // Configura la navegación con flechas si existen los botones y el contenedor
   if (prevBtn && nextBtn && carousel) {
+    // Botón para mover el carrusel hacia la izquierda
     prevBtn.addEventListener('click', () => {
-      carousel.scrollBy({ left: -320, behavior: 'smooth' });
+      carousel.scrollBy({ left: -320, behavior: 'smooth' }); // desplaza horizontalmente 320px a la izquierda
     });
 
+    // Botón para mover el carrusel hacia la derecha
     nextBtn.addEventListener('click', () => {
-      carousel.scrollBy({ left: 320, behavior: 'smooth' });
+      carousel.scrollBy({ left: 320, behavior: 'smooth' }); // desplaza horizontalmente 320px a la derecha
     });
   }
 });
