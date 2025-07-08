@@ -70,4 +70,13 @@ output_path = "especies_peligro.json"
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(especies_filtradas, f, ensure_ascii=False, indent=2)
 
+# 💾 También guardarlo como archivo JS
+js_output = "especies_en_peligro.js"
+js_variable_name = "especiesEnPeligro"
+
+with open(js_output, "w", encoding="utf-8") as f:
+    f.write(f"const {js_variable_name} = ")
+    json.dump(especies_filtradas, f, ensure_ascii=False, indent=2)
+    f.write(";")
+
 print(f"✅ Archivo generado: {output_path} con {len(especies_filtradas)} especies en riesgo.")
