@@ -22,7 +22,7 @@ jobs:
         run: pip install requests
 
       - name: Ejecutar script Python
-        run: python generar_eventos.py
+        run: python eventos_naturales.py
 
       - name: Subir cambios si los hay
         run: |
