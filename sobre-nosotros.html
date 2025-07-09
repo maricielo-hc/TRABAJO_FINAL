@@ -22,15 +22,15 @@
           <li><a href="index.html">Inicio</a></li>
           <li><a href="estadisticas.html">Estadísticas</a></li>
           <li><a href="mapa.html">Mapa</a></li>
+          <li><a href="noticias.html">Noticias</a></li>
           <li><a href="organizaciones.html">Organizaciones</a></li>
-          <li><a href="articulos.html">Artículos</a></li>
           <li><a href="sobre-nosotros.html" class="active">Sobre Nosotros</a></li>
         </ul>
       </nav>
     </div>
   </header>
 
-  <section class="about-section container">
+  <section class="about-section ">
     <div class="about-content">
       <h1>Sobre <span>GeoVida</span></h1>
 
@@ -54,17 +54,17 @@
             <div class="team-member">
               <img src="imagenes/equipo1.jpg" alt="Miembro 1">
               <h3>Nombre 1</h3>
-              <p>Colaborador</p>
+              <p>Rol/Función</p>
             </div>
             <div class="team-member">
               <img src="imagenes/equipo2.jpg" alt="Miembro 2">
-              <h3>Dhalia</h3>
-              <p>Colaborador</p>
+              <h3>Nombre 2</h3>
+              <p>Rol/Función</p>
             </div>
             <div class="team-member">
               <img src="imagenes/equipo3.jpg" alt="Miembro 3">
               <h3>Nombre 3</h3>
-              <p>Colaborador</p>
+              <p>Rol/Función</p>
             </div>
           </div>
         </div>
@@ -73,11 +73,8 @@
       <div class="about-contact">
         <div class="contact-info">
           <h2>Contáctanos</h2>
-          <p>Gmail: geovida@gmail.com</p>
-          <p>Teléfono: 999 555 444</p>
-
-          
-        </div>
+          <p>📧 Gmail: geovida@gmail.com</p>
+          <p>📞 Teléfono: 999 555 444</p>
 
         <form action="https://formspree.io/f/xanjgnlp" method="POST" class="contact-form">
           <input type="text" name="nombre" placeholder="Tu nombre" required>
@@ -109,6 +106,31 @@
   <a href="https://instagram.com/geovida" class="social-btn instagram" target="_blank" title="Instagram">
     <img src="imagenes/instagram.png" alt="Instagram">
   </a>
-</div>
+
+  <script src="especies.js"></script>
+
+  <script>
+  const form = document.querySelector(".contact-form");
+
+  form.addEventListener("submit", async function (e) {
+    e.preventDefault();
+    const data = new FormData(form);
+
+    const response = await fetch(form.action, {
+      method: "POST",
+      body: data,
+      headers: {
+        Accept: "application/json",
+      },
+    });
+
+    if (response.ok) {
+      form.innerHTML = "<p style='color: white; font-size: 1.2rem;'>Gracias por tu mensaje. Te responderemos pronto 😊</p>";
+    } else {
+      form.innerHTML = "<p style='color: red;'>Ocurrió un error. Por favor intenta de nuevo.</p>";
+    }
+  });
+</script>
+
 </body>
 </html>
