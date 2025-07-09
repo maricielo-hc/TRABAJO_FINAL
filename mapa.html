@@ -261,13 +261,28 @@
       ) return;
 
       if (evento.tipo === "Incendio") {
+        const fechaCompleta = new Date(`${evento.fecha}T${evento.hora}`);
+        
+        const fechaTexto = fechaCompleta.toLocaleDateString('es-PE', {
+          weekday: 'long',
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric'
+        });
+
+        const horaTexto = fechaCompleta.toLocaleTimeString('es-PE', {
+          hour: '2-digit',
+          minute: '2-digit' 
+        });
+
         const popup = `
-          <strong>🔥 Incendio forestal</strong><br>
-          Fecha: ${evento.fecha} ${evento.hora}<br>
-          Intensidad: ${evento.intensidad}
+          <strong>🔥 Incendio forestal</strong><br> 
+          Fecha: ${fechaTexto}<br>
+          Hora: ${horaTexto}
         `;
         L.marker([evento.lat, evento.lon], { icon: iconoIncendio }).bindPopup(popup).addTo(capaIncendios);
       }
+
 
       if (evento.tipo === "Sismo") {
         const popup = `
