@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mapa de Especies | GeoVida</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" />
+</head>
+<body>
+
+  <header class="header">
+    <div class="menu container">
+      <a href="index.html" class="logo">GeoVida</a>
+      <input type="checkbox" id="menu" />
+      <label for="menu">
+        <img src="imagenes/menu.png" class="menu-icono" alt="menu" />
+      </label>
+      <nav class="navbar">
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="estadisticas.html">Estadísticas</a></li>
+          <li><a href="mapa.html" class="active">Mapa</a></li>
+          <li><a href="organizaciones.html">Organizaciones</a></li>
+          <li><a href="articulos.html">Artículos</a></li>
+          <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="mapa-container container">
+    <h1 class="mapa-title">Mapa Interactivo de Especies</h1>
+    <p class="mapa-subtitle">Visualiza la distribución de especies en peligro en Perú</p>
+    
+    <div class="mapa-content">
+      <div class="mapa-selector">
+        <select id="selector">
+          <option value="">-- Selecciona una especie --</option>
+        </select>
+      </div>
+      
+      <div class="mapa-grid">
+        <!-- Columna del mapa -->
+        <div class="mapa-col">
+          <div id="map"></div>
+          
+          <!-- Panel de eventos (flotante sobre el mapa) -->
+          <div id="panel-eventos">
+            <h4>Eventos climáticos</h4>
+            <button id="btn-incendios">🔥 Incendios</button>
+            <button id="btn-sismos">🌋 Sismos</button>
+          </div>
+        </div>
+        
+        <!-- Columna de descripción -->
+        <div class="descripcion-col">
+          <div id="descripcion">
+            <div class="descripcion-placeholder">
+              <img src="imagenes/mapa-guia.png" alt="Guía del mapa">
+              <h3>Selecciona una especie</h3>
+              <p>Elige una especie del selector para ver su distribución geográfica y detalles de conservación.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Librerías -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+  <script src="js/especies_nom_coord.js"></script>
+  <script src="js/especies_peligro.js"></script>
+  <script src="js/eventos_naturales.js"></script>
+
+  <script>
+    const bounds = L.latLngBounds([[-19, -82], [0, -68]]);
+    const map = L.map('map', {
+      center: [-9.2, -75],
+      zoom: 6,
+      minZoom: 5,
+      maxZoom: 10,
+      maxBounds: bounds,
+      maxBoundsViscosity: 1.0
+    });
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    let capas = [];
+
+    function limpiarCapas() {
+      capas.forEach(capa => map.removeLayer(capa));
+      capas = [];
+    }
+
+    function mostrarEspecieDensidad(nombreComun) {
+      limpiarCapas();
+
+      const especie = especiesNomCoord.find(e => e.nombre_comun === nombreComun);
+      if (!especie || !especie.coordenadas.length) {
+        document.getElementById("descripcion").innerHTML = `
+          <table style="margin: 20px auto; border-collapse: collapse; border: 1px solid #ccc;">
+            <tr style="background-color: #f9f9f9;">
+              <td style="padding: 10px; border: 1px solid #ccc;">
+                <strong>No se encontraron registros recientes para esta especie en Perú.</strong><br>
+                Esto puede indicar que está en situación crítica o que su monitoreo ha sido limitado.
+              </td>
+            </tr>
+          </table>
+        `;
+        return;
+      }
+
+      const puntos = especie.coordenadas.map(coord => [coord.lat, coord.lon]);
+
+      const heat = L.heatLayer(puntos, {
+        radius: 20,
+        blur: 15,
+        maxZoom: 10,
+        gradient: { 0.4: 'blue', 0.65: 'lime', 1: 'red' }
+      }).addTo(map);
+
+      capas.push(heat);
+      map.setView(puntos[0], 7);
+
+      cargarDescripcion(especie.nombre_cientifico, especie.nombre_comun);
+    }
+
+    function obtenerEstadoDesdeLocal(nombreCientifico) {
+      const especie = especiesEnPeligro.find(e => e.nombre_cientifico === nombreCientifico);
+      return especie?.estado || "";
+    }
+
+    function construirBarraEstadoDesdeTexto(estadoTexto) {
+      const colores = {
+        "En peligro crítico": "#d9534f",
+        "En peligro": "#f0ad4e",
+        "Vulnerable": "#f7e04c",
+        "Casi amenazado": "#5bc0de"
+      };
+      const codigos = {
+        "En peligro crítico": "CR",
+        "En peligro": "EN",
+        "Vulnerable": "VU",
+        "Casi amenazado": "NT"
+      };
+
+      const estadoActual = codigos[estadoTexto];
+
+      let html = '<div id="barra-conservacion">';
+      Object.entries(colores).forEach(([nombre, color]) => {
+        const codigo = codigos[nombre];
+        const activo = (codigo === estadoActual) ? "estado-activo" : "";
+        html += `
+          <div class="estado-item ${activo}" style="background-color:${color};">
+            <strong>${codigo}</strong><br>${nombre}
+          </div>
+        `;
+      });
+      html += '</div>';
+      return html;
+    }
+
+    async function cargarDescripcion(nombreCientifico, nombreComun) {
+      const descDiv = document.getElementById("descripcion");
+      const wikiURL = `https://es.wikipedia.org/api/rest_v1/page/summary/${nombreCientifico.replace(/ /g, "_")}`;
+
+      const estadoTexto = obtenerEstadoDesdeLocal(nombreCientifico);
+      const estadoHTML = construirBarraEstadoDesdeTexto(estadoTexto);
+
+      try {
+        const res = await fetch(wikiURL);
+        const data = await res.json();
+        const descripcion = data.extract;
+        const imagen = data.thumbnail ? data.thumbnail.source : null;
+
+        descDiv.innerHTML = `
+          <h3>${nombreComun}</h3>
+          <p><i>${nombreCientifico}</i></p>
+          ${estadoHTML}
+          ${imagen ? `<img src="${imagen}" alt="${nombreComun}">` : ""}
+          <p>${descripcion}</p>
+        `;
+      } catch (e) {
+        descDiv.innerHTML = `
+          <h3>${nombreComun}</h3>
+          <p><i>${nombreCientifico}</i></p>
+          ${estadoHTML}
+          <p style="color:#777;">No se encontró una descripción en Wikipedia.</p>
+        `;
+      }
+    }
+
+    const selector = document.getElementById('selector');
+    especiesEnPeligro.forEach(e => {
+      const especie = especiesNomCoord.find(x => x.nombre_cientifico === e.nombre_cientifico);
+      if (especie && especie.nombre_comun && especie.nombre_comun.trim() !== "") {
+        const option = document.createElement('option');
+        option.value = especie.nombre_comun;
+        option.textContent = especie.nombre_comun;
+        selector.appendChild(option);
+      }
+    });
+
+    $(document).ready(() => {
+      $('#selector').select2({
+        placeholder: "-- Selecciona una especie --",
+        width: '80%'
+      });
+
+      $('#selector').on('change', e => {
+        const seleccionada = e.target.value;
+        if (seleccionada) {
+          mostrarEspecieDensidad(seleccionada);
+        } else {
+          limpiarCapas();
+          map.setView([-9.2, -75], 6);
+          document.getElementById("descripcion").innerHTML = "";
+        }
+      });
+    });
+
+    const capaIncendios = L.layerGroup();
+    const capaSismos = L.layerGroup();
+
+    const iconoIncendio = L.icon({
+      iconUrl: 'imagenes/img_incendio.png',
+      iconSize: [24, 24],         // puedes ajustar esto
+      iconAnchor: [12, 12],       // centro del ícono
+      popupAnchor: [0, -10]       // ubicación del popup
+    });
+
+    const iconoSismo = L.icon({
+      iconUrl: 'imagenes/img_sismo.png',
+      iconSize: [24, 24],
+      iconAnchor: [12, 12],
+      popupAnchor: [0, -10]
+    });
+
+
+    eventosNaturales.forEach(evento => {
+      if (
+        typeof evento.lat !== "number" ||
+        typeof evento.lon !== "number" ||
+        isNaN(evento.lat) ||
+        isNaN(evento.lon)
+      ) return;
+
+      if (evento.tipo === "Incendio") {
+        const popup = `
+          <strong>🔥 Incendio forestal</strong><br>
+          Fecha: ${evento.fecha} ${evento.hora}<br>
+          Intensidad: ${evento.intensidad}
+        `;
+        L.marker([evento.lat, evento.lon], { icon: iconoIncendio }).bindPopup(popup).addTo(capaIncendios);
+      }
+
+      if (evento.tipo === "Sismo") {
+        const popup = `
+          <strong>🌋 Sismo</strong><br>
+          Lugar: ${evento.lugar}<br>
+          Fecha: ${new Date(evento.fecha).toLocaleString()}<br>
+          Magnitud: ${evento.magnitud}
+        `;
+        L.marker([evento.lat, evento.lon], { icon: iconoSismo }).bindPopup(popup).addTo(capaSismos);
+      }
+    });
+
+    document.getElementById("btn-incendios").addEventListener("click", function () {
+      if (map.hasLayer(capaIncendios)) {
+        map.removeLayer(capaIncendios);
+        this.classList.remove("active");
+      } else {
+        map.addLayer(capaIncendios);
+        this.classList.add("active");
+      }
+    });
+
+    document.getElementById("btn-sismos").addEventListener("click", function () {
+      if (map.hasLayer(capaSismos)) {
+        map.removeLayer(capaSismos);
+        this.classList.remove("active");
+      } else {
+        map.addLayer(capaSismos);
+        this.classList.add("active");
+      }
+    });
+  </script>
+</body>
+</html>
