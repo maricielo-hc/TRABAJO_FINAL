@@ -1738,7 +1738,7 @@ body {
 
 /* ======= PORTADA DEL MAPA CON IMAGEN ======= */
 .mapa-hero {
-  background: url('imagenes/portada_mapa.png') no-repeat center center/cover;
+  background: url('imagenes/portada_mapa.jpg') no-repeat center center/cover;
   height: 65vh;
   position: relative;
   display: flex;
@@ -1779,7 +1779,7 @@ body {
   color: #f3f3f3;
 }
 
-/* ======= HEADER DEL MAPA (opcional) ======= */
+/* ======= HEADER DEL MAPA  ======= */
 .mapa-header {
   background-color: #ffffff;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
