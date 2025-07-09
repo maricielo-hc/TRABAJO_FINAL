@@ -11,6 +11,12 @@ body {
   padding-top: 80px; /* Para compensar el header fixed */
 }
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 /* ======= HEADER & MENÚ ======= */
 .header {
   background: linear-gradient(135deg, #6e48aa 0%, #9d50bb 100%);
@@ -159,11 +165,11 @@ body {
 /* ======= PORTADA ======= */
 .header-content {
   background: url('imagenes/portada.png') no-repeat center center/cover;
-  height: 100vh;
+  height: 65vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 40px 20px;
+  padding: 5px 5px;
   color: #fff;
   text-align: center;
   position: relative;
@@ -184,7 +190,7 @@ body {
   border-radius: 20px;
   backdrop-filter: blur(3px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-  max-width: 800px;
+  max-width: 900px;
 }
 
 /* Título y su parte destacada */
@@ -193,47 +199,23 @@ body {
   font-family: 'Playfair Display', serif;
   font-size: 3.2rem;
   color: #fff;
-  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
   margin-bottom: 1rem;
 }
 
 .header-txt h1 span {
   color: #ffcc00;
-  text-shadow: 0 0 8px rgba(255, 204, 0, 0.7);
+  text-shadow: 0 0 4px rgba(255, 204, 0, 0.7);
 }
 
 /* Texto debajo del título */
 .header-txt p {
   font-family: 'Poppins', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   color: #f3f3f3;
-  line-height: 1.6;
+  line-height: 1.3;
   text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.4);
-  margin-bottom: 2rem;
-}
-
-/* Botones */
-.butons {
-  display: flex;
-  gap: 20px;
-  justify-content: center;
-}
-
-.btn-1 {
-  background-color: #ffcc00;
-  color: #2c3e50;
-  text-decoration: none;
-  padding: 12px 24px;
-  font-weight: 600;
-  border-radius: 30px;
-  transition: all 0.3s ease;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-}
-
-.btn-1:hover {
-  background-color: #ffe066;
-  transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  margin-bottom: 1rem;
 }
 
 /* ESTILOS DEL CARRUSEL */
@@ -343,6 +325,14 @@ body {
 /* ====================
    ESTILOS DEL CARRUSEL 
    ==================== */
+.species-title {
+    text-align: center;
+    color: #080808;
+    font-size: 3.1rem;
+    margin-bottom: 10px;
+    font-family: 'Playfair Display', serif;
+}
+
 .species-section {
     padding: 60px 0;
     background: #f8f9fa;
@@ -582,14 +572,15 @@ body {
 .extinct-title {
     text-align: center;
     color: #333;
-    font-size: 3.2rem;
+    font-size: 4rem;
     margin-bottom: 10px;
     font-family: 'Playfair Display', serif;
 }
 
 .extinct-title span {
-    color: #e74c3c;
+    color: #424242;
     font-weight: 700;
+    font-family: 'Playfair Display', serif;
 }
 
 .section-subtitle {
@@ -712,7 +703,7 @@ body {
 }
 
 /* Indicador discreto de especie extinta */
-.extinto-label {
+.extinct-label {
   position: absolute;
   bottom: 20px;
   left: 50%;
@@ -1235,21 +1226,6 @@ body {
   font-weight: bold;
 }
 
-  display: flex;
-  flex-wrap: wrap;
-  gap: 40px;
-  justify-content: center;
-  align-items: flex-start;
-  padding: 50px;
-  background: linear-gradient(135deg, var(--primary-color, #2e7d32), #1b5e20);
-  border-radius: 20px;
-  color: var(--white, #ffffff);
-  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
-  margin-top: 70px;
-  position: relative;
-}
-
-
 .about-contact::before {
     content: '';
     position: absolute;
@@ -1295,19 +1271,20 @@ body {
 }
 
 .portada-content {
-  background-color: rgba(0, 0, 0, 0.4); /* Oscurece un poco para que el texto resalte */
+  background-color: rgba(5, 5, 5, 0.26); /* Oscurece un poco para que el texto resalte */
   padding: 2rem;
-  border-radius: 10px;
+  border-radius: 45px;
 }
 
 .portada-content h2 {
-  font-size: 2rem;
-  margin: 0;
+  font-size: 4rem;
+  margin-bottom: 20px;
+  font-family: 'Playfair Display', serif;
 }
 
 .portada-content p {
   margin-top: 0.5rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 /* Animaciones */
@@ -1548,13 +1525,14 @@ body {
 
 /*CSS DE ESTADISTICA /*
 /* CSS MEJORADO PARA ESTADISTICAS */
+
+/* PORTADA / ENCABEZADO ESTADÍSTICAS */
 .estadisticas-hero {
   background: url('imagenes/portadaest.png') no-repeat center center/cover;
-  padding: 120px 20px;
   text-align: center;
   position: relative;
   color: white;
-  min-height: 60vh;
+  min-height: 60vh; /* antes era 40vh */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1577,9 +1555,8 @@ body {
 }
 
 .estadisticas-hero h1 {
-  font-size: 4rem;
+  font-size: 5rem;
   font-family: 'Quicksand', sans-serif;
-  font-size: 5rem; /* ajusta tamaño si quieres más grande o más pequeño */
   margin-bottom: 20px;
 }
 
@@ -1589,29 +1566,42 @@ body {
   max-width: 800px;
 }
 
+/* Subrayado animado en el span */
+.estadisticas-hero h1 span {
+  color: var(--secondary-color, #ff9800);
+  position: relative;
+  display: inline-block;
+}
+
+.estadisticas-hero h1 span::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 100%;
+  height: 8px;
+  background: linear-gradient(90deg, var(--secondary-color, #ff9800), rgba(255, 152, 0, 0.3));
+  z-index: -1;
+  border-radius: 4px;
+  transform: rotate(-1deg);
+  transition: transform 0.3s ease;
+}
 
 .estadisticas-hero h1 span:hover::after {
   transform: scaleX(1.1);
 }
 
-.estadisticas-hero h1 span {
-    color: var(--secondary-color, #ff9800);
-    position: relative;
-    display: inline-block;
+/* Responsive para pantallas pequeñas */
+@media (max-width: 768px) {
+  .estadisticas-hero h1 {
+    font-size: 3rem;
+  }
+
+  .estadisticas-hero p {
+    font-size: 1.2rem;
+  }
 }
 
-.estadisticas-hero h1 span::after {
-    content: '';
-    position: absolute;
-    bottom: -10px;
-    left: 0;
-    width: 100%;
-    height: 8px;
-    background: linear-gradient(90deg, var(--secondary-color, #ff9800), rgba(255, 152, 0, 0.3));
-    z-index: -1;
-    border-radius: 4px;
-    transform: rotate(-1deg);
-}
 
 
 /* --- SECCIONES DE GRÁFICO --- */
@@ -1743,3 +1733,209 @@ body {
     transform: translateY(0);
   }
 }
+
+/* ================ ESTILOS PARA PÁGINA DE MAPA ================ */
+.mapa-container {
+  padding: 40px 20px;
+}
+
+.mapa-title {
+  font-family: 'Playfair Display', serif;
+  color: #2c3e50;
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.mapa-subtitle {
+  color: #6e48aa;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+}
+
+.mapa-content {
+  background: white;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.mapa-selector {
+  margin-bottom: 25px;
+}
+
+.mapa-grid {
+  display: grid;
+  grid-template-columns: 60% 40%;
+  gap: 30px;
+}
+
+.mapa-col {
+  position: relative;
+}
+
+#map {
+  height: 600px;
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  border: 2px solid #6e48aa;
+}
+
+.descripcion-col {
+  background: #f9f9f9;
+  border-radius: 15px;
+  padding: 20px;
+  height: 600px;
+  overflow-y: auto;
+}
+
+.descripcion-placeholder {
+  text-align: center;
+  padding: 40px 20px;
+  color: #555;
+}
+
+.descripcion-placeholder img {
+  max-width: 200px;
+  margin-bottom: 20px;
+  opacity: 0.8;
+}
+
+.descripcion-placeholder h3 {
+  color: #6e48aa;
+  margin-bottom: 15px;
+}
+
+/* Panel de eventos */
+#panel-eventos {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  width: 180px;
+}
+
+#panel-eventos h4 {
+  color: #6e48aa;
+  margin-bottom: 12px;
+  font-size: 1rem;
+  text-align: center;
+}
+
+#panel-eventos button {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 6px 0;
+  border: none;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #6e48aa, #9d50bb);
+  color: white;
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+  transition: all 0.3s;
+}
+
+#panel-eventos button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+
+#panel-eventos button.active {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+}
+
+.species-img,
+.extinct-img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain; /* Cambiado de 'cover' a 'contain' para PNG con transparencia */
+  background-color: #f2f2f2; /* Fondo claro para que se vea bien el PNG transparente */
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+#barra-conservacion {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.estado-item {
+  color: white;
+  padding: 12px;
+  border-radius: 12px;
+  width: 160px;
+  text-align: center;
+  font-size: 1rem;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  filter: grayscale(100%) brightness(0.7);
+  opacity: 0.5;
+  transition: all 0.3s ease;
+}
+
+/* Cuadro resaltado para el estado activo */
+.estado-activo {
+  opacity: 1;
+  filter: none;
+  transform: scale(1.08);
+  font-weight: bold;
+  border: 3px solid #000; /* marco oscuro para contraste */
+  background-blend-mode: multiply;
+  color: #000000; /* texto negro fuerte */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.species-img,
+.extinct-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  background-color: #f3f3f3;
+  border: 2px solid #e0e0e0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .mapa-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  #map, .descripcion-col {
+    height: 450px;
+  }
+  
+  .descripcion-col {
+    order: -1;
+  }
+}
+
+@media (max-width: 768px) {
+  .mapa-title {
+    font-size: 2rem;
+  }
+  
+  #panel-eventos {
+    position: relative;
+    top: auto;
+    right: auto;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
