@@ -3,12 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>GeoVida - Organizaciones</title>
+  <title>GeoVida - Estadísticas</title>
   <link rel="stylesheet" href="style.css" />
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Seymour+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=swap" rel="stylesheet">
 </head>
-<body>
 
+<body>
   <header class="header">
     <div class="menu container">
       <a href="index.html" class="logo">GeoVida</a>
@@ -19,10 +21,10 @@
       <nav class="navbar">
         <ul>
           <li><a href="index.html">Inicio</a></li>
-          <li><a href="estadisticas.html" class="active" >Estadísticas  </a></li>
+          <li><a href="estadisticas.html" class="active">Estadísticas</a></li>
           <li><a href="mapa.html">Mapa</a></li>
           <li><a href="organizaciones.html">Organizaciones</a></li>
-          <li><a href="articulos.html">Artículos</a></li>
+          <li><a href="articulos.html">Noticias</a></li>
           <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
         </ul>
       </nav>
@@ -30,19 +32,167 @@
   </header>
 
   <section class="estadisticas-hero">
-    <h1>Estadísticas</h1>
+    <h1><span>Estadísticas</span></h1>
     <p>Explora datos sobre especies en peligro, regiones más afectadas y más.</p>
   </section>
 
+  <section class="titulo-bloque">
+    <h2 class="section-title">
+      <img src="imagenes/peru.png" alt="Icono Perú" style="height: 70px; vertical-align: middle; margin-right: 8px;">
+      Estadísticas en Perú</h2>
+  </section>
 
-
+  <!-- Gráfico 1 -->
   <section class="grafico">
-  <h2 style="text-align:center;">Especies en Peligro por Región</h2>
-  <div style="display: flex; justify-content: center;">
-    <iframe src="grafico_especies_por_region.html"
+    <div style="display: flex; justify-content: center;">
+      <iframe src="graficos/grafico_especies_por_region.html"
+              width="1000"
+              height="600"
+              style="border: none; max-width: 100%;"></iframe>
+    </div>
+  </section>
+
+  <!-- Gráfico 2 -->
+  <section class="grafico">
+    <div style="display: flex; justify-content: center;">
+      <iframe src="graficos/grafico_top_especies.html"
+              width="1000"
+              height="600"
+              style="border: none; max-width: 100%;"></iframe>
+    </div>
+  </section>
+
+  <section class="grafico-horizontal">
+    
+    <p style="text-align: center; max-width: 700px; margin: auto; font-size: 1rem;">
+      Más del <strong>98%</strong> de las observaciones registradas en Perú corresponden al grupo de <strong>aves</strong>, 
+      resaltando su alta diversidad y monitoreo. Otros grupos están presentes en menor proporción.
+    </p>
+    
+    <div style="display: flex; justify-content: center; margin-top: 1rem;">
+      <iframe src="graficos/grafico_grupo_horizontal.html"
             width="1000"
             height="600"
             style="border: none; max-width: 100%;">
-    </iframe>
-  </div>
-</section>
+      </iframe>
+    </div>
+  </section>
+
+
+  <section class="titulo-bloque">
+    <h2 class="section-title">
+      <img src="imagenes/south-america.png" alt="Icono Sudamérica" style="height: 70px; vertical-align: middle; margin-right: 8px;">
+       Estadísticas en Sudamérica</h2>
+  </section>
+
+  <!-- Gráfico interactivo -->
+  <section class="grafico">
+    <div class="intro">🗺️ Busca una especie para ver sus observaciones en Sudamérica.</div>
+    <div style="text-align:center; margin-bottom: 1rem;">
+      <input type="text" id="buscador" placeholder=" 🔍 Escribe el nombre de una especie..."
+             style="padding: 0.5rem; width: 300px; border-radius: 5px; border: 1px solid #ccc;" />
+      <ul id="sugerencias" style="list-style: none; padding: 0; margin-top: 0.5rem;"></ul>
+    </div>
+    <div id="grafico-pie" style="display: flex; justify-content: center; margin-top: 2rem;"></div>
+  </section>
+
+  <section class="tabla-estadisticas">
+    <h2 style="text-align:center;">Tabla de Estadísticas por País</h2>
+    <div style="display: flex; justify-content: center;">
+      <iframe src="graficos/tabla_estadisticas_paises.html"
+            width="1000"
+            height="600"
+            style="border: none; max-width: 100%;">
+      </iframe>
+    </div>
+  </section>
+
+  <section class="grafico">
+    <div style="display: flex; justify-content: center;">
+      <iframe src="graficos/mapa_calor_sudamerica.html"
+            width="1000"
+            height="600"
+            style="border: none; max-width: 100%;">
+      </iframe>
+    </div>
+  </section>
+
+  
+  <!-- Scripts -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="graficos/estadisticas_sudamerica.js"></script>
+  <script>
+    const input = document.getElementById("buscador");
+    const sugerencias = document.getElementById("sugerencias");
+    const contenedor = document.getElementById("grafico-pie");
+    const especies = estadisticasSudamerica;
+
+    input.addEventListener("input", () => {
+      const texto = input.value.toLowerCase();
+      sugerencias.innerHTML = "";
+
+      if (texto.length < 2) return;
+
+      const resultados = especies.filter(e =>
+        e.nombre_comun.toLowerCase().includes(texto)
+      );
+
+      resultados.slice(0, 8).forEach(e => {
+        const li = document.createElement("li");
+        li.textContent = `${e.nombre_comun} (${e.nombre_cientifico})`;
+        li.style.cursor = "pointer";
+        li.style.padding = "0.3rem";
+        li.addEventListener("click", () => {
+          input.value = e.nombre_comun;
+          sugerencias.innerHTML = "";
+          mostrarGrafico(e);
+        });
+        sugerencias.appendChild(li);
+      });
+    });
+
+    function mostrarGrafico(especie) {
+      const total = especie.paises.reduce((sum, p) => sum + p.cantidad, 0);
+      const umbral = total * 0.05;
+      const datos = [];
+      let otros = 0;
+
+      especie.paises.forEach(p => {
+        if (p.cantidad >= umbral) {
+          datos.push({ label: p.pais, value: p.cantidad });
+        } else {
+          otros += p.cantidad;
+        }
+      });
+
+      if (otros > 0) datos.push({ label: "Otros", value: otros });
+
+      const data = [{
+        values: datos.map(d => d.value),
+        labels: datos.map(d => d.label),
+        type: 'pie',
+        textinfo: 'label+percent',
+        insidetextorientation: 'radial',
+        marker: {
+          colors: ['#3498db', '#2ecc71', '#e67e22', '#9b59b6', '#e74c3c', '#95a5a6']
+        }
+      }];
+
+      const layout = {
+        title: `🌍 Distribución por país: ${especie.nombre_comun}`,
+        paper_bgcolor: "white",
+        height: 500
+      };
+
+      Plotly.newPlot("grafico-pie", data, layout);
+    }
+
+    // Mostrar botón solo cuando se hace scroll
+    const btnTop = document.getElementById("btn-top");
+    window.addEventListener("scroll", () => {
+      btnTop.style.display = window.scrollY > 300 ? "block" : "none";
+    });
+    btnTop.style.display = "none"; // Ocultar inicialmente
+  </script>
+</body>
+</html>
