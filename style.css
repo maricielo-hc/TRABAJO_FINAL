@@ -1738,7 +1738,7 @@ body {
 
 /* ======= PORTADA DEL MAPA CON IMAGEN ======= */
 .mapa-hero {
-  background: url('imagenes/69165838-4597-4a9b-8f0b-74792879c9b6.png') no-repeat center center/cover;
+  background: url('imagenes/portada_mapa.png') no-repeat center center/cover;
   height: 65vh;
   position: relative;
   display: flex;
