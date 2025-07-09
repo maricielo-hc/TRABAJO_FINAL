@@ -1528,7 +1528,7 @@ body {
 
 /* PORTADA / ENCABEZADO ESTADÍSTICAS */
 .estadisticas-hero {
-  background: url('imagenes/portadaest.png') no-repeat center center/cover;
+  background: url('imagenes/portadaest.jpg') no-repeat center center/cover;
   text-align: center;
   position: relative;
   color: white;
