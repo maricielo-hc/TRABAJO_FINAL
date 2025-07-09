@@ -18,10 +18,13 @@ def obtener_incendios_peru():
         lat = float(row['latitude'])
         lon = float(row['longitude'])
         if en_peru(lat, lon):
+            hora_raw = row["acq_time"].zfill(4)  # Asegura que tenga 4 dígitos
+            hora_formateada = f"{hora_raw[:2]}:{hora_raw[2:]}"  # e.g. '1957' → '19:57'
+
             incendios.append({
                 "tipo": "Incendio",
-                "fecha": row["acq_date"],
-                "hora": row["acq_time"],
+                "fecha": row["acq_date"],      # Ya está en formato 'YYYY-MM-DD'
+                "hora": hora_formateada,       # Ahora en formato 'HH:MM'
                 "lat": lat,
                 "lon": lon
             })
