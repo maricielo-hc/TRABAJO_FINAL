@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GeoVida - Organizaciones</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header class="header">
+    <div class="menu container">
+      <a href="index.html" class="logo">GeoVida</a>
+      <input type="checkbox" id="menu" />
+      <label for="menu">
+        <img src="imagenes/menu.png" class="menu-icono" alt="menu" />
+      </label>
+      <nav class="navbar">
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="estadisticas.html" class="active" >Estadísticas  </a></li>
+          <li><a href="mapa.html">Mapa</a></li>
+          <li><a href="organizaciones.html">Organizaciones</a></li>
+          <li><a href="articulos.html">Artículos</a></li>
+          <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="estadisticas-hero">
+    <h1>Estadísticas</h1>
+    <p>Explora datos sobre especies en peligro, regiones más afectadas y más.</p>
+  </section>
+
+
+
+  <section class="grafico">
+  <h2 style="text-align:center;">"Especies en Peligro por Región" </h2>
+  <div style="display: flex; justify-content: center;">
+    <iframe src="grafico_especies_por_region.html"
+            width="1000"
+            height="700"
+            style="border: none; max-width: 100%;">
+    </iframe>
+  </div>
+</section>

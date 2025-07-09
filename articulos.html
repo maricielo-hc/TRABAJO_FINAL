@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Artículos | GeoVida</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header class="header">
+    <div class="menu container">
+      <a href="index.html" class="logo">GeoVida</a>
+      <input type="checkbox" id="menu"/>
+      <label for="menu">
+        <img src="imagenes/menu.png" class="menu-icono" alt="menu"/>
+      </label>
+      <nav class="navbar">
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="estadisticas.html">Estadísticas</a></li>
+          <li><a href="mapa.html">Mapa</a></li>
+          <li><a href="organizaciones.html">Organizaciones</a></li>
+          <li><a href="articulos.html" class="active">Artículos</a></li>
+          <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
+          
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="portadaart">
+    <div class="portada-content">
+      <h2>Noticias sobre animales en peligro</h2>
+      <p>Infórmate y actúa: conoce las especies que más lo necesitan.</p>
+    </div>
+  </section>
+
+
+  <main class="container">
+    <section class="articles-header">
+      <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Buscar por palabra, nombre o tema...">
+        <button id="searchButton">Buscar</button>
+      </div>
+    </section>
+
+    <section id="articlesList" class="articles-list">
+      <!-- Los artículos se insertarán aquí dinámicamente -->
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2025 GeoVida - Todos los derechos reservados</p>
+    </div>
+  </footer>
+
+  <script src="articulos.js"></script>
+  <script src="script_articulo.js"></script>
+      
+</body>
+</html>
+

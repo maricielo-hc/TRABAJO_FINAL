@@ -147,8 +147,16 @@ Con el proyecto se busca un sistema funcional capaz de:
 - 💻 **Presentar la información** en una **interfaz web amigable**, enfocada en el usuario, con énfasis en la **comunicación visual**, dejando de lado tecnicismos innecesarios.
 - 🌱 **Contribuir a la concientización** y **sensibilización de la comunidad** mediante la presentación **clara, visual y accesible** de datos críticos sobre la biodiversidad global.
 
+### 💡 **Ejemplo de caso de uso**
+
+- **Especie:** *Jaguar*  
+- **Noticia detectada:** "Disminuye el hábitat del jaguar en México por incendios y agricultura"  
+- **Clima:** Temperaturas + sequías en región mencionada   
+- **Alerta:** Quedan ~14,000 ejemplares en estado salvaje
 
 <p align="center">
   <img src="imagenes/ajolote.gif" alt="ajolote" width="400"/>
 </p>
+
+---
 
