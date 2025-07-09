@@ -19,10 +19,11 @@ jobs:
           python-version: '3.10'
 
       - name: Instalar dependencias
-        run: pip install requests
+        run: |
+          pip install requests
 
-      - name: Ejecutar script Python
-        run: python eventos_naturales.py
+      - name: Ejecutar eventos_naturales.py
+        run: python scripts/eventos_naturales.py
 
       - name: Subir cambios si los hay
         run: |
