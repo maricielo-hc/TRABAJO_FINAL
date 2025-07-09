@@ -11,6 +11,12 @@ body {
   padding-top: 80px; /* Para compensar el header fixed */
 }
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 /* ======= HEADER & MENÚ ======= */
 .header {
   background: linear-gradient(135deg, #6e48aa 0%, #9d50bb 100%);
@@ -1556,5 +1562,212 @@ body {
   font-size: 1.2rem;
   font-family: 'Poppins', sans-serif;
   max-width: 800px;
+}
+
+
+
+/* ================ ESTILOS PARA PÁGINA DE MAPA ================ */
+.mapa-container {
+  padding: 40px 20px;
+}
+
+.mapa-title {
+  font-family: 'Playfair Display', serif;
+  color: #2c3e50;
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.mapa-subtitle {
+  color: #6e48aa;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+}
+
+.mapa-content {
+  background: white;
+  border-radius: 15px;
+  padding: 30px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.mapa-selector {
+  margin-bottom: 25px;
+}
+
+.mapa-grid {
+  display: grid;
+  grid-template-columns: 60% 40%;
+  gap: 30px;
+}
+
+.mapa-col {
+  position: relative;
+}
+
+#map {
+  height: 600px;
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  border: 2px solid #6e48aa;
+}
+
+.descripcion-col {
+  background: #f9f9f9;
+  border-radius: 15px;
+  padding: 20px;
+  height: 600px;
+  overflow-y: auto;
+}
+
+.descripcion-placeholder {
+  text-align: center;
+  padding: 40px 20px;
+  color: #555;
+}
+
+.descripcion-placeholder img {
+  max-width: 200px;
+  margin-bottom: 20px;
+  opacity: 0.8;
+}
+
+.descripcion-placeholder h3 {
+  color: #6e48aa;
+  margin-bottom: 15px;
+}
+
+/* Panel de eventos */
+#panel-eventos {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  width: 180px;
+}
+
+#panel-eventos h4 {
+  color: #6e48aa;
+  margin-bottom: 12px;
+  font-size: 1rem;
+  text-align: center;
+}
+
+#panel-eventos button {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 6px 0;
+  border: none;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #6e48aa, #9d50bb);
+  color: white;
+  cursor: pointer;
+  font-family: 'Poppins', sans-serif;
+  transition: all 0.3s;
+}
+
+#panel-eventos button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+
+#panel-eventos button.active {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+}
+
+.species-img,
+.extinct-img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain; /* Cambiado de 'cover' a 'contain' para PNG con transparencia */
+  background-color: #f2f2f2; /* Fondo claro para que se vea bien el PNG transparente */
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+#barra-conservacion {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px 0;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.estado-item {
+  color: white;
+  padding: 12px;
+  border-radius: 12px;
+  width: 160px;
+  text-align: center;
+  font-size: 1rem;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+  filter: grayscale(100%) brightness(0.7);
+  opacity: 0.5;
+  transition: all 0.3s ease;
+}
+
+/* Cuadro resaltado para el estado activo */
+.estado-activo {
+  opacity: 1;
+  filter: none;
+  transform: scale(1.08);
+  font-weight: bold;
+  border: 3px solid #000; /* marco oscuro para contraste */
+  background-blend-mode: multiply;
+  color: #000000; /* texto negro fuerte */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.species-img,
+.extinct-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  background-color: #f3f3f3;
+  border: 2px solid #e0e0e0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .mapa-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  #map, .descripcion-col {
+    height: 450px;
+  }
+  
+  .descripcion-col {
+    order: -1;
+  }
+}
+
+@media (max-width: 768px) {
+  .mapa-title {
+    font-size: 2rem;
+  }
+  
+  #panel-eventos {
+    position: relative;
+    top: auto;
+    right: auto;
+    width: 100%;
+    margin-bottom: 20px;
+  }
 }
 
