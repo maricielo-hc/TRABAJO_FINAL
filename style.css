@@ -1567,6 +1567,62 @@ body {
 
 
 /* ================ ESTILOS PARA PÁGINA DE MAPA ================ */
+
+
+/* ======= HEADER DEL MAPA ======= */
+.mapa-header {
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  padding: 10px 0;
+}
+
+/* Contenedor del menú en el mapa (logo + navbar) */
+.mapa-menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Logo exclusivo para la sección del mapa */
+.mapa-logo {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  font-weight: bold;
+  color: #6e48aa;
+  text-decoration: none;
+}
+
+/* Estilo del navbar para el mapa */
+.mapa-navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.mapa-navbar ul li a {
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  color: #444;
+  padding: 8px 14px;
+  border-radius: 6px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.mapa-navbar ul li a:hover,
+.mapa-navbar ul li a.active {
+  background-color: #6e48aa;
+  color: white;
+}
+
 .mapa-container {
   padding: 40px 20px;
 }
