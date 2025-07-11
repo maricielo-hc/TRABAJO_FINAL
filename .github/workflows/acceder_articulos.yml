@@ -33,7 +33,7 @@ jobs:
           echo "Contenido de scripts/:"
           ls -lh scripts/
           echo "Vista previa de articulos.js:"
-          head -n 20 scripts/articulos.js || echo "❌ No se encontró articulos.js"
+          head -n 20 js/articulos.js || echo "❌ No se encontró articulos.js"
 
       - name: Subir cambios al repositorio si los hay
         env:
