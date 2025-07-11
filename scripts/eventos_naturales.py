@@ -58,13 +58,12 @@ sismos = obtener_sismos_peru()
 eventos = incendios + sismos
 
 # 💾 Guardar JSON
-with open("eventos_naturales.json", "w", encoding="utf-8") as f:
+with open("data/eventos_naturales.json", "w", encoding="utf-8") as f:
     json.dump(eventos, f, ensure_ascii=False, indent=2)
 
 # 💾 Guardar como JS
-with open("eventos_naturales.js", "w", encoding="utf-8") as f:
+with open("js/eventos_naturales.js", "w", encoding="utf-8") as f:
     f.write("const eventosNaturales = ")
     json.dump(eventos, f, ensure_ascii=False, indent=2)
     f.write(";")
 
-print(f"✅ Se guardaron {len(incendios)} incendios y {len(sismos)} sismos en eventos_naturales.js")
