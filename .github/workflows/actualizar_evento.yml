@@ -27,6 +27,12 @@ jobs:
           python scripts/eventos_naturales.py
           echo "Script ejecutado"
 
+      - name: Ejecutar script acceder_articulos.py
+        run: |
+          echo "Ejecutando script..."
+          python scripts/acceder_articulos.py 
+          echo "Script ejecutado"
+
       - name: Mostrar contenido de scripts/ (verificación)
         run: |
           echo "Contenido de scripts/:"
