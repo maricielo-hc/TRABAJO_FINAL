@@ -1,48 +1,53 @@
-name: Actualizar artículos de noticias
+name: Actualizar Articulos
 
 on:
   schedule:
     - cron: '0 */12 * * *'  # Cada 12 horas
-  workflow_dispatch:         # También permite ejecución manual
+  workflow_dispatch:
 
 jobs:
-  actualizar_articulos:
+  actualizar:
     runs-on: ubuntu-latest
 
     steps:
       - name: Clonar el repositorio
         uses: actions/checkout@v3
 
+      - name: Instalar dependencias del sistema (Chrome y ChromeDriver)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip xvfb
+          
+          # Instalar Google Chrome
+          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt install -y ./google-chrome-stable_current_amd64.deb
+          
+          # Descargar ChromeDriver compatible
+          CHROME_VERSION=$(google-chrome --version | cut -d ' ' -f 3 | cut -d '.' -f 1)
+          DRIVER_VERSION=$(wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
+          wget "https://chromedriver.storage.googleapis.com/${DRIVER_VERSION}/chromedriver_linux64.zip"
+          unzip chromedriver_linux64.zip
+          sudo mv chromedriver /usr/local/bin/
+          sudo chmod +x /usr/local/bin/chromedriver
+
       - name: Configurar Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Instalar dependencias
+      - name: Instalar librerías necesarias sin requirements.txt
         run: |
-          pip install selenium beautifulsoup4 lxml chromedriver-autoinstaller
+          pip install --upgrade pip
+          pip install selenium beautifulsoup4
 
-      - name: Ejecutar acceder_articulos.py
+      - name: Ejecutar el script para actualizar noticias
         run: |
-          echo "📰 Ejecutando script de noticias..."
-          python ../scripts/acceder_articulos.py
-          echo "✅ Script ejecutado correctamente"
-
-      - name: Verificar contenido generado
-        run: |
-          echo "Contenido de js/:"
-          ls -lh js/
-          echo "Vista previa de articulos.js:"
-          head -n 10 ../js/articulos.js || echo "❌ No se encontró articulos.js"
+          xvfb-run python scripts/acceder_articulos.py
 
       - name: Subir cambios si los hay
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKN_TRABAJO_FINAL }}
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
-
-          git add js/articulos.js || echo "❌ Nada que agregar"
-          git commit -m "📰 Actualización automática de artículos" || echo "❌ No hay cambios"
-          git push || echo "❌ No se pudo hacer push"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add js/articulos.js
+          git commit -m "🔄 Actualización automática de noticias cada 12h" || echo "Sin cambios"
+          git push
