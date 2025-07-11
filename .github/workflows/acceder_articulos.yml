@@ -1,0 +1,48 @@
+name: Actualizar artículos de noticias automáticamente
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Cada 12 horas
+  workflow_dispatch:         # También permite ejecución manual
+
+jobs:
+  actualizar_articulos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependencias
+        run: |
+          pip install selenium beautifulsoup4 lxml chromedriver-autoinstaller
+
+      - name: Ejecutar acceder_articulos.py
+        run: |
+          echo "📰 Ejecutando script de noticias..."
+          python scripts/acceder_articulos.py
+          echo "✅ Script ejecutado correctamente"
+
+      - name: Verificar contenido generado
+        run: |
+          echo "Contenido de scripts/:"
+          ls -lh scripts/
+          echo "Vista previa de articulos.js:"
+          head -n 20 scripts/articulos.js || echo "❌ No se encontró articulos.js"
+
+      - name: Subir cambios al repositorio si los hay
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKN_TRABAJO_FINAL }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+
+          git add scripts/ || echo "❌ Nada que agregar"
+          git commit -m "📰 Actualización automática de artículos de noticias" || echo "❌ No hay cambios"
+          git push || echo "❌ No se pudo hacer push"
