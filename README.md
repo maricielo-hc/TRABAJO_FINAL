@@ -1,8 +1,8 @@
 
 # 🐾 **SISTEMA DE IDENTIFICACIÓN DE ANIMALES EN PELIGRO DE EXTINCIÓN**
 
----
-
+---  
+  
 ## 🚀 Potencial Aporte
 
 - ✅ **Identificación automatizada** de especies amenazadas a partir de datos confiables y actualizados.
