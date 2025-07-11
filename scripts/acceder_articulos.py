@@ -10,7 +10,7 @@ from selenium.common.exceptions import ElementClickInterceptedException, NoSuchE
 URL = "https://es.mongabay.com/?s=&locations=latinoamerica+amazonia&topics=animales&formats=post+custom_story+podcasts+specials+short_article"
 
 # Nombre del archivo de salida
-OUTPUT_FILE = "articulos.js"
+OUTPUT_FILE = "js/articulos.js"
 
 # Función para configurar el navegador Chrome en modo "headless" (sin interfaz gráfica)
 def configurar_driver():
