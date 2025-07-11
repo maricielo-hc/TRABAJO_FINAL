@@ -75,9 +75,9 @@
 </section>
 
   <!-- SCRIPTS -->
-  <script src="especies_traducidas.js"></script>
-  <script src="animales_extintos.js"></script>
-  <script src="script_extintos.js"></script>
+  <script src="js/especies_traducidas.js"></script>
+  <script src="js/animales_extintos.js"></script>
+  <script src="js/script_extintos.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', function () {
       const carousel = document.getElementById('speciesCarousel');
@@ -152,7 +152,7 @@
           card.innerHTML = `
             <div class="extinct-img-container">
               <img src="${imagenUrl}" alt="${especie.nombre_comun}" class="extinct-img" 
-                   onerror="this.src='imagenes/default-extinct.jpg'; this.style.objectFit='contain'; this.style.padding='20px';">
+                  <onerror="this.src='imagenes/default-extinct.jpg'; this.style.objectFit='contain'; this.style.padding='20px';">
               <div class="extinct-year-marker" style="position:absolute; top:10px; right:10px; background:#e74c3c; color:#fff; border-radius:50%; width:50px; height:50px; display:flex; align-items:center; justify-content:center; font-weight:bold;">${especie.año_extincion}</div>
             </div>
             <div class="extinct-info">
@@ -221,9 +221,9 @@
       renderExtinctCards();
     });
   </script>
-  <script src="script.js"></script>
-  <script src="articulos.js"></script>
-  <script src="script.js"></script>
+
+  <script src="js/articulos.js"></script>
+  <script src="js/script.js"></script>
 </body>
 </html>
 
