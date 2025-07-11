@@ -1,16 +1,16 @@
-# .github/workflows/actualizar_eventos.yml
-name: Actualizar eventos naturales
+name: Ejecutar eventos_naturales.py y hacer push si hay cambios
 
 on:
   schedule:
     - cron: '0 */6 * * *'  # Cada 6 horas
-  workflow_dispatch:       # También manualmente si quieres
+  workflow_dispatch:       # También puede ejecutarse manualmente
 
 jobs:
-  build:
+  actualizar_eventos:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Clonar repositorio
+      - name: Clonar el repositorio
         uses: actions/checkout@v3
 
       - name: Configurar Python
@@ -19,19 +19,29 @@ jobs:
           python-version: '3.10'
 
       - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar script eventos_naturales.py
         run: |
-          pip install requests
+          echo "Ejecutando script..."
+          python scripts/eventos_naturales.py
+          echo "Script ejecutado"
 
-      - name: Ejecutar eventos_naturales.py
-        run: python scripts/eventos_naturales.py
+      - name: Mostrar contenido de scripts/ (verificación)
+        run: |
+          echo "Contenido de scripts/:"
+          ls -lh scripts/
+          echo "Vista previa del archivo generado:"
+          head -n 20 scripts/eventos.js || echo "No se encontró eventos.js"
 
-      - name: Subir cambios si los hay
+      - name: Subir cambios al repositorio si los hay
         env:
           GH_TOKEN: ${{ secrets.GH_TOKN_TRABAJO_FINAL }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
-          git add . || echo "Nada que agregar"
-          git commit -m "Actualizar automáticamente" || echo "No hay cambios"
-          git push || echo "No se pudo hacer push"
+
+          git add scripts/ || echo "❌ Nada que agregar"
+          git commit -m "🔁 Actualización automática desde eventos_naturales.py" || echo "❌ No hay cambios"
+          git push || echo "❌ No se pudo hacer push"
