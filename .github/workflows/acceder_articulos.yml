@@ -29,6 +29,11 @@ jobs:
       - name: Ejecutar el script para actualizar noticias
         run: python ./scripts/acceder_articulos.py
 
+      - name: Actualizar HTML para forzar nuevo JS
+        run: |
+          fecha=$(date +%s)
+          sed -i "s|js/articulos.js.*|js/articulos.js?t=$fecha\"|" articulos.html
+
       - name: Subir cambios si los hay
         uses: stefanzweifel/git-auto-commit-action@v5 
         
