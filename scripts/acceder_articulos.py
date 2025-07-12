@@ -10,20 +10,31 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
 
+import subprocess
+print("=== DEPENDENCIAS INSTALADAS ===")
+subprocess.run(["pip", "list"], check=True)
+print("\n=== CHROMIUM VERSION ===")
+subprocess.run(["chromium-browser", "--version"], check=True)
+
 URL = "https://es.mongabay.com/?s=&locations=latinoamerica+amazonia&topics=animales&formats=post+custom_story+podcasts+specials+short_article"
 OUTPUT_FILE = "js/articulos.js" if os.path.exists("js") else "../js/articulos.js"
 
+# Reemplaza la configuración del driver con esta versión más robusta
 def configurar_driver():
-    """Configura el driver de Chrome para funcionar tanto localmente como en GitHub Actions"""
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
-    options.add_argument("--no-sandbox")  # Necesario para GitHub Actions
-    options.add_argument("--disable-dev-shm-usage")  # Necesario para entornos CI/CD
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
     
-    # Configuración automática del ChromeDriver
-    service = Service(ChromeDriverManager().install())
-    return webdriver.Chrome(service=service, options=options)
+    # Opción 1: Usar ChromeDriverManager
+    try:
+        from webdriver_manager.chrome import ChromeDriverManager
+        service = Service(ChromeDriverManager().install())
+        return webdriver.Chrome(service=service, options=options)
+    except:
+        # Opción 2: Fallback a chromedriver del sistema
+        return webdriver.Chrome(options=options)
 
 def cargar_todos_los_articulos(driver):
     """Carga todos los artículos haciendo clic en el botón 'Cargar más'"""
