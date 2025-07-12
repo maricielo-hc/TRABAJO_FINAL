@@ -1,9 +1,6 @@
 name: Actualizar Articulos
 
 on: [push]
-  schedule:
-    - cron: '0 */12 * * *'  # Cada 12 horas
-  workflow_dispatch:
 
 jobs:
   actualizar:
