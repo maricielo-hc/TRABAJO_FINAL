@@ -1,5 +1,0 @@
-# Requerimientos para el scraping y automatización
-
-selenium           # Usado para controlar el navegador y hacer scroll en Mongabay
-requests           # Usado para acceder a APIs (Wikipedia, GBIF, iNaturalist)
-beautifulsoup4     # Usado para extraer datos del HTML en Wikipedia y Mongabay

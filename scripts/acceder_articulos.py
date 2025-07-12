@@ -1,67 +1,83 @@
 import time
 import json
+import os
+import sys
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
+from webdriver_manager.chrome import ChromeDriverManager
 
 URL = "https://es.mongabay.com/?s=&locations=latinoamerica+amazonia&topics=animales&formats=post+custom_story+podcasts+specials+short_article"
-OUTPUT_FILE = "../js/articulos.js"
+OUTPUT_FILE = "js/articulos.js" if os.path.exists("js") else "../js/articulos.js"
 
 def configurar_driver():
+    """Configura el driver de Chrome para funcionar tanto localmente como en GitHub Actions"""
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
-    options.add_argument("--window-size=1920,1080")
-    return webdriver.Chrome(options=options)
+    options.add_argument("--no-sandbox")  # Necesario para GitHub Actions
+    options.add_argument("--disable-dev-shm-usage")  # Necesario para entornos CI/CD
+    
+    # Configuración automática del ChromeDriver
+    service = Service(ChromeDriverManager().install())
+    return webdriver.Chrome(service=service, options=options)
 
 def cargar_todos_los_articulos(driver):
+    """Carga todos los artículos haciendo clic en el botón 'Cargar más'"""
     print(f"🌍 Abriendo: {URL}")
-    driver.get(URL)
-    time.sleep(3)
+    try:
+        driver.get(URL)
+        time.sleep(3)
 
-    total_anterior = 0
-    intentos_sin_cambio = 0
+        total_anterior = 0
+        intentos_sin_cambio = 0
 
-    while True:
-        contenedores = driver.find_elements(By.CSS_SELECTOR, "div.article--container")
-        total_actual = len(contenedores)
+        while True:
+            contenedores = driver.find_elements(By.CSS_SELECTOR, "div.article--container")
+            total_actual = len(contenedores)
 
-        try:
-            boton = driver.find_element(By.CSS_SELECTOR, "button.load-more")
-            driver.execute_script("arguments[0].scrollIntoView(true);", boton)
-            time.sleep(1)
-            driver.execute_script("arguments[0].click();", boton)
-            print(f"🔁 Clic en 'Cargar más' ({total_actual} artículos hasta ahora)")
-            time.sleep(5)
-
-            # Esperar hasta que cambie la cantidad de artículos
-            for _ in range(10):
-                nuevos = driver.find_elements(By.CSS_SELECTOR, "div.article--container")
-                if len(nuevos) > total_actual:
-                    break
+            try:
+                boton = driver.find_element(By.CSS_SELECTOR, "button.load-more")
+                driver.execute_script("arguments[0].scrollIntoView(true);", boton)
                 time.sleep(1)
+                driver.execute_script("arguments[0].click();", boton)
+                print(f"🔁 Clic en 'Cargar más' ({total_actual} artículos hasta ahora)")
+                time.sleep(5)
 
-        except NoSuchElementException:
-            print("✅ No se encontró más el botón 'Cargar más'. Fin.")
-            break
+                # Esperar hasta que cambie la cantidad de artículos
+                for _ in range(10):
+                    nuevos = driver.find_elements(By.CSS_SELECTOR, "div.article--container")
+                    if len(nuevos) > total_actual:
+                        break
+                    time.sleep(1)
 
-        if total_actual == total_anterior:
-            intentos_sin_cambio += 1
-            print(f"⏳ Sin nuevos artículos. Intento {intentos_sin_cambio}")
-        else:
-            intentos_sin_cambio = 0
+            except NoSuchElementException:
+                print("✅ No se encontró más el botón 'Cargar más'. Fin.")
+                break
 
-        if intentos_sin_cambio >= 5:
-            print("🚫 Se alcanzó el límite de intentos sin cambios. Deteniendo.")
-            break
+            if total_actual == total_anterior:
+                intentos_sin_cambio += 1
+                print(f"⏳ Sin nuevos artículos. Intento {intentos_sin_cambio}")
+            else:
+                intentos_sin_cambio = 0
 
-        total_anterior = total_actual
+            if intentos_sin_cambio >= 5:
+                print("🚫 Se alcanzó el límite de intentos sin cambios. Deteniendo.")
+                break
 
-    return driver.page_source
+            total_anterior = total_actual
+
+        return driver.page_source
+    
+    except Exception as e:
+        print(f"⚠️ Error al cargar artículos: {str(e)}")
+        return driver.page_source  # Devuelve lo que haya podido cargar
 
 def extraer_articulos(html):
+    """Extrae la información de los artículos del HTML"""
     soup = BeautifulSoup(html, "html.parser")
     contenedores = soup.select("div.article--container")
     articulos = []
@@ -95,7 +111,8 @@ def extraer_articulos(html):
     return articulos
 
 def guardar_como_js(articulos):
-    # Agrega una entrada fantasma con la hora para forzar cambios en GitHub
+    """Guarda los artículos en formato JS"""
+    # Agrega una entrada de última actualización
     articulos.append({
         "titulo": f"Última actualización automática - {time.ctime()}",
         "imagen": "",
@@ -103,22 +120,33 @@ def guardar_como_js(articulos):
         "url": "#"
     })
 
+    # Asegura que el directorio existe
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("const articulos = ")
         json.dump(articulos, f, ensure_ascii=False, indent=2)
         f.write(";")
 
-    print(f"\n✅ Se guardaron {len(articulos)} artículos en '{OUTPUT_FILE}'")
+    print(f"\n✅ Se guardaron {len(articulos)} artículos en '{os.path.abspath(OUTPUT_FILE)}'")
 
 def main():
-    driver = configurar_driver()
-    html = cargar_todos_los_articulos(driver)
-    driver.quit()
-
-    print("🔍 Extrayendo artículos...")
-    articulos = extraer_articulos(html)
-    print(f"✅ Se extrajeron {len(articulos)} artículos.")
-    guardar_como_js(articulos)
+    try:
+        driver = configurar_driver()
+        html = cargar_todos_los_articulos(driver)
+        
+        print("🔍 Extrayendo artículos...")
+        articulos = extraer_articulos(html)
+        print(f"✅ Se extrajeron {len(articulos)} artículos.")
+        
+        guardar_como_js(articulos)
+        return 0
+    except Exception as e:
+        print(f"❌ Error crítico: {str(e)}", file=sys.stderr)
+        return 1
+    finally:
+        if 'driver' in locals():
+            driver.quit()
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
