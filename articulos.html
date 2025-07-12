@@ -23,7 +23,6 @@
           <li><a href="mapa.html">Mapa</a></li>
           <li><a href="articulos.html" class="active">Artículos</a></li>
           <li><a href="sobre-nosotros.html">Sobre Nosotros</a></li>
-          
         </ul>
       </nav>
     </div>
@@ -35,7 +34,6 @@
       <p>Infórmate y actúa: conoce las especies que más lo necesitan.</p>
     </div>
   </section>
-
 
   <main class="container">
     <section class="articles-header">
@@ -56,9 +54,53 @@
     </div>
   </footer>
 
-  <script src="js/articulos.js?ver=actual"></script>
-  <script src="js/script_articulo.js"></script>
-      
+  <!-- Cargar artículos desde el archivo JS (con control de caché) -->
+  <script>
+    const script = document.createElement("script");
+    script.src = "js/articulos.js?t=" + new Date().getTime(); // fuerza nueva versión
+    script.onload = () => {
+      console.log("✅ articulos.js cargado");
+      mostrarArticulos();
+    };
+    document.head.appendChild(script);
+  </script>
+
+  <!-- Mostrar artículos en la sección respetando el diseño original -->
+  <script>
+    function mostrarArticulos() {
+      if (typeof articulos === "undefined") {
+        console.error("❌ La variable 'articulos' no está definida.");
+        return;
+      }
+
+      const contenedor = document.getElementById("articlesList");
+      contenedor.innerHTML = "";
+
+      for (const articulo of articulos) {
+        if (!articulo.titulo.startsWith("Última actualización")) {
+          const card = document.createElement("div");
+          card.classList.add("article-card");
+          card.innerHTML = `
+            <img src="${articulo.imagen}" alt="${articulo.titulo}">
+            <div class="article-content">
+              <h3>${articulo.titulo}</h3>
+              <p class="fecha">${articulo.fecha}</p>
+              <a href="${articulo.url}" target="_blank" class="leer-mas">Leer más</a>
+            </div>
+          `;
+          contenedor.appendChild(card);
+        }
+      }
+
+      // Opción: agregar hora de carga
+      const hora = new Date();
+      const p = document.createElement("p");
+      p.style.fontStyle = "italic";
+      p.style.marginTop = "20px";
+      p.textContent = "Última carga: " + hora.toLocaleTimeString();
+      contenedor.appendChild(p);
+    }
+  </script>
+
 </body>
 </html>
-
