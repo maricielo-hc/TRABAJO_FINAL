@@ -1,137 +1,124 @@
 import time
 import json
-import os
-import sys
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 
-# Configuración de importación alternativa
-try:
-    from webdriver_manager.chrome import ChromeDriverManager
-    USE_DRIVER_MANAGER = True
-except ImportError:
-    USE_DRIVER_MANAGER = False
-    print("⚠️ webdriver_manager no encontrado, usando chromedriver del sistema")
-
 URL = "https://es.mongabay.com/?s=&locations=latinoamerica+amazonia&topics=animales&formats=post+custom_story+podcasts+specials+short_article"
-OUTPUT_FILE = os.path.join("js", "articulos.js")
+OUTPUT_FILE = "../js/articulos_Animales.js"
 
 def configurar_driver():
-    """Configura el navegador Chrome para scraping"""
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    
-    if USE_DRIVER_MANAGER:
-        service = Service(ChromeDriverManager().install())
-    else:
-        service = Service(executable_path="/usr/bin/chromedriver")
-    
-    return webdriver.Chrome(service=service, options=options)
+    options.add_argument("--window-size=1920,1080")
+    return webdriver.Chrome(options=options)
 
 def cargar_todos_los_articulos(driver):
-    """Carga todos los artículos haciendo clic en 'Cargar más'"""
-    print(f"🌍 Abriendo URL: {URL}")
+    print(f"🌍 Abriendo: {URL}")
     driver.get(URL)
     time.sleep(3)
 
-    total_articulos = 0
-    intentos = 0
+    total_anterior = 0
+    intentos_sin_cambio = 0
 
-    while intentos < 5:
-        articulos = driver.find_elements(By.CSS_SELECTOR, "div.article--container")
-        
-        if len(articulos) > total_articulos:
-            total_articulos = len(articulos)
-            intentos = 0
-        else:
-            intentos += 1
+    while True:
+        contenedores = driver.find_elements(By.CSS_SELECTOR, "div.article--container")
+        total_actual = len(contenedores)
 
         try:
             boton = driver.find_element(By.CSS_SELECTOR, "button.load-more")
+            driver.execute_script("arguments[0].scrollIntoView(true);", boton)
+            time.sleep(1)
             driver.execute_script("arguments[0].click();", boton)
-            time.sleep(3)
+            print(f"🔁 Clic en 'Cargar más' ({total_actual} artículos hasta ahora)")
+            time.sleep(5)
+
+            # Esperar hasta que cambie la cantidad de artículos
+            for _ in range(10):
+                nuevos = driver.find_elements(By.CSS_SELECTOR, "div.article--container")
+                if len(nuevos) > total_actual:
+                    break
+                time.sleep(1)
+
         except NoSuchElementException:
+            print("✅ No se encontró más el botón 'Cargar más'. Fin.")
             break
+
+        if total_actual == total_anterior:
+            intentos_sin_cambio += 1
+            print(f"⏳ Sin nuevos artículos. Intento {intentos_sin_cambio}")
+        else:
+            intentos_sin_cambio = 0
+
+        if intentos_sin_cambio >= 5:
+            print("🚫 Se alcanzó el límite de intentos sin cambios. Deteniendo.")
+            break
+
+        total_anterior = total_actual
 
     return driver.page_source
 
 def extraer_articulos(html):
-    """Extrae información de artículos del HTML con manejo seguro de atributos"""
     soup = BeautifulSoup(html, "html.parser")
+    contenedores = soup.select("div.article--container")
     articulos = []
 
-    for articulo in soup.select("div.article--container"):
-        try:
-            # Extracción segura del título
-            titulo_elem = articulo.select_one(".title h4")
-            titulo = titulo_elem.get_text(strip=True) if titulo_elem else "Sin título"
-            
-            # Extracción segura del enlace
-            enlace_elem = articulo.find("a")
-            enlace = enlace_elem["href"] if enlace_elem and enlace_elem.has_attr("href") else "#"
-            
-            # Extracción segura de la imagen
-            imagen_elem = articulo.find("img")
-            imagen = ""
-            if imagen_elem:
-                if imagen_elem.has_attr("src"):
-                    imagen = imagen_elem["src"]
-                elif imagen_elem.has_attr("data-src"):
-                    imagen = imagen_elem["data-src"]
-            
-            # Extracción segura de la fecha
-            fecha_elem = articulo.select_one(".post-meta .date")
-            fecha = fecha_elem.get_text(strip=True) if fecha_elem else "Fecha no disponible"
+    for cont in contenedores:
+        a_tag = cont.find("a", href=True)
+        url = a_tag["href"] if a_tag else ""
 
-            if titulo and enlace:
-                articulos.append({
-                    "titulo": titulo,
-                    "url": enlace,
-                    "imagen": imagen,
-                    "fecha": fecha
-                })
-        except Exception as e:
-            print(f"⚠️ Error procesando artículo: {str(e)}")
-            continue
+        titulo_tag = cont.select_one(".title h4")
+        titulo = titulo_tag.get_text(strip=True) if titulo_tag else ""
+
+        img_tag = cont.find("img")
+        imagen = ""
+        if img_tag:
+            imagen = img_tag.get("src") or img_tag.get("data-src") or ""
+            if not imagen and img_tag.has_attr("srcset"):
+                srcset = img_tag["srcset"].split(",")[0].strip()
+                imagen = srcset.split(" ")[0]
+
+        fecha_tag = cont.select_one(".post-meta .date")
+        fecha = fecha_tag.get_text(strip=True) if fecha_tag else ""
+
+        if titulo and url and imagen:
+            articulos.append({
+                "titulo": titulo,
+                "imagen": imagen,
+                "fecha": fecha,
+                "url": url
+            })
 
     return articulos
 
 def guardar_como_js(articulos):
-    """Guarda los artículos en formato JS"""
-    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
-    
+    # Agrega una entrada fantasma con la hora para forzar cambios en GitHub
+    articulos.append({
+        "titulo": f"Última actualización automática - {time.ctime()}",
+        "imagen": "",
+        "fecha": "",
+        "url": "#"
+    })
+
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("const articulos = ")
         json.dump(articulos, f, ensure_ascii=False, indent=2)
         f.write(";")
-    
-    print(f"✅ Guardados {len(articulos)} artículos en {OUTPUT_FILE}")
+
+    print(f"\n✅ Se guardaron {len(articulos)} artículos en '{OUTPUT_FILE}'")
 
 def main():
-    try:
-        print("=== INICIANDO SCRAPER ===")
-        print(f"Python path: {sys.executable}")
-        print(f"Working dir: {os.getcwd()}")
-        
-        driver = configurar_driver()
-        html = cargar_todos_los_articulos(driver)
-        articulos = extraer_articulos(html)
-        guardar_como_js(articulos)
-        
-        return 0
-    except Exception as e:
-        print(f"❌ Error crítico: {str(e)}", file=sys.stderr)
-        return 1
-    finally:
-        if 'driver' in locals():
-            driver.quit()
+    driver = configurar_driver()
+    html = cargar_todos_los_articulos(driver)
+    driver.quit()
+
+    print("🔍 Extrayendo artículos...")
+    articulos = extraer_articulos(html)
+    print(f"✅ Se extrajeron {len(articulos)} artículos.")
+    guardar_como_js(articulos)
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
