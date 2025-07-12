@@ -89,6 +89,24 @@ API libre, sin autenticación
 Estas fuentes permiten integrar información científica, ambiental y mediática en un sistema unificado para monitorear y visualizar la situación de especies amenazadas en todo el mundo.
 
 ---
+
+## 🧭 Instrucciones para el usuario
+### 🔧 Requisitos  
+Antes de comenzar, asegúrate de tener instalado:
+- Python 3.10 o superior
+- Navegador Google Chrome  
+- ChromeDriver compatible (o usar webdriver-manager, si lo configuras)
+### 📦 Instalación de dependencias 
+
+'''bash
+git clone https://github.com/maricielo-hc/TRABAJO_FINAL.git
+cd TRABAJO_FINAL
+pip install -r requirements.txt
+python scripts/eventos_naturales.py
+python scripts/acceder_articulos.py
+'''
+
+---
 🧰 Librerías y herramientas Python
 - **requests** – Para hacer peticiones HTTP a APIs
 - **BeautifulSoup** – Para parsear y analizar contenido HTML
