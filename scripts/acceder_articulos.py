@@ -63,23 +63,43 @@ def cargar_todos_los_articulos(driver):
     return driver.page_source
 
 def extraer_articulos(html):
-    """Extrae información de artículos del HTML"""
+    """Extrae información de artículos del HTML con manejo seguro de atributos"""
     soup = BeautifulSoup(html, "html.parser")
     articulos = []
 
     for articulo in soup.select("div.article--container"):
-        titulo = articulo.select_one(".title h4").get_text(strip=True) if articulo.select_one(".title h4") else ""
-        enlace = articulo.find("a")["href"] if articulo.find("a") else ""
-        imagen = articulo.find("img")["src"] if articulo.find("img") else ""
-        fecha = articulo.select_one(".post-meta .date").get_text(strip=True) if articulo.select_one(".post-meta .date") else ""
+        try:
+            # Extracción segura del título
+            titulo_elem = articulo.select_one(".title h4")
+            titulo = titulo_elem.get_text(strip=True) if titulo_elem else "Sin título"
+            
+            # Extracción segura del enlace
+            enlace_elem = articulo.find("a")
+            enlace = enlace_elem["href"] if enlace_elem and enlace_elem.has_attr("href") else "#"
+            
+            # Extracción segura de la imagen
+            imagen_elem = articulo.find("img")
+            imagen = ""
+            if imagen_elem:
+                if imagen_elem.has_attr("src"):
+                    imagen = imagen_elem["src"]
+                elif imagen_elem.has_attr("data-src"):
+                    imagen = imagen_elem["data-src"]
+            
+            # Extracción segura de la fecha
+            fecha_elem = articulo.select_one(".post-meta .date")
+            fecha = fecha_elem.get_text(strip=True) if fecha_elem else "Fecha no disponible"
 
-        if titulo and enlace:
-            articulos.append({
-                "titulo": titulo,
-                "url": enlace,
-                "imagen": imagen,
-                "fecha": fecha
-            })
+            if titulo and enlace:
+                articulos.append({
+                    "titulo": titulo,
+                    "url": enlace,
+                    "imagen": imagen,
+                    "fecha": fecha
+                })
+        except Exception as e:
+            print(f"⚠️ Error procesando artículo: {str(e)}")
+            continue
 
     return articulos
 
@@ -107,7 +127,7 @@ def main():
         
         return 0
     except Exception as e:
-        print(f"❌ Error: {str(e)}", file=sys.stderr)
+        print(f"❌ Error crítico: {str(e)}", file=sys.stderr)
         return 1
     finally:
         if 'driver' in locals():
