@@ -222,7 +222,12 @@
     });
   </script>
 
-  <script src="js/articulos.js"></script>
+  <script>
+  const script = document.createElement("script");
+  const timestamp = new Date().getTime(); // siempre cambia
+  script.src = "js/articulos.js?t=" + timestamp;
+  document.head.appendChild(script);
+  </script>
   <script src="js/script.js"></script>
 </body>
 </html>
