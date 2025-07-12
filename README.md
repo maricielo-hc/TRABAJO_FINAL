@@ -90,7 +90,13 @@ Estas fuentes permiten integrar información científica, ambiental y mediática
 
 ---
 
-## 🧪 Uso local (opcional)
+## 🧭 Instrucciones para el usuario
+### 🔧 Requisitos  
+Antes de comenzar, asegúrate de tener instalado:
+- Python 3.10 o superior
+- Navegador Google Chrome  
+- ChromeDriver compatible (o usar webdriver-manager, si lo configuras)
+### 📦 Instalación de dependencias 
 
 '''bash
 git clone https://github.com/maricielo-hc/TRABAJO_FINAL.git
