@@ -22,7 +22,7 @@ jobs:
 
       - name: Ejecutar el script para actualizar noticias
         run: |
-          xvfb-run python ../scripts/acceder_articulos.py
+          xvfb-run python scripts/acceder_articulos.py
 
       - name: Subir cambios si los hay
         run: |

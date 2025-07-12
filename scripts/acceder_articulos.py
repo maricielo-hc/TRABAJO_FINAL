@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 
 URL = "https://es.mongabay.com/?s=&locations=latinoamerica+amazonia&topics=animales&formats=post+custom_story+podcasts+specials+short_article"
-OUTPUT_FILE = "../js/articulos.js"
+OUTPUT_FILE = "js/articulos.js"
 
 def configurar_driver():
     options = Options()
