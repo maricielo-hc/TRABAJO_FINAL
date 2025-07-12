@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ../js/articulos.js
+          git add js/articulos.js
           git commit -m "🔄 Actualización automática de noticias cada 12h" || echo "Sin cambios"
           git push
