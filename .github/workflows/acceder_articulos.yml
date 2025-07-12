@@ -25,7 +25,7 @@ jobs:
       - name: Ejecutar acceder_articulos.py
         run: |
           echo "📰 Ejecutando script de noticias..."
-          python scripts/acceder_articulos.py
+          python ../scripts/acceder_articulos.py
           echo "✅ Script ejecutado correctamente"
 
       - name: Verificar contenido generado
@@ -33,7 +33,7 @@ jobs:
           echo "Contenido de js/:"
           ls -lh js/
           echo "Vista previa de articulos.js:"
-          head -n 10 js/articulos.js || echo "❌ No se encontró articulos.js"
+          head -n 10 ../js/articulos.js || echo "❌ No se encontró articulos.js"
 
       - name: Subir cambios si los hay
         env:
