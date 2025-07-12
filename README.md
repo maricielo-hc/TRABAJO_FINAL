@@ -9,7 +9,7 @@ Este proyecto es una página web interactiva dedicada a mostrar información act
 - 🌋 **Visualización de eventos naturales recientes** como incendios y sismos cercanos a los avistamientos de especies .
 - 📰 **Noticias sobre especies en peligro** extraídas desde fuentes confiables.
 - 🧩 Código limpio y organizado en módulos Python y HTML/CSS/JS.
-- - 🗺️ **Visualización interactiva** con gráficos y mapas que muestran zonas de distribución y nivel de amenaza, facilitando la comprensión para diversos públicos.  
+- 🗺️ **Visualización interactiva** con gráficos y mapas que muestran zonas de distribución y nivel de amenaza, facilitando la comprensión para diversos públicos.  
 Puedes ver la web en vivo aquí:  
 👉 [GeoVida](https://maricielo-hc.github.io/TRABAJO_FINAL/index.html)      
 ---
@@ -24,7 +24,21 @@ Puedes ver la web en vivo aquí:
 ---
 
 ## 🌐 **Fuentes de Datos**
+---  
+### 📰 Mongabay Latinoamérica – Noticias sobre fauna y medio ambiente
+📌 Objetivo
+Extraer automáticamente noticias actualizadas relacionadas con biodiversidad, conservación, fauna silvestre, y cambio climático desde Mongabay en español.
 
+🔧 Acceso
+- Sitio: https://es.mongabay.com/?s=&locations=latinoamerica+amazonia&topics=animales&formats=post+custom_story+podcasts+specials+short_article
+- Acceso libre vía web pública
+- Se utiliza Selenium para simular scroll y cargar más artículos
+- Se extrae contenido con BeautifulSoup para obtener:
+  - Título del artículo
+  - Fecha de publicación
+  - Imagen destacada
+  - Enlace directo a la noticia  
+  
 ---  
 ### 🔍 Wikipedia en Español – Identificación de nombres comunes
 📌 Objetivo
@@ -35,8 +49,9 @@ Buscar el nombre común en español de especies a partir del nombre científico,
 Sitio: https://es.wikipedia.org
 
 Se usa la API pública de MediaWiki:
-[https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=...]
-
+https://es.wikipedia.org/w/api.php?action=query&list=search&srsearch=Panthera&format=json  
+  
+Ingresar en Panthera el nombre cientifico del animal requerido
 Si se encuentra una coincidencia, se accede a la página HTML para validar la infobox
 
 ---
@@ -51,7 +66,7 @@ Sitio: https://www.gbif.org
 
 API pública y abierta:
 
-Buscar especie: https://api.gbif.org/v1/species/match?name=...
+Buscar especie: https://api.gbif.org/v1/species
 
 Obtener nombres vernáculos: https://api.gbif.org/v1/species/{usageKey}/vernacularNames
 
@@ -65,13 +80,9 @@ Proporcionar una tercera opción para obtener el nombre común en español si Wi
 
 🔧 Acceso
 
-Sitio: https://api.inaturalist.org/v1
-
-Endpoint usado:
-https://api.inaturalist.org/v1/taxa?q=...
-
+- Sitio: https://api.inaturalist.org/v1
+- Endpoint usado: https://api.inaturalist.org/v1/taxa?q=[nombre_cientifico]
 Se recorren los resultados buscando locale = "es"
-
 API libre, sin autenticación  
 ---
 
