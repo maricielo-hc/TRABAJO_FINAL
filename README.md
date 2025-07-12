@@ -11,13 +11,7 @@ Este proyecto es una página web interactiva dedicada a mostrar información act
 - 🧩 Código limpio y organizado en módulos Python y HTML/CSS/JS.
 - - 🗺️ **Visualización interactiva** con gráficos y mapas que muestran zonas de distribución y nivel de amenaza, facilitando la comprensión para diversos públicos.  
 Puedes ver la web en vivo aquí:  
-👉 [GeoVida](https://maricielo-hc.github.io/TRABAJO_FINAL/index.html)    
-
-
-<p align="center">
-  <img src="imagenes/Amenazadas_Total.jpg" alt="Amenazas en mapa" width="600"/>
-</p>
-
+👉 [GeoVida](https://maricielo-hc.github.io/TRABAJO_FINAL/index.html)      
 ---
 
 ## 🌍 Relevancia del Proyecto
@@ -31,8 +25,7 @@ Puedes ver la web en vivo aquí:
 
 ## 🌐 **Fuentes de Datos**
 
----
-
+---  
 ### 📰 **Bing News Search API – Noticias sobre fauna y medio ambiente**
 **🔍 Objetivo** 
 Obtener noticias actualizadas de medios reconocidos a nivel global relacionadas con especies en peligro de extinción, pérdida de hábitat, cambio climático, caza ilegal y conservación.
