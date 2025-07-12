@@ -2,13 +2,17 @@
 # 🐾 **SISTEMA DE IDENTIFICACIÓN DE ANIMALES EN PELIGRO DE EXTINCIÓN**
 
 ---  
+Este proyecto es una página web interactiva dedicada a mostrar información actualizada sobre los animales en peligro de extinción, con énfasis en  y **articulos actuales**. Utiliza tecnologías web simples y automatización en segundo plano para mantenerse actualizado sin intervención manual.
   
-## 🚀 Potencial Aporte
-
+## 🧠 ¿Qué ofrece esta web?    
 - ✅ **Identificación automatizada** de especies amenazadas a partir de datos confiables y actualizados.
-- 📊 **Análisis en tiempo real** sobre el impacto del cambio climático en hábitats naturales, cruzando información climática y ecológica.
-- 🗺️ **Visualización interactiva** con mapas que muestran zonas de distribución y nivel de amenaza, facilitando la comprensión para diversos públicos.
-- 🧠 **Soporte para la toma de decisiones**, permitiendo a gobiernos, ONGs y centros de investigación enfocar esfuerzos de conservación basados en datos.
+- 🌋 **Visualización de eventos naturales recientes** como incendios y sismos cercanos a los avistamientos de especies .
+- 📰 **Noticias sobre especies en peligro** extraídas desde fuentes confiables.
+- 🧩 Código limpio y organizado en módulos Python y HTML/CSS/JS.
+- - 🗺️ **Visualización interactiva** con gráficos y mapas que muestran zonas de distribución y nivel de amenaza, facilitando la comprensión para diversos públicos.  
+Puedes ver la web en vivo aquí:  
+👉 [GeoVida](https://maricielo-hc.github.io/TRABAJO_FINAL/index.html)    
+
 
 <p align="center">
   <img src="imagenes/Amenazadas_Total.jpg" alt="Amenazas en mapa" width="600"/>
