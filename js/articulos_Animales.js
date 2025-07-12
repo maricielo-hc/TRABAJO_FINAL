@@ -1,15 +1,9 @@
 const articulos = [
   {
     "titulo": "Iguanas, caballitos de mar y primates traficados ilegalmente tiene en alerta a Ecuador | Coyuntura ambiental",
-<<<<<<< HEAD:js/articulos_Animales.js
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/04/17232159/Iguana-de-SantaFe-%40PNG-Tui-De-Roy-2019-768x512.jpg",
-    "fecha": "Jul 12, 2025",
-    "url": "https://es.mongabay.com/2025/07/iguanas-caballitos-de-mar-primates-traficados-ilegalmente-alerta-ecuador/"
-=======
     "url": "https://es.mongabay.com/2025/07/iguanas-caballitos-de-mar-primates-traficados-ilegalmente-alerta-ecuador/",
     "imagen": "",
     "fecha": "Jul 12, 2025"
->>>>>>> 035d4bae7f57295645cbb220bcf2cc6aa5ea34c2:js/articulos.js
   },
   {
     "titulo": "Expedición virtual: un paseo por el Parque Nacional Cordillera Azul de la Amazonía peruana",
@@ -5622,9 +5616,6 @@ const articulos = [
     "fecha": "Jun 27, 2019"
   },
   {
-<<<<<<< HEAD:js/articulos_Animales.js
-    "titulo": "Última actualización automática - Sat Jul 12 17:33:48 2025",
-=======
     "titulo": "Estudio: cerca de 16 000 toneladas de tiburones son desembarcadas al año en Perú",
     "url": "https://es.mongabay.com/2019/06/tiburones-en-peru-estudio/",
     "imagen": "",
@@ -6785,7 +6776,6 @@ const articulos = [
   {
     "titulo": "Sin título",
     "url": "https://es.mongabay.com/2015/09/una-importante-expedicion-descubre-nuevas-especies-en-bolivia/",
->>>>>>> 035d4bae7f57295645cbb220bcf2cc6aa5ea34c2:js/articulos.js
     "imagen": "",
     "fecha": "Sep 18, 2015"
   },
