@@ -1,6 +1,9 @@
 name: Actualizar Articulos
 
-on: [push]
+on: 
+  schedule:
+    - cron: '0 */12 * * *'  # Cada 12 horas
+  workflow_dispatch:       # También puede ejecutarse manualmente
 
 jobs:
   actualizar:
@@ -22,12 +25,12 @@ jobs:
 
       - name: Ejecutar el script para actualizar noticias
         run: |
-          xvfb-run python scripts/acceder_articulos.py
+          python scripts/acceder_articulos.py
 
       - name: Subir cambios si los hay
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Dhalia"
+          git config user.email "alfarodomini@gmail.com"
           git add js/articulos.js
           git commit -m "🔄 Actualización automática de noticias cada 12h" || echo "Sin cambios"
-          git push
+          git push origin main
