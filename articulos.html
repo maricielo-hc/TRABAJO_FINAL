@@ -56,8 +56,14 @@
     </div>
   </footer>
 
-  <script src="js/articulos.js"></script>
+  <script>
+    const fecha = new Date().getTime();
+    const script = document.createElement('script');
+    script.src = `js/articulos.js?t=${fecha}`;
+    document.head.appendChild(script);
+  </script>
   <script src="js/script_articulo.js"></script>
+
       
 </body>
 </html>
