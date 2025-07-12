@@ -1,33 +1,36 @@
 name: Actualizar Articulos
 
-on: 
-  schedule:
-    - cron: '0 */12 * * *'  # Cada 12 horas
+on:
+  push:
+    branches: [main]
+    schedule:
+      - cron: '0 */12 * * *'  # Cada 12 horas
   workflow_dispatch:       # También puede ejecutarse manualmente
 
 jobs:
   actualizar:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Clonar el repositorio
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Configurar Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Instalar librerías necesarias 
-        run: |
-          pip install --upgrade pip
-          pip install selenium beautifulsoup4
+        run: pip install selenium beautifulsoup4
 
       - name: Ejecutar el script para actualizar noticias
-        run: |
-          python scripts/acceder_articulos.py
+        run: python ./scripts/acceder_articulos.py
 
       - name: Subir cambios si los hay
+        uses:stefanzweifel/git-auto-commit-action@v5 
         run: |
           git config user.name "Dhalia"
           git config user.email "alfarodomini@gmail.com"
