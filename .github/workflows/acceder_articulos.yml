@@ -44,6 +44,8 @@ jobs:
       run: |
         git config --global user.name "Dhalia"
         git config --global user.email "alfarodomini@gmail.com"
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+
         git add js/articulos_Animales.js || echo "Nada que añadir"
         git commit -m "Auto-update artículos (via GitHub Actions)" || echo "Sin cambios"
         git push
