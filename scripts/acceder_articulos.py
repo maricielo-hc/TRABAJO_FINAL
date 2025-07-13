@@ -22,7 +22,7 @@ def configurar_driver():
     options.binary_location = "/usr/bin/google-chrome"  # Necesario para GitHub Actions
     return webdriver.Chrome(options=options)
 
-def cargar_todos_los_articulos(driver):
+def cargar_todos_los_articulos(driver): # Funcion para descargar articulos
     print(f"🌍 Abriendo: {URL}")
     driver.get(URL)
     time.sleep(3)
