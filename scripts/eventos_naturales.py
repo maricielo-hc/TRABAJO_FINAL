@@ -57,16 +57,20 @@ incendios = obtener_incendios_peru()
 sismos = obtener_sismos_peru()
 eventos = incendios + sismos
 
-# ✅ Crear carpetas si no existen
-os.makedirs("data", exist_ok=True)
-os.makedirs("js", exist_ok=True)
+# 📁 Obtener la ruta base del proyecto (una carpeta arriba de /scripts)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# 💾 Guardar JSON
-with open("data/eventos_naturales.json", "w", encoding="utf-8") as f:
+# ✅ Crear carpetas en la raíz del proyecto si no existen
+os.makedirs(os.path.join(BASE_DIR, "data"), exist_ok=True)
+os.makedirs(os.path.join(BASE_DIR, "js"), exist_ok=True)
+
+# 💾 Guardar JSON en la raíz del repo
+with open(os.path.join(BASE_DIR, "data", "eventos_naturales.json"), "w", encoding="utf-8") as f:
     json.dump(eventos, f, ensure_ascii=False, indent=2)
 
-# 💾 Guardar como JS
-with open("js/eventos_naturales.js", "w", encoding="utf-8") as f:
+# 💾 Guardar JS en la raíz del repo
+with open(os.path.join(BASE_DIR, "js", "eventos_naturales.js"), "w", encoding="utf-8") as f:
     f.write("const eventosNaturales = ")
     json.dump(eventos, f, ensure_ascii=False, indent=2)
     f.write(";")
+
