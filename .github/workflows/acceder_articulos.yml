@@ -1,0 +1,51 @@
+name: Update Articles
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Ejecutar cada 6 horas
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+    - name: Clonar el repositorio
+      uses: actions/checkout@v3
+
+    - name: Instalar Google Chrome y ChromeDriver
+      run: |
+        sudo apt update
+        wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+        sudo apt install -y ./google-chrome-stable_current_amd64.deb
+        sudo ln -s /usr/bin/google-chrome /usr/bin/chrome
+        echo "✅ Chrome instalado"
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Instalar dependencias Python
+      run: |
+        pip install --upgrade pip
+        pip install selenium beautifulsoup4 webdriver-manager
+
+    - name: Ejecutar scraper
+      working-directory: ./scripts
+      env:
+        CHROME_BIN: /usr/bin/google-chrome
+      run: python acceder_articulos.py
+
+    - name: Confirmar y subir cambios
+      run: |
+        git config --global user.name "Dhalia"
+        git config --global user.email "alfarodomini@gmail.com"
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
+
+        git add js/articulos_Animales.js || echo "Nada que añadir"
+        git commit -m "Auto-update artículos (via GitHub Actions)" || echo "Sin cambios"
+        git push

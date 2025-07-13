@@ -1,6 +1,7 @@
 import requests
 import csv
 import json
+import os  # ✅ Necesario para crear carpetas
 
 # 📍 Limites geográficos de Perú
 def en_peru(lat, lon):
@@ -18,13 +19,12 @@ def obtener_incendios_peru():
         lat = float(row['latitude'])
         lon = float(row['longitude'])
         if en_peru(lat, lon):
-            hora_raw = row["acq_time"].zfill(4)  # Asegura que tenga 4 dígitos
-            hora_formateada = f"{hora_raw[:2]}:{hora_raw[2:]}"  # e.g. '1957' → '19:57'
-
+            hora_raw = row["acq_time"].zfill(4)
+            hora_formateada = f"{hora_raw[:2]}:{hora_raw[2:]}"
             incendios.append({
                 "tipo": "Incendio",
-                "fecha": row["acq_date"],      # Ya está en formato 'YYYY-MM-DD'
-                "hora": hora_formateada,       # Ahora en formato 'HH:MM'
+                "fecha": row["acq_date"],
+                "hora": hora_formateada,
                 "lat": lat,
                 "lon": lon
             })
@@ -57,12 +57,19 @@ incendios = obtener_incendios_peru()
 sismos = obtener_sismos_peru()
 eventos = incendios + sismos
 
-# 💾 Guardar JSON
-with open("data/eventos_naturales.json", "w", encoding="utf-8") as f:
+# 📁 Obtener la ruta base del proyecto (una carpeta arriba de /scripts)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# ✅ Crear carpetas en la raíz del proyecto si no existen
+os.makedirs(os.path.join(BASE_DIR, "data"), exist_ok=True)
+os.makedirs(os.path.join(BASE_DIR, "js"), exist_ok=True)
+
+# 💾 Guardar JSON en la raíz del repo
+with open(os.path.join(BASE_DIR, "data", "eventos_naturales.json"), "w", encoding="utf-8") as f:
     json.dump(eventos, f, ensure_ascii=False, indent=2)
 
-# 💾 Guardar como JS
-with open("js/eventos_naturales.js", "w", encoding="utf-8") as f:
+# 💾 Guardar JS en la raíz del repo
+with open(os.path.join(BASE_DIR, "js", "eventos_naturales.js"), "w", encoding="utf-8") as f:
     f.write("const eventosNaturales = ")
     json.dump(eventos, f, ensure_ascii=False, indent=2)
     f.write(";")
