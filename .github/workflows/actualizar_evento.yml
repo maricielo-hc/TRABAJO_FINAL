@@ -1,55 +1,40 @@
-name: Actualizar eventos naturales en Perú
+name: Update Natural Events
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Cada 6 horas
+    - cron: '0 */6 * * *'  # Ejecutar cada 6 horas
   workflow_dispatch:
   push:
     branches: [main]
 
 jobs:
-  update-events:
+  update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
 
     steps:
-      - name: 📥 Clonar el repositorio
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: false
+    - name: Clonar el repositorio
+      uses: actions/checkout@v3
 
-      - name: 🐍 Configurar Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
 
-      - name: 📦 Instalar dependencias
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+    - name: Instalar dependencias de Python
+      run: |
+        pip install requests
 
-      - name: ▶️ Ejecutar script de eventos naturales
-        working-directory: ./scripts
-        run: python eventos_naturales.py
+    - name: Ejecutar script de eventos naturales
+      working-directory: ./scripts
+      run: python eventos_naturales.py
 
-      - name: 📂 Mostrar archivos generados
-        run: |
-          echo "✅ Contenido generado:"
-          ls -lh data/
-          ls -lh js/
-          echo "Vista previa del JSON:"
-          head -n 20 data/eventos_naturales.json || echo "No se encontró JSON"
-          echo "Vista previa del JS:"
-          head -n 20 js/eventos_naturales.js || echo "No se encontró JS"
+    - name: Confirmar y subir cambios
+      run: |
+        git config --global user.name "maricielo-hc"
+        git config --global user.email "maricielo.mr04@gmail.com"
+        git remote set-url origin https://x-access-token:${{ secrets.GH_TOKN_TRABAJO_FINAL }}@github.com/${{ github.repository }}
 
-      - name: 📤 Subir cambios al repositorio
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKN_TRABAJO_FINAL }}
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}
-
-          git add data/eventos_naturales.json js/eventos_naturales.js
-          git commit -m "🔁 Actualización automática: eventos naturales en Perú" || echo "❌ Sin cambios"
-          git push || echo "❌ No se pudo hacer push (quizá sin cambios)"
+        git add data/eventos_naturales.json js/eventos_naturales.js || echo "Nada que añadir" 
+        git commit -m "Auto-update eventos naturales (via GitHub Actions)" || echo "Sin cambios"
+        git push
