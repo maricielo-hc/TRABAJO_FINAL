@@ -1,5 +1,9 @@
 import time
 import json
+import os  # 👈 Asegúrate de importar esto
+from bs4 import BeautifulSoup
+import time
+import json
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -11,9 +15,11 @@ OUTPUT_FILE = "../js/articulos_Animales.js"
 
 def configurar_driver():
     options = Options()
-    options.add_argument("--headless")
+    options.add_argument("--headless")  # Modo sin interfaz
     options.add_argument("--disable-gpu")
+    options.add_argument("--no-sandbox")
     options.add_argument("--window-size=1920,1080")
+    options.binary_location = "/usr/bin/google-chrome"  # Necesario para GitHub Actions
     return webdriver.Chrome(options=options)
 
 def cargar_todos_los_articulos(driver):
@@ -36,7 +42,7 @@ def cargar_todos_los_articulos(driver):
             print(f"🔁 Clic en 'Cargar más' ({total_actual} artículos hasta ahora)")
             time.sleep(5)
 
-            # Esperar hasta que cambie la cantidad de artículos
+            # Esperar a que cargue más
             for _ in range(10):
                 nuevos = driver.find_elements(By.CSS_SELECTOR, "div.article--container")
                 if len(nuevos) > total_actual:
@@ -95,7 +101,7 @@ def extraer_articulos(html):
     return articulos
 
 def guardar_como_js(articulos):
-    # Agrega una entrada fantasma con la hora para forzar cambios en GitHub
+    # Entrada fantasma con la hora para forzar commit en GitHub
     articulos.append({
         "titulo": f"Última actualización automática - {time.ctime()}",
         "imagen": "",
