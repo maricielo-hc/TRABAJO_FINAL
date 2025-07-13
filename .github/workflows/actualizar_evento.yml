@@ -3,9 +3,13 @@ name: Actualizar eventos naturales en Perú
 on:
   schedule:
     - cron: '0 */6 * * *'  # Cada 6 horas
+<<<<<<< HEAD
   workflow_dispatch:
   push:
     branches: [main]
+=======
+  workflow_dispatch:        # También puede ejecutarse manualmente
+>>>>>>> f733960c70e189321afae54235b69caa5c714b5e
 
 jobs:
   update-events:
@@ -24,6 +28,7 @@ jobs:
           python-version: '3.11'
 
       - name: 📦 Instalar dependencias
+<<<<<<< HEAD
         run: |
           python -m pip install --upgrade pip
           pip install requests
@@ -43,6 +48,24 @@ jobs:
           head -n 20 js/eventos_naturales.js || echo "No se encontró JS"
 
       - name: 📤 Subir cambios al repositorio
+=======
+        run: pip install requests
+
+      - name: ▶️ Ejecutar script de eventos naturales
+        run: python scripts/eventos_naturales.py
+
+      - name: 📂 Mostrar archivos generados
+        run: |
+          echo "✅ Contenido generado:"
+          ls -lh data/
+          ls -lh js/
+          echo "Vista previa del JSON:"
+          head -n 20 data/eventos_naturales.json || echo "No se encontró JSON"
+          echo "Vista previa del JS:"
+          head -n 20 js/eventos_naturales.js || echo "No se encontró JS"
+
+      - name: 📤 Subir cambios si los hay
+>>>>>>> f733960c70e189321afae54235b69caa5c714b5e
         env:
           GH_TOKEN: ${{ secrets.GH_TOKN_TRABAJO_FINAL }}
         run: |
