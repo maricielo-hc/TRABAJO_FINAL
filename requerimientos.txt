@@ -1,5 +1,0 @@
-# Requerimientos para el scraping y automatización
-selenium==4.15.2
-beautifulsoup4==4.12.2
-webdriver-manager==4.0.1
-requests==2.31.0
