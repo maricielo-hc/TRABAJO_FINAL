@@ -42,8 +42,8 @@ jobs:
 
     - name: Confirmar y subir cambios
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
+        git config --global user.name "Dhalia"
+        git config --global user.email "alfarodomini@gmail.com"
         git add js/articulos_Animales.js || echo "Nada que añadir"
         git commit -m "Auto-update artículos (via GitHub Actions)" || echo "Sin cambios"
         git push
