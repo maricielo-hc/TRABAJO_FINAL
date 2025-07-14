@@ -497,6 +497,34 @@ const eventosNaturales = [
     "lon": -80.0918
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-14",
+    "hora": "14:10",
+    "lat": -11.36546,
+    "lon": -74.96488
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-14",
+    "hora": "14:10",
+    "lat": -12.34978,
+    "lon": -74.97859
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-14",
+    "hora": "14:10",
+    "lat": -12.53462,
+    "lon": -74.21706
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-14",
+    "hora": "14:10",
+    "lat": -12.5359,
+    "lon": -74.20815
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-12T17:23:04.825Z",
     "lugar": "23 km NE of Pucallpa, Peru",
