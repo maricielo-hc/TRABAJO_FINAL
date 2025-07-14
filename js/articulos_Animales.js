@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Día Mundial de los tiburones: científicos se unen para descifrar sus rutas migratorias y protegerlos alrededor del mundo | ENTREVISTA",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/11141643/Captura-de-pantalla-2025-07-11-a-las-10.08.33%E2%80%AFa.m-768x512.png",
+    "fecha": "Jul 14, 2025",
+    "url": "https://es.mongabay.com/2025/07/dia-mundial-de-los-tiburones-descifrar-rutas-migratorias-protegerlos-entrevista/"
+  },
+  {
+    "titulo": "Salmón Chinook en Chile: qué hacer con una especie invasora que sustenta a la pesca artesanal de caleta La Barra",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/11202936/creative-commons-768x512.jpg",
+    "fecha": "Jul 14, 2025",
+    "url": "https://es.mongabay.com/2025/07/salmon-chinook-chile-especie-invasora/"
+  },
+  {
     "titulo": "Trampa mortal: animales en peligro de extinción mueren ahogados por fallas ambientales y técnicas en el Canal de la Patria en Argentina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/12185756/We_Are_Wild_Foundation-5-768x512.jpg",
     "fecha": "Jul 13, 2025",
@@ -6492,7 +6504,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Jul 14 12:37:16 2025",
+    "titulo": "Última actualización automática - Mon Jul 14 18:28:13 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
