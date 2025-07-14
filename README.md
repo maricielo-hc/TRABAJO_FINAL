@@ -159,6 +159,25 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.csv
 📦 Proceso
 - Se descarga un archivo CSV con todos los eventos sísmicos de magnitud ≥ 2.5 reportados a nivel mundial en la última semana.
 - Se filtran los registros que se encuentran dentro de los límites geográficos de Perú, usando la misma función en_peru() basada en latitud y longitud.
+  
+---  
+### 📍 Nominatim API: Obtener las regiones según coordenadas (latitudes y longitudes)
+*🔍 Objetivo* 
+Determinar la región (departamento) del Perú en la que se encuentra cada coordenada geográfica registrada para especies en peligro, con el fin de realizar análisis geográficos y visualizaciones basadas en ubicación.
+
+*🔧 Acceso*
+
+- Servicio: [Nominatim – OpenStreetMap](https://nominatim.openstreetmap.org/reverse)  
+
+- Tipo: API REST (gratuita y pública, sujeta a límites de uso)  
+
+*📥 Datos disponibles*   
+
+- Especies por departamento.  
+
+- Distribución geográfica en gráficos y mapas.  
+
+- Regiones con mayor presencia de especies en riesgo.  
 
 ---
 Estas fuentes permiten integrar información científica, ambiental y mediática en un sistema unificado para monitorear y visualizar la situación de especies amenazadas en todo el mundo.
@@ -173,13 +192,13 @@ Antes de comenzar, asegúrate de tener instalado:
 - ChromeDriver compatible (o usar webdriver-manager, si lo configuras)
 ### 📦 Instalación de dependencias 
 
-'''bash  
+```bash      
 git clone https://github.com/maricielo-hc/TRABAJO_FINAL.git  
 cd TRABAJO_FINAL  
 pip install -r requirements.txt  
 python scripts/eventos_naturales.py  
 python scripts/acceder_articulos.py  
-'''
+```  
 
 ---
 🧰 Librerías y herramientas Python

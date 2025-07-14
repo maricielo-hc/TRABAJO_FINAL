@@ -1,6 +1,11 @@
 ##SOLO LIBRERIAS EXTERNAS
-requests==2.32.4
-beautifulsoup4==4.13.4
-selenium==4.34.0
-webdriver-manager==4.0.2
+requests
+beautifulsoup4
+pandas
+matplotlib
+folium
+plotly
+webdriver-manager
+selenium
+
 
