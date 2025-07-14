@@ -195,19 +195,8 @@ Antes de comenzar, asegúrate de tener instalado:
 ```bash      
 git clone https://github.com/maricielo-hc/TRABAJO_FINAL.git  
 cd TRABAJO_FINAL  
-pip install -r requirements.txt  
-python scripts/eventos_naturales.py  
-python scripts/acceder_articulos.py  
-```  
-
----
-🧰 Librerías y herramientas Python
-- **requests** – Para hacer peticiones HTTP a APIs
-- **BeautifulSoup** – Para parsear y analizar contenido HTML
-- **Selenium** – Para automatizar navegación y scroll en páginas dinámicas
-- **json** – Para leer/escribir archivos .js estructurados como JSON
-
----
+pip install -r requirements.txt     
+```    
 
 ## 🌿 **Objetivos y Productos Finales**
 
