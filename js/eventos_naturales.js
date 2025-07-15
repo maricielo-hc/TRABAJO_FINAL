@@ -119,6 +119,42 @@ const eventosNaturales = [
     "lon": -72.60223
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "07:20",
+    "lat": -13.88985,
+    "lon": -71.52622
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "07:20",
+    "lat": -13.89119,
+    "lon": -71.51758
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "07:20",
+    "lat": -15.76832,
+    "lon": -68.36014
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "07:20",
+    "lat": -15.77305,
+    "lon": -68.35733
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-07-15T10:07:33.229Z",
+    "lugar": "28 km N of El Algarrobal, Peru",
+    "magnitud": "4.2",
+    "lat": -17.3659,
+    "lon": -71.2646
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-12T17:23:04.825Z",
     "lugar": "23 km NE of Pucallpa, Peru",
@@ -149,13 +185,5 @@ const eventosNaturales = [
     "magnitud": "4.4",
     "lat": -14.7014,
     "lon": -75.4558
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-07-08T11:40:06.901Z",
-    "lugar": "32 km WNW of Pisco, Peru",
-    "magnitud": "5",
-    "lat": -13.6502,
-    "lon": -76.503
   }
 ];
