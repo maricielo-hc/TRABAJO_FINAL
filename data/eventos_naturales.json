@@ -147,6 +147,55 @@
     "lon": -68.35733
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "13:12",
+    "lat": -15.78715,
+    "lon": -68.20582
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "14:46",
+    "lat": -1.19719,
+    "lon": -78.59145
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "14:46",
+    "lat": -3.56343,
+    "lon": -80.48288
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "14:46",
+    "lat": -6.76645,
+    "lon": -75.85781
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "14:46",
+    "lat": -7.04965,
+    "lon": -76.70746
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "14:46",
+    "lat": -9.23081,
+    "lon": -74.7065
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-15",
+    "hora": "14:48",
+    "lat": -9.93349,
+    "lon": -76.29329
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-15T10:07:33.229Z",
     "lugar": "28 km N of El Algarrobal, Peru",
