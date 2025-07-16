@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Día Mundial de las Serpientes: cambiar el miedo por el respeto, la misión de quienes las protegen",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/14170933/verde-768x512.jpeg",
+    "fecha": "Jul 16, 2025",
+    "url": "https://es.mongabay.com/2025/07/dia-mundial-de-las-serpientes-conservacion/"
+  },
+  {
     "titulo": "Día Mundial de los tiburones: científicos se unen para descifrar sus rutas migratorias y protegerlos alrededor del mundo | ENTREVISTA",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/11141643/Captura-de-pantalla-2025-07-11-a-las-10.08.33%E2%80%AFa.m-768x512.png",
     "fecha": "Jul 14, 2025",
@@ -6504,7 +6510,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jul 16 12:38:03 2025",
+    "titulo": "Última actualización automática - Wed Jul 16 18:27:19 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
