@@ -672,12 +672,97 @@ const eventosNaturales = [
     "lon": -78.34184
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:50",
+    "lat": -12.22482,
+    "lon": -74.99982
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:50",
+    "lat": -12.91708,
+    "lon": -71.96441
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:50",
+    "lat": -12.61487,
+    "lon": -74.50663
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:50",
+    "lat": -12.61715,
+    "lon": -74.49268
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:50",
+    "lat": -13.74355,
+    "lon": -70.091
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:50",
+    "lat": -13.46721,
+    "lon": -74.44688
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:50",
+    "lat": -15.59894,
+    "lon": -68.49887
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:50",
+    "lat": -15.60933,
+    "lon": -68.49055
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:53",
+    "lat": -15.766,
+    "lon": -68.21213
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:53",
+    "lat": -16.041,
+    "lon": -68.14837
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-16",
+    "hora": "13:53",
+    "lat": -16.04239,
+    "lon": -68.13782
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-15T10:07:33.229Z",
     "lugar": "28 km N of El Algarrobal, Peru",
     "magnitud": "4.2",
     "lat": -17.3659,
     "lon": -71.2646
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-07-14T19:37:04.413Z",
+    "lugar": "14 km N of Calana, Peru",
+    "magnitud": "4.7",
+    "lat": -17.8073,
+    "lon": -70.1947
   },
   {
     "tipo": "Sismo",
