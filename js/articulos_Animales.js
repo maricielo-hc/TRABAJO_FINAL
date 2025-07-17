@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Velo de la Novia: una nueva área natural protegida resguarda uno de los tesoros de la Amazonía peruana",
+    "imagen": "https://es.mongabay.com/wp-content/uploads/sites/25/2025/07/Velo-de-La-Novia-4-1_11zon-768x512.jpg",
+    "fecha": "Jul 17, 2025",
+    "url": "https://es.mongabay.com/2025/07/velo-de-la-novia-nueva-area-natural-protegida-amazonia-peruana/"
+  },
+  {
     "titulo": "Día Mundial de las Serpientes: cambiar el miedo por el respeto, la misión de quienes las protegen",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/14170933/verde-768x512.jpeg",
     "fecha": "Jul 16, 2025",
@@ -6510,7 +6516,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Jul 17 12:38:39 2025",
+    "titulo": "Última actualización automática - Thu Jul 17 18:31:28 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
