@@ -525,6 +525,20 @@ const eventosNaturales = [
     "lon": -68.36592
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-17",
+    "hora": "06:59",
+    "lat": -11.19729,
+    "lon": -68.64777
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-17",
+    "hora": "06:59",
+    "lat": -12.30976,
+    "lon": -69.19962
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-15T10:07:33.229Z",
     "lugar": "28 km N of El Algarrobal, Peru",
