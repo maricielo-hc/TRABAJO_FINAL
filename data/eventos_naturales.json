@@ -632,13 +632,5 @@
     "magnitud": "4.6",
     "lat": -10.7424,
     "lon": -74.995
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-07-11T04:12:36.589Z",
-    "lugar": "84 km ENE of Alianza Cristiana, Peru",
-    "magnitud": "4.4",
-    "lat": -3.1723,
-    "lon": -75.7332
   }
 ]
