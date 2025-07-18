@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "#EnCorto: cinco impactos ambientales de la nueva autopista de Oaxaca en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/07203732/03.-Maria-Arely-Penguilly-768x512.jpg",
+    "fecha": "Jul 17, 2025",
+    "url": "https://es.mongabay.com/2025/07/en-corto-impactos-ambientales-autopista-oaxaca-mexico/"
+  },
+  {
     "titulo": "Velo de la Novia: una nueva área natural protegida resguarda uno de los tesoros de la Amazonía peruana",
     "imagen": "https://es.mongabay.com/wp-content/uploads/sites/25/2025/07/Velo-de-La-Novia-4-1_11zon-768x512.jpg",
     "fecha": "Jul 17, 2025",
@@ -6516,7 +6522,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Jul 17 18:31:28 2025",
+    "titulo": "Última actualización automática - Fri Jul 18 01:22:58 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
