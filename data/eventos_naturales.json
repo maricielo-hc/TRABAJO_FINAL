@@ -183,13 +183,5 @@
     "magnitud": "4.4",
     "lat": -8.2326,
     "lon": -74.403
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-07-11T17:18:47.739Z",
-    "lugar": "22 km NNW of Santa Rosa, Peru",
-    "magnitud": "4.6",
-    "lat": -10.7424,
-    "lon": -74.995
   }
 ]
