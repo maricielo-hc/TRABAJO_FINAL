@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Delfines rosados: científicos detectan altos niveles de mercurio y neumonía en los cetáceos de río en Colombia | ENTREVISTA",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/18024117/Captura-de-pantalla-2025-07-17-a-las-10.40.14%E2%80%AFp.m-768x512.png",
+    "fecha": "Jul 18, 2025",
+    "url": "https://es.mongabay.com/2025/07/delfines-rosados-contaminacion-mercurio-neumonia-colombia-entrevista/"
+  },
+  {
+    "titulo": "De Galápagos a Panamá: la épica travesía de Alicia, la tiburón martillo que nadó 1300 km para dar a luz",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/17205402/Researcher-about-to-tag-a-SHH_Credit-to-Mark-Wong-768x512.jpg",
+    "fecha": "Jul 18, 2025",
+    "url": "https://es.mongabay.com/2025/07/epica-travesia-alicia-tiburon-martillo-dar-a-luz-ecuador-panama/"
+  },
+  {
     "titulo": "#EnCorto: cinco impactos ambientales de la nueva autopista de Oaxaca en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/07203732/03.-Maria-Arely-Penguilly-768x512.jpg",
     "fecha": "Jul 17, 2025",
@@ -6522,7 +6534,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Jul 18 12:37:45 2025",
+    "titulo": "Última actualización automática - Fri Jul 18 18:26:38 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
