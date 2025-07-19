@@ -140,6 +140,13 @@
     "lon": -68.70766
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-19",
+    "hora": "14:10",
+    "lat": -11.84274,
+    "lon": -72.94468
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-15T10:07:33.229Z",
     "lugar": "28 km N of El Algarrobal, Peru",
@@ -154,13 +161,5 @@
     "magnitud": "4.7",
     "lat": -17.8073,
     "lon": -70.1947
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-07-12T17:23:04.825Z",
-    "lugar": "23 km NE of Pucallpa, Peru",
-    "magnitud": "4.4",
-    "lat": -8.2326,
-    "lon": -74.403
   }
 ]
