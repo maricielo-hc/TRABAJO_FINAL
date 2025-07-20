@@ -147,6 +147,28 @@ const eventosNaturales = [
     "lon": -72.94468
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-19",
+    "hora": "18:51",
+    "lat": -9.3728,
+    "lon": -68.99954
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-19",
+    "hora": "18:51",
+    "lat": -9.37451,
+    "lon": -68.97377
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-07-19T00:30:02.011Z",
+    "lugar": "99 km N of Puerto Ocopa, Peru",
+    "magnitud": "4.3",
+    "lat": -10.2469,
+    "lon": -74.2608
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-15T10:07:33.229Z",
     "lugar": "28 km N of El Algarrobal, Peru",
