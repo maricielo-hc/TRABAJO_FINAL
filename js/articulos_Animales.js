@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Cinco impactos ambientales de la nueva autopista de Oaxaca en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/07205346/DJI_0419-768x512.jpg",
+    "fecha": "Jul 20, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/07/impactos-ambientales-nueva-autopista-oaxaca/"
+  },
+  {
     "titulo": "Serpientes loro, dragones acuáticos y murciélagos: descubrimientos que asombran a la ciencia | Coyuntura ambiental",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/05/22085034/Echinosaura_embera_1-768x512.jpg",
     "fecha": "Jul 19, 2025",
@@ -6540,7 +6546,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Jul 20 12:35:11 2025",
+    "titulo": "Última actualización automática - Sun Jul 20 18:26:30 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
