@@ -434,6 +434,13 @@
     "lon": -79.39131
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-21",
+    "hora": "13:53",
+    "lat": -15.96137,
+    "lon": -68.16114
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-19T00:30:02.011Z",
     "lugar": "99 km N of Puerto Ocopa, Peru",
