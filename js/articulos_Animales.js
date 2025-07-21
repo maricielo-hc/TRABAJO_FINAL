@@ -31,7 +31,7 @@ const articulos = [
   },
   {
     "titulo": "Velo de la Novia: una nueva área natural protegida resguarda uno de los tesoros de la Amazonía peruana",
-    "imagen": "https://es.mongabay.com/wp-content/uploads/sites/25/2025/07/Velo-de-La-Novia-4-1_11zon-768x512.jpg",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/20214555/Velo-de-La-Novia-4-1_11zon-768x512.jpg",
     "fecha": "Jul 17, 2025",
     "url": "https://es.mongabay.com/2025/07/velo-de-la-novia-nueva-area-natural-protegida-amazonia-peruana/"
   },
@@ -6546,7 +6546,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Jul 20 18:26:30 2025",
+    "titulo": "Última actualización automática - Mon Jul 21 01:27:04 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
