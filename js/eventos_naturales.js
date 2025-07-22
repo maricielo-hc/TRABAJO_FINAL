@@ -357,13 +357,5 @@ const eventosNaturales = [
     "magnitud": "4.3",
     "lat": -10.2469,
     "lon": -74.2608
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-07-15T10:07:33.229Z",
-    "lugar": "28 km N of El Algarrobal, Peru",
-    "magnitud": "4.2",
-    "lat": -17.3659,
-    "lon": -71.2646
   }
 ];
