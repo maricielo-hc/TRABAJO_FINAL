@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Colisiones mortales: muerte de ballenas genera alerta en Chile",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/10160827/Ballena-de-Bryde_-Mantagua_Simon-Frenkel_3-768x512.jpg",
-    "fecha": "Jul 21, 2025",
+    "fecha": "Jul 22, 2025",
     "url": "https://es.mongabay.com/short-article/2025/07/muerte-ballenas-genera-alerta-chile/"
   },
   {
@@ -6552,7 +6552,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Jul 22 12:37:57 2025",
+    "titulo": "Última actualización automática - Tue Jul 22 18:28:03 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
