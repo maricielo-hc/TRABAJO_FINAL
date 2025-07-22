@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Colisiones mortales: muerte de ballenas genera alerta en Chile",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/10160827/Ballena-de-Bryde_-Mantagua_Simon-Frenkel_3-768x512.jpg",
+    "fecha": "Jul 21, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/07/muerte-ballenas-genera-alerta-chile/"
+  },
+  {
     "titulo": "Cinco impactos ambientales de la nueva autopista de Oaxaca en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/07205346/DJI_0419-768x512.jpg",
     "fecha": "Jul 20, 2025",
@@ -6546,7 +6552,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Jul 21 18:29:28 2025",
+    "titulo": "Última actualización automática - Tue Jul 22 01:22:21 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
