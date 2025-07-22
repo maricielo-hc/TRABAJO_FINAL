@@ -343,6 +343,97 @@ const eventosNaturales = [
     "lon": -71.25758
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -11.52767,
+    "lon": -75.05143
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -11.52929,
+    "lon": -75.03881
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -11.61983,
+    "lon": -74.68461
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -11.62004,
+    "lon": -74.69142
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -11.62196,
+    "lon": -74.67582
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -4.7992,
+    "lon": -80.51347
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -6.4722,
+    "lon": -76.52241
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -7.86988,
+    "lon": -74.85297
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -9.37361,
+    "lon": -74.32013
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -9.47489,
+    "lon": -74.25655
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -9.59438,
+    "lon": -76.16914
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -9.59589,
+    "lon": -76.15775
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-22",
+    "hora": "14:29",
+    "lat": -9.60406,
+    "lon": -76.17046
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-21T04:39:39.996Z",
     "lugar": "42 km NNW of Camiña, Chile",
