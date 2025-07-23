@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Datos clave para entender cómo la muerte de una vicuña revela el conflicto entre comunidades indígenas y una minera de litio en Argentina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/14125522/Proyectos-de-litio-y-una-vicuna-en-el-Salar-del-Hombre-Muerto.-Foto-cortesia-de-la-Asamblea-Pueblos-Catamarquenos-en-Resistencia-y-Autodeterminacion-Pucara-768x513.jpg",
+    "fecha": "Jul 23, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/07/datos-clave-muerte-vicuna-conflicto-comunidad-indigena-litio-argentina/"
+  },
+  {
+    "titulo": "Tras las huellas del jaguar: comunidades shuar y guardaparques se unen para proteger al felino en la Amazonía ecuatoriana",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/05/29001333/Foto-jaguares-Ecuador-1-scaled-e1748477844527-768x512.jpg",
+    "fecha": "Jul 23, 2025",
+    "url": "https://es.mongabay.com/2025/07/comunidades-shuar-guardaparques-proteger-jaguar-amazonia-ecuatoriana/"
+  },
+  {
     "titulo": "Escapando de la extinción: imágenes captadas por un campesino confirman el regreso del águila harpía en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/05/10020947/AguilaHarpia_Juvenil_AlanMonroy-768x512.jpg",
     "fecha": "Jul 22, 2025",
@@ -6558,7 +6570,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jul 23 12:38:16 2025",
+    "titulo": "Última actualización automática - Wed Jul 23 18:28:39 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
