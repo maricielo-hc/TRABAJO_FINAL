@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Escapando de la extinción: imágenes captadas por un campesino confirman el regreso del águila harpía en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/05/10020947/AguilaHarpia_Juvenil_AlanMonroy-768x512.jpg",
+    "fecha": "Jul 22, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/07/extincion-imagenes-aguila-harpia-mexico/"
+  },
+  {
     "titulo": "Colisiones mortales: muerte de ballenas genera alerta en Chile",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/10160827/Ballena-de-Bryde_-Mantagua_Simon-Frenkel_3-768x512.jpg",
     "fecha": "Jul 22, 2025",
@@ -6552,7 +6558,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Jul 22 18:28:03 2025",
+    "titulo": "Última actualización automática - Wed Jul 23 01:23:35 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
