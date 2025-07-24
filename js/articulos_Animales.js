@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Datos clave para entender cómo la muerte de una vicuña revela el conflicto entre comunidades indígenas y una minera de litio en Argentina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/14125522/Proyectos-de-litio-y-una-vicuna-en-el-Salar-del-Hombre-Muerto.-Foto-cortesia-de-la-Asamblea-Pueblos-Catamarquenos-en-Resistencia-y-Autodeterminacion-Pucara-768x513.jpg",
-    "fecha": "Jul 23, 2025",
+    "fecha": "Jul 24, 2025",
     "url": "https://es.mongabay.com/short-article/2025/07/datos-clave-muerte-vicuna-conflicto-comunidad-indigena-litio-argentina/"
   },
   {
@@ -6570,7 +6570,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Jul 24 12:39:18 2025",
+    "titulo": "Última actualización automática - Thu Jul 24 18:27:50 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
