@@ -196,6 +196,27 @@ const eventosNaturales = [
     "lon": -75.0815
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-25",
+    "hora": "13:14",
+    "lat": -15.90827,
+    "lon": -68.60323
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-25",
+    "hora": "14:46",
+    "lat": -0.0861,
+    "lon": -76.59608
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-25",
+    "hora": "14:48",
+    "lat": -10.37385,
+    "lon": -74.80672
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-23T02:20:20.038Z",
     "lugar": "54 km S of Atiquipa, Peru",
