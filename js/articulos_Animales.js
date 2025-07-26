@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "¿En qué se relaciona el avistamiento de una puma hembra con sus crías y la conservación del agua en Ecuador?",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/18230502/Copy-of-puma-dormido-768x512.jpg",
+    "fecha": "Jul 25, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/07/avistamiento-puma-conservacion-agua-ecuador/"
+  },
+  {
     "titulo": "Datos clave para entender cómo la muerte de una vicuña revela el conflicto entre comunidades indígenas y una minera de litio en Argentina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/14125522/Proyectos-de-litio-y-una-vicuna-en-el-Salar-del-Hombre-Muerto.-Foto-cortesia-de-la-Asamblea-Pueblos-Catamarquenos-en-Resistencia-y-Autodeterminacion-Pucara-768x513.jpg",
     "fecha": "Jul 24, 2025",
@@ -6576,7 +6582,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Jul 25 18:27:30 2025",
+    "titulo": "Última actualización automática - Sat Jul 26 01:21:12 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
