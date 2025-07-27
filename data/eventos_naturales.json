@@ -518,6 +518,27 @@
     "lon": -68.55851
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-27",
+    "hora": "14:29",
+    "lat": -7.21718,
+    "lon": -75.07921
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-27",
+    "hora": "14:29",
+    "lat": -7.21395,
+    "lon": -75.08473
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-27",
+    "hora": "14:29",
+    "lat": -7.21557,
+    "lon": -75.07243
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-27T10:20:17.896Z",
     "lugar": "3 km SSE of Honoria, Peru",
