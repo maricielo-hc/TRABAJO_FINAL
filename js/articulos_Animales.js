@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Descubren asombrosa especie de nutria en América Latina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2024/08/26161202/nutria-1-768x512.jpg",
+    "fecha": "Jul 27, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/07/increible-hallazgo-cientificos-descubren-nueva-nutria/"
+  },
+  {
     "titulo": "¿En qué se relaciona el avistamiento de una puma hembra con sus crías y la conservación del agua en Ecuador?",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/18230502/Copy-of-puma-dormido-768x512.jpg",
     "fecha": "Jul 25, 2025",
@@ -6582,7 +6588,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Jul 27 12:35:52 2025",
+    "titulo": "Última actualización automática - Sun Jul 27 18:26:20 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
