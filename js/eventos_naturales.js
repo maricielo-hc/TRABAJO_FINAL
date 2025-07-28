@@ -161,6 +161,13 @@ const eventosNaturales = [
     "lon": -78.50665
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-28",
+    "hora": "07:31",
+    "lat": -11.07588,
+    "lon": -69.41742
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-27T10:20:17.896Z",
     "lugar": "3 km SSE of Honoria, Peru",
