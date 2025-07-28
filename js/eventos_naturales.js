@@ -539,6 +539,48 @@ const eventosNaturales = [
     "lon": -75.07243
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-27",
+    "hora": "19:06",
+    "lat": -12.85483,
+    "lon": -69.55308
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-27",
+    "hora": "19:06",
+    "lat": -12.62036,
+    "lon": -69.24662
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-27",
+    "hora": "19:06",
+    "lat": -12.46907,
+    "lon": -69.07795
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-27",
+    "hora": "19:06",
+    "lat": -11.20402,
+    "lon": -68.57154
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-27",
+    "hora": "19:08",
+    "lat": -3.9918,
+    "lon": -70.58883
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-27",
+    "hora": "19:08",
+    "lat": -3.72816,
+    "lon": -73.265
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-27T10:20:17.896Z",
     "lugar": "3 km SSE of Honoria, Peru",
