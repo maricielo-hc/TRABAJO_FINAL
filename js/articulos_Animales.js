@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Siguiendo ballenas francas: cómo funciona el proyecto que rastrea sus rutas migratorias desde el espacio exterior | ENTREVISTA",
+    "imagen": "https://es.mongabay.com/wp-content/uploads/sites/25/2025/07/Captura-de-pantalla-2025-07-29-a-las-5.21.22 p.m-768x512.png",
+    "fecha": "Jul 30, 2025",
+    "url": "https://es.mongabay.com/2025/07/ballenas-francas-monitore-satelital-rutas-migratorias-entrevista/"
+  },
+  {
     "titulo": "Perú: cómo científicos descubrieron una nueva especie de marsupial en el Parque Nacional Río Abiseo mediante códigos de barras de ADN",
     "imagen": "https://es.mongabay.com/wp-content/uploads/sites/25/2025/07/PNRAB-Marsupial-Pedreo-Peloso-en-Paven-et-al.-2025-1-768x512.png",
     "fecha": "Jul 29, 2025",
@@ -6594,7 +6600,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jul 30 12:41:19 2025",
+    "titulo": "Última actualización automática - Wed Jul 30 18:28:33 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
