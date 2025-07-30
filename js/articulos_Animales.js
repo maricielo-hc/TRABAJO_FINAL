@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Perú: cómo científicos descubrieron una nueva especie de marsupial en el Parque Nacional Río Abiseo mediante códigos de barras de ADN",
+    "imagen": "https://es.mongabay.com/wp-content/uploads/sites/25/2025/07/PNRAB-Marsupial-Pedreo-Peloso-en-Paven-et-al.-2025-1-768x512.png",
+    "fecha": "Jul 29, 2025",
+    "url": "https://es.mongabay.com/2025/07/peru-descubrieron-nueva-especie-marsupial-adn/"
+  },
+  {
     "titulo": "Descubren asombrosa especie de nutria en América Latina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2024/08/26161202/nutria-1-768x512.jpg",
     "fecha": "Jul 28, 2025",
@@ -6588,7 +6594,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Jul 29 18:29:16 2025",
+    "titulo": "Última actualización automática - Wed Jul 30 01:24:17 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
