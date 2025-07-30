@@ -1,188 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "02:45",
-    "lat": -7.97601,
-    "lon": -78.50665
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "07:31",
-    "lat": -11.07588,
-    "lon": -69.41742
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -14.84235,
-    "lon": -71.6408
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -13.92493,
-    "lon": -68.00645
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -13.2596,
-    "lon": -70.33654
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -13.86938,
-    "lon": -75.95554
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -13.871,
-    "lon": -75.96791
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -12.92341,
-    "lon": -70.14817
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -12.85352,
-    "lon": -69.85105
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -12.73364,
-    "lon": -69.21286
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -12.73549,
-    "lon": -69.22459
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -12.67851,
-    "lon": -69.83118
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -12.67653,
-    "lon": -69.83718
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -12.46059,
-    "lon": -69.0501
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -12.46217,
-    "lon": -69.05645
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -12.62002,
-    "lon": -73.23675
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:45",
-    "lat": -12.60732,
-    "lon": -73.21116
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:47",
-    "lat": -10.92537,
-    "lon": -73.50221
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:47",
-    "lat": -10.88238,
-    "lon": -73.28687
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:47",
-    "lat": -10.88367,
-    "lon": -73.29578
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:47",
-    "lat": -7.24103,
-    "lon": -76.38818
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:47",
-    "lat": -7.17619,
-    "lon": -76.37148
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:47",
-    "lat": -6.96543,
-    "lon": -76.25571
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:47",
-    "lat": -5.93281,
-    "lon": -76.13387
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:47",
-    "lat": -5.72573,
-    "lon": -75.85277
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-28",
-    "hora": "19:49",
-    "lat": -0.85062,
-    "lon": -78.87625
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2025-07-29",
     "hora": "14:12",
     "lat": -16.40688,
@@ -238,6 +56,28 @@ const eventosNaturales = [
     "lon": -80.791
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-07-30",
+    "hora": "02:26",
+    "lat": -1.77915,
+    "lon": -80.14738
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-07-30",
+    "hora": "02:26",
+    "lat": -1.77903,
+    "lon": -80.15369
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-07-30T03:49:14.297Z",
+    "lugar": "57 km ENE of Estique, Peru",
+    "magnitud": "4.7",
+    "lat": -17.4174,
+    "lon": -69.4897
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-28T12:34:01.516Z",
     "lugar": "16 km SSE of Santa Rosa, Ecuador",
@@ -252,13 +92,5 @@ const eventosNaturales = [
     "magnitud": "4.4",
     "lat": -8.8016,
     "lon": -74.6937
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-07-23T02:20:20.038Z",
-    "lugar": "54 km S of Atiquipa, Peru",
-    "magnitud": "4.4",
-    "lat": -16.2817,
-    "lon": -74.4306
   }
 ];
