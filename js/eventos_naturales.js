@@ -1,97 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "02:26",
-    "lat": -1.77915,
-    "lon": -80.14738
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "02:26",
-    "lat": -1.77903,
-    "lon": -80.15369
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "14:46",
-    "lat": -0.18745,
-    "lon": -76.643
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "14:48",
-    "lat": -5.09629,
-    "lon": -80.16619
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "14:48",
-    "lat": -5.47149,
-    "lon": -80.71131
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "19:25",
-    "lat": -13.85725,
-    "lon": -75.94941
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "19:25",
-    "lat": -10.28103,
-    "lon": -68.64195
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "19:25",
-    "lat": -10.28232,
-    "lon": -68.65098
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "19:28",
-    "lat": -9.05928,
-    "lon": -74.76783
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "19:28",
-    "lat": -9.05866,
-    "lon": -74.75173
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "19:28",
-    "lat": -9.06143,
-    "lon": -74.77243
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "19:28",
-    "lat": -6.44647,
-    "lon": -75.77553
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-07-30",
-    "hora": "19:23",
-    "lat": -14.45286,
-    "lon": -71.42802
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2025-07-31",
     "hora": "07:48",
     "lat": -2.00286,
@@ -355,6 +264,34 @@ const eventosNaturales = [
     "hora": "20:06",
     "lat": -0.5494,
     "lon": -80.2736
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-01",
+    "hora": "02:04",
+    "lat": -11.2007,
+    "lon": -68.05837
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-01",
+    "hora": "02:04",
+    "lat": -11.19134,
+    "lon": -68.05986
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-01",
+    "hora": "02:06",
+    "lat": -6.68907,
+    "lon": -79.76076
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-01",
+    "hora": "02:06",
+    "lat": -6.69214,
+    "lon": -79.76734
   },
   {
     "tipo": "Sismo",
