@@ -294,6 +294,41 @@ const eventosNaturales = [
     "lon": -79.76734
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-01",
+    "hora": "14:29",
+    "lat": -6.68434,
+    "lon": -79.43195
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-01",
+    "hora": "14:29",
+    "lat": -8.4129,
+    "lon": -74.44968
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-01",
+    "hora": "14:29",
+    "lat": -9.4328,
+    "lon": -74.27004
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-01",
+    "hora": "14:29",
+    "lat": -0.07989,
+    "lon": -77.65549
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-01",
+    "hora": "14:29",
+    "lat": -2.003,
+    "lon": -78.3427
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-30T03:49:14.297Z",
     "lugar": "57 km ENE of Estique, Peru",
