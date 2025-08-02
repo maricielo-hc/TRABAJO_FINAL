@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Videos captan al conejo de Omiltemi, especie que se creía extinta desde hace  120 años en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/04/04051644/Octubre_2021_Sylvilagus-insonus-768x512.jpg",
+    "fecha": "Aug 01, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/08/videos-conejo-de-omiltemi-especie-extinta-mexico/"
+  },
+  {
     "titulo": "Siguiendo ballenas francas: cómo funciona el proyecto que rastrea sus rutas migratorias desde el espacio exterior | ENTREVISTA",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/30024146/Ballena-SULFURIUM_Fecha-09Sept2024_credito-Paula-Faiferman-Siguiendoballenas-768x512.jpg",
     "fecha": "Jul 31, 2025",
@@ -6600,7 +6606,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Aug  1 18:28:11 2025",
+    "titulo": "Última actualización automática - Sat Aug  2 01:20:43 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
