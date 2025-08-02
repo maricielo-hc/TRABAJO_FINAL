@@ -105,6 +105,13 @@ const eventosNaturales = [
     "lon": -78.8837
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-02",
+    "hora": "13:33",
+    "lat": -15.9052,
+    "lon": -68.23719
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-07-30T03:49:14.297Z",
     "lugar": "57 km ENE of Estique, Peru",
