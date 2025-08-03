@@ -434,6 +434,27 @@
     "lon": -76.49176
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-03",
+    "hora": "14:12",
+    "lat": -8.60418,
+    "lon": -77.77562
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-03",
+    "hora": "14:12",
+    "lat": -13.52827,
+    "lon": -72.82082
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-03",
+    "hora": "14:12",
+    "lat": -13.54181,
+    "lon": -74.13733
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-03T11:42:52.813Z",
     "lugar": "130 km SSW of Tarauacá, Brazil",
