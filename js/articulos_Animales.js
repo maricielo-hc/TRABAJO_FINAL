@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "El nacimiento de 47 pichones de cardenalitos revive la esperanza a una especie en peligro en Venezuela",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/02021009/Pichones_Samuel-Beomon-2-768x512.jpg",
+    "fecha": "Aug 03, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/08/nacimiento-pichones-cardenalitos-conservacion-venezuela/"
+  },
+  {
     "titulo": "Videos captan al conejo de Omiltemi, especie que se creía extinta desde hace  120 años en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/04/04051644/Octubre_2021_Sylvilagus-insonus-768x512.jpg",
     "fecha": "Aug 01, 2025",
@@ -6606,7 +6612,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Aug  3 12:37:03 2025",
+    "titulo": "Última actualización automática - Sun Aug  3 18:26:28 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
