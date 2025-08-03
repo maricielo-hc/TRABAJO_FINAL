@@ -1,76 +1,6 @@
 [
   {
     "tipo": "Incendio",
-    "fecha": "2025-08-01",
-    "hora": "02:04",
-    "lat": -11.2007,
-    "lon": -68.05837
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-01",
-    "hora": "02:04",
-    "lat": -11.19134,
-    "lon": -68.05986
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-01",
-    "hora": "02:06",
-    "lat": -6.68907,
-    "lon": -79.76076
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-01",
-    "hora": "02:06",
-    "lat": -6.69214,
-    "lon": -79.76734
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-01",
-    "hora": "14:29",
-    "lat": -6.68434,
-    "lon": -79.43195
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-01",
-    "hora": "14:29",
-    "lat": -8.4129,
-    "lon": -74.44968
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-01",
-    "hora": "14:29",
-    "lat": -9.4328,
-    "lon": -74.27004
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-01",
-    "hora": "14:29",
-    "lat": -0.07989,
-    "lon": -77.65549
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-01",
-    "hora": "14:29",
-    "lat": -2.003,
-    "lon": -78.3427
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-01",
-    "hora": "19:04",
-    "lat": -10.13569,
-    "lon": -68.07919
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2025-08-02",
     "hora": "02:47",
     "lat": -5.13441,
@@ -505,6 +435,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-08-03T11:42:52.813Z",
+    "lugar": "130 km SSW of Tarauacá, Brazil",
+    "magnitud": "5",
+    "lat": -9.1953,
+    "lon": -71.3286
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-08-01T01:59:15.563Z",
     "lugar": "36 km WNW of Mazo Cruz, Peru",
     "magnitud": "4.5",
@@ -526,13 +464,5 @@
     "magnitud": "4.4",
     "lat": -3.5845,
     "lon": -79.8973
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-07-27T10:20:17.896Z",
-    "lugar": "3 km SSE of Honoria, Peru",
-    "magnitud": "4.4",
-    "lat": -8.8016,
-    "lon": -74.6937
   }
 ]
