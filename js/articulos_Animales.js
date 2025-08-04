@@ -423,7 +423,7 @@ const articulos = [
     "titulo": "«El tráfico ilegal no es nacional, es un problema mundial y es el tercer negocio más lucrativo ilegal del mundo» | ENTREVISTA",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/30162653/FOTO-2-trafico-de-fauna-madre-de-dios-18-768x512.jpg",
     "fecha": "Apr 26, 2025",
-    "url": "https://es.mongabay.com/podcasts/2025/04/trafico-ilegal-problema-mundial-tercer-negocio-mas-lucrativo-ilegal-del-mundo-entrevista/"
+    "url": "https://es.mongabay.com/podcast/2025/04/trafico-ilegal-problema-mundial-tercer-negocio-mas-lucrativo-ilegal-del-mundo-entrevista/"
   },
   {
     "titulo": "Día Mundial de los Pingüinos: la batalla por conservar a estas extraordinarias aves en Chile, Argentina y Perú",
@@ -549,7 +549,7 @@ const articulos = [
     "titulo": "¿Qué está pasando con la pesca ilegal frente a la Reserva Nacional de Illescas? | Podcast",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/23223209/DJI_0567-768x512.jpg",
     "fecha": "Mar 26, 2025",
-    "url": "https://es.mongabay.com/podcasts/2025/03/que-esta-pasando-con-la-pesca-ilegal-en-la-resera-nacional-de-illescas-podcast/"
+    "url": "https://es.mongabay.com/podcast/2025/03/que-esta-pasando-con-la-pesca-ilegal-en-la-resera-nacional-de-illescas-podcast/"
   },
   {
     "titulo": "Con olfato y corazón: la historia del entrenador y los “perros tigreros” que rastrean jaguares para protegerlos",
@@ -1395,7 +1395,7 @@ const articulos = [
     "titulo": "Cuatro cóndores son liberados en el Parque Nacional Patagonia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2024/02/26103621/condor-andino-Chile-4-hernan-povedano-wildlife-pnp-valchacnn025-768x512.jpg",
     "fecha": "Mar 06, 2024",
-    "url": "https://es.mongabay.com/podcasts/2024/03/podcast-ambiental-cuatro-condores-son-liberados-parque-nacional-patagonia/"
+    "url": "https://es.mongabay.com/podcast/2024/03/podcast-ambiental-cuatro-condores-son-liberados-parque-nacional-patagonia/"
   },
   {
     "titulo": "Chile: La fórmula de minera Quiborax para saltarse las reglas en el Salar de Surire",
@@ -6612,7 +6612,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Aug  4 12:41:26 2025",
+    "titulo": "Última actualización automática - Mon Aug  4 18:30:13 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
