@@ -113,13 +113,5 @@
     "magnitud": "4.7",
     "lat": -17.4174,
     "lon": -69.4897
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-07-28T12:34:01.516Z",
-    "lugar": "16 km SSE of Santa Rosa, Ecuador",
-    "magnitud": "4.4",
-    "lat": -3.5845,
-    "lon": -79.8973
   }
 ]
