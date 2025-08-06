@@ -259,6 +259,111 @@ const eventosNaturales = [
     "lon": -76.14318
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "13:55",
+    "lat": -15.07016,
+    "lon": -70.75098
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "13:55",
+    "lat": -16.70445,
+    "lon": -70.99223
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:00",
+    "lat": -14.0742,
+    "lon": -71.98174
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:02",
+    "lat": -10.67264,
+    "lon": -77.70377
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:02",
+    "lat": -9.73405,
+    "lon": -76.20727
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:02",
+    "lat": -9.73535,
+    "lon": -76.21597
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:02",
+    "lat": -9.29774,
+    "lon": -75.9992
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:02",
+    "lat": -8.96588,
+    "lon": -78.5396
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:02",
+    "lat": -8.3833,
+    "lon": -78.01678
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:02",
+    "lat": -8.3846,
+    "lon": -78.02581
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:02",
+    "lat": -6.61422,
+    "lon": -75.65634
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:02",
+    "lat": -6.58027,
+    "lon": -76.54219
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:04",
+    "lat": -6.61193,
+    "lon": -79.36864
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:04",
+    "lat": -1.80633,
+    "lon": -80.27122
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-05",
+    "hora": "20:04",
+    "lat": -0.08645,
+    "lon": -77.65699
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-03T11:42:52.813Z",
     "lugar": "130 km SSW of Tarauacá, Brazil",
