@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "¿Es posible mejorar la relación entre felinos y ganaderos en Costa Rica? Datos clave de un asombroso proyecto de conservación",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2024/07/31220319/Jaguar-capturado-por-una-camara-trampa-en-una-finca-con-problemas-de-depredacion-en-el-Area-de-Conservacion-La-Amistad-Caribe-2014-768x512.jpg",
+    "fecha": "Aug 05, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/08/mejorar-relacion-felinos-ganaderos-costa-rica-proyecto-conservacion/"
+  },
+  {
     "titulo": "El nacimiento de 47 pichones de cardenalitos revive la esperanza a una especie en peligro en Venezuela",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/02021009/Pichones_Samuel-Beomon-2-768x512.jpg",
     "fecha": "Aug 03, 2025",
@@ -6612,7 +6618,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Aug  5 18:31:29 2025",
+    "titulo": "Última actualización automática - Wed Aug  6 01:25:11 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
