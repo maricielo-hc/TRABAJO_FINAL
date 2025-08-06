@@ -365,6 +365,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-08-05T23:31:19.912Z",
+    "lugar": "147 km SW of Santiago de Cao, Peru",
+    "magnitud": "4.4",
+    "lat": -8.7654,
+    "lon": -80.3006
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-08-03T11:42:52.813Z",
     "lugar": "130 km SSW of Tarauacá, Brazil",
     "magnitud": "5",
@@ -378,13 +386,5 @@ const eventosNaturales = [
     "magnitud": "4.5",
     "lat": -16.5744,
     "lon": -70.0096
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-07-30T03:49:14.297Z",
-    "lugar": "57 km ENE of Estique, Peru",
-    "magnitud": "4.7",
-    "lat": -17.4174,
-    "lon": -69.4897
   }
 ];
