@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Sigue en vivo la exploración submarina en Argentina: la expedición científica que cautiva al mundo",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/06194805/MAR_8-768x512.jpg",
+    "fecha": "Aug 07, 2025",
+    "url": "https://es.mongabay.com/2025/08/en-vivo-expedicion-submarina-argentina-oceanos/"
+  },
+  {
     "titulo": "¿Es posible mejorar la relación entre felinos y ganaderos en Costa Rica? Datos clave de un asombroso proyecto de conservación",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2024/07/31220319/Jaguar-capturado-por-una-camara-trampa-en-una-finca-con-problemas-de-depredacion-en-el-Area-de-Conservacion-La-Amistad-Caribe-2014-768x512.jpg",
     "fecha": "Aug 05, 2025",
@@ -6618,7 +6624,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Aug  7 12:40:27 2025",
+    "titulo": "Última actualización automática - Thu Aug  7 18:29:52 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
