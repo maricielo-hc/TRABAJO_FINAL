@@ -56,6 +56,13 @@
     "lon": -77.65758
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-07",
+    "hora": "07:26",
+    "lat": -10.98063,
+    "lon": -69.63348
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-05T23:31:19.912Z",
     "lugar": "147 km SW of Santiago de Cao, Peru",
