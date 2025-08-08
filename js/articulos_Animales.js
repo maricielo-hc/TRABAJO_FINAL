@@ -1,15 +1,15 @@
 const articulos = [
   {
+    "titulo": "Aumentan los erizos negros en Chile: la inteligencia artificial se sumerge en el océano para estudiarlos y controlarlos",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/06215400/Erizos-negros-de-puas-largas-en-Rapa-Nui.-Autor-CIMARQ-768x512.png",
+    "fecha": "Aug 08, 2025",
+    "url": "https://es.mongabay.com/2025/08/sobrepoblacion-erizos-negros-chile-inteligencia-artificial-oceanos/"
+  },
+  {
     "titulo": "Sigue en vivo la exploración submarina en Argentina: la expedición científica que cautiva al mundo",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/06194805/MAR_8-768x512.jpg",
     "fecha": "Aug 07, 2025",
     "url": "https://es.mongabay.com/2025/08/en-vivo-expedicion-submarina-argentina-oceanos/"
-  },
-  {
-    "titulo": "Aumentan los erizos negros en Chile: la inteligencia artificial se sumerge en el océano para estudiarlos y controlarlos",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/06215400/Erizos-negros-de-puas-largas-en-Rapa-Nui.-Autor-CIMARQ-768x512.png",
-    "fecha": "Aug 07, 2025",
-    "url": "https://es.mongabay.com/2025/08/sobrepoblacion-erizos-negros-chile-inteligencia-artificial-oceanos/"
   },
   {
     "titulo": "¿Es posible mejorar la relación entre felinos y ganaderos en Costa Rica? Datos clave de un asombroso proyecto de conservación",
@@ -6630,7 +6630,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Aug  8 12:39:49 2025",
+    "titulo": "Última actualización automática - Fri Aug  8 18:26:11 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
