@@ -714,13 +714,5 @@
     "magnitud": "5",
     "lat": -9.1953,
     "lon": -71.3286
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-08-01T01:59:15.563Z",
-    "lugar": "36 km WNW of Mazo Cruz, Peru",
-    "magnitud": "4.5",
-    "lat": -16.5744,
-    "lon": -70.0096
   }
 ]
