@@ -700,6 +700,76 @@ const eventosNaturales = [
     "lon": -78.33604
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-08",
+    "hora": "14:10",
+    "lat": -1.53809,
+    "lon": -78.55906
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-08",
+    "hora": "14:12",
+    "lat": -8.52634,
+    "lon": -74.32886
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-08",
+    "hora": "14:12",
+    "lat": -9.65464,
+    "lon": -74.17877
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-08",
+    "hora": "14:12",
+    "lat": -9.93638,
+    "lon": -76.37861
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-08",
+    "hora": "14:12",
+    "lat": -9.93769,
+    "lon": -76.36977
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-08",
+    "hora": "14:12",
+    "lat": -9.9458,
+    "lon": -76.50095
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-08",
+    "hora": "14:12",
+    "lat": -10.18209,
+    "lon": -75.96628
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-08",
+    "hora": "14:12",
+    "lat": -11.35701,
+    "lon": -75.04999
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-08",
+    "hora": "14:12",
+    "lat": -11.73967,
+    "lon": -75.4722
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-08",
+    "hora": "14:14",
+    "lat": -14.26275,
+    "lon": -71.76815
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-05T23:31:19.912Z",
     "lugar": "147 km SW of Santiago de Cao, Peru",
