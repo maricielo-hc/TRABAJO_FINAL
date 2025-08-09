@@ -946,6 +946,22 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-08-09T04:44:09.149Z",
+    "lugar": "49 km SE of Contamana, Peru",
+    "magnitud": "4.5",
+    "lat": -7.5949,
+    "lon": -74.6511
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-08-09T04:29:42.689Z",
+    "lugar": "23 km WSW of Mazo Cruz, Peru",
+    "magnitud": "4.3",
+    "lat": -16.8349,
+    "lon": -69.9131
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-08-05T23:31:19.912Z",
     "lugar": "147 km SW of Santiago de Cao, Peru",
     "magnitud": "4.4",
