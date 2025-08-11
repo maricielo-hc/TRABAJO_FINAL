@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "“Los drones nos permiten obtener información para tomar medidas de manejo de la naturaleza” | ENTREVISTA",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/11145749/Gonzalo-Rivas-Torres-2025-08-10-at-18.29.47-e1754925145226-768x512.jpeg",
+    "fecha": "Aug 11, 2025",
+    "url": "https://es.mongabay.com/2025/08/drones-informacion-conservacion-naturaleza-entrevista/"
+  },
+  {
     "titulo": "Aumentan los erizos negros en Chile: la inteligencia artificial se sumerge en el océano para estudiarlos y controlarlos",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/06215400/Erizos-negros-de-puas-largas-en-Rapa-Nui.-Autor-CIMARQ-768x512.png",
     "fecha": "Aug 08, 2025",
@@ -6630,7 +6636,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Aug 11 12:39:32 2025",
+    "titulo": "Última actualización automática - Mon Aug 11 18:29:05 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
