@@ -1,132 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "02:24",
-    "lat": -12.99905,
-    "lon": -73.33228
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "02:24",
-    "lat": -12.82181,
-    "lon": -73.6284
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "02:26",
-    "lat": -6.50503,
-    "lon": -76.53056
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "14:48",
-    "lat": -0.27432,
-    "lon": -78.53232
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -11.37954,
-    "lon": -68.41248
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -11.13323,
-    "lon": -68.98505
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -11.13472,
-    "lon": -68.99603
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -10.96206,
-    "lon": -68.1989
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -10.92175,
-    "lon": -68.43649
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -10.85871,
-    "lon": -68.77895
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -10.86018,
-    "lon": -68.78954
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -10.87804,
-    "lon": -69.20842
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -10.87956,
-    "lon": -69.21967
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -18.44958,
-    "lon": -68.26061
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -16.23173,
-    "lon": -69.46946
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -15.69532,
-    "lon": -70.38845
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -15.6982,
-    "lon": -70.39242
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-08-09",
-    "hora": "19:19",
-    "lat": -13.14518,
-    "lon": -68.14208
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2025-08-10",
     "hora": "07:41",
     "lat": -0.07861,
@@ -327,6 +201,28 @@ const eventosNaturales = [
     "hora": "20:02",
     "lat": -4.88484,
     "lon": -80.55489
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-11",
+    "hora": "02:06",
+    "lat": -13.12137,
+    "lon": -68.16052
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-11",
+    "hora": "02:06",
+    "lat": -10.1446,
+    "lon": -68.60483
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-08-11T11:41:25.478Z",
+    "lugar": "93 km SSW of Paracas, Peru",
+    "magnitud": "4.5",
+    "lat": -14.6246,
+    "lon": -76.656
   },
   {
     "tipo": "Sismo",
