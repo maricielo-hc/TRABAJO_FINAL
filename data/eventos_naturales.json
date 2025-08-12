@@ -91,6 +91,13 @@
     "lon": -80.12294
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-12",
+    "hora": "07:24",
+    "lat": -8.61799,
+    "lon": -74.31917
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-11T11:41:25.478Z",
     "lugar": "93 km SSW of Paracas, Peru",
