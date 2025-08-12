@@ -1,5 +1,53 @@
 const articulos = [
   {
+    "titulo": "Sin salida: la irreversible realidad de los felinos que son rescatados del tráfico de animales",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/12153222/Portada-V4-768x512.jpg",
+    "fecha": "Aug 12, 2025",
+    "url": "https://es.mongabay.com/2025/08/felinos-rescatados-trafico-animales-latinoamerica/"
+  },
+  {
+    "titulo": "Así es la vida de Barto, un ocelote rescatado del tráfico de vida silvestre en Colombia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08000354/Colombia-1-Barto-ocelote-rescatado-en-vivienda-en-Colombia-2025-Foto-Santiago-Wills-768x512.jpg",
+    "fecha": "Aug 12, 2025",
+    "url": "https://es.mongabay.com/2025/08/incierto-destino-ocelotes-rescatados-trafico-colombia/"
+  },
+  {
+    "titulo": "La lucha silenciosa por rehabilitar y liberar al yaguarundí en Guatemala",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08073949/Guatemala-1-Yaguarundies-recuperados-del-trafico-de-especies-rehabilitados-por-Arcas-Foto-Christian-Gutierrez-768x513.jpg",
+    "fecha": "Aug 12, 2025",
+    "url": "https://es.mongabay.com/2025/08/rehabilitar-liberar-yaguarundi-guatemala/"
+  },
+  {
+    "titulo": "Los linces vendidos como gatos domésticos que son rehabilitados en un centro de rescate en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08070259/Mexico-9-El-lince-despierta-el-interes-de-los-cazadores-para-su-comercializacion-Foto-Lizeth-Ovando-768x512.jpg",
+    "fecha": "Aug 12, 2025",
+    "url": "https://es.mongabay.com/2025/08/linces-vendidos-rehabilitados-mexico/"
+  },
+  {
+    "titulo": "Un refugio para Prince: la historia del rescate de un jaguar que no podrá regresar a la selva en Perú",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08020849/Peru-1-Prince-Jaguar-centro-de-rescate-Pilpintuwasi-Foto-Max-Cabello-768x512.jpg",
+    "fecha": "Aug 12, 2025",
+    "url": "https://es.mongabay.com/2025/08/refugio-prince-rescate-jaguar-peru/"
+  },
+  {
+    "titulo": "Jaguares son liberados con éxito en Brasil, pero las amenazas persisten",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08005218/Brasil-1-Jaguar-Panthera-onca-en-el-Pantanal-brasileno-2025-Foto-Gregoire-Dubois-768x512.jpg",
+    "fecha": "Aug 12, 2025",
+    "url": "https://es.mongabay.com/2025/08/jaguares-liberados-brasil-amenazas/"
+  },
+  {
+    "titulo": "El tráfico ilegal que maltrata y vende pumas para garantizarles trofeos a los cazadores en Argentina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/06232428/Puma-silvestre-Foto-Susana-Torres-Mongabay-Latam-768x512.jpg",
+    "fecha": "Aug 12, 2025",
+    "url": "https://es.mongabay.com/2025/08/trafico-ilegal-pumas-trofeos-cazadores-argentina/"
+  },
+  {
+    "titulo": "Denuncian traslado ilegal de 12 toneladas de aletas de tiburón en Costa Rica bajo figura de “reexportación”",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/11133243/costa-rica-tiburones-aletas-exportacion-entrevista-768x512.jpg",
+    "fecha": "Aug 12, 2025",
+    "url": "https://es.mongabay.com/2025/08/costa-rica-tiburones-aletas-exportacion-entrevista/"
+  },
+  {
     "titulo": "“Los drones nos permiten obtener información para tomar medidas de manejo de la naturaleza” | ENTREVISTA",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/11145749/Gonzalo-Rivas-Torres-2025-08-10-at-18.29.47-e1754925145226-768x512.jpeg",
     "fecha": "Aug 11, 2025",
@@ -6636,7 +6684,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Aug 12 12:36:29 2025",
+    "titulo": "Última actualización automática - Tue Aug 12 18:29:00 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
