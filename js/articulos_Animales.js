@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Un refugio para Prince: la historia del rescate de un jaguar que no podrá regresar a la selva en Perú",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08020849/Peru-1-Prince-Jaguar-centro-de-rescate-Pilpintuwasi-Foto-Max-Cabello-768x512.jpg",
+    "fecha": "Aug 13, 2025",
+    "url": "https://es.mongabay.com/2025/08/refugio-prince-rescate-jaguar-peru/"
+  },
+  {
     "titulo": "Así es la vida de Barto, un ocelote rescatado del tráfico de vida silvestre en Colombia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08000354/Colombia-1-Barto-ocelote-rescatado-en-vivienda-en-Colombia-2025-Foto-Santiago-Wills-768x512.jpg",
     "fecha": "Aug 12, 2025",
@@ -22,12 +28,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/12153222/Portada-V4-768x512.jpg",
     "fecha": "Aug 12, 2025",
     "url": "https://es.mongabay.com/2025/08/felinos-rescatados-trafico-animales-latinoamerica/"
-  },
-  {
-    "titulo": "Un refugio para Prince: la historia del rescate de un jaguar que no podrá regresar a la selva en Perú",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08020849/Peru-1-Prince-Jaguar-centro-de-rescate-Pilpintuwasi-Foto-Max-Cabello-768x512.jpg",
-    "fecha": "Aug 12, 2025",
-    "url": "https://es.mongabay.com/2025/08/refugio-prince-rescate-jaguar-peru/"
   },
   {
     "titulo": "Jaguares son liberados con éxito en Brasil, pero las amenazas persisten",
@@ -6684,7 +6684,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Aug 13 12:37:44 2025",
+    "titulo": "Última actualización automática - Wed Aug 13 18:27:20 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
