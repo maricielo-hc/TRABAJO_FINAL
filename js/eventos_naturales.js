@@ -98,6 +98,20 @@ const eventosNaturales = [
     "lon": -74.31917
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-12",
+    "hora": "13:33",
+    "lat": -13.61135,
+    "lon": -70.62701
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-12",
+    "hora": "13:33",
+    "lat": -14.48624,
+    "lon": -69.37798
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-11T11:41:25.478Z",
     "lugar": "93 km SSW of Paracas, Peru",
@@ -128,13 +142,5 @@ const eventosNaturales = [
     "magnitud": "4.3",
     "lat": -16.8349,
     "lon": -69.9131
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-08-05T23:31:19.912Z",
-    "lugar": "147 km SW of Santiago de Cao, Peru",
-    "magnitud": "4.4",
-    "lat": -8.7654,
-    "lon": -80.3006
   }
 ];
