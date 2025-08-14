@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "El tráfico ilegal que maltrata y vende pumas para garantizarles trofeos a los cazadores en Argentina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/06232428/Puma-silvestre-Foto-Susana-Torres-Mongabay-Latam-768x512.jpg",
+    "fecha": "Aug 14, 2025",
+    "url": "https://es.mongabay.com/2025/08/trafico-ilegal-pumas-trofeos-cazadores-argentina/"
+  },
+  {
+    "titulo": "La sorprendente misión de elefantes marinos que ayudan a científicos a entender la enigmática corriente del Cabo de Hornos y el cambio climático",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/13000252/PORTADA-Elefante-marino-con-transmisor-satelital-en-bahia-Jackson.-Cortesia-Maritza-Sepulveda-768x512.jpg",
+    "fecha": "Aug 14, 2025",
+    "url": "https://es.mongabay.com/2025/08/elefantes-marinos-exploran-cabo-de-hornos-cambio-climatico-chile/"
+  },
+  {
     "titulo": "Los linces vendidos como gatos domésticos que son rehabilitados en un centro de rescate en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08070259/Mexico-9-El-lince-despierta-el-interes-de-los-cazadores-para-su-comercializacion-Foto-Lizeth-Ovando-768x512.jpg",
     "fecha": "Aug 13, 2025",
@@ -34,12 +46,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08005218/Brasil-1-Jaguar-Panthera-onca-en-el-Pantanal-brasileno-2025-Foto-Gregoire-Dubois-768x512.jpg",
     "fecha": "Aug 12, 2025",
     "url": "https://es.mongabay.com/2025/08/jaguares-liberados-brasil-amenazas/"
-  },
-  {
-    "titulo": "El tráfico ilegal que maltrata y vende pumas para garantizarles trofeos a los cazadores en Argentina",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/06232428/Puma-silvestre-Foto-Susana-Torres-Mongabay-Latam-768x512.jpg",
-    "fecha": "Aug 12, 2025",
-    "url": "https://es.mongabay.com/2025/08/trafico-ilegal-pumas-trofeos-cazadores-argentina/"
   },
   {
     "titulo": "Denuncian traslado ilegal de 12 toneladas de aletas de tiburón en Costa Rica bajo figura de “reexportación”",
@@ -6684,7 +6690,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Aug 14 12:38:39 2025",
+    "titulo": "Última actualización automática - Thu Aug 14 18:28:11 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
