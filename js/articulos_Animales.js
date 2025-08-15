@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "¿Cómo una planta de aguas residuales en La Paz se convirtió en santuario de aves? Datos clave",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/04/30221508/Tachybaptus-dominicus-768x512.jpg",
+    "fecha": "Aug 15, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/08/planta-aguas-residuales-conservacion-aves/"
+  },
+  {
+    "titulo": "La lucha silenciosa por rehabilitar y liberar al yaguarundí en Guatemala",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08073949/Guatemala-1-Yaguarundies-recuperados-del-trafico-de-especies-rehabilitados-por-Arcas-Foto-Christian-Gutierrez-768x513.jpg",
+    "fecha": "Aug 15, 2025",
+    "url": "https://es.mongabay.com/2025/08/rehabilitar-liberar-yaguarundi-guatemala/"
+  },
+  {
     "titulo": "El tráfico ilegal que maltrata y vende pumas para garantizarles trofeos a los cazadores en Argentina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/06232428/Puma-silvestre-Foto-Susana-Torres-Mongabay-Latam-768x512.jpg",
     "fecha": "Aug 14, 2025",
@@ -28,12 +40,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08000354/Colombia-1-Barto-ocelote-rescatado-en-vivienda-en-Colombia-2025-Foto-Santiago-Wills-768x512.jpg",
     "fecha": "Aug 12, 2025",
     "url": "https://es.mongabay.com/2025/08/incierto-destino-ocelotes-rescatados-trafico-colombia/"
-  },
-  {
-    "titulo": "La lucha silenciosa por rehabilitar y liberar al yaguarundí en Guatemala",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08073949/Guatemala-1-Yaguarundies-recuperados-del-trafico-de-especies-rehabilitados-por-Arcas-Foto-Christian-Gutierrez-768x513.jpg",
-    "fecha": "Aug 12, 2025",
-    "url": "https://es.mongabay.com/2025/08/rehabilitar-liberar-yaguarundi-guatemala/"
   },
   {
     "titulo": "Sin salida: la irreversible realidad de los felinos que son rescatados del tráfico de animales",
@@ -6690,7 +6696,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Aug 15 12:34:54 2025",
+    "titulo": "Última actualización automática - Fri Aug 15 18:27:27 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
