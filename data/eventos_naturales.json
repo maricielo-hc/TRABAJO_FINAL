@@ -274,6 +274,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-08-16T10:47:02.343Z",
+    "lugar": "27 km ESE of Machachi, Ecuador",
+    "magnitud": "4.6",
+    "lat": -0.5696,
+    "lon": -78.3309
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-08-13T00:54:34.275Z",
     "lugar": "33 km W of Puerto Santa, Peru",
     "magnitud": "5",
@@ -295,13 +303,5 @@
     "magnitud": "4.1",
     "lat": -15.7608,
     "lon": -70.8908
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-08-09T09:34:45.726Z",
-    "lugar": "59 km SSE of Mazo Cruz, Peru",
-    "magnitud": "4.4",
-    "lat": -17.2273,
-    "lon": -69.4697
   }
 ]
