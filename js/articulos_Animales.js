@@ -2,8 +2,20 @@ const articulos = [
   {
     "titulo": "¿Cómo una planta de aguas residuales en La Paz se convirtió en santuario de aves? Datos clave",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/04/30221508/Tachybaptus-dominicus-768x512.jpg",
-    "fecha": "Aug 15, 2025",
+    "fecha": "Aug 16, 2025",
     "url": "https://es.mongabay.com/short-article/2025/08/planta-aguas-residuales-conservacion-aves/"
+  },
+  {
+    "titulo": "Jaguares son liberados con éxito en Brasil, pero las amenazas persisten",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08005218/Brasil-1-Jaguar-Panthera-onca-en-el-Pantanal-brasileno-2025-Foto-Gregoire-Dubois-768x512.jpg",
+    "fecha": "Aug 16, 2025",
+    "url": "https://es.mongabay.com/2025/08/jaguares-liberados-brasil-amenazas/"
+  },
+  {
+    "titulo": "De Galápagos al Atlántico Sur: el viaje de ballenas francas y tiburones en busca de reproducción y supervivencia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/30023843/Ballena-TELURIUM_Fecha-12Sept2024_credito-Paula-Faiferman-Siguiendoballenas-768x512.jpg",
+    "fecha": "Aug 16, 2025",
+    "url": "https://es.mongabay.com/2025/08/viaje-ballenas-francas-tiburones-reproduccion-supervivencia/"
   },
   {
     "titulo": "La lucha silenciosa por rehabilitar y liberar al yaguarundí en Guatemala",
@@ -46,12 +58,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/12153222/Portada-V4-768x512.jpg",
     "fecha": "Aug 12, 2025",
     "url": "https://es.mongabay.com/2025/08/felinos-rescatados-trafico-animales-latinoamerica/"
-  },
-  {
-    "titulo": "Jaguares son liberados con éxito en Brasil, pero las amenazas persisten",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08005218/Brasil-1-Jaguar-Panthera-onca-en-el-Pantanal-brasileno-2025-Foto-Gregoire-Dubois-768x512.jpg",
-    "fecha": "Aug 12, 2025",
-    "url": "https://es.mongabay.com/2025/08/jaguares-liberados-brasil-amenazas/"
   },
   {
     "titulo": "Denuncian traslado ilegal de 12 toneladas de aletas de tiburón en Costa Rica bajo figura de “reexportación”",
@@ -6696,7 +6702,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Aug 16 12:33:18 2025",
+    "titulo": "Última actualización automática - Sat Aug 16 18:25:08 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
