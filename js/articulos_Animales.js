@@ -72,7 +72,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2025/08/sobrepoblacion-erizos-negros-chile-inteligencia-artificial-oceanos/"
   },
   {
-    "titulo": "Sigue en vivo la exploración submarina en Argentina: la expedición científica que cautiva al mundo",
+    "titulo": "Exploración submarina en Argentina: la expedición científica que cautiva al mundo",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/06194805/MAR_8-768x512.jpg",
     "fecha": "Aug 07, 2025",
     "url": "https://es.mongabay.com/2025/08/en-vivo-expedicion-submarina-argentina-oceanos/"
@@ -6696,7 +6696,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Aug 15 18:27:27 2025",
+    "titulo": "Última actualización automática - Sat Aug 16 01:16:30 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
