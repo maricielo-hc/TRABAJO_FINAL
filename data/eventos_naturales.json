@@ -273,12 +273,34 @@
     "lon": -70.22665
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-16",
+    "hora": "14:31",
+    "lat": -6.03419,
+    "lon": -76.97244
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-16",
+    "hora": "14:33",
+    "lat": -15.00399,
+    "lon": -71.37124
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-16T10:47:02.343Z",
     "lugar": "27 km ESE of Machachi, Ecuador",
     "magnitud": "4.6",
     "lat": -0.5696,
     "lon": -78.3309
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-08-15T20:29:15.214Z",
+    "lugar": "60 km ENE of Arica, Chile",
+    "magnitud": "4.4",
+    "lat": -18.3539,
+    "lon": -69.7404
   },
   {
     "tipo": "Sismo",
