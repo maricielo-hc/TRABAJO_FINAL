@@ -203,6 +203,27 @@
     "lon": -78.34065
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-17",
+    "hora": "07:22",
+    "lat": -8.87393,
+    "lon": -68.51404
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-17",
+    "hora": "07:22",
+    "lat": -8.87525,
+    "lon": -68.50508
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-17",
+    "hora": "07:22",
+    "lat": -8.88278,
+    "lon": -68.51535
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-16T10:47:02.343Z",
     "lugar": "27 km ESE of Machachi, Ecuador",
@@ -233,13 +254,5 @@
     "magnitud": "4.5",
     "lat": -14.6246,
     "lon": -76.656
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-08-10T08:36:49.292Z",
-    "lugar": "6 km N of Hacienda Huancane, Peru",
-    "magnitud": "4.1",
-    "lat": -15.7608,
-    "lon": -70.8908
   }
 ]
