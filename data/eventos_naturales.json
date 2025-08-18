@@ -917,6 +917,28 @@
     "lon": -69.42205
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-18",
+    "hora": "14:12",
+    "lat": -8.54283,
+    "lon": -74.74373
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-18",
+    "hora": "14:12",
+    "lat": -8.5441,
+    "lon": -74.73482
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-08-18T12:47:02.344Z",
+    "lugar": "6 km ESE of Iray, Peru",
+    "magnitud": "4.9",
+    "lat": -15.8782,
+    "lon": -72.5659
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-16T10:47:02.343Z",
     "lugar": "27 km ESE of Machachi, Ecuador",
