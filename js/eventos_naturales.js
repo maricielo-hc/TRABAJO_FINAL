@@ -939,13 +939,5 @@ const eventosNaturales = [
     "magnitud": "5",
     "lat": -8.9303,
     "lon": -78.9442
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-08-11T11:41:25.478Z",
-    "lugar": "93 km SSW of Paracas, Peru",
-    "magnitud": "4.5",
-    "lat": -14.6246,
-    "lon": -76.656
   }
 ];
