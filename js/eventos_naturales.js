@@ -231,6 +231,13 @@ const eventosNaturales = [
     "lon": -75.37126
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-19",
+    "hora": "14:48",
+    "lat": -0.18811,
+    "lon": -76.63799
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-18T12:47:02.344Z",
     "lugar": "6 km ESE of Iray, Peru",
