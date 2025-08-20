@@ -525,6 +525,63 @@
     "lon": -74.77591
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-20",
+    "hora": "13:55",
+    "lat": -15.09066,
+    "lon": -68.81944
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-20",
+    "hora": "13:53",
+    "lat": -7.48597,
+    "lon": -68.3395
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-20",
+    "hora": "13:53",
+    "lat": -7.96881,
+    "lon": -70.1939
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-20",
+    "hora": "13:55",
+    "lat": -8.37496,
+    "lon": -70.1382
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-20",
+    "hora": "13:55",
+    "lat": -8.30566,
+    "lon": -70.74333
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-20",
+    "hora": "13:55",
+    "lat": -11.16746,
+    "lon": -69.28267
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-20",
+    "hora": "13:55",
+    "lat": -12.30269,
+    "lon": -69.1948
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-08-20T15:06:59.460Z",
+    "lugar": "45 km SSE of Alianza Cristiana, Peru",
+    "magnitud": "4.9",
+    "lat": -3.8527,
+    "lon": -76.2642
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-19T22:49:27.804Z",
     "lugar": "73 km S of Pacocha, Peru",
