@@ -2086,6 +2086,160 @@ const eventosNaturales = [
     "lon": -74.99155
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:29",
+    "lat": -0.19006,
+    "lon": -76.64742
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:29",
+    "lat": -1.13938,
+    "lon": -74.24341
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:29",
+    "lat": -1.41893,
+    "lon": -73.33221
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:29",
+    "lat": -1.47384,
+    "lon": -73.59375
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -3.40101,
+    "lon": -78.58118
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -6.67796,
+    "lon": -76.5769
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -6.65862,
+    "lon": -79.4016
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -6.65989,
+    "lon": -79.39273
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -7.14908,
+    "lon": -76.26483
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -7.75154,
+    "lon": -75.01422
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -7.74868,
+    "lon": -75.02048
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -7.35137,
+    "lon": -78.55062
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -7.87411,
+    "lon": -74.84846
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -8.37609,
+    "lon": -74.87767
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -8.37823,
+    "lon": -74.86133
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -8.56641,
+    "lon": -74.91445
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -8.72728,
+    "lon": -74.19073
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -8.7297,
+    "lon": -74.17179
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -8.91504,
+    "lon": -75.48482
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -9.47609,
+    "lon": -74.25572
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:31",
+    "lat": -9.47702,
+    "lon": -74.26244
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-21",
+    "hora": "14:33",
+    "lat": -11.60077,
+    "lon": -74.70164
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-20T15:06:59.460Z",
     "lugar": "45 km SSE of Alianza Cristiana, Peru",
