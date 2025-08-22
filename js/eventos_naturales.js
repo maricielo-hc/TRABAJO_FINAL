@@ -385,6 +385,21 @@ const eventosNaturales = [
     "lon": -73.49191
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-22",
+    "hora": "07:18",
+    "lat": -8.6607,
+    "lon": -70.03776
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-08-22T09:36:12.526Z",
+    "lugar": "19 km SW of Incuyo, Peru",
+    "magnitud": "4.4",
+    "lat": -15.3793,
+    "lon": -73.6873
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-20T15:06:59.460Z",
     "lugar": "45 km SSE of Alianza Cristiana, Peru",
