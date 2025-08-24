@@ -274,6 +274,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-08-24T10:50:33.320Z",
+    "lugar": "24 km WSW of Alausí, Ecuador",
+    "magnitud": "4.8",
+    "lat": -2.3117,
+    "lon": -79.0381
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-08-22T09:36:12.526Z",
     "lugar": "19 km SW of Incuyo, Peru",
     "magnitud": "4.4",
