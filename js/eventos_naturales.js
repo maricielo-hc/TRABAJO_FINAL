@@ -273,6 +273,20 @@ const eventosNaturales = [
     "lon": -74.98596
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-24",
+    "hora": "14:50",
+    "lat": -0.59041,
+    "lon": -76.72197
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-24",
+    "hora": "14:52",
+    "lat": -6.69363,
+    "lon": -79.82387
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-24T10:50:33.320Z",
     "lugar": "24 km WSW of Alausí, Ecuador",
