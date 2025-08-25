@@ -175,6 +175,62 @@
     "lon": -68.05676
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-25",
+    "hora": "13:55",
+    "lat": -15.79761,
+    "lon": -70.28535
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-25",
+    "hora": "13:55",
+    "lat": -8.66464,
+    "lon": -68.67326
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-25",
+    "hora": "13:55",
+    "lat": -8.67255,
+    "lon": -68.68439
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-25",
+    "hora": "13:55",
+    "lat": -8.89282,
+    "lon": -68.69652
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-25",
+    "hora": "13:55",
+    "lat": -9.56618,
+    "lon": -69.01765
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-25",
+    "hora": "13:55",
+    "lat": -9.56752,
+    "lon": -69.00795
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-25",
+    "hora": "13:55",
+    "lat": -10.05849,
+    "lon": -68.46533
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-25",
+    "hora": "13:55",
+    "lat": -10.06247,
+    "lon": -68.47187
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-24T10:50:33.320Z",
     "lugar": "24 km WSW of Alausí, Ecuador",
@@ -205,13 +261,5 @@
     "magnitud": "4.3",
     "lat": -18.378,
     "lon": -71.344
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-08-18T12:47:02.344Z",
-    "lugar": "6 km ESE of Iray, Peru",
-    "magnitud": "4.9",
-    "lat": -15.8782,
-    "lon": -72.5659
   }
 ]
