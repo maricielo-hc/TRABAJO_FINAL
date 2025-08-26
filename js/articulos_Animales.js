@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Aves tropicales en declive: el aumento del calor extremo provoca la disminución de sus poblaciones | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/22232736/Captura-de-pantalla-2025-08-22-a-las-4.27.00-p.m-768x512.png",
+    "fecha": "Aug 26, 2025",
+    "url": "https://es.mongabay.com/2025/08/aves-tropicales-declive-aumento-calor-extremo/"
+  },
+  {
     "titulo": "¿Cómo una planta de aguas residuales en La Paz se convirtió en santuario de aves? Datos clave",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/04/30221508/Tachybaptus-dominicus-768x512.jpg",
     "fecha": "Aug 16, 2025",
@@ -6702,7 +6708,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Aug 26 12:38:04 2025",
+    "titulo": "Última actualización automática - Tue Aug 26 18:26:04 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
