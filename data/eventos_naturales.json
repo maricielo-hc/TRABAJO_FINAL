@@ -98,6 +98,13 @@
     "lon": -79.69865
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-27",
+    "hora": "13:36",
+    "lat": -11.02114,
+    "lon": -69.45961
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-24T10:50:33.320Z",
     "lugar": "24 km WSW of Alausí, Ecuador",
@@ -112,13 +119,5 @@
     "magnitud": "4.4",
     "lat": -15.3793,
     "lon": -73.6873
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-08-20T15:06:59.460Z",
-    "lugar": "45 km SSE of Alianza Cristiana, Peru",
-    "magnitud": "4.9",
-    "lat": -3.8527,
-    "lon": -76.2642
   }
 ]
