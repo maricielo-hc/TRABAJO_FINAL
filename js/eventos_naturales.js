@@ -322,6 +322,48 @@ const eventosNaturales = [
     "lon": -76.31882
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-26",
+    "hora": "20:29",
+    "lat": -10.33308,
+    "lon": -76.33181
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-26",
+    "hora": "20:29",
+    "lat": -10.3199,
+    "lon": -76.33415
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-26",
+    "hora": "20:29",
+    "lat": -7.00095,
+    "lon": -76.56347
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-26",
+    "hora": "20:29",
+    "lat": -6.99643,
+    "lon": -76.56978
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-26",
+    "hora": "20:32",
+    "lat": -7.16462,
+    "lon": -79.60276
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-26",
+    "hora": "20:32",
+    "lat": -2.17056,
+    "lon": -79.69865
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-24T10:50:33.320Z",
     "lugar": "24 km WSW of Alausí, Ecuador",
@@ -344,13 +386,5 @@ const eventosNaturales = [
     "magnitud": "4.9",
     "lat": -3.8527,
     "lon": -76.2642
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-08-19T22:49:28.250Z",
-    "lugar": "81 km S of Pacocha, Peru",
-    "magnitud": "4.3",
-    "lat": -18.378,
-    "lon": -71.344
   }
 ];
