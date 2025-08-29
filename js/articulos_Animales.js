@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Al rescate del «colibrí maravilloso»: reforestan con plantas nativas el Alto Utcubamba para proteger al colibrí cola de espátula",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/28160717/2S6A9958-DeNoiseAI-standard-marv-scaled-portada-768x512.jpg",
+    "fecha": "Aug 29, 2025",
+    "url": "https://es.mongabay.com/2025/08/reforestacion-alto-utcubamba-proteger-colibri-cola-de-espatula-peru/"
+  },
+  {
     "titulo": "Aves tropicales en declive: el aumento del calor extremo provoca la disminución de sus poblaciones | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/22232736/Captura-de-pantalla-2025-08-22-a-las-4.27.00-p.m-768x512.png",
     "fecha": "Aug 27, 2025",
@@ -6708,7 +6714,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Aug 29 12:34:48 2025",
+    "titulo": "Última actualización automática - Fri Aug 29 18:25:01 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
