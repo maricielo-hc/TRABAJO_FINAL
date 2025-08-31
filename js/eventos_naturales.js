@@ -4445,6 +4445,20 @@ const eventosNaturales = [
     "lon": -76.3614
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-08-31",
+    "hora": "08:11",
+    "lat": -2.00462,
+    "lon": -78.34312
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-08-31",
+    "hora": "08:11",
+    "lat": -7.53074,
+    "lon": -78.17317
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-31T03:59:41.445Z",
     "lugar": "76 km SSW of San Juan, Peru",
@@ -4459,13 +4473,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -18.9492,
     "lon": -69.4232
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-08-24T10:50:33.320Z",
-    "lugar": "24 km WSW of Alausí, Ecuador",
-    "magnitud": "4.8",
-    "lat": -2.3117,
-    "lon": -79.0381
   }
 ];
