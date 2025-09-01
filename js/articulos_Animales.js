@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Día Internacional de los Primates: esfuerzos científicos que empoderan a comunidades en Sudamérica para conservar especies y sus ecosistemas",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/30065733/dia-internacional-primates-cientificos-comunidades-sudamerica-14-768x512.jpeg",
+    "fecha": "Sep 01, 2025",
+    "url": "https://es.mongabay.com/2025/09/dia-internacional-primates-cientificos-comunidades-sudamerica/"
+  },
+  {
     "titulo": "Al rescate del «colibrí maravilloso»: reforestan con plantas nativas el Alto Utcubamba para proteger al colibrí cola de espátula",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/28160717/2S6A9958-DeNoiseAI-standard-marv-scaled-portada-768x512.jpg",
     "fecha": "Aug 29, 2025",
@@ -6714,7 +6720,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Sep  1 12:35:47 2025",
+    "titulo": "Última actualización automática - Mon Sep  1 18:25:28 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
