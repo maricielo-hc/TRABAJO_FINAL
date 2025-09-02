@@ -1806,6 +1806,62 @@ const eventosNaturales = [
     "lon": -70.2177
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-02",
+    "hora": "14:14",
+    "lat": -13.66221,
+    "lon": -71.68018
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-02",
+    "hora": "14:14",
+    "lat": -8.38997,
+    "lon": -70.75897
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-02",
+    "hora": "14:14",
+    "lat": -8.56298,
+    "lon": -71.45977
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-02",
+    "hora": "14:14",
+    "lat": -8.49758,
+    "lon": -74.80678
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-02",
+    "hora": "14:14",
+    "lat": -8.50655,
+    "lon": -74.80804
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-02",
+    "hora": "14:14",
+    "lat": -8.50784,
+    "lon": -74.79888
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-02",
+    "hora": "14:14",
+    "lat": -8.57953,
+    "lon": -74.42084
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-02",
+    "hora": "14:14",
+    "lat": -8.78848,
+    "lon": -77.95036
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-31T03:59:41.445Z",
     "lugar": "76 km SSW of San Juan, Peru",
