@@ -1,5 +1,23 @@
 const articulos = [
   {
+    "titulo": "Embarcaciones japonesas desembarcaron ilegalmente en Perú más de 17 000 kilos de aletas de tiburón",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/02132140/Portada-Aletas-2-1-768x512.png",
+    "fecha": "Sep 02, 2025",
+    "url": "https://es.mongabay.com/2025/09/embarcaciones-japonesas-desembarcaron-ilegalmente-aletas-tiburon-peru/"
+  },
+  {
+    "titulo": "Honduras: cómo cinco comunidades logran proteger a la tortuga golfina en el Golfo de Fonseca",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/02164502/whatsapp-image-2023-11-01-at-3.49.01-pm-678x381-1.jpg",
+    "fecha": "Sep 02, 2025",
+    "url": "https://es.mongabay.com/2025/09/honduras-comunidades-logran-proteger-tortuga-golfina/"
+  },
+  {
+    "titulo": "¿Cómo están nuestras aves?: una guía para científicos y monitores comunitarios que buscan proteger la biodiversidad",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/01200343/05-768x512.jpg",
+    "fecha": "Sep 02, 2025",
+    "url": "https://es.mongabay.com/2025/09/guia-cientificos-monitores-comunitarios-proteger-aves/"
+  },
+  {
     "titulo": "Día Internacional de los Primates: esfuerzos científicos que empoderan a comunidades en Sudamérica para conservar especies y sus ecosistemas",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/30065733/dia-internacional-primates-cientificos-comunidades-sudamerica-14-768x512.jpeg",
     "fecha": "Sep 01, 2025",
@@ -6720,7 +6738,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Sep  2 12:35:41 2025",
+    "titulo": "Última actualización automática - Tue Sep  2 18:24:42 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
