@@ -2066,6 +2066,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-08-31T04:09:01.616Z",
+    "lugar": "77 km SW of San Juan, Peru",
+    "magnitud": "4.5",
+    "lat": -15.9183,
+    "lon": -75.6033
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-08-31T03:59:41.445Z",
     "lugar": "76 km SSW of San Juan, Peru",
     "magnitud": "4.7",
