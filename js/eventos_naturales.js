@@ -406,6 +406,63 @@ const eventosNaturales = [
     "lon": -75.51152
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-03",
+    "hora": "14:52",
+    "lat": -0.95372,
+    "lon": -79.35198
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-03",
+    "hora": "14:52",
+    "lat": -1.59583,
+    "lon": -80.07984
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-03",
+    "hora": "14:52",
+    "lat": -1.60661,
+    "lon": -80.08131
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-03",
+    "hora": "14:52",
+    "lat": -1.87385,
+    "lon": -80.25133
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-03",
+    "hora": "14:52",
+    "lat": -1.91286,
+    "lon": -80.28364
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-03",
+    "hora": "14:52",
+    "lat": -1.91474,
+    "lon": -80.2704
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-03",
+    "hora": "14:52",
+    "lat": -2.28547,
+    "lon": -80.25072
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-09-03T14:56:44.717Z",
+    "lugar": "15 km SSW of Puyo, Ecuador",
+    "magnitud": "5.3",
+    "lat": -1.6058,
+    "lon": -78.0697
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-08-31T04:09:01.616Z",
     "lugar": "77 km SW of San Juan, Peru",
