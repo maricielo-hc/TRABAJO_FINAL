@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "¿Cómo están nuestras aves?: una guía para científicos y monitores comunitarios que buscan proteger la biodiversidad",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/01200343/05-768x512.jpg",
+    "fecha": "Sep 03, 2025",
+    "url": "https://es.mongabay.com/2025/09/guia-cientificos-monitores-comunitarios-proteger-aves/"
+  },
+  {
     "titulo": "Embarcaciones japonesas desembarcaron ilegalmente en Perú más de 17 000 kilos de aletas de tiburón",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/02132140/Portada-Aletas-2-1-768x512.png",
     "fecha": "Sep 02, 2025",
@@ -10,12 +16,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/02164502/whatsapp-image-2023-11-01-at-3.49.01-pm-678x381-1.jpg",
     "fecha": "Sep 02, 2025",
     "url": "https://es.mongabay.com/2025/09/honduras-comunidades-logran-proteger-tortuga-golfina/"
-  },
-  {
-    "titulo": "¿Cómo están nuestras aves?: una guía para científicos y monitores comunitarios que buscan proteger la biodiversidad",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/01200343/05-768x512.jpg",
-    "fecha": "Sep 02, 2025",
-    "url": "https://es.mongabay.com/2025/09/guia-cientificos-monitores-comunitarios-proteger-aves/"
   },
   {
     "titulo": "Día Internacional de los Primates: esfuerzos científicos que empoderan a comunidades en Sudamérica para conservar especies y sus ecosistemas",
@@ -6738,7 +6738,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Sep  3 12:37:00 2025",
+    "titulo": "Última actualización automática - Wed Sep  3 18:26:06 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
