@@ -203,6 +203,76 @@ const eventosNaturales = [
     "lon": -74.94318
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-04",
+    "hora": "13:55",
+    "lat": -7.72092,
+    "lon": -72.69895
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-04",
+    "hora": "13:55",
+    "lat": -8.66279,
+    "lon": -68.76517
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-04",
+    "hora": "13:55",
+    "lat": -8.66421,
+    "lon": -68.75494
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-04",
+    "hora": "13:55",
+    "lat": -8.66563,
+    "lon": -68.74469
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-04",
+    "hora": "13:55",
+    "lat": -8.66706,
+    "lon": -68.73444
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-04",
+    "hora": "13:55",
+    "lat": -8.0766,
+    "lon": -74.96081
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-04",
+    "hora": "13:55",
+    "lat": -8.07861,
+    "lon": -74.94788
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-04",
+    "hora": "13:55",
+    "lat": -8.08915,
+    "lon": -74.94952
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-04",
+    "hora": "13:57",
+    "lat": -14.06708,
+    "lon": -75.21078
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-04",
+    "hora": "13:57",
+    "lat": -14.0686,
+    "lon": -75.20103
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-03T14:56:44.717Z",
     "lugar": "15 km SSW of Puyo, Ecuador",
