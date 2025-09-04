@@ -6,6 +6,12 @@ const articulos = [
     "url": "https://es.mongabay.com/2025/09/guia-cientificos-monitores-comunitarios-proteger-aves/"
   },
   {
+    "titulo": "La extensión de las áreas naturales protegidas fue la principal clave en el aumento de la población de jaguares en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/03063927/jaguares-mexico-poblacion-claves-1-768x512.jpg",
+    "fecha": "Sep 03, 2025",
+    "url": "https://es.mongabay.com/2025/09/jaguares-mexico-aumento-poblacion-claves/"
+  },
+  {
     "titulo": "Embarcaciones japonesas desembarcaron ilegalmente en Perú más de 17 000 kilos de aletas de tiburón",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/02132140/Portada-Aletas-2-1-768x512.png",
     "fecha": "Sep 02, 2025",
@@ -6738,7 +6744,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Sep  3 18:26:06 2025",
+    "titulo": "Última actualización automática - Thu Sep  4 01:09:00 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
