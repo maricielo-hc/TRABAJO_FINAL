@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Crisis silenciosa en México: 92 ballenas grises muertas en Baja California Sur",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/04134612/PRIMMA-UABCS-1-768x512.jpg",
+    "fecha": "Sep 04, 2025",
+    "url": "https://es.mongabay.com/2025/09/crisis-silenciosa-ballenas-grises-muertas-baja-california-sur/"
+  },
+  {
+    "titulo": "Saberes indígenas y ciencia unen fuerzas para recuperar el choro zapato en Chile",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/02224307/PORTADA-Integrantes-del-GEF-Pesca-Sustentable-y-gente-local-trabajando-en-terreno-en-caleta-Huellelhue.-Cortesia-Pesca-Sustentable-768x512.jpg",
+    "fecha": "Sep 04, 2025",
+    "url": "https://es.mongabay.com/2025/09/saberes-indigenas-ciencia-recuperar-choro-zapato-chile/"
+  },
+  {
     "titulo": "¿Cómo están nuestras aves?: una guía para científicos y monitores comunitarios que buscan proteger la biodiversidad",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/01200343/05-768x512.jpg",
     "fecha": "Sep 03, 2025",
@@ -6744,7 +6756,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Sep  4 12:33:46 2025",
+    "titulo": "Última actualización automática - Thu Sep  4 18:25:15 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
