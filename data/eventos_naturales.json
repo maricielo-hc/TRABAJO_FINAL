@@ -2681,6 +2681,48 @@
     "lon": -73.10118
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-05",
+    "hora": "20:25",
+    "lat": -6.57765,
+    "lon": -75.24857
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-05",
+    "hora": "20:27",
+    "lat": -4.86592,
+    "lon": -80.2324
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-05",
+    "hora": "20:27",
+    "lat": -3.6485,
+    "lon": -80.24897
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-05",
+    "hora": "20:27",
+    "lat": -1.82363,
+    "lon": -80.03323
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-05",
+    "hora": "20:23",
+    "lat": -10.68823,
+    "lon": -77.59069
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-05",
+    "hora": "20:23",
+    "lat": -9.7177,
+    "lon": -76.37867
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-05T17:42:31.582Z",
     "lugar": "38 km NNW of Salinas, Ecuador",
@@ -2711,13 +2753,5 @@
     "magnitud": "4.7",
     "lat": -15.961,
     "lon": -75.5209
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-08-29T21:48:43.387Z",
-    "lugar": "40 km N of Camiña, Chile",
-    "magnitud": "4.6",
-    "lat": -18.9492,
-    "lon": -69.4232
   }
 ]
