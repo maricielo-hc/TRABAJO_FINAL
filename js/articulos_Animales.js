@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Saberes indígenas y ciencia unen fuerzas para recuperar el choro zapato en Chile",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/02224307/PORTADA-Integrantes-del-GEF-Pesca-Sustentable-y-gente-local-trabajando-en-terreno-en-caleta-Huellelhue.-Cortesia-Pesca-Sustentable-768x512.jpg",
+    "fecha": "Sep 06, 2025",
+    "url": "https://es.mongabay.com/2025/09/saberes-indigenas-ciencia-recuperar-choro-zapato-chile/"
+  },
+  {
     "titulo": "¿Cómo ayuda el ADN a proteger a los loros más traficados en Colombia?",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/01/29153345/WhatsApp-Image-2025-01-28-at-13.40.40-2-768x512.jpeg",
     "fecha": "Sep 05, 2025",
@@ -10,12 +16,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/04134612/PRIMMA-UABCS-1-768x512.jpg",
     "fecha": "Sep 04, 2025",
     "url": "https://es.mongabay.com/2025/09/crisis-silenciosa-ballenas-grises-muertas-baja-california-sur/"
-  },
-  {
-    "titulo": "Saberes indígenas y ciencia unen fuerzas para recuperar el choro zapato en Chile",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/02224307/PORTADA-Integrantes-del-GEF-Pesca-Sustentable-y-gente-local-trabajando-en-terreno-en-caleta-Huellelhue.-Cortesia-Pesca-Sustentable-768x512.jpg",
-    "fecha": "Sep 04, 2025",
-    "url": "https://es.mongabay.com/2025/09/saberes-indigenas-ciencia-recuperar-choro-zapato-chile/"
   },
   {
     "titulo": "¿Cómo están nuestras aves?: una guía para científicos y monitores comunitarios que buscan proteger la biodiversidad",
@@ -6762,7 +6762,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Sep  6 12:30:56 2025",
+    "titulo": "Última actualización automática - Sat Sep  6 18:23:11 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
