@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "¿Cómo ayuda el ADN a proteger a los loros más traficados en Colombia?",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/01/29153345/WhatsApp-Image-2025-01-28-at-13.40.40-2-768x512.jpeg",
+    "fecha": "Sep 05, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/09/adn-proteger-loros-mas-traficados-colombia/"
+  },
+  {
     "titulo": "Crisis silenciosa en México: 92 ballenas grises muertas en Baja California Sur",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/04134612/PRIMMA-UABCS-1-768x512.jpg",
     "fecha": "Sep 04, 2025",
@@ -6756,7 +6762,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Sep  5 18:24:57 2025",
+    "titulo": "Última actualización automática - Sat Sep  6 01:09:41 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
