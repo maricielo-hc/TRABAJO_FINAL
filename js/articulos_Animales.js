@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Felinos en cautiverio: la odisea de los animales rescatados del tráfico ilegal en Latinoamérica",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08070240/Mexico-7-linces-bebes-son-alimentados-con-biberon-Foto-Lizeth-Ovando-768x512.jpg",
+    "fecha": "Sep 07, 2025",
+    "url": "https://es.mongabay.com/2025/09/felinos-cautiverio-trafico-ilegal-latinoamerica/"
+  },
+  {
     "titulo": "Saberes indígenas y ciencia unen fuerzas para recuperar el choro zapato en Chile",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/02224307/PORTADA-Integrantes-del-GEF-Pesca-Sustentable-y-gente-local-trabajando-en-terreno-en-caleta-Huellelhue.-Cortesia-Pesca-Sustentable-768x512.jpg",
     "fecha": "Sep 06, 2025",
@@ -6762,7 +6768,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Sep  7 18:23:14 2025",
+    "titulo": "Última actualización automática - Mon Sep  8 01:14:48 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
