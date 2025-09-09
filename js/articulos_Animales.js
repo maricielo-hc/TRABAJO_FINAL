@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "Felinos en cautiverio: la odisea de los animales rescatados del tráfico ilegal en Latinoamérica",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/08070240/Mexico-7-linces-bebes-son-alimentados-con-biberon-Foto-Lizeth-Ovando-768x512.jpg",
-    "fecha": "Sep 07, 2025",
+    "fecha": "Sep 08, 2025",
     "url": "https://es.mongabay.com/2025/09/felinos-cautiverio-trafico-ilegal-latinoamerica/"
+  },
+  {
+    "titulo": "Jaguardianes, la iniciativa comunitaria que cambió para siempre la relación entre pobladores y jaguares en Chiapas",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/08184702/Portada-Jaguares2-768x512.jpg",
+    "fecha": "Sep 08, 2025",
+    "url": "https://es.mongabay.com/2025/09/jaguardianes-jaguares-chiapas-iniciativa-comunitaria/"
   },
   {
     "titulo": "Saberes indígenas y ciencia unen fuerzas para recuperar el choro zapato en Chile",
@@ -6768,7 +6774,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Sep  8 18:27:45 2025",
+    "titulo": "Última actualización automática - Tue Sep  9 01:12:33 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
