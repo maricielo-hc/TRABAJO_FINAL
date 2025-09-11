@@ -252,6 +252,13 @@ const eventosNaturales = [
     "lon": -68.15386
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-11",
+    "hora": "13:38",
+    "lat": -12.23821,
+    "lon": -69.1471
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-10T18:52:45.078Z",
     "lugar": "72 km E of Tocache, Peru",
