@@ -161,6 +161,133 @@ const eventosNaturales = [
     "lon": -77.77643
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:19",
+    "lat": -17.25312,
+    "lon": -71.19929
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:21",
+    "lat": -9.82881,
+    "lon": -77.3965
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:21",
+    "lat": -9.2623,
+    "lon": -77.78132
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:21",
+    "lat": -9.03001,
+    "lon": -77.73981
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:21",
+    "lat": -8.22906,
+    "lon": -76.5725
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:21",
+    "lat": -8.47122,
+    "lon": -78.86205
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:21",
+    "lat": -7.94481,
+    "lon": -78.15038
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:21",
+    "lat": -6.92683,
+    "lon": -79.54066
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:21",
+    "lat": -6.78975,
+    "lon": -79.54437
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:21",
+    "lat": -6.79121,
+    "lon": -79.55414
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:23",
+    "lat": -2.36262,
+    "lon": -79.43584
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:23",
+    "lat": -2.37066,
+    "lon": -79.49075
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:23",
+    "lat": -2.0349,
+    "lon": -79.62549
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:23",
+    "lat": -1.43942,
+    "lon": -79.56725
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:23",
+    "lat": -1.44105,
+    "lon": -79.57837
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:23",
+    "lat": -1.09872,
+    "lon": -80.70779
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-10",
+    "hora": "20:23",
+    "lat": -0.63266,
+    "lon": -79.44656
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-09-10T18:52:45.078Z",
+    "lugar": "72 km E of Tocache, Peru",
+    "magnitud": "4.9",
+    "lat": -8.163,
+    "lon": -75.8666
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-07T05:08:49.268Z",
     "lugar": "97 km SSW of San Juan, Peru",
