@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Las ingenieras de Galápagos están en peligro: el cedro, un árbol introducido, amenaza la migración de las tortugas gigantes | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/09215343/MaraSPEECE_DSC05884-2-768x512.jpg",
+    "fecha": "Sep 11, 2025",
+    "url": "https://es.mongabay.com/2025/09/galapagos-cedro-amenaza-migracion-tortugas-gigantes/"
+  },
+  {
+    "titulo": "Un refugio en las alturas: cámaras trampa en copas de árboles revelan la presencia de mamíferos en una reserva amenazada de México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/11143300/upscalemedia-transformed-4-768x512.jpeg",
+    "fecha": "Sep 11, 2025",
+    "url": "https://es.mongabay.com/2025/09/camaras-trampa-copas-arboles-revelan-presencia-mamiferos-mexico/"
+  },
+  {
     "titulo": "Felinos en cautiverio: ¿qué pasa después del rescate del tráfico ilegal",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/07235810/Colombia-8-Barto-ojos-color-caramelo-Foto-Santiago-Wills-768x512.jpg",
     "fecha": "Sep 10, 2025",
@@ -10,12 +22,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/06/30123437/Zalophus-californianus-768x512.jpg",
     "fecha": "Sep 10, 2025",
     "url": "https://es.mongabay.com/short-article/2025/09/afectaciones-ambientales-sociales-mineria-submarina-baja-california-sur/"
-  },
-  {
-    "titulo": "Las ingenieras de Galápagos están en peligro: el cedro, un árbol introducido, amenaza la migración de las tortugas gigantes | ESTUDIO",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/09215343/MaraSPEECE_DSC05884-2-768x512.jpg",
-    "fecha": "Sep 10, 2025",
-    "url": "https://es.mongabay.com/2025/09/galapagos-cedro-amenaza-migracion-tortugas-gigantes/"
   },
   {
     "titulo": "Felinos en cautiverio: la odisea de los animales rescatados del tráfico ilegal en Latinoamérica",
@@ -6792,7 +6798,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Sep 11 18:24:47 2025",
+    "titulo": "Última actualización automática - Fri Sep 12 01:10:39 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
