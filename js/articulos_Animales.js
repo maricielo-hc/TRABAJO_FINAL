@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Especies invasoras atacan la biodiversidad única de Galápagos | Coyuntura ambiental",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/10143452/MG_5040-768x512.jpg",
+    "fecha": "Sep 13, 2025",
+    "url": "https://es.mongabay.com/2025/09/especies-invasoras-atacan-biodiversidad-galapagos/"
+  },
+  {
     "titulo": "Las ingenieras de Galápagos están en peligro: el cedro, un árbol introducido, amenaza la migración de las tortugas gigantes | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/09215343/MaraSPEECE_DSC05884-2-768x512.jpg",
     "fecha": "Sep 11, 2025",
@@ -6798,7 +6804,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Sep 13 12:30:25 2025",
+    "titulo": "Última actualización automática - Sat Sep 13 18:23:17 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
