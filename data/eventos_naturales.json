@@ -686,6 +686,34 @@
     "lon": -80.06563
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-13",
+    "hora": "14:52",
+    "lat": -1.8833,
+    "lon": -80.31824
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-13",
+    "hora": "14:52",
+    "lat": -1.88527,
+    "lon": -80.30421
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-13",
+    "hora": "14:52",
+    "lat": -2.28269,
+    "lon": -80.25255
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-13",
+    "hora": "14:54",
+    "lat": -4.57842,
+    "lon": -80.58828
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-13T03:57:55.812Z",
     "lugar": "82 km E of Tocache, Peru",
