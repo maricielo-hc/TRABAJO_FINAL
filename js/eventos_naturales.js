@@ -2128,6 +2128,13 @@ const eventosNaturales = [
     "lon": -74.37673
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-15",
+    "hora": "08:03",
+    "lat": -3.54922,
+    "lon": -79.56662
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-15T01:52:44.774Z",
     "lugar": "31 km WSW of Vilcanchos, Peru",
