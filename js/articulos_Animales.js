@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Muertes masivas de ballenas en América Latina generan alerta: colisiones, proyectos extractivos y cambio climático ponen en riesgo su supervivencia | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/05/02185948/Ballena_Cria_5-768x512.jpg",
-    "fecha": "Sep 14, 2025",
+    "fecha": "Sep 15, 2025",
     "url": "https://es.mongabay.com/2025/09/muertes-masivas-ballenas-colisiones-proyectos-extractivos-cambio-climatico-supervivencia-lecturas-ambientales/"
   },
   {
@@ -6810,7 +6810,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Sep 15 12:36:16 2025",
+    "titulo": "Última actualización automática - Mon Sep 15 18:27:27 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
