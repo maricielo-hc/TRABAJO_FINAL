@@ -406,6 +406,34 @@
     "lon": -76.68703
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-16",
+    "hora": "13:38",
+    "lat": -10.0668,
+    "lon": -68.47428
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-16",
+    "hora": "13:38",
+    "lat": -12.87753,
+    "lon": -68.11595
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-16",
+    "hora": "13:38",
+    "lat": -12.87885,
+    "lon": -68.10685
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-16",
+    "hora": "13:38",
+    "lat": -12.88017,
+    "lon": -68.09775
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-16T03:54:48.942Z",
     "lugar": "59 km NNW of Salinas, Ecuador",
