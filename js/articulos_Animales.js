@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Increíble travesía marina: ¿por qué una tiburón martillo recorrió 1300 kilómetros desde Galápagos hasta Panamá?",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/17205200/SHH-with-towed-tag_Credit-to-Pelayo-Salinas-1-768x512.jpg",
+    "fecha": "Sep 15, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/09/increible-travesia-marina-tiburon-martillo-galapagos-panama/"
+  },
+  {
     "titulo": "Muertes masivas de ballenas en América Latina generan alerta: colisiones, proyectos extractivos y cambio climático ponen en riesgo su supervivencia | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/05/02185948/Ballena_Cria_5-768x512.jpg",
     "fecha": "Sep 15, 2025",
@@ -6810,7 +6816,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Sep 15 18:27:27 2025",
+    "titulo": "Última actualización automática - Tue Sep 16 01:11:42 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
