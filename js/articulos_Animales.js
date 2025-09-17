@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Los otros crocodilianos: el caimán del Orinoco no es el único que corre peligro en Venezuela",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/16180422/Imagen-1-768x512.jpg",
+    "fecha": "Sep 17, 2025",
+    "url": "https://es.mongabay.com/2025/09/los-otros-crocodilianos-caiman-orinoco-peligro-venezuela/"
+  },
+  {
     "titulo": "Enemigo silencioso: confirman en México la presencia de hongo mortal que amenaza a los murciélagos",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/16153617/murrcielago-portada-768x512.jpg",
     "fecha": "Sep 16, 2025",
@@ -6822,7 +6828,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Sep 17 12:36:01 2025",
+    "titulo": "Última actualización automática - Wed Sep 17 18:27:07 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
