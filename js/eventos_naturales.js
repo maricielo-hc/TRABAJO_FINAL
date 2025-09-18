@@ -1328,13 +1328,5 @@ const eventosNaturales = [
     "magnitud": "4.4",
     "lat": -17.8718,
     "lon": -69.3557
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-09-10T18:52:45.078Z",
-    "lugar": "72 km E of Tocache, Peru",
-    "magnitud": "4.9",
-    "lat": -8.163,
-    "lon": -75.8666
   }
 ];
