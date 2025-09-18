@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "Los otros crocodilianos: el caimán del Orinoco no es el único que corre peligro en Venezuela",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/16180422/Imagen-1-768x512.jpg",
-    "fecha": "Sep 17, 2025",
+    "fecha": "Sep 18, 2025",
     "url": "https://es.mongabay.com/2025/09/los-otros-crocodilianos-caiman-orinoco-peligro-venezuela/"
+  },
+  {
+    "titulo": "Científicos y buzos luchan por salvar al caballito de mar patagónico en Argentina descubierto hace apenas 20 años",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/17172345/Diego-Luzzatto-4-768x512.jpg",
+    "fecha": "Sep 18, 2025",
+    "url": "https://es.mongabay.com/2025/09/cientificos-buzos-salvar-caballito-de-mar-patagonico-argentina/"
   },
   {
     "titulo": "Enemigo silencioso: confirman en México la presencia de hongo mortal que amenaza a los murciélagos",
@@ -6828,7 +6834,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Sep 18 12:34:05 2025",
+    "titulo": "Última actualización automática - Thu Sep 18 18:28:17 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
