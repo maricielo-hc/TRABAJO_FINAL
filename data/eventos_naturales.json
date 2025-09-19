@@ -98,6 +98,48 @@
     "lon": -69.14354
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-19",
+    "hora": "13:57",
+    "lat": -10.06347,
+    "lon": -68.47002
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-19",
+    "hora": "13:57",
+    "lat": -11.24328,
+    "lon": -76.73518
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-19",
+    "hora": "13:57",
+    "lat": -12.9415,
+    "lon": -71.47282
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-19",
+    "hora": "13:57",
+    "lat": -14.15946,
+    "lon": -72.05513
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-19",
+    "hora": "13:57",
+    "lat": -14.16074,
+    "lon": -72.04599
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-19",
+    "hora": "13:59",
+    "lat": -17.49193,
+    "lon": -71.35365
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-19T01:49:50.097Z",
     "lugar": "27 km WNW of Jipijapa, Ecuador",
