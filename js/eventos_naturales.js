@@ -91,6 +91,13 @@ const eventosNaturales = [
     "lon": -69.14165
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-19",
+    "hora": "07:24",
+    "lat": -12.40159,
+    "lon": -69.14354
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-19T01:49:50.097Z",
     "lugar": "27 km WNW of Jipijapa, Ecuador",
