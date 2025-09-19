@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "¿Por qué felinos sin cola y coatíes con pérdida de pelo alertan sobre la fauna en Cerro Blanco?",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/01152719/Ocelote-sin-cola-1-768x512.jpg",
+    "fecha": "Sep 19, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/09/alertan-sobre-graves-anomalias-fauna-cerro-blanco/"
+  },
+  {
     "titulo": "Los otros crocodilianos: el caimán del Orinoco no es el único que corre peligro en Venezuela",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/16180422/Imagen-1-768x512.jpg",
     "fecha": "Sep 18, 2025",
@@ -6834,7 +6840,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Sep 19 12:36:17 2025",
+    "titulo": "Última actualización automática - Fri Sep 19 18:25:15 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
