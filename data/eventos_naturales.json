@@ -336,6 +336,48 @@
     "lon": -79.98865
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-18",
+    "hora": "19:00",
+    "lat": -9.41576,
+    "lon": -68.8613
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-18",
+    "hora": "19:00",
+    "lat": -9.41978,
+    "lon": -68.89422
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-18",
+    "hora": "19:00",
+    "lat": -9.4224,
+    "lon": -68.86483
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-18",
+    "hora": "19:00",
+    "lat": -9.42669,
+    "lon": -68.89787
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-18",
+    "hora": "20:34",
+    "lat": -12.1179,
+    "lon": -76.20656
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-18",
+    "hora": "20:38",
+    "lat": -1.05482,
+    "lon": -80.50564
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-16T03:54:48.942Z",
     "lugar": "59 km NNW of Salinas, Ecuador",
@@ -382,13 +424,5 @@
     "magnitud": "4.9",
     "lat": -8.0686,
     "lon": -75.7796
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-09-12T00:16:21.380Z",
-    "lugar": "64 km E of Palca, Peru",
-    "magnitud": "4.4",
-    "lat": -17.8718,
-    "lon": -69.3557
   }
 ]
