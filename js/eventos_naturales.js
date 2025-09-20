@@ -924,6 +924,48 @@ const eventosNaturales = [
     "lon": -73.78892
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-20",
+    "hora": "14:33",
+    "lat": -2.61834,
+    "lon": -80.36871
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-20",
+    "hora": "14:33",
+    "lat": -5.98885,
+    "lon": -77.27515
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-20",
+    "hora": "14:33",
+    "lat": -6.73383,
+    "lon": -79.49489
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-20",
+    "hora": "14:35",
+    "lat": -9.46194,
+    "lon": -75.02402
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-20",
+    "hora": "14:33",
+    "lat": -7.34699,
+    "lon": -76.77927
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-20",
+    "hora": "14:33",
+    "lat": -7.16344,
+    "lon": -78.46083
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-19T22:33:06.932Z",
     "lugar": "15 km ENE of Bahía de Caráquez, Ecuador",
