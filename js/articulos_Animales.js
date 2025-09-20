@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Tiburones en peligro: la fiscalización deficiente que amenaza su supervivencia en Perú | Coyuntura ambiental",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/11/28140754/sunat-768x512.jpg",
+    "fecha": "Sep 20, 2025",
+    "url": "https://es.mongabay.com/2025/09/tiburones-peligro-fiscalizacion-deficiente-amenaza-supervivencia-peru/"
+  },
+  {
     "titulo": "¿Por qué felinos sin cola y coatíes con pérdida de pelo alertan sobre la fauna en Cerro Blanco?",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/01152719/Ocelote-sin-cola-1-768x512.jpg",
     "fecha": "Sep 19, 2025",
@@ -6840,7 +6846,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Sep 20 12:33:08 2025",
+    "titulo": "Última actualización automática - Sat Sep 20 18:25:20 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
