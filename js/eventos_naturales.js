@@ -511,6 +511,20 @@ const eventosNaturales = [
     "lon": -74.94759
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "08:37",
+    "lat": -0.07619,
+    "lon": -77.64453
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "08:37",
+    "lat": -0.07541,
+    "lon": -77.65335
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-19T22:33:06.932Z",
     "lugar": "15 km ENE of Bahía de Caráquez, Ecuador",
