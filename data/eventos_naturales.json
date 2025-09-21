@@ -525,6 +525,99 @@
     "lon": -77.65335
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "13:38",
+    "lat": -9.39608,
+    "lon": -68.29537
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "13:38",
+    "lat": -10.27671,
+    "lon": -68.82699
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "13:38",
+    "lat": -10.28587,
+    "lon": -68.82837
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "13:38",
+    "lat": -9.82186,
+    "lon": -76.53007
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "13:38",
+    "lat": -12.19443,
+    "lon": -69.14797
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "13:38",
+    "lat": -12.38586,
+    "lon": -69.10137
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "13:38",
+    "lat": -12.52713,
+    "lon": -69.20399
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "13:38",
+    "lat": -12.52856,
+    "lon": -69.19439
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "13:40",
+    "lat": -17.95712,
+    "lon": -69.22623
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "15:12",
+    "lat": -1.13578,
+    "lon": -80.55811
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-21",
+    "hora": "15:12",
+    "lat": -1.14292,
+    "lon": -80.56642
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-09-21T17:21:48.115Z",
+    "lugar": "13 km WNW of Juliaca, Peru",
+    "magnitud": "4.4",
+    "lat": -15.4346,
+    "lon": -70.2364
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-09-21T15:12:34.122Z",
+    "lugar": "3 km SSE of Chipispaya, Peru",
+    "magnitud": "4.4",
+    "lat": -17.5321,
+    "lon": -70.2097
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-19T22:33:06.932Z",
     "lugar": "15 km ENE of Bahía de Caráquez, Ecuador",
