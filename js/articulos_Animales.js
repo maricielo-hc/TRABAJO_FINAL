@@ -1,6 +1,6 @@
 const articulos = [
   {
-    "titulo": "Tiburones en peligro: la fiscalización deficiente que amenaza su supervivencia en Perú | Coyuntura ambiental",
+    "titulo": "Investigación de Mongabay Latam destapa  tráfico ilegal de tiburones en puertos peruanos | Coyuntura ambiental",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/11/28140754/sunat-768x512.jpg",
     "fecha": "Sep 20, 2025",
     "url": "https://es.mongabay.com/2025/09/tiburones-peligro-fiscalizacion-deficiente-amenaza-supervivencia-peru/"
@@ -6846,7 +6846,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Sep 20 18:25:20 2025",
+    "titulo": "Última actualización automática - Sun Sep 21 01:18:48 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
