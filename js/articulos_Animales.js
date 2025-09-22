@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Bolivia: resurge la caza y el tráfico de jaguares",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/22141003/bolivia-jaguar-portada-768x512.jpg",
+    "fecha": "Sep 22, 2025",
+    "url": "https://es.mongabay.com/2025/09/bolivia-resurge-caza-trafico-jaguares/"
+  },
+  {
     "titulo": "Investigación de Mongabay Latam destapa  tráfico ilegal de tiburones en puertos peruanos | Coyuntura ambiental",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/11/28140754/sunat-768x512.jpg",
     "fecha": "Sep 20, 2025",
@@ -6846,7 +6852,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Sep 22 12:36:49 2025",
+    "titulo": "Última actualización automática - Mon Sep 22 18:26:26 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
