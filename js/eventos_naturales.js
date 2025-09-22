@@ -1652,6 +1652,49 @@ const eventosNaturales = [
     "lon": -77.66042
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-22",
+    "hora": "07:39",
+    "lat": -8.20567,
+    "lon": -75.03555
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-22",
+    "hora": "07:39",
+    "lat": -8.20724,
+    "lon": -75.02546
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-22",
+    "hora": "07:39",
+    "lat": -9.31039,
+    "lon": -74.94615
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-22",
+    "hora": "07:39",
+    "lat": -9.31192,
+    "lon": -74.93644
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-22",
+    "hora": "07:39",
+    "lat": -0.07556,
+    "lon": -77.65875
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-09-22T11:30:25.960Z",
+    "lugar": "27 km SE of Putina, Peru",
+    "magnitud": "4.5",
+    "lat": -15.6773,
+    "lon": -69.2872
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-22T02:45:44.035Z",
     "lugar": "24 km NNE of Santa Lucía, Peru",
