@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "La paraba barba azul está al borde de la extinción: un nuevo censo busca salvar a una de las especies más amenazadas del mundo",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/22230710/paraba-portada-768x512.jpg",
+    "fecha": "Sep 23, 2025",
+    "url": "https://es.mongabay.com/2025/09/paraba-barba-azul-extincion-nuevo-censo-conservacion/"
+  },
+  {
     "titulo": "Bolivia: resurge la caza y el tráfico de jaguares",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/22141003/bolivia-jaguar-portada-768x512.jpg",
     "fecha": "Sep 22, 2025",
@@ -6852,7 +6858,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Sep 23 12:35:16 2025",
+    "titulo": "Última actualización automática - Tue Sep 23 18:26:41 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
