@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Minería ilegal y mercurio: un veneno para los delfines rosados de la Amazonía",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/10/23231546/%C2%A9-%40camilodiazphotography-WWF-Colombia-8X2A9118-768x512.jpg",
+    "fecha": "Sep 24, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/09/mineria-ilegal-mercurio-veneno-delfines-rosados-amazonia/"
+  },
+  {
     "titulo": "La paraba barba azul está al borde de la extinción: un nuevo censo busca salvar a una de las especies más amenazadas del mundo",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/22230710/paraba-portada-768x512.jpg",
     "fecha": "Sep 23, 2025",
@@ -6858,7 +6864,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Sep 24 12:34:44 2025",
+    "titulo": "Última actualización automática - Wed Sep 24 18:29:47 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
