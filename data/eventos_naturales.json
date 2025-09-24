@@ -371,6 +371,34 @@
     "lon": -80.87926
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-24",
+    "hora": "13:57",
+    "lat": -10.09087,
+    "lon": -69.25126
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-24",
+    "hora": "13:57",
+    "lat": -10.09236,
+    "lon": -69.24018
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-24",
+    "hora": "13:57",
+    "lat": -13.45018,
+    "lon": -72.07011
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-24",
+    "hora": "13:57",
+    "lat": -14.52291,
+    "lon": -72.16171
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-23T21:05:27.266Z",
     "lugar": "75 km SSW of San Juan, Peru",
