@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Chile: estudio científico alerta sobre niveles récord de mercurio en tortugas verdes que se alimentan en Rapa Nui",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/25132135/1.2-768x512.jpg",
+    "fecha": "Sep 25, 2025",
+    "url": "https://es.mongabay.com/2025/09/chile-estudio-alerta-niveles-record-mercurio-tortugas-verdes-rapa-nui/"
+  },
+  {
+    "titulo": "Colombia: así es como comunidades de los Llanos del Yarí protegen el corredor del jaguar en el Caquetá",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/24174031/DSCF3355-768x512.jpg",
+    "fecha": "Sep 25, 2025",
+    "url": "https://es.mongabay.com/2025/09/colombia-comunidades-llanos-yari-protegen-corredor-jaguar/"
+  },
+  {
     "titulo": "Minería ilegal y mercurio: un veneno para los delfines rosados de la Amazonía",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/10/23231546/%C2%A9-%40camilodiazphotography-WWF-Colombia-8X2A9118-768x512.jpg",
     "fecha": "Sep 24, 2025",
@@ -6864,7 +6876,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Sep 25 12:36:56 2025",
+    "titulo": "Última actualización automática - Thu Sep 25 18:28:13 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
