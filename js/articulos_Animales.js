@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Cámaras trampa, inteligencia artificial y trabajo comunitario para monitorear la biodiversidad de Colombia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/26142946/danta-portada-768x512.jpg",
+    "fecha": "Sep 26, 2025",
+    "url": "https://es.mongabay.com/2025/09/camaras-trampa-colombia-biodiversidad-inteligencia-artificial/"
+  },
+  {
     "titulo": "Chile: estudio científico alerta sobre niveles récord de mercurio en tortugas verdes que se alimentan en Rapa Nui",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/25132135/1.2-768x512.jpg",
     "fecha": "Sep 25, 2025",
@@ -6876,7 +6882,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Sep 26 12:34:23 2025",
+    "titulo": "Última actualización automática - Fri Sep 26 18:24:15 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
