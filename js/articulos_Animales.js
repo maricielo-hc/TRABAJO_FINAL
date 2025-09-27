@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Al borde del abismo: tres asombrosas aves sobreviven en medio de graves amenazas | Coyuntura ambiental",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2022/01/17134408/Paraba-Barba-Azul-Gerrit-Vyn-Armonia-768x513.jpg",
+    "fecha": "Sep 27, 2025",
+    "url": "https://es.mongabay.com/2025/09/asombrosas-aves-sobreviven-amenazas/"
+  },
+  {
     "titulo": "Cámaras trampa, inteligencia artificial y trabajo comunitario para monitorear la biodiversidad de Colombia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/26142946/danta-portada-768x512.jpg",
     "fecha": "Sep 26, 2025",
@@ -6882,7 +6888,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Sep 27 12:32:06 2025",
+    "titulo": "Última actualización automática - Sat Sep 27 18:23:29 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
