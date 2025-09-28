@@ -1071,6 +1071,48 @@ const eventosNaturales = [
     "lon": -78.33424
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-28",
+    "hora": "13:18",
+    "lat": -16.70227,
+    "lon": -71.82067
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-28",
+    "hora": "13:18",
+    "lat": -16.70698,
+    "lon": -71.79449
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-28",
+    "hora": "13:18",
+    "lat": -16.6969,
+    "lon": -71.79836
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-28",
+    "hora": "14:52",
+    "lat": -0.35035,
+    "lon": -78.4448
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-28",
+    "hora": "14:52",
+    "lat": -0.36332,
+    "lon": -78.44701
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-28",
+    "hora": "14:54",
+    "lat": -5.09843,
+    "lon": -80.16727
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-26T17:25:02.343Z",
     "lugar": "82 km E of Macas, Ecuador",
@@ -1133,21 +1175,5 @@ const eventosNaturales = [
     "magnitud": "4.3",
     "lat": -15.4776,
     "lon": -70.5599
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-09-21T17:21:48.115Z",
-    "lugar": "13 km WNW of Juliaca, Peru",
-    "magnitud": "4.4",
-    "lat": -15.4346,
-    "lon": -70.2364
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-09-21T15:12:34.122Z",
-    "lugar": "3 km SSE of Chipispaya, Peru",
-    "magnitud": "4.4",
-    "lat": -17.5321,
-    "lon": -70.2097
   }
 ];
