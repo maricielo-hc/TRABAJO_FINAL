@@ -207,13 +207,5 @@
     "magnitud": "5.1",
     "lat": -15.6449,
     "lon": -75.0318
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-09-22T11:30:25.960Z",
-    "lugar": "27 km SE of Putina, Peru",
-    "magnitud": "4.5",
-    "lat": -15.6773,
-    "lon": -69.2872
   }
 ]
