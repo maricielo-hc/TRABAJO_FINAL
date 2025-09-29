@@ -161,6 +161,20 @@ const eventosNaturales = [
     "lon": -69.05087
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-29",
+    "hora": "13:57",
+    "lat": -11.92768,
+    "lon": -75.41205
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-29",
+    "hora": "13:57",
+    "lat": -13.48512,
+    "lon": -74.13
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-26T17:25:02.343Z",
     "lugar": "82 km E of Macas, Ecuador",
