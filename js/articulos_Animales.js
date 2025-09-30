@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Colombia: tres resguardos indígenas monitorearon sus peces y detectaron altos niveles de mercurio",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/30135605/resguardo-peces-portada-768x512.jpg",
+    "fecha": "Sep 30, 2025",
+    "url": "https://es.mongabay.com/2025/09/colombia-resguardos-indigenas-detectan-mercurio-peces/"
+  },
+  {
     "titulo": "Al borde del abismo: tres asombrosas aves sobreviven en medio de graves amenazas | Coyuntura ambiental",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2022/01/17134408/Paraba-Barba-Azul-Gerrit-Vyn-Armonia-768x513.jpg",
     "fecha": "Sep 27, 2025",
@@ -6888,7 +6894,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Sep 30 12:35:50 2025",
+    "titulo": "Última actualización automática - Tue Sep 30 18:25:51 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
