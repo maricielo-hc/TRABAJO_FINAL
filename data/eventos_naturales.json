@@ -833,6 +833,69 @@
     "lon": -76.16253
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-09-30",
+    "hora": "14:35",
+    "lat": -4.83593,
+    "lon": -80.19154
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-30",
+    "hora": "14:35",
+    "lat": -4.8779,
+    "lon": -81.06037
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-30",
+    "hora": "14:35",
+    "lat": -4.87917,
+    "lon": -81.05157
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-30",
+    "hora": "14:35",
+    "lat": -5.63338,
+    "lon": -78.5297
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-30",
+    "hora": "14:35",
+    "lat": -5.70999,
+    "lon": -78.81152
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-30",
+    "hora": "14:33",
+    "lat": -1.53927,
+    "lon": -79.96532
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-30",
+    "hora": "14:33",
+    "lat": -2.01115,
+    "lon": -78.33582
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-30",
+    "hora": "14:33",
+    "lat": -3.71457,
+    "lon": -79.58632
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-09-30",
+    "hora": "14:33",
+    "lat": -4.38323,
+    "lon": -79.94154
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-09-26T17:25:02.343Z",
     "lugar": "82 km E of Macas, Ecuador",
@@ -863,13 +926,5 @@
     "magnitud": "4.4",
     "lat": -15.9934,
     "lon": -75.4479
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-09-23T17:39:19.418Z",
-    "lugar": "44 km SSW of San Juan, Peru",
-    "magnitud": "5.5",
-    "lat": -15.7448,
-    "lon": -75.2904
   }
 ]
