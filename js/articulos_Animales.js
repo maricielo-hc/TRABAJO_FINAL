@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Indígenas leco recuperaron la población de un ave endémica de Bolivia que se creía extinta",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/29212230/1.-La-palkachupa-es-una-especie-endemica-de-Bolivia-que-vive-unicamente-en-el-norte-de-La-Paz.-FOTO-TEODORO-CAMACHO-768x512.jpg",
+    "fecha": "Oct 01, 2025",
+    "url": "https://es.mongabay.com/2025/10/indigenas-leco-recuperaron-ave-pallkachupa-bolivia-extincion/"
+  },
+  {
     "titulo": "Colombia: tres resguardos indígenas monitorearon sus peces y detectaron altos niveles de mercurio",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/30135605/resguardo-peces-portada-768x512.jpg",
     "fecha": "Sep 30, 2025",
@@ -6894,7 +6900,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Oct  1 12:37:38 2025",
+    "titulo": "Última actualización automática - Wed Oct  1 18:26:06 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
