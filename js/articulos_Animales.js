@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "Indígenas leco recuperaron la población de un ave endémica de Bolivia que se creía extinta",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/29212230/1.-La-palkachupa-es-una-especie-endemica-de-Bolivia-que-vive-unicamente-en-el-norte-de-La-Paz.-FOTO-TEODORO-CAMACHO-768x512.jpg",
-    "fecha": "Oct 01, 2025",
+    "fecha": "Oct 02, 2025",
     "url": "https://es.mongabay.com/2025/10/indigenas-leco-recuperaron-ave-pallkachupa-bolivia-extincion/"
+  },
+  {
+    "titulo": "Rastreando el nacimiento de la tortuga verde: el aumento de la temperatura en el mar impacta en la anidación de la especie en las costas de México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/02140648/tortuga-cover-768x512.jpg",
+    "fecha": "Oct 02, 2025",
+    "url": "https://es.mongabay.com/2025/10/aumento-temperatura-mar-impacta-anidacion-tortuga-verde-mexico/"
   },
   {
     "titulo": "Colombia: tres resguardos indígenas monitorearon sus peces y detectaron altos niveles de mercurio",
@@ -6900,7 +6906,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Oct  2 12:34:26 2025",
+    "titulo": "Última actualización automática - Thu Oct  2 18:27:05 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
