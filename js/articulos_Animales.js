@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Cámaras trampa registran un jaguar “negro”, un oso de anteojos y la reaparición de un conejo que se creía extinto",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/07175937/Registro-de-camara-trampa-de-WCS-Argentina-5-Mendoza-2024-768x512.jpg",
+    "fecha": "Oct 04, 2025",
+    "url": "https://es.mongabay.com/2025/10/camaras-trampa-registran-jaguar-negro-oso-anteojos-reaparicion-conejo-extinto/"
+  },
+  {
+    "titulo": "Día Mundial de los Animales: cámaras trampa para conservar  jaguares y delfines en la Selva Maya y la Amazonía",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/03075428/dia-mundial-de-los-animales-monitoreo-especies7-768x512.jpg",
+    "fecha": "Oct 04, 2025",
+    "url": "https://es.mongabay.com/2025/10/dia-mundial-de-los-animales-monitoreo-especies/"
+  },
+  {
     "titulo": "Indígenas leco recuperaron la población de un ave endémica de Bolivia que se creía extinta",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/29212230/1.-La-palkachupa-es-una-especie-endemica-de-Bolivia-que-vive-unicamente-en-el-norte-de-La-Paz.-FOTO-TEODORO-CAMACHO-768x512.jpg",
     "fecha": "Oct 02, 2025",
@@ -6906,7 +6918,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Oct  4 12:32:25 2025",
+    "titulo": "Última actualización automática - Sat Oct  4 18:24:56 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
