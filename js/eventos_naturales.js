@@ -1279,5 +1279,19 @@ const eventosNaturales = [
     "hora": "02:13",
     "lat": -1.31893,
     "lon": -79.92033
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-05",
+    "hora": "07:52",
+    "lat": -8.42775,
+    "lon": -70.11796
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-05",
+    "hora": "07:48",
+    "lat": -0.08195,
+    "lon": -77.65758
   }
 ];
