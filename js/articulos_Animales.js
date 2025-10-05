@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "El legado de Jane Goodall: conservacionistas latinoamericanos recuerdan cómo la primatóloga impactó en sus vidas y sus carreras",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/03202633/IMG00987-DG-768x450.jpg",
+    "fecha": "Oct 05, 2025",
+    "url": "https://es.mongabay.com/2025/10/el-legado-de-jane-goodall-conservacionistas-latinoamerica-primatologa/"
+  },
+  {
     "titulo": "Cámaras trampa registran un jaguar “negro”, un oso de anteojos y la reaparición de un conejo que se creía extinto",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/07175937/Registro-de-camara-trampa-de-WCS-Argentina-5-Mendoza-2024-768x512.jpg",
     "fecha": "Oct 04, 2025",
@@ -6918,7 +6924,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Oct  5 12:32:34 2025",
+    "titulo": "Última actualización automática - Sun Oct  5 18:24:15 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
