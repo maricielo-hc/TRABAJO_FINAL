@@ -6924,7 +6924,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Oct  5 18:24:15 2025",
+    "titulo": "Última actualización automática - Mon Oct  6 01:13:37 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
