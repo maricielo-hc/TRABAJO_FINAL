@@ -2,20 +2,26 @@ const articulos = [
   {
     "titulo": "El legado de Jane Goodall: conservacionistas latinoamericanos recuerdan cómo la primatóloga impactó en sus vidas y sus carreras",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/03202633/IMG00987-DG-768x450.jpg",
-    "fecha": "Oct 05, 2025",
+    "fecha": "Oct 07, 2025",
     "url": "https://es.mongabay.com/2025/10/el-legado-de-jane-goodall-conservacionistas-latinoamerica-primatologa/"
+  },
+  {
+    "titulo": "Día Mundial de los Animales: cámaras trampa para conservar  jaguares y delfines en la Selva Maya y la Amazonía",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/03075428/dia-mundial-de-los-animales-monitoreo-especies7-768x512.jpg",
+    "fecha": "Oct 07, 2025",
+    "url": "https://es.mongabay.com/2025/10/dia-mundial-de-los-animales-monitoreo-especies/"
+  },
+  {
+    "titulo": "Con cámaras trampa, los castañeros de Perú trabajan en la conservación y monitoreo de especies en la Amazonía",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/06210449/10170092-768x512.jpg",
+    "fecha": "Oct 07, 2025",
+    "url": "https://es.mongabay.com/2025/10/camaras-trampa-castaneros-peru-conservacion-monitoreo-especies-amazonia/"
   },
   {
     "titulo": "Cámaras trampa registran un jaguar “negro”, un oso de anteojos y la reaparición de un conejo que se creía extinto",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/07175937/Registro-de-camara-trampa-de-WCS-Argentina-5-Mendoza-2024-768x512.jpg",
     "fecha": "Oct 04, 2025",
     "url": "https://es.mongabay.com/2025/10/camaras-trampa-registran-jaguar-negro-oso-anteojos-reaparicion-conejo-extinto/"
-  },
-  {
-    "titulo": "Día Mundial de los Animales: cámaras trampa para conservar  jaguares y delfines en la Selva Maya y la Amazonía",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/03075428/dia-mundial-de-los-animales-monitoreo-especies7-768x512.jpg",
-    "fecha": "Oct 04, 2025",
-    "url": "https://es.mongabay.com/2025/10/dia-mundial-de-los-animales-monitoreo-especies/"
   },
   {
     "titulo": "Indígenas leco recuperaron la población de un ave endémica de Bolivia que se creía extinta",
@@ -6924,7 +6930,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Oct  7 12:37:10 2025",
+    "titulo": "Última actualización automática - Tue Oct  7 18:27:37 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
