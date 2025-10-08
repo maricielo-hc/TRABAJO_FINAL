@@ -3017,6 +3017,13 @@
     "lon": -77.65296
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-08",
+    "hora": "14:54",
+    "lat": -0.35627,
+    "lon": -78.45716
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-07T23:00:06.590Z",
     "lugar": "75 km SSW of San Juan, Peru",
