@@ -1,15 +1,15 @@
 const articulos = [
   {
+    "titulo": "Una millonaria obra de energía amenaza al santuario Passiflora, refugio del jaguar en la Amazonía boliviana",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/08130746/jaguar-cover-768x512.jpg",
+    "fecha": "Oct 09, 2025",
+    "url": "https://es.mongabay.com/2025/10/millonaria-obra-energia-amenaza-passiflora-refugio-jaguar-bolivia/"
+  },
+  {
     "titulo": "Con cámaras trampa, los castañeros de Perú trabajan en la conservación y monitoreo de especies en la Amazonía",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/06210449/10170092-768x512.jpg",
     "fecha": "Oct 08, 2025",
     "url": "https://es.mongabay.com/2025/10/camaras-trampa-castaneros-peru-conservacion-monitoreo-especies-amazonia/"
-  },
-  {
-    "titulo": "Una millonaria obra de energía amenaza al santuario Passiflora, refugio del jaguar en la Amazonía boliviana",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/08130746/jaguar-cover-768x512.jpg",
-    "fecha": "Oct 08, 2025",
-    "url": "https://es.mongabay.com/2025/10/millonaria-obra-energia-amenaza-passiflora-refugio-jaguar-bolivia/"
   },
   {
     "titulo": "El legado de Jane Goodall: conservacionistas latinoamericanos recuerdan cómo la primatóloga impactó en sus vidas y sus carreras",
@@ -6936,7 +6936,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Oct  9 12:37:01 2025",
+    "titulo": "Última actualización automática - Thu Oct  9 18:27:32 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
