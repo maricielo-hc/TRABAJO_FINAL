@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Descubrimiento en el Caribe mexicano: los cocodrilos se adaptaron a las islas y se transformaron en nuevas especies",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/10114451/DSC09931-768x512.jpg",
-    "fecha": "Oct 10, 2025",
+    "fecha": "Oct 11, 2025",
     "url": "https://es.mongabay.com/2025/10/descubrimiento-cocodrilos-caribe-mexicano-nuevas-especies/"
   },
   {
@@ -6942,7 +6942,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Oct 11 12:31:11 2025",
+    "titulo": "Última actualización automática - Sat Oct 11 18:23:58 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
