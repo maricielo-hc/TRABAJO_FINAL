@@ -6,6 +6,12 @@ const articulos = [
     "url": "https://es.mongabay.com/2025/10/descubrimiento-cocodrilos-caribe-mexicano-nuevas-especies/"
   },
   {
+    "titulo": "Cinco proyectos que demuestran que sí es posible la convivencia en paz entre comunidades, jaguares y pumas",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/22211717/jaguar-estribaciones-2-768x512.jpg",
+    "fecha": "Oct 11, 2025",
+    "url": "https://es.mongabay.com/2025/10/proyectos-convivencia-entre-comunidades-jaguares-pumas/"
+  },
+  {
     "titulo": "Una millonaria obra de energía amenaza al santuario Passiflora, refugio del jaguar en la Amazonía boliviana",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/08130746/jaguar-cover-768x512.jpg",
     "fecha": "Oct 09, 2025",
@@ -6942,7 +6948,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Oct 11 18:23:58 2025",
+    "titulo": "Última actualización automática - Sun Oct 12 01:15:24 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
