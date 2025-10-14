@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "El gran retorno de las cigüeñas a un área protegida de Bolivia amenazada por invasores e incendios",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/13161635/5-Ciguenas-en-la-copa-768x512.jpg",
+    "fecha": "Oct 14, 2025",
+    "url": "https://es.mongabay.com/2025/10/retorno-ciguenas-area-protegida-bolivia-amenazada-invasores-incendios/"
+  },
+  {
     "titulo": "¿Qué está causando que animales en peligro de extinción mueran ahogados en Argentina?",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/12190348/Denise_Griguol-7-768x512.jpg",
     "fecha": "Oct 13, 2025",
@@ -6954,7 +6960,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Oct 14 12:36:51 2025",
+    "titulo": "Última actualización automática - Tue Oct 14 18:26:54 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
