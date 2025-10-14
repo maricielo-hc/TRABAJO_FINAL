@@ -2394,6 +2394,20 @@
     "lon": -71.20012
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-13",
+    "hora": "20:19",
+    "lat": -6.57048,
+    "lon": -76.35174
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-13",
+    "hora": "20:19",
+    "lat": -6.06845,
+    "lon": -78.67373
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-11T23:52:31.134Z",
     "lugar": "10 km N of Piura, Peru",
