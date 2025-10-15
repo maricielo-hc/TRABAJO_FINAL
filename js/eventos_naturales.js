@@ -1,55 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2025-10-13",
-    "hora": "02:30",
-    "lat": -11.4857,
-    "lon": -68.14194
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-10-13",
-    "hora": "02:30",
-    "lat": -11.48079,
-    "lon": -68.1481
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-10-13",
-    "hora": "02:32",
-    "lat": -9.35131,
-    "lon": -73.58986
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-10-13",
-    "hora": "13:21",
-    "lat": -16.6976,
-    "lon": -71.81773
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-10-13",
-    "hora": "13:21",
-    "lat": -17.24365,
-    "lon": -71.20012
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-10-13",
-    "hora": "20:19",
-    "lat": -6.57048,
-    "lon": -76.35174
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-10-13",
-    "hora": "20:19",
-    "lat": -6.06845,
-    "lon": -78.67373
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2025-10-14",
     "hora": "13:57",
     "lat": -12.01757,
@@ -145,6 +96,63 @@ const eventosNaturales = [
     "hora": "19:19",
     "lat": -11.95967,
     "lon": -68.99924
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "02:09",
+    "lat": -13.0028,
+    "lon": -68.55087
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "02:09",
+    "lat": -13.0049,
+    "lon": -68.56452
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "02:11",
+    "lat": -10.8477,
+    "lon": -75.01065
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "02:11",
+    "lat": -6.55438,
+    "lon": -76.41194
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "02:13",
+    "lat": -0.08299,
+    "lon": -77.64573
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "02:13",
+    "lat": -0.08417,
+    "lon": -77.65428
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "02:13",
+    "lat": -0.08546,
+    "lon": -77.6636
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-10-15T00:05:12.567Z",
+    "lugar": "34 km W of Pacocha, Peru",
+    "magnitud": "4",
+    "lat": -17.6567,
+    "lon": -71.6652
   },
   {
     "tipo": "Sismo",
