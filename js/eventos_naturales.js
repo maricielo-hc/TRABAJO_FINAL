@@ -154,6 +154,90 @@ const eventosNaturales = [
     "lon": -76.1666
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:35",
+    "lat": -4.38028,
+    "lon": -79.94078
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:35",
+    "lat": -5.09543,
+    "lon": -80.16381
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:37",
+    "lat": -9.53042,
+    "lon": -77.52294
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:37",
+    "lat": -11.08765,
+    "lon": -77.16576
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:33",
+    "lat": -0.26707,
+    "lon": -78.33276
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:33",
+    "lat": -0.3517,
+    "lon": -78.45155
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:33",
+    "lat": -0.35312,
+    "lon": -78.44172
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:33",
+    "lat": -0.36101,
+    "lon": -78.4529
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:33",
+    "lat": -0.36243,
+    "lon": -78.44311
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:33",
+    "lat": -0.91507,
+    "lon": -77.81204
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:33",
+    "lat": -1.42926,
+    "lon": -80.45213
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-15",
+    "hora": "14:33",
+    "lat": -2.00736,
+    "lon": -78.34456
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-15T00:05:12.567Z",
     "lugar": "34 km W of Pacocha, Peru",
