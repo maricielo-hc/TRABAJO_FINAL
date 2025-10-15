@@ -56,19 +56,102 @@ const eventosNaturales = [
     "lon": -75.24054
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -10.94189,
+    "lon": -69.28133
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -10.89325,
+    "lon": -69.52235
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -10.88481,
+    "lon": -73.29048
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -10.78791,
+    "lon": -73.24445
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -10.10426,
+    "lon": -68.94703
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -9.38889,
+    "lon": -68.34972
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:21",
+    "lat": -6.95002,
+    "lon": -75.21857
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:21",
+    "lat": -6.94712,
+    "lon": -75.22691
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -13.01117,
+    "lon": -68.53114
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -12.94525,
+    "lon": -71.3901
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -12.94298,
+    "lon": -71.49072
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -11.95836,
+    "lon": -68.99258
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-14",
+    "hora": "19:19",
+    "lat": -11.95967,
+    "lon": -68.99924
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-11T23:52:31.134Z",
     "lugar": "10 km N of Piura, Peru",
     "magnitud": "4.4",
     "lat": -5.0995,
     "lon": -80.623
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-10-07T23:00:06.590Z",
-    "lugar": "75 km SSW of San Juan, Peru",
-    "magnitud": "4.6",
-    "lat": -15.9772,
-    "lon": -75.4684
   }
 ];
