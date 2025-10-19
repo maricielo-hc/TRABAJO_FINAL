@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Mercurio amenaza a tortugas, delfines, tiburones y más especies en Latinoamérica | Lecturas ambientales",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/17145913/Alopias_pelagicus-Jenvit_Seriburi-inaturalist-768x512.jpg",
+    "fecha": "Oct 19, 2025",
+    "url": "https://es.mongabay.com/2025/10/mercurio-amenaza-tortugas-delfines-tiburones-especies-latinoamerica-l-lecturas-ambientales/"
+  },
+  {
     "titulo": "¿Dónde nacen las mantas oceánicas? La respuesta se busca en el Archipiélago de Revillagigedo",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/16155242/manta-portada-768x512.jpg",
     "fecha": "Oct 17, 2025",
@@ -6966,7 +6972,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Oct 19 12:31:39 2025",
+    "titulo": "Última actualización automática - Sun Oct 19 18:23:52 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
