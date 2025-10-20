@@ -21,6 +21,27 @@ const eventosNaturales = [
     "lon": -76.47755
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-20",
+    "hora": "14:33",
+    "lat": -0.36032,
+    "lon": -78.44894
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-20",
+    "hora": "14:35",
+    "lat": -3.40332,
+    "lon": -78.57751
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-20",
+    "hora": "14:37",
+    "lat": -9.52388,
+    "lon": -77.51946
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-18T23:16:10.684Z",
     "lugar": "20 km WNW of Ilabaya, Peru",
