@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Zapotitlán: la comunidad pesquera que convirtió sus arrecifes en una reserva para el futuro en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/21143927/lancha-cover-768x512.jpg",
+    "fecha": "Oct 21, 2025",
+    "url": "https://es.mongabay.com/2025/10/zapotitlan-comunidad-pesquera-protege-arrecifes-reserva-mexico/"
+  },
+  {
     "titulo": "La güiña: el felino salvaje más pequeño de América está menos amenazado, pero sigue en riesgo",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/08/02223431/guina-jerry-laker-1-768x512.jpg",
     "fecha": "Oct 20, 2025",
@@ -6978,7 +6984,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Oct 21 12:36:38 2025",
+    "titulo": "Última actualización automática - Tue Oct 21 18:27:37 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
