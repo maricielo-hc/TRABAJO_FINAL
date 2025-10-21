@@ -434,6 +434,20 @@
     "lon": -78.33543
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-21",
+    "hora": "13:38",
+    "lat": -11.20438,
+    "lon": -68.47029
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-21",
+    "hora": "13:40",
+    "lat": -14.27319,
+    "lon": -71.22762
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-21T05:24:10.042Z",
     "lugar": "40 km ESE of Uchiza, Peru",
