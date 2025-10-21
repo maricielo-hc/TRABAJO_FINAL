@@ -1,9 +1,15 @@
 const articulos = [
   {
+    "titulo": "La güiña: el felino salvaje más pequeño de América está menos amenazado, pero sigue en riesgo",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/08/02223431/guina-jerry-laker-1-768x512.jpg",
+    "fecha": "Oct 20, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/10/guina-felino-menos-amenazado-pero-sigue-riesgo/"
+  },
+  {
     "titulo": "Mercurio amenaza a tortugas, delfines, tiburones y más especies en Latinoamérica | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/17145913/Alopias_pelagicus-Jenvit_Seriburi-inaturalist-768x512.jpg",
     "fecha": "Oct 19, 2025",
-    "url": "https://es.mongabay.com/2025/10/mercurio-amenaza-tortugas-delfines-tiburones-especies-latinoamerica-l-lecturas-ambientales/"
+    "url": "https://es.mongabay.com/2025/10/mercurio-amenaza-tortugas-delfines-tiburones-especies-latinoamerica/"
   },
   {
     "titulo": "¿Dónde nacen las mantas oceánicas? La respuesta se busca en el Archipiélago de Revillagigedo",
@@ -6972,7 +6978,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Oct 20 18:27:02 2025",
+    "titulo": "Última actualización automática - Tue Oct 21 01:16:22 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
