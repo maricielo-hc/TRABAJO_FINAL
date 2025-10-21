@@ -1,27 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2025-10-19",
-    "hora": "01:32",
-    "lat": -11.26627,
-    "lon": -68.88087
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-10-19",
-    "hora": "01:32",
-    "lat": -9.85448,
-    "lon": -68.11343
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-10-19",
-    "hora": "13:57",
-    "lat": -11.83796,
-    "lon": -76.47755
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2025-10-20",
     "hora": "14:33",
     "lat": -0.36032,
@@ -439,6 +418,14 @@ const eventosNaturales = [
     "hora": "19:57",
     "lat": -0.159,
     "lon": -76.64705
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-10-21T05:24:10.042Z",
+    "lugar": "40 km ESE of Uchiza, Peru",
+    "magnitud": "4.7",
+    "lat": -8.6492,
+    "lon": -76.1541
   },
   {
     "tipo": "Sismo",
