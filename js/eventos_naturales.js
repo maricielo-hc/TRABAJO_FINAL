@@ -448,6 +448,43 @@ const eventosNaturales = [
     "lon": -71.22762
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-21",
+    "hora": "20:34",
+    "lat": -5.48519,
+    "lon": -78.80073
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-21",
+    "hora": "20:34",
+    "lat": -5.48605,
+    "lon": -78.80643
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-21",
+    "hora": "20:34",
+    "lat": -4.76176,
+    "lon": -80.52805
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-10-22T00:05:44.190Z",
+    "lugar": "16 km WNW of Piñas, Ecuador",
+    "magnitud": "5.5",
+    "lat": -3.6247,
+    "lon": -79.8229
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-10-21T22:57:04.725Z",
+    "lugar": "16 km WSW of Iray, Peru",
+    "magnitud": "4.5",
+    "lat": -15.9189,
+    "lon": -72.7661
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-21T05:24:10.042Z",
     "lugar": "40 km ESE of Uchiza, Peru",
@@ -462,13 +499,5 @@ const eventosNaturales = [
     "magnitud": "4.5",
     "lat": -17.366,
     "lon": -70.6933
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-10-15T00:05:12.567Z",
-    "lugar": "34 km W of Pacocha, Peru",
-    "magnitud": "4",
-    "lat": -17.6567,
-    "lon": -71.6652
   }
 ];
