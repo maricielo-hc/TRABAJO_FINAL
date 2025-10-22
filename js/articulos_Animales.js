@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Zapotitlán: la comunidad pesquera que convirtió sus arrecifes en una reserva para el futuro en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/21143927/lancha-cover-768x512.jpg",
-    "fecha": "Oct 21, 2025",
+    "fecha": "Oct 22, 2025",
     "url": "https://es.mongabay.com/2025/10/zapotitlan-comunidad-pesquera-protege-arrecifes-reserva-mexico/"
   },
   {
@@ -6984,7 +6984,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Oct 22 12:36:54 2025",
+    "titulo": "Última actualización automática - Wed Oct 22 18:28:03 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
