@@ -1330,6 +1330,34 @@ const eventosNaturales = [
     "lon": -74.13509
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-23",
+    "hora": "14:54",
+    "lat": -1.45573,
+    "lon": -79.82425
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-23",
+    "hora": "14:54",
+    "lat": -1.45847,
+    "lon": -79.8054
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-23",
+    "hora": "14:54",
+    "lat": -1.45689,
+    "lon": -79.83115
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-23",
+    "hora": "14:54",
+    "lat": -1.45949,
+    "lon": -79.81229
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-22T00:05:44.149Z",
     "lugar": "16 km WNW of Piñas, Ecuador",
