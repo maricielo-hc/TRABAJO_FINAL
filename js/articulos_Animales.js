@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Descubren curiosos marsupiales, cocodrilos y roedores en América Latina y el Caribe | Coyuntura Ambiental",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/06/01131713/Desmarests-hutia-2-768x512.jpg",
+    "fecha": "Oct 25, 2025",
+    "url": "https://es.mongabay.com/2025/10/descubren-marsupiales-cocodrilos-roedores/"
+  },
+  {
     "titulo": "Zapotitlán: la comunidad pesquera que convirtió sus arrecifes en una reserva para el futuro en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/21143927/lancha-cover-768x512.jpg",
     "fecha": "Oct 22, 2025",
@@ -6984,7 +6990,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Oct 25 18:25:29 2025",
+    "titulo": "Última actualización automática - Sun Oct 26 01:19:41 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
