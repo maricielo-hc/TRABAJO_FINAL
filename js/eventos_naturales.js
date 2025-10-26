@@ -259,6 +259,273 @@ const eventosNaturales = [
     "lon": -78.17407
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -18.50707,
+    "lon": -70.11149
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -15.69273,
+    "lon": -69.87395
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -14.69843,
+    "lon": -70.64456
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -13.09684,
+    "lon": -68.60049
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -12.87562,
+    "lon": -70.24994
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -12.60037,
+    "lon": -72.72842
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -11.74974,
+    "lon": -68.70106
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -12.1024,
+    "lon": -73.98243
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -12.10392,
+    "lon": -73.99339
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -11.16372,
+    "lon": -68.50564
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:49",
+    "lat": -10.96204,
+    "lon": -68.67233
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -11.58463,
+    "lon": -75.83149
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -11.23906,
+    "lon": -74.32812
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -10.41504,
+    "lon": -68.9117
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -11.08439,
+    "lon": -74.75903
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -11.1006,
+    "lon": -75.40154
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -10.99435,
+    "lon": -75.07464
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -10.97125,
+    "lon": -75.05547
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -10.9875,
+    "lon": -75.24963
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -10.91273,
+    "lon": -75.07663
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -10.91417,
+    "lon": -75.0821
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -9.19517,
+    "lon": -72.65198
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -9.19687,
+    "lon": -75.08694
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -9.19842,
+    "lon": -75.09816
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -8.1025,
+    "lon": -74.30878
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -7.01762,
+    "lon": -76.71706
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -6.4582,
+    "lon": -75.19836
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -6.44721,
+    "lon": -75.18931
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -6.44868,
+    "lon": -75.19974
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -5.80222,
+    "lon": -77.40446
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -3.72914,
+    "lon": -73.25182
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:51",
+    "lat": -3.73042,
+    "lon": -73.26055
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:53",
+    "lat": -2.27957,
+    "lon": -80.75018
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:53",
+    "lat": -2.03773,
+    "lon": -80.34466
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:53",
+    "lat": -2.01358,
+    "lon": -80.53328
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:53",
+    "lat": -1.89218,
+    "lon": -80.4207
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-25",
+    "hora": "19:53",
+    "lat": -0.30209,
+    "lon": -76.85627
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-10-25T22:09:36.148Z",
+    "lugar": "87 km S of Pacocha, Peru",
+    "magnitud": "4.6",
+    "lat": -18.4341,
+    "lon": -71.4096
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-22T00:05:44.149Z",
     "lugar": "16 km WNW of Piñas, Ecuador",
@@ -281,13 +548,5 @@ const eventosNaturales = [
     "magnitud": "4.7",
     "lat": -8.6492,
     "lon": -76.1541
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-10-18T23:16:10.684Z",
-    "lugar": "20 km WNW of Ilabaya, Peru",
-    "magnitud": "4.5",
-    "lat": -17.366,
-    "lon": -70.6933
   }
 ];
