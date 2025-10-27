@@ -469,6 +469,20 @@ const eventosNaturales = [
     "lon": -68.29939
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-26",
+    "hora": "20:29",
+    "lat": -13.76832,
+    "lon": -75.29411
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-26",
+    "hora": "20:29",
+    "lat": -7.714,
+    "lon": -79.05019
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-25T22:09:36.148Z",
     "lugar": "87 km S of Pacocha, Peru",
