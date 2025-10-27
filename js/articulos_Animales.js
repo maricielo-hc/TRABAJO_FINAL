@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Expertos temen que proyecto minero de cobre en Chile amenace al gato andino, uno de los felinos más raros de América",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/07/27010620/FOTO-ABRE-AGA-768x512.jpg",
+    "fecha": "Oct 27, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/10/proyecto-minero-cobre-chile-amenaza-gato-andino/"
+  },
+  {
     "titulo": "Descubren curiosos marsupiales, cocodrilos y roedores en América Latina y el Caribe | Coyuntura Ambiental",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/06/01131713/Desmarests-hutia-2-768x512.jpg",
     "fecha": "Oct 25, 2025",
@@ -6990,7 +6996,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Oct 27 12:38:59 2025",
+    "titulo": "Última actualización automática - Mon Oct 27 18:29:11 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
