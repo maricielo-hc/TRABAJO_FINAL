@@ -210,6 +210,20 @@
     "lon": -80.86672
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "14:54",
+    "lat": -7.65776,
+    "lon": -79.22611
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "14:54",
+    "lat": -8.44199,
+    "lon": -78.65871
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-25T22:09:36.148Z",
     "lugar": "87 km S of Pacocha, Peru",
