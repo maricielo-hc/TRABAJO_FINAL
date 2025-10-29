@@ -224,27 +224,74 @@ const eventosNaturales = [
     "lon": -78.65871
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "20:10",
+    "lat": -5.82517,
+    "lon": -78.4269
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "20:06",
+    "lat": -16.72672,
+    "lon": -70.65922
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "20:12",
+    "lat": -1.67683,
+    "lon": -79.36945
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "20:08",
+    "lat": -11.6878,
+    "lon": -76.52186
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "20:08",
+    "lat": -11.13206,
+    "lon": -77.54329
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "20:12",
+    "lat": -1.37689,
+    "lon": -80.36134
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "20:08",
+    "lat": -11.1334,
+    "lon": -77.55287
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "20:08",
+    "lat": -6.03578,
+    "lon": -78.80206
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-10-28",
+    "hora": "20:12",
+    "lat": -0.66509,
+    "lon": -80.41248
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-10-25T22:09:36.148Z",
     "lugar": "87 km S of Pacocha, Peru",
     "magnitud": "4.6",
     "lat": -18.4341,
     "lon": -71.4096
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-10-22T00:05:44.149Z",
-    "lugar": "16 km WNW of Piñas, Ecuador",
-    "magnitud": "5.5",
-    "lat": -3.6213,
-    "lon": -79.813
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-10-21T22:57:04.725Z",
-    "lugar": "16 km WSW of Iray, Peru",
-    "magnitud": "4.5",
-    "lat": -15.9189,
-    "lon": -72.7661
   }
 ];
