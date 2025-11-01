@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Parabas barba azul, palkachupas y cigüeñas: tres poderosas aves que renacen en medio de graves amenazas en Bolivia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2019/07/14081531/Paraba-barba-Azul-2-Fundacio%CC%81n-Loros-de-Bolivia-768x512.jpg",
+    "fecha": "Nov 01, 2025",
+    "url": "https://es.mongabay.com/2025/11/parabas-barba-azul-palkachupas-ciguenas-renacen-amenazas-bolivia/"
+  },
+  {
     "titulo": "Expertos temen que proyecto minero de cobre en Chile amenace al gato andino, uno de los felinos más raros de América",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/07/27010620/FOTO-ABRE-AGA-768x512.jpg",
     "fecha": "Oct 27, 2025",
@@ -6996,7 +7002,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Nov  1 12:31:58 2025",
+    "titulo": "Última actualización automática - Sat Nov  1 18:24:22 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
