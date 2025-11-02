@@ -89,5 +89,35 @@
     "hora": "02:34",
     "lat": -0.07597,
     "lon": -77.65382
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-02",
+    "hora": "14:54",
+    "lat": -1.70155,
+    "lon": -80.41727
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-02",
+    "hora": "14:54",
+    "lat": -6.70865,
+    "lon": -79.45367
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-11-02T12:47:40.052Z",
+    "lugar": "5 km SSW of Puquina, Peru",
+    "magnitud": "4.9",
+    "lat": -16.6724,
+    "lon": -71.1993
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-11-02T12:41:15.694Z",
+    "lugar": "17 km N of Lluta, Peru",
+    "magnitud": "4.3",
+    "lat": -15.8592,
+    "lon": -72.0127
   }
 ]
