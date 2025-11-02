@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "¿Cómo el cambio climático amenaza la supervivencia de tortugas, aves, peces y mamíferos en América Latina? | Lecturas ambientales",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/05023839/Monodelphis-domestica-un-marsupial-encontrado-en-Iguatu-en-el-estado-de-Ceara-Brasil.-Foto_-Dra.-Ludmilla-da-Costa-Pinto-768x512.jpg",
+    "fecha": "Nov 02, 2025",
+    "url": "https://es.mongabay.com/2025/11/calentamiento-global-amenaza-animales-america-latina/"
+  },
+  {
     "titulo": "Parabas barba azul, palkachupas y cigüeñas: tres poderosas aves que renacen en medio de graves amenazas en Bolivia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2019/07/14081531/Paraba-barba-Azul-2-Fundacio%CC%81n-Loros-de-Bolivia-768x512.jpg",
     "fecha": "Nov 01, 2025",
@@ -7002,7 +7008,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Nov  2 12:31:29 2025",
+    "titulo": "Última actualización automática - Sun Nov  2 18:23:30 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
