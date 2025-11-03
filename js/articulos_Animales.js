@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "¿Qué revela el monitoreo satelital de elefantes marinos sobre el cambio climático?",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/13000206/Elefantes-marinos-con-transmisores-satelitales-en-Bahia-Jackson.-Cortesia-Maritza-Sepulveda-768x512.jpg",
+    "fecha": "Nov 03, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/11/monitoreo-satelital-elefantes-marinos-cambio-climatico/"
+  },
+  {
     "titulo": "¿Cómo el cambio climático amenaza la supervivencia de tortugas, aves, peces y mamíferos en América Latina? | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/05023839/Monodelphis-domestica-un-marsupial-encontrado-en-Iguatu-en-el-estado-de-Ceara-Brasil.-Foto_-Dra.-Ludmilla-da-Costa-Pinto-768x512.jpg",
     "fecha": "Nov 02, 2025",
@@ -7008,7 +7014,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Nov  3 12:37:10 2025",
+    "titulo": "Última actualización automática - Mon Nov  3 18:26:42 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
