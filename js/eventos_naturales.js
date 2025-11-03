@@ -581,6 +581,41 @@ const eventosNaturales = [
     "lon": -80.29389
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-03",
+    "hora": "13:57",
+    "lat": -10.65781,
+    "lon": -68.76709
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-03",
+    "hora": "13:59",
+    "lat": -13.11221,
+    "lon": -73.75888
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-03",
+    "hora": "13:59",
+    "lat": -14.38794,
+    "lon": -73.8676
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-03",
+    "hora": "13:59",
+    "lat": -16.14232,
+    "lon": -68.50166
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-03",
+    "hora": "13:59",
+    "lat": -16.39402,
+    "lon": -71.84167
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-02T12:47:40.052Z",
     "lugar": "5 km SSW of Puquina, Peru",
