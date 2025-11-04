@@ -616,6 +616,13 @@
     "lon": -71.84167
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-03",
+    "hora": "20:44",
+    "lat": -1.84873,
+    "lon": -80.44795
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-02T12:47:40.052Z",
     "lugar": "5 km SSW of Puquina, Peru",
