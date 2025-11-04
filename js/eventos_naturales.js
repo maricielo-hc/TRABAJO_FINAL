@@ -57,6 +57,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-11-04T07:14:13.207Z",
+    "lugar": "70 km S of Alianza Cristiana, Peru",
+    "magnitud": "4.2",
+    "lat": -4.1064,
+    "lon": -76.3283
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-11-02T12:47:40.052Z",
     "lugar": "5 km SSW of Puquina, Peru",
     "magnitud": "4.9",
