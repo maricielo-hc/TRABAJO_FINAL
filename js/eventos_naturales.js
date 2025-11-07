@@ -182,6 +182,28 @@ const eventosNaturales = [
     "lon": -73.14558
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-07",
+    "hora": "07:45",
+    "lat": -2.00022,
+    "lon": -78.3364
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-07",
+    "hora": "07:43",
+    "lat": -0.08214,
+    "lon": -77.65706
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-11-07T05:30:28.067Z",
+    "lugar": "64 km E of Palca, Peru",
+    "magnitud": "4.3",
+    "lat": -17.7399,
+    "lon": -69.3545
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-06T23:11:15.228Z",
     "lugar": "42 km SSE of Tena, Ecuador",
