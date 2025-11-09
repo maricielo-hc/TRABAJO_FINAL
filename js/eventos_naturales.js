@@ -161,6 +161,70 @@ const eventosNaturales = [
     "lon": -74.92489
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "14:35",
+    "lat": -3.825,
+    "lon": -79.76868
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "14:35",
+    "lat": -4.38225,
+    "lon": -79.9415
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "14:35",
+    "lat": -4.924,
+    "lon": -80.34409
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "14:35",
+    "lat": -5.09746,
+    "lon": -80.1673
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "14:35",
+    "lat": -6.30742,
+    "lon": -74.02311
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "14:35",
+    "lat": -6.03569,
+    "lon": -76.97307
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "14:35",
+    "lat": -7.23545,
+    "lon": -76.71456
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "14:35",
+    "lat": -7.54032,
+    "lon": -75.22171
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-11-09T13:42:13.059Z",
+    "lugar": "62 km SW of Huanchaquito Alto, Peru",
+    "magnitud": "4.8",
+    "lat": -8.5182,
+    "lon": -79.4685
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-07T05:30:28.067Z",
     "lugar": "64 km E of Palca, Peru",
@@ -183,21 +247,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -4.1064,
     "lon": -76.3283
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-02T12:47:40.052Z",
-    "lugar": "5 km SSW of Puquina, Peru",
-    "magnitud": "4.9",
-    "lat": -16.6724,
-    "lon": -71.1993
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-02T12:41:15.694Z",
-    "lugar": "17 km N of Lluta, Peru",
-    "magnitud": "4.3",
-    "lat": -15.8592,
-    "lon": -72.0127
   }
 ];
