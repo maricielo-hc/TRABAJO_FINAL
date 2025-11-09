@@ -126,6 +126,41 @@ const eventosNaturales = [
     "lon": -68.00554
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "02:13",
+    "lat": -9.6629,
+    "lon": -73.60863
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "02:13",
+    "lat": -9.66416,
+    "lon": -73.61759
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "02:13",
+    "lat": -9.65404,
+    "lon": -73.60992
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "02:13",
+    "lat": -9.6553,
+    "lon": -73.6189
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-09",
+    "hora": "02:13",
+    "lat": -8.22328,
+    "lon": -74.92489
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-07T05:30:28.067Z",
     "lugar": "64 km E of Palca, Peru",
