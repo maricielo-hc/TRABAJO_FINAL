@@ -231,6 +231,13 @@ const eventosNaturales = [
     "lon": -68.91968
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-10",
+    "hora": "08:05",
+    "lat": -13.78172,
+    "lon": -76.16862
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-09T13:42:13.059Z",
     "lugar": "62 km SW of Huanchaquito Alto, Peru",
