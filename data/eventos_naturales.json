@@ -519,6 +519,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-11-11T07:45:56.860Z",
+    "lugar": "22 km ENE of Chiguata, Peru",
+    "magnitud": "4.8",
+    "lat": -16.3403,
+    "lon": -71.2001
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-11-10T19:38:49.721Z",
     "lugar": "13 km W of Tocota, Peru",
     "magnitud": "4.3",
@@ -548,13 +556,5 @@
     "magnitud": "4.5",
     "lat": -1.3168,
     "lon": -77.6087
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-04T07:14:13.207Z",
-    "lugar": "70 km S of Alianza Cristiana, Peru",
-    "magnitud": "4.2",
-    "lat": -4.1064,
-    "lon": -76.3283
   }
 ]
