@@ -518,6 +518,13 @@
     "lon": -80.29275
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-11",
+    "hora": "14:16",
+    "lat": -11.12141,
+    "lon": -75.35504
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-11T07:45:56.860Z",
     "lugar": "22 km ENE of Chiguata, Peru",
