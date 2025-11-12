@@ -35,6 +35,20 @@ const eventosNaturales = [
     "lon": -79.56934
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-12",
+    "hora": "14:54",
+    "lat": -4.51957,
+    "lon": -79.99518
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-12",
+    "hora": "14:54",
+    "lat": -4.52245,
+    "lon": -79.97331
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-11T07:45:56.860Z",
     "lugar": "22 km ENE of Chiguata, Peru",
