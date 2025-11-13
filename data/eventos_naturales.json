@@ -441,6 +441,27 @@
     "lon": -78.33947
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-13",
+    "hora": "13:57",
+    "lat": -5.89586,
+    "lon": -76.11416
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-13",
+    "hora": "13:57",
+    "lat": -12.43599,
+    "lon": -76.16537
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-13",
+    "hora": "13:59",
+    "lat": -13.63372,
+    "lon": -72.88415
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-13T09:04:41.897Z",
     "lugar": "26 km ENE of Atico, Peru",
