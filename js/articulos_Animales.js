@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "La reubicación de un jaguar genera polémica entre investigadores y autoridades ambientales en Colombia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/12183255/Captura-de-pantalla-2025-11-12-a-las-11.32.19-a.m-768x512.png",
+    "fecha": "Nov 13, 2025",
+    "url": "https://es.mongabay.com/2025/11/reubicacion-jaguar-genera-polemica-colombia/"
+  },
+  {
     "titulo": "¿Qué revela el monitoreo satelital de elefantes marinos sobre el cambio climático?",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/13000206/Elefantes-marinos-con-transmisores-satelitales-en-Bahia-Jackson.-Cortesia-Maritza-Sepulveda-768x512.jpg",
     "fecha": "Nov 03, 2025",
@@ -7014,7 +7020,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Nov 13 12:38:01 2025",
+    "titulo": "Última actualización automática - Thu Nov 13 18:27:27 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
