@@ -91,6 +91,20 @@
     "lon": -72.12482
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-16",
+    "hora": "14:16",
+    "lat": -7.20035,
+    "lon": -79.47703
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-16",
+    "hora": "14:16",
+    "lat": -14.82583,
+    "lon": -71.32241
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-16T07:04:00.017Z",
     "lugar": "22 km SE of El Triunfo ( El Cruce), Peru",
@@ -129,13 +143,5 @@
     "magnitud": "4.3",
     "lat": -15.6448,
     "lon": -74.2123
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-09T13:42:13.059Z",
-    "lugar": "62 km SW of Huanchaquito Alto, Peru",
-    "magnitud": "4.8",
-    "lat": -8.5182,
-    "lon": -79.4685
   }
 ]
