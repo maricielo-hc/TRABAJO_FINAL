@@ -92,6 +92,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-11-16T07:04:00.017Z",
+    "lugar": "22 km SE of El Triunfo ( El Cruce), Peru",
+    "magnitud": "4.3",
+    "lat": -16.6607,
+    "lon": -71.7291
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-11-15T09:24:20.416Z",
     "lugar": "70 km E of Arica, Chile",
     "magnitud": "4.2",
