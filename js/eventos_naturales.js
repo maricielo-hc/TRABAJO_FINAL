@@ -161,6 +161,55 @@ const eventosNaturales = [
     "lon": -75.31886
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-15",
+    "hora": "20:12",
+    "lat": -15.7647,
+    "lon": -72.83115
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-15",
+    "hora": "20:12",
+    "lat": -15.76628,
+    "lon": -72.84117
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-15",
+    "hora": "20:12",
+    "lat": -13.49244,
+    "lon": -73.79661
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-15",
+    "hora": "20:12",
+    "lat": -13.48325,
+    "lon": -73.79917
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-15",
+    "hora": "20:14",
+    "lat": -12.04615,
+    "lon": -74.66767
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-15",
+    "hora": "20:14",
+    "lat": -12.14184,
+    "lon": -76.16666
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-15",
+    "hora": "20:14",
+    "lat": -12.14313,
+    "lon": -76.17546
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-15T09:24:20.416Z",
     "lugar": "70 km E of Arica, Chile",
