@@ -105,6 +105,13 @@ const eventosNaturales = [
     "lon": -71.32241
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-16",
+    "hora": "19:17",
+    "lat": -3.13411,
+    "lon": -71.27413
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-16T07:04:00.017Z",
     "lugar": "22 km SE of El Triunfo ( El Cruce), Peru",
