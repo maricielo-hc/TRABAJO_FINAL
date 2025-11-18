@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Corazón del bosque: comunidades descubren una nueva especie de rana amenazada en Perú",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/17163320/Captura-de-pantalla-2025-11-17-a-las-9.32.46-a.m-768x512.png",
+    "fecha": "Nov 18, 2025",
+    "url": "https://es.mongabay.com/2025/11/comunidades-descubren-nueva-especie-rana-amenazada-peru/"
+  },
+  {
     "titulo": "La reubicación de un jaguar genera polémica entre investigadores y autoridades ambientales en Colombia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/12183255/Captura-de-pantalla-2025-11-12-a-las-11.32.19-a.m-768x512.png",
     "fecha": "Nov 15, 2025",
@@ -7020,7 +7026,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Nov 18 12:37:12 2025",
+    "titulo": "Última actualización automática - Tue Nov 18 18:28:01 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
