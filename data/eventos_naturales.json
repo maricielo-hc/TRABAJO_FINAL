@@ -70,6 +70,13 @@
     "lon": -77.65957
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-18",
+    "hora": "13:59",
+    "lat": -13.79056,
+    "lon": -76.16776
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-17T23:13:50.967Z",
     "lugar": "22 km NE of Puyo, Ecuador",
