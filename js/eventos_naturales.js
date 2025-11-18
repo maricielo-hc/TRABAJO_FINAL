@@ -1,41 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2025-11-16",
-    "hora": "01:49",
-    "lat": -14.21103,
-    "lon": -72.11792
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-11-16",
-    "hora": "01:49",
-    "lat": -14.20425,
-    "lon": -72.12482
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-11-16",
-    "hora": "14:16",
-    "lat": -7.20035,
-    "lon": -79.47703
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-11-16",
-    "hora": "14:16",
-    "lat": -14.82583,
-    "lon": -71.32241
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-11-16",
-    "hora": "19:17",
-    "lat": -3.13411,
-    "lon": -71.27413
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2025-11-17",
     "hora": "02:30",
     "lat": -16.38794,
@@ -103,6 +68,14 @@ const eventosNaturales = [
     "hora": "19:55",
     "lat": -0.08675,
     "lon": -77.65957
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-11-17T23:13:50.967Z",
+    "lugar": "22 km NE of Puyo, Ecuador",
+    "magnitud": "4.2",
+    "lat": -1.3477,
+    "lon": -77.8529
   },
   {
     "tipo": "Sismo",
