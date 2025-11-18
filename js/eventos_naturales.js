@@ -63,6 +63,48 @@ const eventosNaturales = [
     "lon": -78.34599
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-17",
+    "hora": "19:49",
+    "lat": -16.37547,
+    "lon": -69.40491
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-17",
+    "hora": "19:49",
+    "lat": -16.50008,
+    "lon": -72.61124
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-17",
+    "hora": "19:51",
+    "lat": -15.01431,
+    "lon": -73.88801
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-17",
+    "hora": "19:53",
+    "lat": -8.15306,
+    "lon": -74.19492
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-17",
+    "hora": "19:53",
+    "lat": -8.15448,
+    "lon": -74.20508
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-17",
+    "hora": "19:55",
+    "lat": -0.08675,
+    "lon": -77.65957
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-16T07:04:00.017Z",
     "lugar": "22 km SE of El Triunfo ( El Cruce), Peru",
@@ -93,13 +135,5 @@ const eventosNaturales = [
     "magnitud": "4.8",
     "lat": -16.3403,
     "lon": -71.2001
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-10T19:38:49.721Z",
-    "lugar": "13 km W of Tocota, Peru",
-    "magnitud": "4.3",
-    "lat": -15.6448,
-    "lon": -74.2123
   }
 ];
