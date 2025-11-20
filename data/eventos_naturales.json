@@ -63,6 +63,21 @@
     "lon": -70.03113
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-20",
+    "hora": "13:40",
+    "lat": -14.53565,
+    "lon": -71.85434
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-11-20T13:18:38.921Z",
+    "lugar": "13 km NE of La Oroya, Peru",
+    "magnitud": "4.5",
+    "lat": -11.4213,
+    "lon": -75.8242
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-17T23:13:50.967Z",
     "lugar": "22 km NE of Puyo, Ecuador",
