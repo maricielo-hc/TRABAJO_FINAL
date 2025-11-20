@@ -85,13 +85,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -18.3937,
     "lon": -69.6391
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-13T09:04:41.897Z",
-    "lugar": "26 km ENE of Atico, Peru",
-    "magnitud": "4.8",
-    "lat": -16.1622,
-    "lon": -73.3806
   }
 ];
