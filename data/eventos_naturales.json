@@ -385,6 +385,27 @@
     "lon": -75.21551
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-21",
+    "hora": "19:08",
+    "lat": -15.00513,
+    "lon": -68.29034
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-21",
+    "hora": "20:50",
+    "lat": -0.94144,
+    "lon": -80.38924
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-21",
+    "hora": "20:48",
+    "lat": -7.68799,
+    "lon": -79.17484
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-20T13:18:38.921Z",
     "lugar": "13 km NE of La Oroya, Peru",
