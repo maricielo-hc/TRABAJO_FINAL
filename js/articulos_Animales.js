@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Comunidades y científicos se unen para proteger tres especies marinas clave en Chile | Coyuntura ambiental",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/25154044/puye-en-balde.-Autora-Gabriela-Nunez-Arancibia-768x512.jpeg",
+    "fecha": "Nov 22, 2025",
+    "url": "https://es.mongabay.com/2025/11/comunidades-cientificos-protegen-especies-marinas-clave-chile/"
+  },
+  {
     "titulo": "Corazón del bosque: comunidades descubren una nueva especie de rana amenazada en Perú",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/17163320/Captura-de-pantalla-2025-11-17-a-las-9.32.46-a.m-768x512.png",
     "fecha": "Nov 18, 2025",
@@ -7026,7 +7032,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Nov 22 12:32:03 2025",
+    "titulo": "Última actualización automática - Sat Nov 22 18:25:17 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
