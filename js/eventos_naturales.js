@@ -287,6 +287,20 @@ const eventosNaturales = [
     "lon": -72.8877
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-23",
+    "hora": "13:57",
+    "lat": -14.75104,
+    "lon": -71.8108
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-23",
+    "hora": "13:59",
+    "lat": -15.68597,
+    "lon": -72.5745
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-20T13:18:38.921Z",
     "lugar": "13 km NE of La Oroya, Peru",
