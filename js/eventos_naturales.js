@@ -301,13 +301,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -1.3477,
     "lon": -77.8529
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-16T07:04:00.017Z",
-    "lugar": "22 km SE of El Triunfo ( El Cruce), Peru",
-    "magnitud": "4.3",
-    "lat": -16.6607,
-    "lon": -71.7291
   }
 ];
