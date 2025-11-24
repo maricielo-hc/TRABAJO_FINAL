@@ -260,6 +260,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-11-24T12:03:56.329Z",
+    "lugar": "86 km SW of Mâncio Lima, Brazil",
+    "magnitud": "4.6",
+    "lat": -8.0938,
+    "lon": -73.5153
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-11-20T13:18:38.921Z",
     "lugar": "13 km NE of La Oroya, Peru",
     "magnitud": "4.5",
