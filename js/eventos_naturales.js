@@ -259,6 +259,27 @@ const eventosNaturales = [
     "lon": -79.67097
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-24",
+    "hora": "14:33",
+    "lat": -1.49274,
+    "lon": -80.43737
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-24",
+    "hora": "14:33",
+    "lat": -1.49265,
+    "lon": -80.56604
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-24",
+    "hora": "14:33",
+    "lat": -1.57345,
+    "lon": -80.38336
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-24T12:03:56.329Z",
     "lugar": "86 km SW of Mâncio Lima, Brazil",
