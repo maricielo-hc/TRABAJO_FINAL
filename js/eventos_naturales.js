@@ -294,13 +294,5 @@ const eventosNaturales = [
     "magnitud": "4.5",
     "lat": -11.4213,
     "lon": -75.8242
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-17T23:13:50.967Z",
-    "lugar": "22 km NE of Puyo, Ecuador",
-    "magnitud": "4.2",
-    "lat": -1.3477,
-    "lon": -77.8529
   }
 ];
