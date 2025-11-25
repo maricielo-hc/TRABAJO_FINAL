@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Las vicuñas y guanacos de Sudamérica enfrentan la amenaza de la sarna, alertan científicos",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/25000251/camelidos-cover-768x512.jpg",
+    "fecha": "Nov 25, 2025",
+    "url": "https://es.mongabay.com/2025/11/vicunas-guanacos-sudamerica-enfrentan-amenaza-sarna/"
+  },
+  {
+    "titulo": "Tres nuevas ranas endémicas revelan una biodiversidad oculta en el norte peruano",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/24030104/20231109001040_IMG_8188-768x512.jpg",
+    "fecha": "Nov 25, 2025",
+    "url": "https://es.mongabay.com/2025/11/tres-nuevas-ranas-endemicas-revelan-biodiversidad-norte-peruano/"
+  },
+  {
     "titulo": "Comunidades y científicos se unen para proteger tres especies marinas clave en Chile | Coyuntura ambiental",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/25154044/puye-en-balde.-Autora-Gabriela-Nunez-Arancibia-768x512.jpeg",
     "fecha": "Nov 22, 2025",
@@ -7032,7 +7044,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Nov 25 12:37:43 2025",
+    "titulo": "Última actualización automática - Tue Nov 25 18:28:58 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
