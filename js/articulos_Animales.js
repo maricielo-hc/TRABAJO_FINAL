@@ -2,8 +2,20 @@ const articulos = [
   {
     "titulo": "Tres nuevas ranas endémicas revelan una biodiversidad oculta en el norte peruano",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/25011451/Foto-5-Pristimantis-nunezcortezi-768x512.jpg",
-    "fecha": "Nov 25, 2025",
+    "fecha": "Nov 26, 2025",
     "url": "https://es.mongabay.com/2025/11/tres-nuevas-ranas-endemicas-revelan-biodiversidad-norte-peruano/"
+  },
+  {
+    "titulo": "El murciélago que pesca en el desierto está bajo amenaza en el Golfo de California | ENTREVISTA",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/26140106/murcielago-pescador-cover3-768x512.jpeg",
+    "fecha": "Nov 26, 2025",
+    "url": "https://es.mongabay.com/2025/11/murcielago-pesca-desierto-bajo-amenaza-golfo-california-entrevista/"
+  },
+  {
+    "titulo": "El santuario de aves que busca detener la devastación de la Sierra de Agalta en Honduras",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/22232435/DSC00687-768x512.jpg",
+    "fecha": "Nov 26, 2025",
+    "url": "https://es.mongabay.com/2025/11/santuario-aves-busca-detener-devastacion-sierra-agalta-honduras/"
   },
   {
     "titulo": "Las vicuñas y guanacos de Sudamérica enfrentan la amenaza de la sarna, alertan científicos",
@@ -7044,7 +7056,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Nov 26 12:38:24 2025",
+    "titulo": "Última actualización automática - Wed Nov 26 18:24:26 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
