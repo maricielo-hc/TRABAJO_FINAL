@@ -385,6 +385,69 @@ const eventosNaturales = [
     "lon": -77.66917
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "14:14",
+    "lat": -4.02306,
+    "lon": -80.07162
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "14:14",
+    "lat": -4.10448,
+    "lon": -80.14553
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "14:14",
+    "lat": -4.15641,
+    "lon": -80.14874
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "14:14",
+    "lat": -4.16937,
+    "lon": -80.06093
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "14:14",
+    "lat": -4.17099,
+    "lon": -80.04993
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "14:14",
+    "lat": -7.35489,
+    "lon": -79.4303
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "14:16",
+    "lat": -11.15183,
+    "lon": -77.07363
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "14:14",
+    "lat": -3.81821,
+    "lon": -80.14366
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "14:14",
+    "lat": -3.81981,
+    "lon": -80.13263
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-25T09:57:04.702Z",
     "lugar": "25 km SE of Achanizo, Peru",
