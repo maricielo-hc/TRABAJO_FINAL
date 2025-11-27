@@ -1,15 +1,15 @@
 const articulos = [
   {
+    "titulo": "El santuario de aves que busca detener la devastación de la Sierra de Agalta en Honduras",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/22232435/DSC00687-768x512.jpg",
+    "fecha": "Nov 27, 2025",
+    "url": "https://es.mongabay.com/2025/11/santuario-aves-busca-detener-devastacion-sierra-agalta-honduras/"
+  },
+  {
     "titulo": "Tres nuevas ranas endémicas revelan una biodiversidad oculta en el norte peruano",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/25011451/Foto-5-Pristimantis-nunezcortezi-768x512.jpg",
     "fecha": "Nov 26, 2025",
     "url": "https://es.mongabay.com/2025/11/tres-nuevas-ranas-endemicas-revelan-biodiversidad-norte-peruano/"
-  },
-  {
-    "titulo": "El santuario de aves que busca detener la devastación de la Sierra de Agalta en Honduras",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/22232435/DSC00687-768x512.jpg",
-    "fecha": "Nov 26, 2025",
-    "url": "https://es.mongabay.com/2025/11/santuario-aves-busca-detener-devastacion-sierra-agalta-honduras/"
   },
   {
     "titulo": "El murciélago que pesca en el desierto está bajo amenaza en el Golfo de California | ENTREVISTA",
@@ -7056,7 +7056,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Nov 27 12:37:57 2025",
+    "titulo": "Última actualización automática - Thu Nov 27 18:27:06 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
