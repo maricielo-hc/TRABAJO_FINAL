@@ -70,6 +70,90 @@ const eventosNaturales = [
     "lon": -80.13263
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "20:44",
+    "lat": -1.89636,
+    "lon": -79.69125
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "20:46",
+    "lat": -1.48857,
+    "lon": -79.42045
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "20:46",
+    "lat": -1.37013,
+    "lon": -79.58546
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "20:46",
+    "lat": -1.34521,
+    "lon": -79.51598
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "20:46",
+    "lat": -1.3301,
+    "lon": -79.67833
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-26",
+    "hora": "20:46",
+    "lat": -1.33297,
+    "lon": -79.69759
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-27",
+    "hora": "02:32",
+    "lat": -2.00439,
+    "lon": -78.34042
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-27",
+    "hora": "02:32",
+    "lat": -2.18377,
+    "lon": -79.76183
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-27",
+    "hora": "14:54",
+    "lat": -4.04648,
+    "lon": -80.09166
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-27",
+    "hora": "14:54",
+    "lat": -4.155,
+    "lon": -80.1388
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-27",
+    "hora": "14:54",
+    "lat": -4.198,
+    "lon": -80.12344
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-27",
+    "hora": "14:54",
+    "lat": -4.28566,
+    "lon": -80.04814
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-25T09:57:04.702Z",
     "lugar": "25 km SE of Achanizo, Peru",
@@ -92,13 +176,5 @@ const eventosNaturales = [
     "magnitud": "4.3",
     "lat": -17.6269,
     "lon": -69.6516
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-20T13:18:38.921Z",
-    "lugar": "13 km NE of La Oroya, Peru",
-    "magnitud": "4.5",
-    "lat": -11.4213,
-    "lon": -75.8242
   }
 ];
