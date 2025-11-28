@@ -63,6 +63,13 @@ const eventosNaturales = [
     "lon": -71.48334
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-28",
+    "hora": "08:07",
+    "lat": -1.99983,
+    "lon": -78.34267
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-25T09:57:04.702Z",
     "lugar": "25 km SE of Achanizo, Peru",
@@ -77,13 +84,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -8.0938,
     "lon": -73.5153
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-21T10:09:02.431Z",
-    "lugar": "36 km ENE of Palca, Peru",
-    "magnitud": "4.3",
-    "lat": -17.6269,
-    "lon": -69.6516
   }
 ];
