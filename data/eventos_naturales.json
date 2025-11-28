@@ -154,6 +154,27 @@
     "lon": -80.04814
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-27",
+    "hora": "19:42",
+    "lat": -16.36263,
+    "lon": -69.10563
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-27",
+    "hora": "19:42",
+    "lat": -16.16886,
+    "lon": -69.76809
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-27",
+    "hora": "19:42",
+    "lat": -14.79755,
+    "lon": -71.48334
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-25T09:57:04.702Z",
     "lugar": "25 km SE of Achanizo, Peru",
