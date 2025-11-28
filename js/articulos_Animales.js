@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "México: la expansión inmobiliaria pone en peligro al cangrejo azul en la Riviera Veracruzana",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/28143457/cangrejo-cover-768x512.jpg",
+    "fecha": "Nov 28, 2025",
+    "url": "https://es.mongabay.com/2025/11/mexico-expansion-inmobiliaria-peligro-cangrejo-azul-riviera-veracruzana/"
+  },
+  {
     "titulo": "¿Cómo protegen en Colombia al tiburón martillo más pequeño del mundo?",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/30194805/Copy-of-_DSC1443-768x512.jpg",
     "fecha": "Nov 27, 2025",
@@ -7062,7 +7068,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Nov 28 12:36:30 2025",
+    "titulo": "Última actualización automática - Fri Nov 28 18:26:59 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
