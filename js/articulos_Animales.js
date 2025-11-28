@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "¿Cómo protegen en Colombia al tiburón martillo más pequeño del mundo?",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/30194805/Copy-of-_DSC1443-768x512.jpg",
+    "fecha": "Nov 27, 2025",
+    "url": "https://es.mongabay.com/short-article/2025/11/conservacion-tiburon-martillo-extincion-colombia/"
+  },
+  {
     "titulo": "El santuario de aves que busca detener la devastación de la Sierra de Agalta en Honduras",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/22232435/DSC00687-768x512.jpg",
     "fecha": "Nov 27, 2025",
@@ -7056,7 +7062,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Nov 27 18:27:06 2025",
+    "titulo": "Última actualización automática - Fri Nov 28 01:14:32 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
