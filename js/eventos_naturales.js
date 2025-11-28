@@ -70,6 +70,20 @@ const eventosNaturales = [
     "lon": -78.34267
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-28",
+    "hora": "13:59",
+    "lat": -16.59215,
+    "lon": -71.20104
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-28",
+    "hora": "13:59",
+    "lat": -16.6025,
+    "lon": -71.20158
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-25T09:57:04.702Z",
     "lugar": "25 km SE of Achanizo, Peru",
