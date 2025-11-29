@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "México: la expansión inmobiliaria pone en peligro al cangrejo azul en la Riviera Veracruzana",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/28143457/cangrejo-cover-768x512.jpg",
-    "fecha": "Nov 28, 2025",
+    "fecha": "Nov 29, 2025",
     "url": "https://es.mongabay.com/2025/11/mexico-expansion-inmobiliaria-peligro-cangrejo-azul-riviera-veracruzana/"
+  },
+  {
+    "titulo": "Día Internacional del Jaguar: ¿Cómo protegen al felino más grande de América frente a la deforestación, minería y caza ilegal?",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2024/04/05175825/Sugar-2-768x512.jpg",
+    "fecha": "Nov 29, 2025",
+    "url": "https://es.mongabay.com/2025/11/dia-internacional-jaguar-conservacion-deforestacion-mineria-caza-ilegal/"
   },
   {
     "titulo": "¿Cómo protegen en Colombia al tiburón martillo más pequeño del mundo?",
@@ -7068,7 +7074,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Nov 29 12:34:06 2025",
+    "titulo": "Última actualización automática - Sat Nov 29 18:26:12 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
