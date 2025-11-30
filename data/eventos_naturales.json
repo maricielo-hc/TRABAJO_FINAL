@@ -266,6 +266,20 @@
     "lon": -79.80885
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-11-30",
+    "hora": "13:40",
+    "lat": -17.48437,
+    "lon": -71.35701
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-11-30",
+    "hora": "13:40",
+    "lat": -18.8363,
+    "lon": -68.21626
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-30T07:53:40.970Z",
     "lugar": "21 km NW of Ilabaya, Peru",
