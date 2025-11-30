@@ -267,6 +267,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-11-30T07:53:40.970Z",
+    "lugar": "21 km NW of Ilabaya, Peru",
+    "magnitud": "4.3",
+    "lat": -17.3056,
+    "lon": -70.6756
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-11-25T09:57:04.702Z",
     "lugar": "25 km SE of Achanizo, Peru",
     "magnitud": "4.9",
