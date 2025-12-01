@@ -413,6 +413,20 @@
     "lon": -76.59783
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "08:22",
+    "lat": -0.07895,
+    "lon": -77.65519
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "08:24",
+    "lat": -2.00045,
+    "lon": -78.33517
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-30T07:53:40.970Z",
     "lugar": "21 km NW of Ilabaya, Peru",
@@ -427,13 +441,5 @@
     "magnitud": "4.9",
     "lat": -15.955,
     "lon": -73.7804
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-24T12:03:56.329Z",
-    "lugar": "86 km SW of Mâncio Lima, Brazil",
-    "magnitud": "4.6",
-    "lat": -8.0938,
-    "lon": -73.5153
   }
 ]
