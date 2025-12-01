@@ -427,6 +427,112 @@ const eventosNaturales = [
     "lon": -78.33517
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:14",
+    "lat": -3.97027,
+    "lon": -80.21784
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:14",
+    "lat": -3.98174,
+    "lon": -80.2077
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:14",
+    "lat": -3.98339,
+    "lon": -80.19617
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:14",
+    "lat": -3.98476,
+    "lon": -80.20271
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:14",
+    "lat": -4.10176,
+    "lon": -80.23759
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:14",
+    "lat": -4.26663,
+    "lon": -79.94669
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:14",
+    "lat": -4.78287,
+    "lon": -80.26869
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:14",
+    "lat": -7.27207,
+    "lon": -79.39973
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:14",
+    "lat": -7.81636,
+    "lon": -79.27894
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:14",
+    "lat": -7.81772,
+    "lon": -79.26972
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:16",
+    "lat": -10.92161,
+    "lon": -74.88074
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:16",
+    "lat": -12.14215,
+    "lon": -76.2474
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:16",
+    "lat": -12.14383,
+    "lon": -76.23469
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "14:16",
+    "lat": -13.66121,
+    "lon": -73.3941
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-12-01T06:37:00.831Z",
+    "lugar": "51 km SW of Sechura, Peru",
+    "magnitud": "4.2",
+    "lat": -5.8559,
+    "lon": -81.1796
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-11-30T07:53:40.970Z",
     "lugar": "21 km NW of Ilabaya, Peru",
