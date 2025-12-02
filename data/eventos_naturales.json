@@ -197,13 +197,5 @@
     "magnitud": "4.3",
     "lat": -17.3056,
     "lon": -70.6756
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-11-25T09:57:04.702Z",
-    "lugar": "25 km SE of Achanizo, Peru",
-    "magnitud": "4.9",
-    "lat": -15.955,
-    "lon": -73.7804
   }
 ]
