@@ -525,6 +525,63 @@ const eventosNaturales = [
     "lon": -73.3941
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "20:40",
+    "lat": -9.92039,
+    "lon": -76.29022
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "20:40",
+    "lat": -6.35622,
+    "lon": -78.46938
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "20:40",
+    "lat": -4.78024,
+    "lon": -80.26468
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "20:40",
+    "lat": -4.67144,
+    "lon": -79.94756
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "20:42",
+    "lat": -4.07903,
+    "lon": -80.09157
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "20:42",
+    "lat": -0.59575,
+    "lon": -80.29752
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-01",
+    "hora": "20:42",
+    "lat": -0.5978,
+    "lon": -80.31137
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-12-01T23:26:57.919Z",
+    "lugar": "33 km W of Yuyapichis, Peru",
+    "magnitud": "5.1",
+    "lat": -9.5886,
+    "lon": -75.2727
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-01T06:37:00.831Z",
     "lugar": "51 km SW of Sechura, Peru",
