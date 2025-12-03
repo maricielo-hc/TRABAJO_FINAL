@@ -189,6 +189,27 @@
     "lon": -80.18594
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-02",
+    "hora": "19:42",
+    "lat": -2.02105,
+    "lon": -79.66715
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-02",
+    "hora": "19:38",
+    "lat": -13.5505,
+    "lon": -73.73438
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-02",
+    "hora": "19:42",
+    "lat": -2.01235,
+    "lon": -79.63564
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-01T23:26:59.105Z",
     "lugar": "27 km WNW of Yuyapichis, Peru",
