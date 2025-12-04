@@ -1134,6 +1134,104 @@ const eventosNaturales = [
     "lon": -80.58427
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:31",
+    "lat": -0.64848,
+    "lon": -78.26697
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -1.53215,
+    "lon": -80.3243
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -1.53346,
+    "lon": -80.31513
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -1.60047,
+    "lon": -80.16952
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -1.71055,
+    "lon": -80.2386
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -1.68017,
+    "lon": -80.51558
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -2.00017,
+    "lon": -78.33906
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -2.01029,
+    "lon": -78.34001
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -2.20608,
+    "lon": -79.13854
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -3.89613,
+    "lon": -80.11848
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -3.89754,
+    "lon": -80.10861
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -4.10386,
+    "lon": -80.13647
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -4.1648,
+    "lon": -80.1741
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "14:33",
+    "lat": -4.16618,
+    "lon": -80.16442
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-01T23:26:59.105Z",
     "lugar": "27 km WNW of Yuyapichis, Peru",
