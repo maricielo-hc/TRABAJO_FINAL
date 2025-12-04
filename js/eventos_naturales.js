@@ -1,48 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2025-12-02",
-    "hora": "02:32",
-    "lat": -2.0068,
-    "lon": -78.34699
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-02",
-    "hora": "14:54",
-    "lat": -3.98341,
-    "lon": -80.20512
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-02",
-    "hora": "14:54",
-    "lat": -3.98596,
-    "lon": -80.18594
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-02",
-    "hora": "19:42",
-    "lat": -2.02105,
-    "lon": -79.66715
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-02",
-    "hora": "19:38",
-    "lat": -13.5505,
-    "lon": -73.73438
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-02",
-    "hora": "19:42",
-    "lat": -2.01235,
-    "lon": -79.63564
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2025-12-03",
     "hora": "08:02",
     "lat": -0.07984,
@@ -1153,6 +1111,27 @@ const eventosNaturales = [
     "hora": "20:18",
     "lat": -3.79762,
     "lon": -79.97919
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "02:08",
+    "lat": -13.89941,
+    "lon": -75.94645
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "02:13",
+    "lat": -5.24793,
+    "lon": -78.71867
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-04",
+    "hora": "02:13",
+    "lat": -5.12299,
+    "lon": -80.58427
   },
   {
     "tipo": "Sismo",
