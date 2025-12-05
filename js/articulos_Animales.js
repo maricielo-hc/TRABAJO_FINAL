@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "Nacen tres polluelos de cóndor en Colombia: incubación artificial da esperanza a la conservación de una especie en peligro de extinción",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2024/06/29193457/condor-andino-Chile-4-hernan-povedano-wildlife-pnp-valchacnn025-1536x1024-1-768x512.jpg",
-    "fecha": "Dec 04, 2025",
+    "fecha": "Dec 05, 2025",
     "url": "https://es.mongabay.com/short-article/2025/12/nacen-polluelos-condor-incubacion-artificial-extincion-colombia/"
+  },
+  {
+    "titulo": "¿A dónde van los pulpos maya en Yucatán?: los impactos del cambio climático en esta emblemática especie de México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/05142008/Pulpos-cover-768x512.jpg",
+    "fecha": "Dec 05, 2025",
+    "url": "https://es.mongabay.com/2025/12/pulpos-maya-yucatan-impactos-cambio-climatico-mexico/"
   },
   {
     "titulo": "México: la expansión inmobiliaria pone en peligro al cangrejo azul en la Riviera Veracruzana",
@@ -7080,7 +7086,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Dec  5 12:38:16 2025",
+    "titulo": "Última actualización automática - Fri Dec  5 18:26:16 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
