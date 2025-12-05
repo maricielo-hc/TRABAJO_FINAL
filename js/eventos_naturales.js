@@ -126,6 +126,20 @@ const eventosNaturales = [
     "lon": -80.54399
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-05",
+    "hora": "13:37",
+    "lat": -10.8214,
+    "lon": -76.81719
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-05",
+    "hora": "13:37",
+    "lat": -11.37059,
+    "lon": -75.92959
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-01T23:26:59.105Z",
     "lugar": "27 km WNW of Yuyapichis, Peru",
