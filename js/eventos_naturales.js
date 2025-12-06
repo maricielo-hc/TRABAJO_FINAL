@@ -504,6 +504,41 @@ const eventosNaturales = [
     "lon": -78.48318
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-06",
+    "hora": "08:20",
+    "lat": -5.93097,
+    "lon": -78.10165
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-06",
+    "hora": "08:20",
+    "lat": -6.0612,
+    "lon": -78.78416
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-06",
+    "hora": "08:22",
+    "lat": -11.83737,
+    "lon": -76.35376
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-06",
+    "hora": "08:20",
+    "lat": -2.00561,
+    "lon": -78.34496
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-06",
+    "hora": "08:20",
+    "lat": -2.00698,
+    "lon": -78.33579
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-01T23:26:59.105Z",
     "lugar": "27 km WNW of Yuyapichis, Peru",
