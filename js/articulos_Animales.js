@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "México pierde sus tesoros naturales: manglares y playas desaparecen por el boom inmobiliario | Lecturas ambientales",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/20023506/cabo-pulmo-mexico-proyectos-turisticos-4-768x512.jpg",
+    "fecha": "Dec 07, 2025",
+    "url": "https://es.mongabay.com/2025/12/mexico-manglares-playas-desaparecen-boom-inmobiliario/"
+  },
+  {
     "titulo": "¿A dónde van los pulpos maya en Yucatán?: los impactos del cambio climático en esta emblemática especie de México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/05142008/Pulpos-cover-768x512.jpg",
     "fecha": "Dec 06, 2025",
@@ -7092,7 +7098,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Dec  7 12:33:46 2025",
+    "titulo": "Última actualización automática - Sun Dec  7 18:25:40 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
