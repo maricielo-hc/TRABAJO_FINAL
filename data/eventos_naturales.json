@@ -343,6 +343,55 @@
     "lon": -78.16977
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-08",
+    "hora": "07:56",
+    "lat": -1.35683,
+    "lon": -78.72639
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-08",
+    "hora": "07:56",
+    "lat": -1.35645,
+    "lon": -78.73167
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-08",
+    "hora": "07:56",
+    "lat": -1.98001,
+    "lon": -78.80063
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-08",
+    "hora": "07:58",
+    "lat": -6.05671,
+    "lon": -78.6908
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-08",
+    "hora": "08:00",
+    "lat": -13.66641,
+    "lon": -74.20696
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-08",
+    "hora": "08:00",
+    "lat": -13.78878,
+    "lon": -76.16415
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-08",
+    "hora": "08:02",
+    "lat": -17.4874,
+    "lon": -71.34969
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-07T23:49:16.613Z",
     "lugar": "2 km NNW of Chipispaya, Peru",
@@ -365,13 +414,5 @@
     "magnitud": "5",
     "lat": -9.5616,
     "lon": -75.2126
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-01T06:37:00.831Z",
-    "lugar": "51 km SW of Sechura, Peru",
-    "magnitud": "4.2",
-    "lat": -5.8559,
-    "lon": -81.1796
   }
 ]
