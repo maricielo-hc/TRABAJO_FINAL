@@ -1498,6 +1498,112 @@ const eventosNaturales = [
     "lon": -77.98396
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:34",
+    "lat": -13.46959,
+    "lon": -74.30303
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:34",
+    "lat": -13.47134,
+    "lon": -74.30789
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:34",
+    "lat": -13.16691,
+    "lon": -75.79655
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:34",
+    "lat": -13.14979,
+    "lon": -75.79508
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:34",
+    "lat": -13.1542,
+    "lon": -75.83632
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:34",
+    "lat": -13.16135,
+    "lon": -75.80197
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:34",
+    "lat": -13.14412,
+    "lon": -75.79977
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:34",
+    "lat": -13.14966,
+    "lon": -75.84842
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:34",
+    "lat": -12.11415,
+    "lon": -75.42977
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:34",
+    "lat": -12.10605,
+    "lon": -75.43535
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:36",
+    "lat": -6.05077,
+    "lon": -77.50607
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:36",
+    "lat": -2.0116,
+    "lon": -74.22147
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:36",
+    "lat": -0.18368,
+    "lon": -78.16075
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-07",
+    "hora": "19:36",
+    "lat": -0.17679,
+    "lon": -78.16977
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-12-07T23:14:13.429Z",
+    "lugar": "5 km SSW of Palca, Peru",
+    "magnitud": "4.9",
+    "lat": -17.8229,
+    "lon": -69.9851
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-01T23:26:59.105Z",
     "lugar": "27 km WNW of Yuyapichis, Peru",
