@@ -161,6 +161,118 @@ const eventosNaturales = [
     "lon": -80.12463
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -7.0178,
+    "lon": -76.25769
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -6.59636,
+    "lon": -79.3673
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -6.14048,
+    "lon": -79.22711
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -3.29236,
+    "lon": -78.93613
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -2.00619,
+    "lon": -78.33929
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -2.00768,
+    "lon": -78.35035
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -1.08702,
+    "lon": -78.34939
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -1.07898,
+    "lon": -78.35986
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -1.05521,
+    "lon": -78.79191
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -1.17109,
+    "lon": -80.09128
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:13",
+    "lat": -0.28584,
+    "lon": -80.33978
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:08",
+    "lat": -13.68074,
+    "lon": -74.20379
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:08",
+    "lat": -12.88824,
+    "lon": -74.54719
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "02:08",
+    "lat": -12.88947,
+    "lon": -74.5563
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "08:37",
+    "lat": -5.68343,
+    "lon": -78.30431
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-09",
+    "hora": "08:37",
+    "lat": -6.78963,
+    "lon": -79.76026
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-07T23:49:16.613Z",
     "lugar": "2 km NNW of Chipispaya, Peru",
