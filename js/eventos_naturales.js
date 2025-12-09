@@ -518,13 +518,5 @@ const eventosNaturales = [
     "magnitud": "4.9",
     "lat": -17.8141,
     "lon": -70.0036
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-01T23:26:59.105Z",
-    "lugar": "27 km WNW of Yuyapichis, Peru",
-    "magnitud": "5",
-    "lat": -9.5616,
-    "lon": -75.2126
   }
 ];
