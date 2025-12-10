@@ -567,6 +567,13 @@ const eventosNaturales = [
     "lon": -78.85994
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-10",
+    "hora": "13:37",
+    "lat": -14.1735,
+    "lon": -70.15303
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-07T23:49:16.613Z",
     "lugar": "2 km NNW of Chipispaya, Peru",
