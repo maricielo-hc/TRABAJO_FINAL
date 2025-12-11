@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Perú amplía su biblioteca molecular con registros genéticos de especies de mamíferos y aves de la Amazonía",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/11041305/Band-tailed-manakin-Pipra-fasciicauda_credit-Field-Projects-International-768x512.jpg",
+    "fecha": "Dec 11, 2025",
+    "url": "https://es.mongabay.com/2025/12/peru-amplia-biblioteca-molecular-registros-geneticos-mamiferos-aves-amazonia/"
+  },
+  {
     "titulo": "México pierde sus tesoros naturales: manglares y playas desaparecen por el boom inmobiliario | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/20023506/cabo-pulmo-mexico-proyectos-turisticos-4-768x512.jpg",
     "fecha": "Dec 07, 2025",
@@ -7098,7 +7104,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Dec 11 12:40:30 2025",
+    "titulo": "Última actualización automática - Thu Dec 11 18:28:38 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
