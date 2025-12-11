@@ -441,6 +441,27 @@
     "lon": -78.79707
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-11",
+    "hora": "08:13",
+    "lat": -1.51803,
+    "lon": -78.78786
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-11",
+    "hora": "08:13",
+    "lat": -2.00189,
+    "lon": -78.34529
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-11",
+    "hora": "08:13",
+    "lat": -2.0032,
+    "lon": -78.33663
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-07T23:49:16.613Z",
     "lugar": "2 km NNW of Chipispaya, Peru",
