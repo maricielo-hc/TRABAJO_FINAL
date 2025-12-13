@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Mercurio, cambio climático y redes de pesca amenazan a las tortugas marinas de México y Chile | Coyuntura ambiental",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/06/30123404/Caretta-Caretta-768x512.jpeg",
+    "fecha": "Dec 13, 2025",
+    "url": "https://es.mongabay.com/2025/12/amenazas-tortugas-marinas-mexico-chile/"
+  },
+  {
     "titulo": "Perú amplía su biblioteca molecular con registros genéticos de especies de mamíferos y aves de la Amazonía",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/11041305/Band-tailed-manakin-Pipra-fasciicauda_credit-Field-Projects-International-768x512.jpg",
     "fecha": "Dec 12, 2025",
@@ -7110,7 +7116,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Dec 13 12:34:51 2025",
+    "titulo": "Última actualización automática - Sat Dec 13 18:25:42 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
