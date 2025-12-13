@@ -224,6 +224,20 @@ const eventosNaturales = [
     "lon": -71.35266
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-13",
+    "hora": "13:54",
+    "lat": -7.44105,
+    "lon": -78.58221
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-13",
+    "hora": "13:54",
+    "lat": -7.43577,
+    "lon": -78.58681
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-12T00:46:18.367Z",
     "lugar": "28 km WSW of Atico, Peru",
