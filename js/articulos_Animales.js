@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Perú: las 10 historias ambientales que marcaron 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/22134214/DJI_0245-768x512.jpg",
+    "fecha": "Dec 15, 2025",
+    "url": "https://es.mongabay.com/2025/12/peru-mejores-historias-ambientales/"
+  },
+  {
     "titulo": "Mercurio, cambio climático y redes de pesca amenazan a las tortugas marinas de México y Chile | Coyuntura ambiental",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/06/30123404/Caretta-Caretta-768x512.jpeg",
     "fecha": "Dec 13, 2025",
@@ -7116,7 +7122,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Dec 15 12:42:14 2025",
+    "titulo": "Última actualización automática - Mon Dec 15 18:30:02 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
