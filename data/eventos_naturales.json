@@ -644,27 +644,96 @@
     "lon": -78.16122
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:46",
+    "lat": -12.73698,
+    "lon": -75.99854
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:46",
+    "lat": -12.73364,
+    "lon": -76.01871
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:46",
+    "lat": -10.68056,
+    "lon": -77.26413
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:46",
+    "lat": -10.42309,
+    "lon": -77.36984
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:48",
+    "lat": -4.12384,
+    "lon": -80.23817
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:48",
+    "lat": -4.12723,
+    "lon": -80.22701
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:48",
+    "lat": -2.25383,
+    "lon": -79.38314
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:48",
+    "lat": -1.79351,
+    "lon": -80.14194
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:48",
+    "lat": -1.20168,
+    "lon": -80.43039
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:48",
+    "lat": -1.19477,
+    "lon": -80.46828
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-14",
+    "hora": "20:48",
+    "lat": -0.64432,
+    "lon": -80.2064
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-12-14T20:23:41.467Z",
+    "lugar": "7 km SSW of Palora, Ecuador",
+    "magnitud": "4.5",
+    "lat": -1.7701,
+    "lon": -77.984
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-12T00:46:18.367Z",
     "lugar": "28 km WSW of Atico, Peru",
     "magnitud": "4.4",
     "lat": -16.2905,
     "lon": -73.8769
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-07T23:49:16.613Z",
-    "lugar": "2 km NNW of Chipispaya, Peru",
-    "magnitud": "4.3",
-    "lat": -17.4794,
-    "lon": -70.2296
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-07T23:14:13.412Z",
-    "lugar": "6 km SW of Palca, Peru",
-    "magnitud": "4.9",
-    "lat": -17.8141,
-    "lon": -70.0036
   }
 ]
