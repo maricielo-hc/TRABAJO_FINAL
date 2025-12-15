@@ -301,6 +301,49 @@ const eventosNaturales = [
     "lon": -77.81516
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-15",
+    "hora": "13:37",
+    "lat": -12.16242,
+    "lon": -76.26028
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-15",
+    "hora": "13:37",
+    "lat": -12.71417,
+    "lon": -76.03471
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-15",
+    "hora": "13:37",
+    "lat": -13.83405,
+    "lon": -71.33904
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-15",
+    "hora": "13:37",
+    "lat": -14.45388,
+    "lon": -70.5248
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-15",
+    "hora": "13:37",
+    "lat": -15.59479,
+    "lon": -68.11672
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-12-15T16:04:49.468Z",
+    "lugar": "59 km ESE of Arica, Chile",
+    "magnitud": "4.3",
+    "lat": -18.5821,
+    "lon": -69.7421
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-14T20:23:41.467Z",
     "lugar": "7 km SSW of Palora, Ecuador",
