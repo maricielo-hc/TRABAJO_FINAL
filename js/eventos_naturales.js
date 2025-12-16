@@ -420,6 +420,90 @@ const eventosNaturales = [
     "lon": -78.33493
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:12",
+    "lat": -0.37768,
+    "lon": -76.63569
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -4.15655,
+    "lon": -80.21366
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -4.22161,
+    "lon": -80.31163
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -4.7526,
+    "lon": -80.54607
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -4.75427,
+    "lon": -80.53496
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -4.78704,
+    "lon": -80.51694
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -4.84789,
+    "lon": -80.79675
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -4.84959,
+    "lon": -80.78525
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -4.85789,
+    "lon": -80.79817
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -5.22879,
+    "lon": -79.65466
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -6.82046,
+    "lon": -76.47229
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-16",
+    "hora": "14:14",
+    "lat": -6.82177,
+    "lon": -76.46291
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-16T00:30:40.551Z",
     "lugar": "19 km NE of Palora, Ecuador",
