@@ -1,15 +1,27 @@
 const articulos = [
   {
+    "titulo": "Los especiales transfronterizos más leídos en 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/16143417/Puma-cover-768x512.jpg",
+    "fecha": "Dec 17, 2025",
+    "url": "https://es.mongabay.com/2025/12/especiales-transfronterizos-mas-leidos/"
+  },
+  {
+    "titulo": "México: las 10 historias ambientales que marcaron 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/10114451/DSC09931-768x512.jpg",
+    "fecha": "Dec 17, 2025",
+    "url": "https://es.mongabay.com/2025/12/mexico-mejores-historias-ambientales/"
+  },
+  {
+    "titulo": "Chile: las 10 historias ambientales que marcaron 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/05184819/Captura-de-pantalla-2025-08-05-a-las-11.45.52-a.m-768x512.png",
+    "fecha": "Dec 17, 2025",
+    "url": "https://es.mongabay.com/2025/12/chile-top-historias-ambientales/"
+  },
+  {
     "titulo": "Perú: las 10 historias ambientales que marcaron 2025",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/02/22134214/DJI_0245-768x512.jpg",
     "fecha": "Dec 16, 2025",
     "url": "https://es.mongabay.com/2025/12/peru-mejores-historias-ambientales/"
-  },
-  {
-    "titulo": "Los especiales transfronterizos más leídos en 2025",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/16143417/Puma-cover-768x512.jpg",
-    "fecha": "Dec 16, 2025",
-    "url": "https://es.mongabay.com/2025/12/especiales-transfronterizos-mas-leidos/"
   },
   {
     "titulo": "Justicia de Bolivia cierra caso Caza & Safari: no investigará más a empresa argentina que promovía la caza de jaguares",
@@ -7134,7 +7146,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Dec 17 12:39:54 2025",
+    "titulo": "Última actualización automática - Wed Dec 17 18:30:33 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
