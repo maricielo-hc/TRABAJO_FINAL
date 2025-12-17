@@ -434,6 +434,13 @@ const eventosNaturales = [
     "lon": -77.66336
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-17",
+    "hora": "14:54",
+    "lat": -4.7866,
+    "lon": -80.25859
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-16T00:30:40.551Z",
     "lugar": "19 km NE of Palora, Ecuador",
