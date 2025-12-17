@@ -6,16 +6,16 @@ const articulos = [
     "url": "https://es.mongabay.com/2025/12/peru-mejores-historias-ambientales/"
   },
   {
-    "titulo": "Justicia de Bolivia cierra caso Caza & Safari: no investigará más a empresa argentina que promovía la caza de jaguares",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/01/22162556/8-2-768x512.jpg",
-    "fecha": "Dec 16, 2025",
-    "url": "https://es.mongabay.com/2025/12/bolivia-cierra-caso-caza-safari-empresa-argentina-caza-jaguares/"
-  },
-  {
     "titulo": "Los especiales transfronterizos más leídos en 2025",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/16143417/Puma-cover-768x512.jpg",
     "fecha": "Dec 16, 2025",
     "url": "https://es.mongabay.com/2025/12/especiales-transfronterizos-mas-leidos/"
+  },
+  {
+    "titulo": "Justicia de Bolivia cierra caso Caza & Safari: no investigará más a empresa argentina que promovía la caza de jaguares",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/01/22162556/8-2-768x512.jpg",
+    "fecha": "Dec 16, 2025",
+    "url": "https://es.mongabay.com/2025/12/bolivia-cierra-caso-caza-safari-empresa-argentina-caza-jaguares/"
   },
   {
     "titulo": "Mercurio, cambio climático y redes de pesca amenazan a las tortugas marinas de México y Chile | Coyuntura ambiental",
@@ -7134,7 +7134,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Dec 17 01:16:36 2025",
+    "titulo": "Última actualización automática - Wed Dec 17 06:31:11 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
