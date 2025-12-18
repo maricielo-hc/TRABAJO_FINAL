@@ -1,15 +1,33 @@
 const articulos = [
   {
+    "titulo": "Chile: las 10 historias ambientales que marcaron 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/05184819/Captura-de-pantalla-2025-08-05-a-las-11.45.52-a.m-768x512.png",
+    "fecha": "Dec 18, 2025",
+    "url": "https://es.mongabay.com/2025/12/chile-top-historias-ambientales/"
+  },
+  {
+    "titulo": "El “turismo psicodélico” amenaza a las plantas y animales de Latinoamérica y África | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/17212034/Captura-de-pantalla-2025-12-17-a-las-3.19.45-p.m-768x512.png",
+    "fecha": "Dec 18, 2025",
+    "url": "https://es.mongabay.com/2025/12/turismo-psicodelico-amenaza-plantas-animales-latinoamerica-africa/"
+  },
+  {
+    "titulo": "Bolivia: las 10 historias ambientales que marcaron 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/29212220/4.-Los-ancianos-leco-sostienen-una-imagen-de-la-palkachupa.-FOTO-CORTESIA-ARMONIA-768x512.jpeg",
+    "fecha": "Dec 18, 2025",
+    "url": "https://es.mongabay.com/2025/12/bolivia-mejores-historias-ambientales/"
+  },
+  {
+    "titulo": "Colombia: las 10 historias ambientales que marcaron 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/30194755/Copy-of-_DSC1626-768x512.jpg",
+    "fecha": "Dec 18, 2025",
+    "url": "https://es.mongabay.com/2025/12/colombia-top-historias-ambientales/"
+  },
+  {
     "titulo": "Los especiales transfronterizos más leídos en 2025",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/16143417/Puma-cover-768x512.jpg",
     "fecha": "Dec 17, 2025",
     "url": "https://es.mongabay.com/2025/12/especiales-transfronterizos-mas-leidos/"
-  },
-  {
-    "titulo": "Chile: las 10 historias ambientales que marcaron 2025",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/05184819/Captura-de-pantalla-2025-08-05-a-las-11.45.52-a.m-768x512.png",
-    "fecha": "Dec 17, 2025",
-    "url": "https://es.mongabay.com/2025/12/chile-top-historias-ambientales/"
   },
   {
     "titulo": "México: las 12 historias ambientales que marcaron 2025",
@@ -7146,7 +7164,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Dec 18 12:38:38 2025",
+    "titulo": "Última actualización automática - Thu Dec 18 18:29:42 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
