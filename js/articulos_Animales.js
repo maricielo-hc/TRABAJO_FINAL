@@ -6,16 +6,16 @@ const articulos = [
     "url": "https://es.mongabay.com/2025/12/especiales-transfronterizos-mas-leidos/"
   },
   {
-    "titulo": "México: las 10 historias ambientales que marcaron 2025",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/10114451/DSC09931-768x512.jpg",
-    "fecha": "Dec 17, 2025",
-    "url": "https://es.mongabay.com/2025/12/mexico-mejores-historias-ambientales/"
-  },
-  {
     "titulo": "Chile: las 10 historias ambientales que marcaron 2025",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/05184819/Captura-de-pantalla-2025-08-05-a-las-11.45.52-a.m-768x512.png",
     "fecha": "Dec 17, 2025",
     "url": "https://es.mongabay.com/2025/12/chile-top-historias-ambientales/"
+  },
+  {
+    "titulo": "México: las 12 historias ambientales que marcaron 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/10114451/DSC09931-768x512.jpg",
+    "fecha": "Dec 17, 2025",
+    "url": "https://es.mongabay.com/2025/12/mexico-mejores-historias-ambientales/"
   },
   {
     "titulo": "Perú: las 10 historias ambientales que marcaron 2025",
@@ -7146,7 +7146,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Dec 17 18:30:33 2025",
+    "titulo": "Última actualización automática - Thu Dec 18 01:17:20 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
