@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Colombia: las 10 historias ambientales que marcaron 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/30194755/Copy-of-_DSC1626-768x512.jpg",
+    "fecha": "Dec 19, 2025",
+    "url": "https://es.mongabay.com/2025/12/colombia-top-historias-ambientales/"
+  },
+  {
+    "titulo": "Argentina: las 10 historias ambientales que marcaron 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/01/22162537/2-e1737565052970-768x512.jpeg",
+    "fecha": "Dec 19, 2025",
+    "url": "https://es.mongabay.com/2025/12/argentina-mejores-historias-ambientales/"
+  },
+  {
     "titulo": "Chile: las 10 historias ambientales que marcaron 2025",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/05184819/Captura-de-pantalla-2025-08-05-a-las-11.45.52-a.m-768x512.png",
     "fecha": "Dec 18, 2025",
@@ -16,12 +28,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/29212220/4.-Los-ancianos-leco-sostienen-una-imagen-de-la-palkachupa.-FOTO-CORTESIA-ARMONIA-768x512.jpeg",
     "fecha": "Dec 18, 2025",
     "url": "https://es.mongabay.com/2025/12/bolivia-mejores-historias-ambientales/"
-  },
-  {
-    "titulo": "Colombia: las 10 historias ambientales que marcaron 2025",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/30194755/Copy-of-_DSC1626-768x512.jpg",
-    "fecha": "Dec 18, 2025",
-    "url": "https://es.mongabay.com/2025/12/colombia-top-historias-ambientales/"
   },
   {
     "titulo": "Los especiales transfronterizos más leídos en 2025",
@@ -7164,7 +7170,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Dec 19 12:37:25 2025",
+    "titulo": "Última actualización automática - Fri Dec 19 18:28:33 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
