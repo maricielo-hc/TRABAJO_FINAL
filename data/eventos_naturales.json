@@ -511,6 +511,98 @@
     "lon": -80.06541
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -4.86021,
+    "lon": -80.82757
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -4.8599,
+    "lon": -80.82141
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -3.67499,
+    "lon": -80.26336
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -3.67155,
+    "lon": -80.26952
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -3.57687,
+    "lon": -80.07791
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -3.56603,
+    "lon": -80.0794
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -3.52575,
+    "lon": -80.35186
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -1.83796,
+    "lon": -80.39079
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -1.83639,
+    "lon": -80.39683
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -1.52223,
+    "lon": -79.82894
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -1.52454,
+    "lon": -79.84431
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-19",
+    "hora": "20:44",
+    "lat": -1.49167,
+    "lon": -79.85604
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-12-19T21:59:54.254Z",
+    "lugar": "31 km NW of Archidona, Ecuador",
+    "magnitud": "5.1",
+    "lat": -0.6851,
+    "lon": -77.9887
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-16T00:30:40.551Z",
     "lugar": "19 km NE of Palora, Ecuador",
