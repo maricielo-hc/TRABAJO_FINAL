@@ -1,15 +1,15 @@
 const articulos = [
   {
-    "titulo": "Colombia: las 10 historias ambientales que marcaron 2025",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/30194755/Copy-of-_DSC1626-768x512.jpg",
-    "fecha": "Dec 19, 2025",
-    "url": "https://es.mongabay.com/2025/12/colombia-top-historias-ambientales/"
-  },
-  {
     "titulo": "Argentina: las 10 historias ambientales que marcaron 2025",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/01/22162537/2-e1737565052970-768x512.jpeg",
     "fecha": "Dec 19, 2025",
     "url": "https://es.mongabay.com/2025/12/argentina-mejores-historias-ambientales/"
+  },
+  {
+    "titulo": "Colombia: las 10 historias ambientales que marcaron 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/30194755/Copy-of-_DSC1626-768x512.jpg",
+    "fecha": "Dec 19, 2025",
+    "url": "https://es.mongabay.com/2025/12/colombia-top-historias-ambientales/"
   },
   {
     "titulo": "Chile: las 10 historias ambientales que marcaron 2025",
@@ -7170,7 +7170,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Dec 20 01:16:39 2025",
+    "titulo": "Última actualización automática - Sat Dec 20 06:28:56 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
