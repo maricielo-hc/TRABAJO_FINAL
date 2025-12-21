@@ -119,6 +119,21 @@ const eventosNaturales = [
     "lon": -77.66845
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-21",
+    "hora": "08:07",
+    "lat": -6.72051,
+    "lon": -76.40726
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-12-21T08:23:27.295Z",
+    "lugar": "46 km W of Campo Verde, Peru",
+    "magnitud": "4.1",
+    "lat": -8.4089,
+    "lon": -75.2202
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-20T20:11:17.053Z",
     "lugar": "9 km WSW of Punta de Bombón, Peru",
