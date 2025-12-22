@@ -441,6 +441,55 @@
     "lon": -77.65412
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-22",
+    "hora": "14:52",
+    "lat": -0.73822,
+    "lon": -80.18549
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-22",
+    "hora": "14:52",
+    "lat": -0.90145,
+    "lon": -80.13899
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-22",
+    "hora": "14:52",
+    "lat": -1.77814,
+    "lon": -80.33389
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-22",
+    "hora": "14:52",
+    "lat": -3.61965,
+    "lon": -80.55402
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-22",
+    "hora": "14:52",
+    "lat": -4.16389,
+    "lon": -80.08773
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-22",
+    "hora": "14:52",
+    "lat": -4.18375,
+    "lon": -80.25056
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-22",
+    "hora": "14:52",
+    "lat": -4.19119,
+    "lon": -80.25666
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-21T08:23:27.295Z",
     "lugar": "46 km W of Campo Verde, Peru",
@@ -471,13 +520,5 @@
     "magnitud": "4.2",
     "lat": -1.5981,
     "lon": -77.825
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-15T16:04:49.468Z",
-    "lugar": "59 km ESE of Arica, Chile",
-    "magnitud": "4.3",
-    "lat": -18.5821,
-    "lon": -69.7421
   }
 ]
