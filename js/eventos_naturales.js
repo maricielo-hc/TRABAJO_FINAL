@@ -490,6 +490,20 @@ const eventosNaturales = [
     "lon": -80.25666
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-22",
+    "hora": "19:21",
+    "lat": -6.81248,
+    "lon": -73.40721
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-22",
+    "hora": "19:21",
+    "lat": -3.45107,
+    "lon": -71.90369
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-21T08:23:27.295Z",
     "lugar": "46 km W of Campo Verde, Peru",
@@ -512,13 +526,5 @@ const eventosNaturales = [
     "magnitud": "5.1",
     "lat": -0.6851,
     "lon": -77.9887
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-16T00:30:40.551Z",
-    "lugar": "19 km NE of Palora, Ecuador",
-    "magnitud": "4.2",
-    "lat": -1.5981,
-    "lon": -77.825
   }
 ];
