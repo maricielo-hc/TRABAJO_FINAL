@@ -105,6 +105,55 @@ const eventosNaturales = [
     "lon": -71.90369
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-23",
+    "hora": "13:54",
+    "lat": -8.48729,
+    "lon": -78.6536
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-23",
+    "hora": "13:57",
+    "lat": -13.07781,
+    "lon": -73.8107
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-23",
+    "hora": "13:57",
+    "lat": -14.51924,
+    "lon": -71.73878
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-23",
+    "hora": "13:57",
+    "lat": -15.49849,
+    "lon": -72.38054
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-23",
+    "hora": "13:52",
+    "lat": -0.0767,
+    "lon": -77.66515
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-23",
+    "hora": "13:52",
+    "lat": -0.07953,
+    "lon": -77.6722
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-23",
+    "hora": "13:54",
+    "lat": -2.00191,
+    "lon": -78.33493
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-21T08:23:27.295Z",
     "lugar": "46 km W of Campo Verde, Peru",
