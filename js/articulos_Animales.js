@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Las 12 fotografías que resumen el año ambiental de Latinoamérica en 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/05/22085034/Echinosaura_embera_1-768x512.jpg",
+    "fecha": "Dec 24, 2025",
+    "url": "https://es.mongabay.com/2025/12/las-12-fotografias-que-resumen-el-ano-ambiental-de-latinoamerica-en-2025/"
+  },
+  {
     "titulo": "Argentina: las 10 historias ambientales que marcaron 2025",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/01/22162537/2-e1737565052970-768x512.jpeg",
     "fecha": "Dec 19, 2025",
@@ -7170,7 +7176,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Dec 24 12:38:30 2025",
+    "titulo": "Última actualización automática - Wed Dec 24 18:28:39 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
