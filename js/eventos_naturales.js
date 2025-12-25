@@ -309,6 +309,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2025-12-25T06:46:03.965Z",
+    "lugar": "51 km WSW of Atiquipa, Peru",
+    "magnitud": "4.4",
+    "lat": -15.9267,
+    "lon": -74.8234
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-12-21T08:23:27.295Z",
     "lugar": "46 km W of Campo Verde, Peru",
     "magnitud": "4.1",
