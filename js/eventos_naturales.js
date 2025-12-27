@@ -1,55 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2025-12-25",
-    "hora": "02:49",
-    "lat": -7.92832,
-    "lon": -79.2281
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-25",
-    "hora": "02:49",
-    "lat": -7.93269,
-    "lon": -79.21621
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-25",
-    "hora": "02:49",
-    "lat": -7.93526,
-    "lon": -79.23338
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-25",
-    "hora": "19:38",
-    "lat": -6.2543,
-    "lon": -76.7229
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-25",
-    "hora": "19:38",
-    "lat": -6.26117,
-    "lon": -76.72859
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-25",
-    "hora": "19:38",
-    "lat": -5.99769,
-    "lon": -75.81654
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-25",
-    "hora": "19:38",
-    "lat": -5.99845,
-    "lon": -75.82105
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2025-12-26",
     "hora": "08:00",
     "lat": -0.07569,
@@ -1251,6 +1202,77 @@ const eventosNaturales = [
     "hora": "20:18",
     "lat": -0.06367,
     "lon": -80.13744
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "02:30",
+    "lat": -9.08152,
+    "lon": -77.78973
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "02:30",
+    "lat": -8.89946,
+    "lon": -77.06215
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "02:30",
+    "lat": -6.07562,
+    "lon": -79.02782
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "02:30",
+    "lat": -5.30197,
+    "lon": -79.23232
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "02:32",
+    "lat": -2.0051,
+    "lon": -78.34286
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "02:32",
+    "lat": -2.20492,
+    "lon": -79.76418
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "02:32",
+    "lat": -2.20621,
+    "lon": -79.77342
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "02:32",
+    "lat": -2.15983,
+    "lon": -80.23168
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "02:32",
+    "lat": -1.81498,
+    "lon": -79.47963
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-12-27T00:35:16.389Z",
+    "lugar": "49 km W of Végueta, Peru",
+    "magnitud": "4.6",
+    "lat": -11.0998,
+    "lon": -78.0904
   },
   {
     "tipo": "Sismo",
