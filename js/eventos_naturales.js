@@ -140,6 +140,35 @@ const eventosNaturales = [
     "lon": -69.93705
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-28",
+    "hora": "13:57",
+    "lat": -12.8745,
+    "lon": -72.69355
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-28",
+    "hora": "13:57",
+    "lat": -12.91172,
+    "lon": -76.10114
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-28",
+    "hora": "13:57",
+    "lat": -13.37791,
+    "lon": -74.16926
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2025-12-28T13:09:38.657Z",
+    "lugar": "103 km WSW of San Vicente de Cañete, Peru",
+    "magnitud": "4.6",
+    "lat": -13.4851,
+    "lon": -77.2455
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-28T02:51:50.878Z",
     "lugar": "36 km W of Puerto Santa, Peru",
