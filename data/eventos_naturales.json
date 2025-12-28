@@ -1309,6 +1309,41 @@
     "lon": -80.12873
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "20:55",
+    "lat": -12.37373,
+    "lon": -76.10184
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "20:55",
+    "lat": -10.13795,
+    "lon": -77.04955
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "20:55",
+    "lat": -10.14191,
+    "lon": -77.05176
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "20:57",
+    "lat": -5.27032,
+    "lon": -80.10195
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-27",
+    "hora": "19:19",
+    "lat": -1.10109,
+    "lon": -69.93705
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-27T00:35:16.389Z",
     "lugar": "49 km W of Végueta, Peru",
@@ -1339,13 +1374,5 @@
     "magnitud": "4.1",
     "lat": -8.4089,
     "lon": -75.2202
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-20T20:11:17.053Z",
-    "lugar": "9 km WSW of Punta de Bombón, Peru",
-    "magnitud": "4.1",
-    "lat": -17.2,
-    "lon": -71.8755
   }
 ]
