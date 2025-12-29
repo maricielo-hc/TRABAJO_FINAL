@@ -189,6 +189,27 @@
     "lon": -77.66518
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "08:17",
+    "lat": -0.07508,
+    "lon": -77.65702
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "08:17",
+    "lat": -0.07641,
+    "lon": -77.64828
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "08:17",
+    "lat": -1.99756,
+    "lon": -78.34002
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-28T23:19:55.543Z",
     "lugar": "42 km W of Puerto Santa, Peru",
