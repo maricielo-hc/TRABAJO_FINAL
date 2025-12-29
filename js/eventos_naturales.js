@@ -1,146 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "02:30",
-    "lat": -9.08152,
-    "lon": -77.78973
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "02:30",
-    "lat": -8.89946,
-    "lon": -77.06215
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "02:30",
-    "lat": -6.07562,
-    "lon": -79.02782
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "02:30",
-    "lat": -5.30197,
-    "lon": -79.23232
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "02:32",
-    "lat": -2.0051,
-    "lon": -78.34286
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "02:32",
-    "lat": -2.20492,
-    "lon": -79.76418
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "02:32",
-    "lat": -2.20621,
-    "lon": -79.77342
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "02:32",
-    "lat": -2.15983,
-    "lon": -80.23168
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "02:32",
-    "lat": -1.81498,
-    "lon": -79.47963
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "14:52",
-    "lat": -3.60305,
-    "lon": -80.52271
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "14:52",
-    "lat": -3.61269,
-    "lon": -80.52947
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "14:52",
-    "lat": -4.15297,
-    "lon": -80.21038
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "14:52",
-    "lat": -4.2035,
-    "lon": -80.14729
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "14:52",
-    "lat": -4.20661,
-    "lon": -80.12446
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "14:52",
-    "lat": -4.19891,
-    "lon": -80.12873
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "20:55",
-    "lat": -12.37373,
-    "lon": -76.10184
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "20:55",
-    "lat": -10.13795,
-    "lon": -77.04955
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "20:55",
-    "lat": -10.14191,
-    "lon": -77.05176
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "20:57",
-    "lat": -5.27032,
-    "lon": -80.10195
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2025-12-27",
-    "hora": "19:19",
-    "lat": -1.10109,
-    "lon": -69.93705
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2025-12-28",
     "hora": "13:57",
     "lat": -12.8745,
@@ -259,12 +119,82 @@ const eventosNaturales = [
     "lon": -76.25928
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "02:08",
+    "lat": -12.96311,
+    "lon": -73.91862
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "02:10",
+    "lat": -8.02878,
+    "lon": -78.18696
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "02:08",
+    "lat": -12.96433,
+    "lon": -73.92759
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "02:10",
+    "lat": -8.02807,
+    "lon": -78.19371
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "02:10",
+    "lat": -6.87079,
+    "lon": -76.17745
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "02:13",
+    "lat": -2.55316,
+    "lon": -78.76141
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "02:13",
+    "lat": -2.00622,
+    "lon": -78.33947
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "02:13",
+    "lat": -2.00767,
+    "lon": -78.35009
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "02:13",
+    "lat": -0.07814,
+    "lon": -77.65643
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-29",
+    "hora": "02:13",
+    "lat": -0.07935,
+    "lon": -77.66518
+  },
+  {
     "tipo": "Sismo",
-    "fecha": "2025-12-28T23:19:54.275Z",
-    "lugar": "50 km W of Puerto Santa, Peru",
+    "fecha": "2025-12-28T23:19:55.543Z",
+    "lugar": "42 km W of Puerto Santa, Peru",
     "magnitud": "5",
-    "lat": -9.0011,
-    "lon": -79.1085
+    "lat": -9.0299,
+    "lon": -79.0291
   },
   {
     "tipo": "Sismo",
