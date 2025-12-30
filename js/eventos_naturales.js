@@ -434,6 +434,13 @@ const eventosNaturales = [
     "lon": -80.18497
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-30",
+    "hora": "13:37",
+    "lat": -13.6633,
+    "lon": -74.08125
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-28T23:19:55.543Z",
     "lugar": "42 km W of Puerto Santa, Peru",
