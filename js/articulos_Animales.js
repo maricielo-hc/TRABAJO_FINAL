@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Latinoamérica: las historias ambientales que nos trajeron esperanza en 2025",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/04/29221744/%C2%A9Camilo-Diaz-WWF-Colombia-Retratos-en-la-Estrella-Fluvial-de-Inirida-Guania-3-768x512.jpg",
+    "fecha": "Dec 30, 2025",
+    "url": "https://es.mongabay.com/2025/12/latinoamerica-las-historias-ambientales-que-nos-trajeron-esperanza-en-2025/"
+  },
+  {
     "titulo": "Las 12 fotografías que resumen el año ambiental de Latinoamérica en 2025",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/05/22085034/Echinosaura_embera_1-768x512.jpg",
     "fecha": "Dec 26, 2025",
@@ -7176,7 +7182,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Dec 30 12:38:57 2025",
+    "titulo": "Última actualización automática - Tue Dec 30 18:29:26 2025",
     "imagen": "",
     "fecha": "",
     "url": "#"
