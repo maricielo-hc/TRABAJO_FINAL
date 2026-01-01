@@ -133,6 +133,41 @@ const eventosNaturales = [
     "lon": -80.83791
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2025-12-31",
+    "hora": "20:12",
+    "lat": -6.81159,
+    "lon": -79.79016
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-31",
+    "hora": "20:12",
+    "lat": -6.17732,
+    "lon": -75.90213
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-31",
+    "hora": "20:12",
+    "lat": -6.1786,
+    "lon": -75.9109
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-31",
+    "hora": "20:14",
+    "lat": -2.4639,
+    "lon": -78.17103
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2025-12-31",
+    "hora": "20:14",
+    "lat": -1.49752,
+    "lon": -78.00495
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-28T23:19:55.543Z",
     "lugar": "42 km W of Puerto Santa, Peru",
