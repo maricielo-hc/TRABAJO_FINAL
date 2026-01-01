@@ -112,6 +112,13 @@
     "lon": -78.00495
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-01",
+    "hora": "02:30",
+    "lat": -8.33749,
+    "lon": -78.05481
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-28T23:19:55.543Z",
     "lugar": "42 km W of Puerto Santa, Peru",
@@ -150,13 +157,5 @@
     "magnitud": "4.8",
     "lat": -8.4377,
     "lon": -75.1957
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-25T06:46:03.965Z",
-    "lugar": "51 km WSW of Atiquipa, Peru",
-    "magnitud": "4.4",
-    "lat": -15.9267,
-    "lon": -74.8234
   }
 ]
