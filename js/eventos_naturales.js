@@ -37,13 +37,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -11.0998,
     "lon": -78.0904
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-26T16:31:39.355Z",
-    "lugar": "42 km W of Campo Verde, Peru",
-    "magnitud": "4.8",
-    "lat": -8.4377,
-    "lon": -75.1957
   }
 ];
