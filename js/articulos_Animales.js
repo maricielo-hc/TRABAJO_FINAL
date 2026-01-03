@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Los animales que protagonizaron las historias ambientales de 2025 en Latinoamérica",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/17172404/tata-aguayo-5-768x512.jpeg",
+    "fecha": "Jan 03, 2026",
+    "url": "https://es.mongabay.com/2026/01/animales-protagonistas-historias-ambientales-2025-latinoamerica/"
+  },
+  {
     "titulo": "Latinoamérica: los 10 mejores videos de 2025 en Mongabay Latam",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2022/03/23230435/09-Reserva-Tesoro-Escondido-2019-A%CC%81gula-Arpi%CC%81a-Scott-Trageser-768x512.jpg",
     "fecha": "Jan 02, 2026",
@@ -7194,7 +7200,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Jan  3 12:35:35 2026",
+    "titulo": "Última actualización automática - Sat Jan  3 18:27:30 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
