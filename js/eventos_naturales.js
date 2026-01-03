@@ -7,6 +7,76 @@ const eventosNaturales = [
     "lon": -78.05481
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-02",
+    "hora": "19:49",
+    "lat": -13.73247,
+    "lon": -68.21114
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-02",
+    "hora": "19:49",
+    "lat": -12.67459,
+    "lon": -76.05944
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-02",
+    "hora": "19:49",
+    "lat": -12.67937,
+    "lon": -76.0629
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-02",
+    "hora": "19:49",
+    "lat": -11.01024,
+    "lon": -68.48022
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-02",
+    "hora": "19:51",
+    "lat": -2.39071,
+    "lon": -71.35445
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-02",
+    "hora": "19:51",
+    "lat": -2.34382,
+    "lon": -71.15653
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-02",
+    "hora": "19:51",
+    "lat": -2.31201,
+    "lon": -71.00081
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-02",
+    "hora": "19:51",
+    "lat": -2.19931,
+    "lon": -71.82146
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-02",
+    "hora": "19:51",
+    "lat": -1.43387,
+    "lon": -74.65201
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-02",
+    "hora": "19:51",
+    "lat": -0.9716,
+    "lon": -75.33862
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2025-12-28T23:19:55.543Z",
     "lugar": "42 km W of Puerto Santa, Peru",
@@ -29,13 +99,5 @@ const eventosNaturales = [
     "magnitud": "6.2",
     "lat": -8.9602,
     "lon": -78.9738
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-27T00:35:16.389Z",
-    "lugar": "49 km W of Végueta, Peru",
-    "magnitud": "4.6",
-    "lat": -11.0998,
-    "lon": -78.0904
   }
 ];
