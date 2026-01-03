@@ -78,6 +78,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-01-03T08:46:49.399Z",
+    "lugar": "29 km SSE of San Miguel, Ecuador",
+    "magnitud": "4.5",
+    "lat": -1.9321,
+    "lon": -78.8955
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2025-12-28T23:19:55.543Z",
     "lugar": "42 km W of Puerto Santa, Peru",
     "magnitud": "5",
