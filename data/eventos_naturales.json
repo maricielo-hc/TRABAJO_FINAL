@@ -238,6 +238,13 @@
     "lon": -80.25165
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-04",
+    "hora": "13:37",
+    "lat": -17.48408,
+    "lon": -71.35665
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-03T20:17:53.400Z",
     "lugar": "84 km SW of Santiago, Peru",
@@ -276,13 +283,5 @@
     "magnitud": "5",
     "lat": -9.0299,
     "lon": -79.0291
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2025-12-28T13:09:38.657Z",
-    "lugar": "103 km WSW of San Vicente de Cañete, Peru",
-    "magnitud": "4.6",
-    "lat": -13.4851,
-    "lon": -77.2455
   }
 ]
