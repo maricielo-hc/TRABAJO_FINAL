@@ -168,12 +168,168 @@ const eventosNaturales = [
     "lon": -80.76628
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:29",
+    "lat": -4.89062,
+    "lon": -80.84737
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:29",
+    "lat": -3.55199,
+    "lon": -80.33795
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:29",
+    "lat": -3.55232,
+    "lon": -80.47746
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:29",
+    "lat": -3.55359,
+    "lon": -80.48618
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -2.54311,
+    "lon": -80.38434
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -2.23745,
+    "lon": -78.63302
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -2.29905,
+    "lon": -80.4304
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -1.99453,
+    "lon": -79.86327
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -1.96508,
+    "lon": -79.85493
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -1.9536,
+    "lon": -80.08504
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -1.95491,
+    "lon": -80.09395
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -1.92957,
+    "lon": -80.49189
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -1.85064,
+    "lon": -80.51823
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -1.84187,
+    "lon": -80.51953
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -1.83987,
+    "lon": -80.68909
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -1.13584,
+    "lon": -80.4391
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -1.08459,
+    "lon": -80.84722
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -0.87709,
+    "lon": -80.42641
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -0.8784,
+    "lon": -80.43525
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-03",
+    "hora": "20:31",
+    "lat": -0.72991,
+    "lon": -80.25165
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-01-03T18:42:35.891Z",
+    "lugar": "49 km ESE of Arica, Chile",
+    "magnitud": "4.1",
+    "lat": -18.5804,
+    "lon": -69.8384
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-03T08:46:49.399Z",
     "lugar": "29 km SSE of San Miguel, Ecuador",
     "magnitud": "4.5",
     "lat": -1.9321,
     "lon": -78.8955
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-01-02T20:59:14.648Z",
+    "lugar": "17 km SSE of Palora, Ecuador",
+    "magnitud": "4.2",
+    "lat": -1.8514,
+    "lon": -77.9203
   },
   {
     "tipo": "Sismo",
