@@ -245,6 +245,20 @@
     "lon": -71.35665
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-04",
+    "hora": "19:29",
+    "lat": -12.61498,
+    "lon": -71.14703
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-04",
+    "hora": "19:29",
+    "lat": -12.60945,
+    "lon": -71.15496
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-03T20:17:53.400Z",
     "lugar": "84 km SW of Santiago, Peru",
@@ -278,10 +292,10 @@
   },
   {
     "tipo": "Sismo",
-    "fecha": "2025-12-28T23:19:55.543Z",
-    "lugar": "42 km W of Puerto Santa, Peru",
-    "magnitud": "5",
-    "lat": -9.0299,
-    "lon": -79.0291
+    "fecha": "2026-01-01T23:30:51.522Z",
+    "lugar": "132 km W of San Juan, Peru",
+    "magnitud": "4.2",
+    "lat": -15.4795,
+    "lon": -76.3908
   }
 ]
