@@ -21,6 +21,84 @@
     "lon": -71.15496
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-05",
+    "hora": "14:12",
+    "lat": -1.54044,
+    "lon": -80.13541
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-05",
+    "hora": "14:12",
+    "lat": -1.581,
+    "lon": -80.35387
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-05",
+    "hora": "14:12",
+    "lat": -2.36118,
+    "lon": -80.19445
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-05",
+    "hora": "14:12",
+    "lat": -3.83507,
+    "lon": -80.13056
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-05",
+    "hora": "14:12",
+    "lat": -4.00158,
+    "lon": -80.2528
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-05",
+    "hora": "14:12",
+    "lat": -4.01436,
+    "lon": -80.23242
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-05",
+    "hora": "14:12",
+    "lat": -4.04908,
+    "lon": -80.22287
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-05",
+    "hora": "14:12",
+    "lat": -4.05064,
+    "lon": -80.21239
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-05",
+    "hora": "14:14",
+    "lat": -4.36563,
+    "lon": -80.35252
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-05",
+    "hora": "14:14",
+    "lat": -6.06439,
+    "lon": -79.95366
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-01-05T17:07:21.196Z",
+    "lugar": "94 km W of San Juan, Peru",
+    "magnitud": "4.4",
+    "lat": -15.3573,
+    "lon": -76.0415
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-03T20:17:53.400Z",
     "lugar": "84 km SW of Santiago, Peru",
