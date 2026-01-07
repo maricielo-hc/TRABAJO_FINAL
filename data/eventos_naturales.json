@@ -70,6 +70,13 @@
     "lon": -79.95366
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-06",
+    "hora": "20:46",
+    "lat": -6.69042,
+    "lon": -79.78236
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-05T17:07:21.196Z",
     "lugar": "94 km W of San Juan, Peru",
