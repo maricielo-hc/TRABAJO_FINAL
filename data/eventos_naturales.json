@@ -1,13 +1,6 @@
 [
   {
     "tipo": "Incendio",
-    "fecha": "2026-01-06",
-    "hora": "20:46",
-    "lat": -6.69042,
-    "lon": -79.78236
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-01-07",
     "hora": "07:35",
     "lat": -17.48755,
@@ -117,6 +110,35 @@
     "hora": "19:46",
     "lat": -2.50227,
     "lon": -73.64833
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "02:13",
+    "lat": -2.00143,
+    "lon": -78.3442
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "02:13",
+    "lat": -2.00299,
+    "lon": -78.35543
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "02:13",
+    "lat": -0.08094,
+    "lon": -77.65795
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-01-08T05:17:50.479Z",
+    "lugar": "104 km E of Yantzaza, Ecuador",
+    "magnitud": "5.5",
+    "lat": -4.0154,
+    "lon": -77.8346
   },
   {
     "tipo": "Sismo",
