@@ -133,6 +133,27 @@
     "lon": -77.65795
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "08:11",
+    "lat": -13.78009,
+    "lon": -76.16562
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "08:07",
+    "lat": -0.07528,
+    "lon": -77.66286
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "08:07",
+    "lat": -0.07669,
+    "lon": -77.65352
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-08T05:17:50.479Z",
     "lugar": "104 km E of Yantzaza, Ecuador",
