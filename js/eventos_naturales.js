@@ -42,6 +42,83 @@ const eventosNaturales = [
     "lon": -75.90351
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:44",
+    "lat": -13.6891,
+    "lon": -68.13653
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:44",
+    "lat": -13.69042,
+    "lon": -68.14564
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:44",
+    "lat": -13.64008,
+    "lon": -72.88621
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:44",
+    "lat": -12.94339,
+    "lon": -69.70517
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:44",
+    "lat": -12.92525,
+    "lon": -69.77993
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:44",
+    "lat": -12.88533,
+    "lon": -69.88574
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:44",
+    "lat": -12.89277,
+    "lon": -70.14979
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:44",
+    "lat": -12.86076,
+    "lon": -70.16007
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:44",
+    "lat": -12.75328,
+    "lon": -70.33414
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:46",
+    "lat": -5.12903,
+    "lon": -77.38959
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-07",
+    "hora": "19:46",
+    "lat": -2.50227,
+    "lon": -73.64833
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-05T17:07:21.196Z",
     "lugar": "94 km W of San Juan, Peru",
