@@ -154,6 +154,126 @@ const eventosNaturales = [
     "lon": -77.65352
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -1.6843,
+    "lon": -80.28352
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -1.68567,
+    "lon": -80.2739
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -3.49904,
+    "lon": -80.3474
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -3.50042,
+    "lon": -80.33748
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -3.58524,
+    "lon": -80.5255
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -3.59452,
+    "lon": -80.52676
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -4.1736,
+    "lon": -80.0607
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -4.86302,
+    "lon": -80.22688
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -4.86352,
+    "lon": -80.87598
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -4.88615,
+    "lon": -80.8494
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -5.09978,
+    "lon": -80.15951
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -5.28822,
+    "lon": -80.7252
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:31",
+    "lat": -6.74708,
+    "lon": -79.61568
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:33",
+    "lat": -9.52979,
+    "lon": -77.52556
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:33",
+    "lat": -10.92657,
+    "lon": -74.87459
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "14:33",
+    "lat": -10.88906,
+    "lon": -76.86692
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-01-08T08:50:12.354Z",
+    "lugar": "71 km NNE of Camiña, Chile",
+    "magnitud": "4.5",
+    "lat": -18.7362,
+    "lon": -69.1175
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-08T05:17:50.479Z",
     "lugar": "104 km E of Yantzaza, Ecuador",
