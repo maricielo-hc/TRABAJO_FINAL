@@ -266,6 +266,83 @@ const eventosNaturales = [
     "lon": -76.86692
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:23",
+    "lat": -14.38028,
+    "lon": -75.60558
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:25",
+    "lat": -13.79188,
+    "lon": -76.17007
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:25",
+    "lat": -12.42078,
+    "lon": -74.28561
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:25",
+    "lat": -12.41086,
+    "lon": -74.28602
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:25",
+    "lat": -12.12325,
+    "lon": -74.62186
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:25",
+    "lat": -5.35385,
+    "lon": -80.73725
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:27",
+    "lat": -2.31552,
+    "lon": -80.04456
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:27",
+    "lat": -2.01448,
+    "lon": -80.06196
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:27",
+    "lat": -2.01576,
+    "lon": -80.07072
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:27",
+    "lat": -1.70464,
+    "lon": -79.96545
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-08",
+    "hora": "20:27",
+    "lat": -1.69586,
+    "lon": -79.96675
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-08T08:50:12.354Z",
     "lugar": "71 km NNE of Camiña, Chile",
@@ -320,13 +397,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -1.8514,
     "lon": -77.9203
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-01T23:30:51.522Z",
-    "lugar": "132 km W of San Juan, Peru",
-    "magnitud": "4.2",
-    "lat": -15.4795,
-    "lon": -76.3908
   }
 ];
