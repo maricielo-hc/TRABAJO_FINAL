@@ -231,6 +231,13 @@
     "lon": -79.96675
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-09",
+    "hora": "08:47",
+    "lat": -1.99734,
+    "lon": -78.33067
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-08T08:50:12.354Z",
     "lugar": "71 km NNE of Camiña, Chile",
