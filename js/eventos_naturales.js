@@ -28,6 +28,13 @@ const eventosNaturales = [
     "lon": -77.66172
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-10",
+    "hora": "07:50",
+    "lat": -17.49416,
+    "lon": -71.35512
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-09T21:36:53.424Z",
     "lugar": "29 km SW of Changuillo, Peru",
@@ -74,13 +81,5 @@ const eventosNaturales = [
     "magnitud": "4.1",
     "lat": -18.5804,
     "lon": -69.8384
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-03T08:46:49.399Z",
-    "lugar": "29 km SSE of San Miguel, Ecuador",
-    "magnitud": "4.5",
-    "lat": -1.9321,
-    "lon": -78.8955
   }
 ];
