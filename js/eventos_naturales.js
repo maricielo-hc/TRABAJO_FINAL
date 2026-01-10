@@ -298,13 +298,5 @@ const eventosNaturales = [
     "magnitud": "4.5",
     "lat": -1.9321,
     "lon": -78.8955
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-02T20:59:14.648Z",
-    "lugar": "17 km SSE of Palora, Ecuador",
-    "magnitud": "4.2",
-    "lat": -1.8514,
-    "lon": -77.9203
   }
 ];
