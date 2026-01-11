@@ -35,6 +35,70 @@ const eventosNaturales = [
     "lon": -71.35512
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-10",
+    "hora": "20:01",
+    "lat": -15.67632,
+    "lon": -69.87424
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-10",
+    "hora": "20:01",
+    "lat": -15.67774,
+    "lon": -69.88364
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-10",
+    "hora": "20:01",
+    "lat": -15.04391,
+    "lon": -70.58527
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-10",
+    "hora": "20:01",
+    "lat": -12.73288,
+    "lon": -70.20432
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-10",
+    "hora": "20:01",
+    "lat": -10.36115,
+    "lon": -73.7908
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-10",
+    "hora": "20:04",
+    "lat": -6.89229,
+    "lon": -76.23651
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-10",
+    "hora": "20:04",
+    "lat": -3.77473,
+    "lon": -73.26903
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-10",
+    "hora": "20:04",
+    "lat": -3.67666,
+    "lon": -80.21484
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-01-10T19:44:27.639Z",
+    "lugar": "11 km SSE of Mollendo, Peru",
+    "magnitud": "4.3",
+    "lat": -17.1078,
+    "lon": -71.9589
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-09T21:36:53.424Z",
     "lugar": "29 km SW of Changuillo, Peru",
@@ -65,21 +129,5 @@ const eventosNaturales = [
     "magnitud": "4.4",
     "lat": -15.3573,
     "lon": -76.0415
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-03T20:17:53.400Z",
-    "lugar": "84 km SW of Santiago, Peru",
-    "magnitud": "4.4",
-    "lat": -14.6316,
-    "lon": -76.3436
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-03T18:42:35.891Z",
-    "lugar": "49 km ESE of Arica, Chile",
-    "magnitud": "4.1",
-    "lat": -18.5804,
-    "lon": -69.8384
   }
 ];
