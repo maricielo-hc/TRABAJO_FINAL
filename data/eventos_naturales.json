@@ -78,6 +78,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-01-11T21:51:17.485Z",
+    "lugar": "17 km NE of Lluta, Peru",
+    "magnitud": "4.2",
+    "lat": -15.892,
+    "lon": -71.9181
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-01-10T19:44:27.639Z",
     "lugar": "11 km SSE of Mollendo, Peru",
     "magnitud": "4.3",
