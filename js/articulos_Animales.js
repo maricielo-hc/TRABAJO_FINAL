@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Alerta en el Chaco paraguayo: así resiste el oso hormiguero a la invasión de su hábitat",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/08042732/Olfateando-2-1-1-e1767846674355-768x512.jpg",
+    "fecha": "Jan 13, 2026",
+    "url": "https://es.mongabay.com/2026/01/alerta-chaco-paraguayo-oso-hormiguero-invasion-habitat/"
+  },
+  {
     "titulo": "Los animales que protagonizaron las historias ambientales de 2025 en Latinoamérica",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/17172404/tata-aguayo-5-768x512.jpeg",
     "fecha": "Jan 04, 2026",
@@ -7200,7 +7206,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Jan 13 12:42:01 2026",
+    "titulo": "Última actualización automática - Tue Jan 13 18:31:17 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
