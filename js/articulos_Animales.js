@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Alerta en el Chaco paraguayo: así resiste el oso hormiguero a la invasión de su hábitat",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/08042732/Olfateando-2-1-1-e1767846674355-768x512.jpg",
-    "fecha": "Jan 13, 2026",
+    "fecha": "Jan 14, 2026",
     "url": "https://es.mongabay.com/2026/01/alerta-chaco-paraguayo-oso-hormiguero-invasion-habitat/"
   },
   {
@@ -7206,7 +7206,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jan 14 12:41:02 2026",
+    "titulo": "Última actualización automática - Wed Jan 14 18:32:09 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
