@@ -37,6 +37,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-01-13T09:47:47.874Z",
+    "lugar": "3 km W of Uñon, Peru",
+    "magnitud": "4.1",
+    "lat": -15.7353,
+    "lon": -72.4623
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-01-11T21:51:17.485Z",
     "lugar": "17 km NE of Lluta, Peru",
     "magnitud": "4.2",
