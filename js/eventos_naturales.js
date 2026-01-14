@@ -14,6 +14,28 @@ const eventosNaturales = [
     "lon": -77.66029
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-13",
+    "hora": "20:21",
+    "lat": -3.5872,
+    "lon": -80.49239
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-13",
+    "hora": "20:21",
+    "lat": -2.75841,
+    "lon": -78.84372
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-01-13T14:03:02.302Z",
+    "lugar": "6 km N of Juli, Peru",
+    "magnitud": "4.2",
+    "lat": -16.1615,
+    "lon": -69.4483
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-11T21:51:17.485Z",
     "lugar": "17 km NE of Lluta, Peru",
