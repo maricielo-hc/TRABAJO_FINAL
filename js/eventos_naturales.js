@@ -38,13 +38,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -14.843,
     "lon": -75.4285
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-08T08:50:12.354Z",
-    "lugar": "71 km NNE of Camiña, Chile",
-    "magnitud": "4.5",
-    "lat": -18.7362,
-    "lon": -69.1175
   }
 ];
