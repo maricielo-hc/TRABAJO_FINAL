@@ -1,33 +1,5 @@
 [
   {
-    "tipo": "Incendio",
-    "fecha": "2026-01-13",
-    "hora": "02:13",
-    "lat": -0.08207,
-    "lon": -77.65171
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-01-13",
-    "hora": "02:13",
-    "lat": -0.08325,
-    "lon": -77.66029
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-01-13",
-    "hora": "20:21",
-    "lat": -3.5872,
-    "lon": -80.49239
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-01-13",
-    "hora": "20:21",
-    "lat": -2.75841,
-    "lon": -78.84372
-  },
-  {
     "tipo": "Sismo",
     "fecha": "2026-01-13T14:03:02.302Z",
     "lugar": "6 km N of Juli, Peru",
@@ -74,13 +46,5 @@
     "magnitud": "4.5",
     "lat": -18.7362,
     "lon": -69.1175
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-08T05:17:50.479Z",
-    "lugar": "104 km E of Yantzaza, Ecuador",
-    "magnitud": "5.5",
-    "lat": -4.0154,
-    "lon": -77.8346
   }
 ]
