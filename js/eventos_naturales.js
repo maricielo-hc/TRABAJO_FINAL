@@ -1,5 +1,19 @@
 const eventosNaturales = [
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-16",
+    "hora": "02:30",
+    "lat": -2.00513,
+    "lon": -78.33844
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-16",
+    "hora": "02:30",
+    "lat": -2.00659,
+    "lon": -78.34888
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-15T18:30:43.177Z",
     "lugar": "13 km ESE of Tauria, Peru",
