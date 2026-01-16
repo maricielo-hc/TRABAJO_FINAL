@@ -14,6 +14,28 @@
     "lon": -78.34888
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-16",
+    "hora": "08:20",
+    "lat": -2.00529,
+    "lon": -78.34164
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-16",
+    "hora": "08:20",
+    "lat": -2.00659,
+    "lon": -78.33293
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-01-16T07:34:39.995Z",
+    "lugar": "17 km E of Sama Grande, Peru",
+    "magnitud": "4.6",
+    "lat": -17.7978,
+    "lon": -70.3307
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-15T18:30:43.177Z",
     "lugar": "13 km ESE of Tauria, Peru",
