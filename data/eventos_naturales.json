@@ -28,6 +28,20 @@
     "lon": -78.33293
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-16",
+    "hora": "14:50",
+    "lat": -2.25359,
+    "lon": -79.89246
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-16",
+    "hora": "14:50",
+    "lat": -2.26741,
+    "lon": -79.89429
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-16T07:34:39.995Z",
     "lugar": "17 km E of Sama Grande, Peru",
