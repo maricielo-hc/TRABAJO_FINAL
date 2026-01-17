@@ -42,6 +42,13 @@ const eventosNaturales = [
     "lon": -79.89429
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-16",
+    "hora": "20:38",
+    "lat": -6.78559,
+    "lon": -79.71401
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-16T07:34:39.995Z",
     "lugar": "17 km E of Sama Grande, Peru",
@@ -88,13 +95,5 @@ const eventosNaturales = [
     "magnitud": "4.3",
     "lat": -17.1078,
     "lon": -71.9589
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-09T21:36:53.424Z",
-    "lugar": "29 km SW of Changuillo, Peru",
-    "magnitud": "4.6",
-    "lat": -14.843,
-    "lon": -75.4285
   }
 ];
