@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "De ríos y tortugas a lagos y abejas amazónicas: conoce quiénes han sido declarados sujetos de derecho en Latinoamérica",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/15061043/Photo-by-Luis-Garcia-Solsol-9-768x512.jpg",
+    "fecha": "Jan 16, 2026",
+    "url": "https://es.mongabay.com/2026/01/abejas-peru-sujetos-derecho-latinoamerica/"
+  },
+  {
     "titulo": "Alerta en el Chaco paraguayo: así resiste el oso hormiguero a la invasión de su hábitat",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/08042732/Olfateando-2-1-1-e1767846674355-768x512.jpg",
     "fecha": "Jan 14, 2026",
@@ -7206,7 +7212,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Jan 16 18:30:53 2026",
+    "titulo": "Última actualización automática - Sat Jan 17 01:20:06 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
