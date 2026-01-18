@@ -35,6 +35,13 @@ const eventosNaturales = [
     "lon": -80.33241
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-18",
+    "hora": "07:58",
+    "lat": -0.07983,
+    "lon": -77.6516
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-16T07:34:39.995Z",
     "lugar": "17 km E of Sama Grande, Peru",
