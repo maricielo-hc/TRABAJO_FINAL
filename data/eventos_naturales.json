@@ -49,6 +49,56 @@
     "lon": -78.33778
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-18",
+    "hora": "20:14",
+    "lat": -8.394,
+    "lon": -74.81401
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-18",
+    "hora": "20:14",
+    "lat": -8.38517,
+    "lon": -74.81536
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-18",
+    "hora": "20:14",
+    "lat": -8.19325,
+    "lon": -75.19296
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-18",
+    "hora": "20:14",
+    "lat": -8.19456,
+    "lon": -75.2018
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-18",
+    "hora": "20:14",
+    "lat": -8.02114,
+    "lon": -76.68052
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-18",
+    "hora": "20:16",
+    "lat": -1.59314,
+    "lon": -78.89362
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-01-16T21:15:06.513Z",
+    "lugar": "92 km SE of Yantzaza, Ecuador",
+    "magnitud": "4.1",
+    "lat": -4.4078,
+    "lon": -78.1581
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-16T07:34:39.995Z",
     "lugar": "17 km E of Sama Grande, Peru",
@@ -79,13 +129,5 @@
     "magnitud": "4.1",
     "lat": -15.7353,
     "lon": -72.4623
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-11T21:51:17.485Z",
-    "lugar": "17 km NE of Lluta, Peru",
-    "magnitud": "4.2",
-    "lat": -15.892,
-    "lon": -71.9181
   }
 ]
