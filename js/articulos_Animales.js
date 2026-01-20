@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Descubren cómo se recupera un bosque tropical en el Chocó ecuatoriano tras la deforestación | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/20001640/Piaya-cayana-768x512.jpg",
+    "fecha": "Jan 20, 2026",
+    "url": "https://es.mongabay.com/2026/01/recuperacion-bosque-tropical-choco-ecuatoriano-deforestacion-estudio/"
+  },
+  {
     "titulo": "De ríos y tortugas a lagos y abejas amazónicas: conoce quiénes han sido declarados sujetos de derecho en Latinoamérica",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/15061043/Photo-by-Luis-Garcia-Solsol-9-768x512.jpg",
     "fecha": "Jan 16, 2026",
@@ -7212,7 +7218,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Jan 20 12:44:12 2026",
+    "titulo": "Última actualización automática - Tue Jan 20 18:33:58 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
