@@ -63,6 +63,20 @@ const eventosNaturales = [
     "lon": -77.66309
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-20",
+    "hora": "14:09",
+    "lat": -0.08518,
+    "lon": -77.64926
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-20",
+    "hora": "14:12",
+    "lat": -6.06181,
+    "lon": -79.94788
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-16T21:15:06.513Z",
     "lugar": "92 km SE of Yantzaza, Ecuador",
@@ -85,13 +99,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -15.422,
     "lon": -73.1296
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-13T14:03:02.302Z",
-    "lugar": "6 km N of Juli, Peru",
-    "magnitud": "4.2",
-    "lat": -16.1615,
-    "lon": -69.4483
   }
 ];
