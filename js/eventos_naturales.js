@@ -93,13 +93,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -16.1615,
     "lon": -69.4483
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-13T09:47:47.874Z",
-    "lugar": "3 km W of Uñon, Peru",
-    "magnitud": "4.1",
-    "lat": -15.7353,
-    "lon": -72.4623
   }
 ];
