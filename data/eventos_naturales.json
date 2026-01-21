@@ -231,6 +231,41 @@
     "lon": -77.64999
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-21",
+    "hora": "08:15",
+    "lat": -1.98998,
+    "lon": -78.34103
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-21",
+    "hora": "08:15",
+    "lat": -1.99907,
+    "lon": -78.34118
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-21",
+    "hora": "08:15",
+    "lat": -2.00039,
+    "lon": -78.33247
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-21",
+    "hora": "08:17",
+    "lat": -7.11738,
+    "lon": -79.39506
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-21",
+    "hora": "08:17",
+    "lat": -7.4472,
+    "lon": -79.536
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-16T21:15:06.513Z",
     "lugar": "92 km SE of Yantzaza, Ecuador",
