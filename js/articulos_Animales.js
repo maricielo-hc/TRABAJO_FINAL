@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Descubren cómo se recupera un bosque tropical en el Chocó ecuatoriano tras la deforestación | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/20001640/Piaya-cayana-768x512.jpg",
-    "fecha": "Jan 20, 2026",
+    "fecha": "Jan 21, 2026",
     "url": "https://es.mongabay.com/2026/01/recuperacion-bosque-tropical-choco-ecuatoriano-deforestacion-estudio/"
   },
   {
@@ -7218,7 +7218,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jan 21 12:43:59 2026",
+    "titulo": "Última actualización automática - Wed Jan 21 18:41:33 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
