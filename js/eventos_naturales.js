@@ -203,6 +203,34 @@ const eventosNaturales = [
     "lon": -78.38076
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-21",
+    "hora": "02:30",
+    "lat": -7.87506,
+    "lon": -79.21981
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-21",
+    "hora": "02:30",
+    "lat": -7.44867,
+    "lon": -79.53202
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-21",
+    "hora": "02:30",
+    "lat": -7.44991,
+    "lon": -79.54096
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-21",
+    "hora": "02:30",
+    "lat": -0.07756,
+    "lon": -77.64999
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-16T21:15:06.513Z",
     "lugar": "92 km SE of Yantzaza, Ecuador",
