@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Los tiburones y una ventana al pasado: cómo era el Pacífico Este Tropical antes de la pesca indiscriminada | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/22170947/Silvertip-shark-Revillagigedo_Credit-Pelayo-Salinas-768x512.jpg",
+    "fecha": "Jan 23, 2026",
+    "url": "https://es.mongabay.com/2026/01/tiburones-pacifico-este-tropical-pesca-indiscriminada/"
+  },
+  {
     "titulo": "Descubren cómo se recupera un bosque tropical en el Chocó ecuatoriano tras la deforestación | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/20001640/Piaya-cayana-768x512.jpg",
     "fecha": "Jan 21, 2026",
@@ -7218,7 +7224,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Jan 23 12:41:57 2026",
+    "titulo": "Última actualización automática - Fri Jan 23 18:31:36 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
