@@ -35,19 +35,53 @@ const eventosNaturales = [
     "lon": -78.72005
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-23",
+    "hora": "20:08",
+    "lat": -11.5752,
+    "lon": -73.16466
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-23",
+    "hora": "20:10",
+    "lat": -7.73908,
+    "lon": -79.1739
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-23",
+    "hora": "20:12",
+    "lat": -5.96399,
+    "lon": -78.73802
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-23",
+    "hora": "20:12",
+    "lat": -5.76478,
+    "lon": -78.55946
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-23",
+    "hora": "20:12",
+    "lat": -5.70777,
+    "lon": -78.80705
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-23",
+    "hora": "20:12",
+    "lat": -0.03351,
+    "lon": -75.15924
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-23T09:27:27.219Z",
     "lugar": "80 km SE of Palca, Peru",
     "magnitud": "4.4",
     "lat": -18.293,
     "lon": -69.4249
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-16T21:15:06.513Z",
-    "lugar": "92 km SE of Yantzaza, Ecuador",
-    "magnitud": "4.1",
-    "lat": -4.4078,
-    "lon": -78.1581
   }
 ];
