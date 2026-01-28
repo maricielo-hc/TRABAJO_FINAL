@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Sin playas ni protección legal: la odisea de las tortugas marinas más grandes del mundo para anidar en Ecuador",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/28042550/nacimiento-laud-2021-768x512.jpeg",
+    "fecha": "Jan 28, 2026",
+    "url": "https://es.mongabay.com/2026/01/sin-playas-proteccion-legal-odisea-tortuga-laud-anidar-ecuador/"
+  },
+  {
     "titulo": "Los tiburones y una ventana al pasado: cómo era el Pacífico Este Tropical antes de la pesca indiscriminada | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/22170947/Silvertip-shark-Revillagigedo_Credit-Pelayo-Salinas-768x512.jpg",
     "fecha": "Jan 23, 2026",
@@ -7224,7 +7230,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jan 28 12:43:45 2026",
+    "titulo": "Última actualización automática - Wed Jan 28 18:36:22 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
