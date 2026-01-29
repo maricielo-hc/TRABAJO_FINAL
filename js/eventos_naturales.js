@@ -43,6 +43,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-01-29T07:51:08.312Z",
+    "lugar": "55 km SW of San Juan, Peru",
+    "magnitud": "4.7",
+    "lat": -15.7138,
+    "lon": -75.5293
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-01-26T06:31:50.139Z",
     "lugar": "12 km S of Santa Lucía, Peru",
     "magnitud": "4.2",
