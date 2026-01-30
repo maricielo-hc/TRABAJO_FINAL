@@ -22,13 +22,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -8.6248,
     "lon": -74.6666
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-23T09:27:27.219Z",
-    "lugar": "80 km SE of Palca, Peru",
-    "magnitud": "4.4",
-    "lat": -18.293,
-    "lon": -69.4249
   }
 ];
