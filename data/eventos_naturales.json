@@ -1,47 +1,5 @@
 [
   {
-    "tipo": "Incendio",
-    "fecha": "2026-01-28",
-    "hora": "02:10",
-    "lat": -0.07574,
-    "lon": -77.65986
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-01-28",
-    "hora": "02:06",
-    "lat": -14.81323,
-    "lon": -75.1999
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-01-28",
-    "hora": "07:50",
-    "lat": -0.06785,
-    "lon": -77.66402
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-01-28",
-    "hora": "07:50",
-    "lat": -0.07183,
-    "lon": -77.66908
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-01-28",
-    "hora": "07:50",
-    "lat": -0.07526,
-    "lon": -77.64714
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-01-28",
-    "hora": "14:31",
-    "lat": -5.09315,
-    "lon": -80.16378
-  },
-  {
     "tipo": "Sismo",
     "fecha": "2026-01-29T07:51:08.312Z",
     "lugar": "55 km SW of San Juan, Peru",
