@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Iguana verde: el reptil invasor comercializado durante años que causa estragos en el Caribe",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/29130257/20150820_100015_Original-768x512.jpeg",
+    "fecha": "Jan 30, 2026",
+    "url": "https://es.mongabay.com/2026/01/iguana-verde-reptil-invasor-caribe/"
+  },
+  {
+    "titulo": "Argentina: el trabajo silencioso de rescatistas para salvar a los animales de los incendios",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/01/21210435/Incendios-en-Epuyen-%C2%A9-Matias-Garay-Greenpeace-07-768x512.jpg",
+    "fecha": "Jan 30, 2026",
+    "url": "https://es.mongabay.com/2026/01/argentina-incendios-rescatistas-salvar-animales/"
+  },
+  {
     "titulo": "Caza & Safari: fiscalía en Bolivia busca reabrir la causa contra la empresa argentina acusada de cazar jaguares",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/28154236/Proyecto-nuevo-1-768x512.jpg",
     "fecha": "Jan 29, 2026",
@@ -10,12 +22,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/28193343/portada-orcas-1-768x512.jpg",
     "fecha": "Jan 29, 2026",
     "url": "https://es.mongabay.com/2026/01/mexico-primer-registro-orcas-depredando-tiburones-estudio/"
-  },
-  {
-    "titulo": "Iguana verde: el reptil invasor comercializado durante años que causa estragos en el Caribe",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/29130257/20150820_100015_Original-768x512.jpeg",
-    "fecha": "Jan 29, 2026",
-    "url": "https://es.mongabay.com/2026/01/iguana-verde-reptil-invasor-caribe/"
   },
   {
     "titulo": "Sin playas ni protección legal: la odisea de las tortugas marinas más grandes del mundo para anidar en Ecuador",
@@ -7248,7 +7254,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Jan 30 12:47:15 2026",
+    "titulo": "Última actualización automática - Fri Jan 30 18:40:05 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
