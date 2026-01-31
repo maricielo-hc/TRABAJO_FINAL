@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Tortuga laúd, jambato negro y nutrias marinas del sur: tres especies emblemáticas al borde de la extinción",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/27075825/Nutria-marina-del-sur-Lilian-Carswell-USFWS-768x512.jpg",
+    "fecha": "Jan 31, 2026",
+    "url": "https://es.mongabay.com/2026/01/tortuga-laud-jambato-negro-nutrias-marinas-sur-extincion/"
+  },
+  {
     "titulo": "Iguana verde: el reptil invasor comercializado durante años que causa estragos en el Caribe",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/29130257/20150820_100015_Original-768x512.jpeg",
     "fecha": "Jan 30, 2026",
@@ -7254,7 +7260,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Jan 31 12:41:30 2026",
+    "titulo": "Última actualización automática - Sat Jan 31 18:30:17 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
