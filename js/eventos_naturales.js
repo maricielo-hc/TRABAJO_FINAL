@@ -63,6 +63,27 @@ const eventosNaturales = [
     "lon": -78.34959
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-01-31",
+    "hora": "20:21",
+    "lat": -10.69318,
+    "lon": -77.57481
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-31",
+    "hora": "20:21",
+    "lat": -10.6945,
+    "lon": -77.5841
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-01-31",
+    "hora": "20:23",
+    "lat": -4.06975,
+    "lon": -78.95367
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-01-31T01:09:18.050Z",
     "lugar": "50 km SSE of San Juan, Peru",
