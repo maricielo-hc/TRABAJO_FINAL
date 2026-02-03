@@ -1,20 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-02-01",
-    "hora": "13:54",
-    "lat": -16.75068,
-    "lon": -71.79398
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-02-01",
-    "hora": "13:54",
-    "lat": -16.75838,
-    "lon": -71.80067
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-02-02",
     "hora": "19:59",
     "lat": -13.77121,
@@ -40,6 +26,14 @@ const eventosNaturales = [
     "hora": "19:59",
     "lat": -11.5887,
     "lon": -73.1701
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-02-03T02:08:18.331Z",
+    "lugar": "10 km NNE of Santa Lucía, Peru",
+    "magnitud": "4.4",
+    "lat": -15.6136,
+    "lon": -70.5639
   },
   {
     "tipo": "Sismo",
