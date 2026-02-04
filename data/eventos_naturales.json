@@ -42,6 +42,27 @@
     "lon": -79.30898
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-04",
+    "hora": "14:12",
+    "lat": -6.80415,
+    "lon": -79.60617
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-04",
+    "hora": "14:12",
+    "lat": -6.82938,
+    "lon": -79.68562
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-04",
+    "hora": "14:12",
+    "lat": -6.93792,
+    "lon": -79.57475
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-03T02:08:18.331Z",
     "lugar": "10 km NNE of Santa Lucía, Peru",
