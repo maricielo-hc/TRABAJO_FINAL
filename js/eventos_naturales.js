@@ -63,6 +63,13 @@ const eventosNaturales = [
     "lon": -79.57475
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-04",
+    "hora": "19:40",
+    "lat": -3.53279,
+    "lon": -68.92966
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-03T02:08:18.331Z",
     "lugar": "10 km NNE of Santa Lucía, Peru",
