@@ -63,13 +63,5 @@
     "magnitud": "4.9",
     "lat": -15.7808,
     "lon": -74.9778
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-29T07:51:08.312Z",
-    "lugar": "55 km SW of San Juan, Peru",
-    "magnitud": "4.7",
-    "lat": -15.7138,
-    "lon": -75.5293
   }
 ]
