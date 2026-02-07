@@ -342,13 +342,5 @@ const eventosNaturales = [
     "magnitud": "4.4",
     "lat": -15.6136,
     "lon": -70.5639
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-01-31T01:09:18.050Z",
-    "lugar": "50 km SSE of San Juan, Peru",
-    "magnitud": "4.9",
-    "lat": -15.7808,
-    "lon": -74.9778
   }
 ];
