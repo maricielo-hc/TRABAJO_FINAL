@@ -14,6 +14,21 @@
     "lon": -78.3353
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-07",
+    "hora": "14:29",
+    "lat": -6.87909,
+    "lon": -79.83752
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-02-07T12:37:46.480Z",
+    "lugar": "7 km ENE of Ilabaya, Peru",
+    "magnitud": "4.4",
+    "lat": -17.386,
+    "lon": -70.448
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-03T02:08:18.331Z",
     "lugar": "10 km NNE of Santa Lucía, Peru",
