@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Inteligencia artificial, turismo y ganadería: tres amenazas para la fauna silvestre",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2021/11/30031955/Oso-Hormiguero-3-768x512.jpg",
+    "fecha": "Feb 07, 2026",
+    "url": "https://es.mongabay.com/2026/02/inteligencia-artificial-turismo-ganaderia-amenazas-fauna-silvestre/"
+  },
+  {
     "titulo": "Tortuga laúd, jambato negro y nutrias marinas del sur: tres especies emblemáticas al borde de la extinción",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/12/27075825/Nutria-marina-del-sur-Lilian-Carswell-USFWS-768x512.jpg",
     "fecha": "Jan 31, 2026",
@@ -7260,7 +7266,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Feb  7 12:42:09 2026",
+    "titulo": "Última actualización automática - Sat Feb  7 18:33:09 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
