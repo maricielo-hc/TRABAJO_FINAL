@@ -21,6 +21,41 @@
     "lon": -79.83752
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-07",
+    "hora": "19:53",
+    "lat": -13.15697,
+    "lon": -71.85675
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-07",
+    "hora": "19:55",
+    "lat": -8.59508,
+    "lon": -71.53008
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-07",
+    "hora": "19:55",
+    "lat": -8.41019,
+    "lon": -74.80904
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-07",
+    "hora": "19:55",
+    "lat": -7.74977,
+    "lon": -73.0004
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-07",
+    "hora": "19:57",
+    "lat": -0.01037,
+    "lon": -74.70424
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-07T12:37:46.480Z",
     "lugar": "7 km ENE of Ilabaya, Peru",
