@@ -42,6 +42,20 @@ const eventosNaturales = [
     "lon": -74.70424
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-08",
+    "hora": "13:33",
+    "lat": -18.4976,
+    "lon": -70.10529
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-08",
+    "hora": "13:33",
+    "lat": -18.4989,
+    "lon": -70.09594
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-07T12:37:46.480Z",
     "lugar": "7 km ENE of Ilabaya, Peru",
