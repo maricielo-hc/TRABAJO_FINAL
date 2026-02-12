@@ -7,6 +7,27 @@
     "lon": -77.65018
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "14:29",
+    "lat": -0.90066,
+    "lon": -79.49091
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "14:29",
+    "lat": -1.44805,
+    "lon": -79.46548
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "14:29",
+    "lat": -1.87062,
+    "lon": -79.97625
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-07T12:37:46.480Z",
     "lugar": "7 km ENE of Ilabaya, Peru",
