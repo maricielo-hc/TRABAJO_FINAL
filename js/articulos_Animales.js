@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "¿Cómo compiten jaguares, pumas, ocelotes y tigrillos por alimento? Estudio de felinos en Guatemala revela sus formas de caza",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/10080843/felinos-guatemala-caza-alimento-estudio4-768x512.jpg",
-    "fecha": "Feb 10, 2026",
+    "fecha": "Feb 12, 2026",
     "url": "https://es.mongabay.com/2026/02/felinos-guatemala-caza-alimento-estudio/"
   },
   {
@@ -7284,7 +7284,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Feb 12 13:01:43 2026",
+    "titulo": "Última actualización automática - Thu Feb 12 19:01:31 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
