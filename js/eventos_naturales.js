@@ -21,6 +21,69 @@ const eventosNaturales = [
     "lon": -79.97625
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "19:51",
+    "lat": -3.91872,
+    "lon": -70.5148
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "19:51",
+    "lat": -3.80719,
+    "lon": -71.67243
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "19:51",
+    "lat": -3.80041,
+    "lon": -71.66898
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "19:51",
+    "lat": -0.31033,
+    "lon": -74.63387
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "19:51",
+    "lat": -0.21582,
+    "lon": -74.69672
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "19:51",
+    "lat": -0.0548,
+    "lon": -74.37059
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "19:51",
+    "lat": -0.04745,
+    "lon": -74.36509
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "19:51",
+    "lat": -0.06766,
+    "lon": -74.71653
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-12",
+    "hora": "19:51",
+    "lat": -0.03849,
+    "lon": -74.82014
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-12T21:52:59.483Z",
     "lugar": "47 km ESE of Macas, Ecuador",
