@@ -84,6 +84,20 @@
     "lon": -74.82014
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-13",
+    "hora": "13:33",
+    "lat": -17.49029,
+    "lon": -71.35793
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-13",
+    "hora": "13:33",
+    "lat": -18.50104,
+    "lon": -70.09275
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-12T21:52:59.483Z",
     "lugar": "47 km ESE of Macas, Ecuador",
