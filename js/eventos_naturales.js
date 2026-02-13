@@ -1,13 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-02-11",
-    "hora": "08:34",
-    "lat": -0.08039,
-    "lon": -77.65018
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-02-12",
     "hora": "14:29",
     "lat": -0.90066,
@@ -26,6 +19,14 @@ const eventosNaturales = [
     "hora": "14:29",
     "lat": -1.87062,
     "lon": -79.97625
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-02-12T21:52:59.483Z",
+    "lugar": "47 km ESE of Macas, Ecuador",
+    "magnitud": "4.6",
+    "lat": -2.4075,
+    "lon": -77.6976
   },
   {
     "tipo": "Sismo",
