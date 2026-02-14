@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Jaguares, osos andinos y cóndores: las áreas naturales de Bolivia protegen a sus especies más emblemáticas",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/01/27151941/D54eGErWAAAXuTj-e1737991209999-768x442.jpeg",
+    "fecha": "Feb 14, 2026",
+    "url": "https://es.mongabay.com/2026/02/jaguares-osos-andinos-condores-conservacion-areas-naturales-bolivia/"
+  },
+  {
     "titulo": "Imágenes muestran el horror que viven los felinos víctimas del tráfico ilegal en Latinoamérica | Reportaje fotográfico",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/07235550/Colombia-7-Barto-hogar-de-paso-Foto-Santiago-Wills-768x512.jpg",
     "fecha": "Feb 13, 2026",
@@ -7290,7 +7296,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Feb 14 12:42:07 2026",
+    "titulo": "Última actualización automática - Sat Feb 14 18:32:25 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
