@@ -1,6 +1,14 @@
 [
   {
     "tipo": "Sismo",
+    "fecha": "2026-02-15T09:14:50.944Z",
+    "lugar": "54 km SSE of Palca, Peru",
+    "magnitud": "4.2",
+    "lat": -18.194,
+    "lon": -69.6828
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-02-15T06:03:14.818Z",
     "lugar": "7 km ENE of Yura, Peru",
     "magnitud": "5",
