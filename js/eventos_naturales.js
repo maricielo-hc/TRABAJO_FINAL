@@ -1,17 +1,11 @@
 const eventosNaturales = [
   {
-    "tipo": "Incendio",
-    "fecha": "2026-02-13",
-    "hora": "13:33",
-    "lat": -17.49029,
-    "lon": -71.35793
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-02-13",
-    "hora": "13:33",
-    "lat": -18.50104,
-    "lon": -70.09275
+    "tipo": "Sismo",
+    "fecha": "2026-02-15T06:03:14.818Z",
+    "lugar": "7 km ENE of Yura, Peru",
+    "magnitud": "5",
+    "lat": -16.2291,
+    "lon": -71.6166
   },
   {
     "tipo": "Sismo",
