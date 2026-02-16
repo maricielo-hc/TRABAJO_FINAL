@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "¿Por qué la tortuga laúd está desapareciendo en Ecuador?",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/02/24032838/FOTO_1_Carlos-Salas-768x512.jpg",
+    "fecha": "Feb 16, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/02/tortuga-laud-esta-desapareciendo-ecuador/"
+  },
+  {
     "titulo": "Jaguares, osos andinos y cóndores: las áreas naturales de Bolivia protegen a sus especies más emblemáticas",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/01/27151941/D54eGErWAAAXuTj-e1737991209999-768x442.jpeg",
     "fecha": "Feb 14, 2026",
@@ -7296,7 +7302,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Feb 16 12:57:52 2026",
+    "titulo": "Última actualización automática - Mon Feb 16 18:41:41 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
