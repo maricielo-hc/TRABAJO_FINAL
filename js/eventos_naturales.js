@@ -1,6 +1,14 @@
 const eventosNaturales = [
   {
     "tipo": "Sismo",
+    "fecha": "2026-02-16T00:53:16.149Z",
+    "lugar": "34 km SW of San Alejandro, Peru",
+    "magnitud": "4.7",
+    "lat": -9.0693,
+    "lon": -75.4134
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-02-15T09:14:50.944Z",
     "lugar": "54 km SSE of Palca, Peru",
     "magnitud": "4.2",
