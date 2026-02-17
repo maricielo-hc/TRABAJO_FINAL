@@ -1,5 +1,12 @@
 const eventosNaturales = [
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-16",
+    "hora": "20:44",
+    "lat": -8.90565,
+    "lon": -78.50949
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-16T00:53:16.149Z",
     "lugar": "34 km SW of San Alejandro, Peru",
