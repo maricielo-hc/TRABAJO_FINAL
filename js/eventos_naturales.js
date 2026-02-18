@@ -35,6 +35,13 @@ const eventosNaturales = [
     "lon": -79.33677
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-18",
+    "hora": "13:33",
+    "lat": -18.50529,
+    "lon": -70.1037
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-18T02:22:54.109Z",
     "lugar": "86 km SSE of Atico, Peru",
