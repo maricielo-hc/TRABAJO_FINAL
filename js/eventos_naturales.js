@@ -43,6 +43,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-02-17T14:16:26.225Z",
+    "lugar": "9 km W of Paucarbamba, Peru",
+    "magnitud": "4.2",
+    "lat": -12.5469,
+    "lon": -74.6168
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-02-16T00:53:16.149Z",
     "lugar": "34 km SW of San Alejandro, Peru",
     "magnitud": "4.7",
