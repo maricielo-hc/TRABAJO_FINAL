@@ -42,6 +42,48 @@
     "lon": -70.1037
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-18",
+    "hora": "20:25",
+    "lat": -2.12218,
+    "lon": -79.59151
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-18",
+    "hora": "20:25",
+    "lat": -1.96554,
+    "lon": -79.72688
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-18",
+    "hora": "20:25",
+    "lat": -1.87475,
+    "lon": -79.987
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-18",
+    "hora": "20:25",
+    "lat": -1.81874,
+    "lon": -80.231
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-18",
+    "hora": "20:25",
+    "lat": -1.37328,
+    "lon": -79.90412
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-18",
+    "hora": "20:25",
+    "lat": -1.04738,
+    "lon": -79.63609
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-18T02:22:54.109Z",
     "lugar": "86 km SSE of Atico, Peru",
