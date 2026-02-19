@@ -49,6 +49,13 @@
     "lon": -79.63609
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "08:45",
+    "lat": -1.99872,
+    "lon": -78.33144
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-18T02:22:54.109Z",
     "lugar": "86 km SSE of Atico, Peru",
