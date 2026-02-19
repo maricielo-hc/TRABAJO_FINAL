@@ -56,6 +56,70 @@ const eventosNaturales = [
     "lon": -78.33144
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "14:09",
+    "lat": -8.32584,
+    "lon": -78.91653
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "14:09",
+    "lat": -11.10788,
+    "lon": -77.36121
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "14:12",
+    "lat": -13.16655,
+    "lon": -70.40952
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "14:12",
+    "lat": -13.55235,
+    "lon": -70.10014
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "14:12",
+    "lat": -13.54329,
+    "lon": -70.10882
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "14:12",
+    "lat": -13.55999,
+    "lon": -70.1059
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "14:12",
+    "lat": -13.68634,
+    "lon": -69.02453
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "14:12",
+    "lat": -13.7037,
+    "lon": -69.02854
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-02-19T05:35:11.933Z",
+    "lugar": "14 km NE of Calango, Peru",
+    "magnitud": "3.6",
+    "lat": -12.4532,
+    "lon": -76.4374
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-18T02:22:54.109Z",
     "lugar": "86 km SSE of Atico, Peru",
