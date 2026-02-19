@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "¿Qué pescados estás comiendo?: fraude y mal etiquetado amenazan a los tiburones en Perú",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/09/15020702/Copia-de-tiburon-azul-OCEANA-LX-20315-768x512.jpg",
+    "fecha": "Feb 19, 2026",
+    "url": "https://es.mongabay.com/2026/02/que-pescados-estas-comiendo-fraude-etiquetado-amenazan-tiburones-peru/"
+  },
+  {
     "titulo": "¿Por qué la tortuga laúd está desapareciendo en Ecuador?",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/02/24032838/FOTO_1_Carlos-Salas-768x512.jpg",
     "fecha": "Feb 16, 2026",
@@ -7302,7 +7308,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Feb 19 12:59:35 2026",
+    "titulo": "Última actualización automática - Thu Feb 19 18:49:05 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
