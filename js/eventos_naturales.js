@@ -112,6 +112,20 @@ const eventosNaturales = [
     "lon": -69.02854
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "19:21",
+    "lat": -12.59871,
+    "lon": -69.21349
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-19",
+    "hora": "19:23",
+    "lat": -4.23749,
+    "lon": -69.93291
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-19T05:35:11.933Z",
     "lugar": "14 km NE of Calango, Peru",
@@ -158,13 +172,5 @@ const eventosNaturales = [
     "magnitud": "5",
     "lat": -16.2291,
     "lon": -71.6166
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-02-12T21:52:59.483Z",
-    "lugar": "47 km ESE of Macas, Ecuador",
-    "magnitud": "4.6",
-    "lat": -2.4075,
-    "lon": -77.6976
   }
 ];
