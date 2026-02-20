@@ -77,6 +77,13 @@
     "lon": -69.93291
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-20",
+    "hora": "07:50",
+    "lat": -17.49422,
+    "lon": -71.34928
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-19T05:35:11.933Z",
     "lugar": "14 km NE of Calango, Peru",
