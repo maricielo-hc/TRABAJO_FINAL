@@ -49,6 +49,20 @@ const eventosNaturales = [
     "lon": -78.33769
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-21",
+    "hora": "13:52",
+    "lat": -13.73328,
+    "lon": -75.96376
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-21",
+    "hora": "13:52",
+    "lat": -13.78569,
+    "lon": -76.17126
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-20T18:48:51.478Z",
     "lugar": "19 km ENE of El Pedregal, Peru",
