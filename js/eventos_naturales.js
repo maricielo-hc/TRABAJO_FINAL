@@ -84,6 +84,42 @@ const eventosNaturales = [
     "lon": -71.34928
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-20",
+    "hora": "19:59",
+    "lat": -11.58136,
+    "lon": -73.16943
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-20",
+    "hora": "20:01",
+    "lat": -7.05573,
+    "lon": -71.68929
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-20",
+    "hora": "20:01",
+    "lat": -4.6155,
+    "lon": -76.34716
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-20",
+    "hora": "20:04",
+    "lat": -3.25216,
+    "lon": -79.97569
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-02-20T18:48:51.478Z",
+    "lugar": "19 km ENE of El Pedregal, Peru",
+    "magnitud": "4.2",
+    "lat": -16.2765,
+    "lon": -72.0322
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-19T05:35:11.933Z",
     "lugar": "14 km NE of Calango, Peru",
