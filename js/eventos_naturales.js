@@ -50,6 +50,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-02-22T06:43:52.678Z",
+    "lugar": "32 km NE of Barranca, Peru",
+    "magnitud": "5",
+    "lat": -4.641,
+    "lon": -76.4488
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-02-20T18:48:51.478Z",
     "lugar": "19 km ENE of El Pedregal, Peru",
     "magnitud": "4.2",
@@ -87,13 +95,5 @@ const eventosNaturales = [
     "magnitud": "4.7",
     "lat": -9.0693,
     "lon": -75.4134
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-02-15T09:14:50.944Z",
-    "lugar": "54 km SSE of Palca, Peru",
-    "magnitud": "4.2",
-    "lat": -18.194,
-    "lon": -69.6828
   }
 ];
