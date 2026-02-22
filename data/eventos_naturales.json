@@ -63,6 +63,27 @@
     "lon": -76.17126
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-21",
+    "hora": "20:40",
+    "lat": -9.27895,
+    "lon": -78.45271
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-21",
+    "hora": "20:40",
+    "lat": -7.78454,
+    "lon": -79.21301
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-21",
+    "hora": "20:40",
+    "lat": -7.78596,
+    "lon": -79.22239
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-20T18:48:51.478Z",
     "lugar": "19 km ENE of El Pedregal, Peru",
