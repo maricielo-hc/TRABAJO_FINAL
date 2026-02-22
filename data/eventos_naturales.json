@@ -49,6 +49,20 @@
     "lon": -79.22239
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-22",
+    "hora": "14:26",
+    "lat": -1.70831,
+    "lon": -79.3914
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-22",
+    "hora": "14:26",
+    "lat": -2.67637,
+    "lon": -79.6178
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-22T06:43:52.678Z",
     "lugar": "32 km NE of Barranca, Peru",
