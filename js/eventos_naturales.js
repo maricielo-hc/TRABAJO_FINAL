@@ -14,6 +14,13 @@ const eventosNaturales = [
     "lon": -79.6178
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-23",
+    "hora": "13:31",
+    "lat": -18.49818,
+    "lon": -70.09688
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-22T22:36:17.004Z",
     "lugar": "60 km WNW of Pisco, Peru",
