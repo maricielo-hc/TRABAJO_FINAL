@@ -64,6 +64,22 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-02-22T22:36:17.004Z",
+    "lugar": "60 km WNW of Pisco, Peru",
+    "magnitud": "5.3",
+    "lat": -13.5581,
+    "lon": -76.7385
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-02-22T18:03:32.888Z",
+    "lugar": "86 km SSW of San Juan, Peru",
+    "magnitud": "4.4",
+    "lat": -16.1236,
+    "lon": -75.3451
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-02-22T06:43:52.678Z",
     "lugar": "32 km NE of Barranca, Peru",
     "magnitud": "5",
@@ -101,13 +117,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -12.5469,
     "lon": -74.6168
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-02-16T00:53:16.149Z",
-    "lugar": "34 km SW of San Alejandro, Peru",
-    "magnitud": "4.7",
-    "lat": -9.0693,
-    "lon": -75.4134
   }
 ];
