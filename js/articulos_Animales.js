@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Semana de las especies invasoras: historias de peces, insectos y caracoles que amenazan ecosistemas en Latinoamérica",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/20203639/Proyecto-nuevo-14-768x512.jpg",
+    "fecha": "Feb 23, 2026",
+    "url": "https://es.mongabay.com/2026/02/semana-especies-invasoras-peces-insectos-caracoles-amenazan-ecosistemas-latinoamerica/"
+  },
+  {
     "titulo": "Pumas y pingüinos en la Patagonia: el regreso de los felinos expone el impacto de la acción humana en la naturaleza | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/18200145/Puma-blood-JoelReyero-768x512.jpg",
     "fecha": "Feb 20, 2026",
@@ -7314,7 +7320,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Feb 23 12:58:31 2026",
+    "titulo": "Última actualización automática - Mon Feb 23 19:01:39 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
