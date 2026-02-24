@@ -1,7 +1,7 @@
 const articulos = [
   {
     "titulo": "Semana de las especies invasoras: historias de peces, insectos y caracoles que amenazan ecosistemas en Latinoamérica",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/20203639/Proyecto-nuevo-14-768x512.jpg",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/24175638/Pez-diablo-768x512.jpg",
     "fecha": "Feb 23, 2026",
     "url": "https://es.mongabay.com/2026/02/semana-especies-invasoras-peces-insectos-caracoles-amenazan-ecosistemas-latinoamerica/"
   },
@@ -7320,7 +7320,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Feb 24 12:59:46 2026",
+    "titulo": "Última actualización automática - Tue Feb 24 19:00:00 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
