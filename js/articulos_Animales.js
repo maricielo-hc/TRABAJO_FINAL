@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Confirmado: nueva especie de pulpo en aguas profundas chilenas",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/24123637/Proyecto-nuevo-15-768x512.jpg",
+    "fecha": "Feb 24, 2026",
+    "url": "https://es.mongabay.com/2026/02/nueva-especie-pulpo-chile-oceanos/"
+  },
+  {
     "titulo": "Semana de las especies invasoras: historias de peces, insectos y caracoles que amenazan ecosistemas en Latinoamérica",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/24175638/Pez-diablo-768x512.jpg",
     "fecha": "Feb 23, 2026",
@@ -7320,7 +7326,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Feb 24 19:00:00 2026",
+    "titulo": "Última actualización automática - Wed Feb 25 01:52:18 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
