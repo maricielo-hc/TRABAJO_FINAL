@@ -37,13 +37,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -16.2765,
     "lon": -72.0322
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-02-19T05:35:11.933Z",
-    "lugar": "14 km NE of Calango, Peru",
-    "magnitud": "3.6",
-    "lat": -12.4532,
-    "lon": -76.4374
   }
 ];
