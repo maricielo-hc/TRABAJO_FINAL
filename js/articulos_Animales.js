@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Pez guitarra: científicos y pescadores deportivos de Argentina se unen para proteger a esta singular especie del Atlántico",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/26012519/Captura-de-pantalla-2026-02-25-a-las-6.24.17-p.m-768x512.png",
+    "fecha": "Feb 26, 2026",
+    "url": "https://es.mongabay.com/2026/02/pez-guitarra-cientificos-pescadores-argentina-proteccion/"
+  },
+  {
     "titulo": "Confirmado: nueva especie de pulpo en aguas profundas chilenas",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/24123637/Proyecto-nuevo-15-768x512.jpg",
     "fecha": "Feb 24, 2026",
@@ -7326,7 +7332,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Feb 26 12:59:47 2026",
+    "titulo": "Última actualización automática - Thu Feb 26 18:49:41 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
