@@ -7,6 +7,20 @@
     "lon": -75.02466
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-26",
+    "hora": "20:36",
+    "lat": -6.82311,
+    "lon": -79.78738
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-26",
+    "hora": "20:36",
+    "lat": -4.86921,
+    "lon": -80.57102
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-22T22:36:17.004Z",
     "lugar": "60 km WNW of Pisco, Peru",
