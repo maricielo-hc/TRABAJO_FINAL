@@ -1,13 +1,6 @@
 [
   {
     "tipo": "Incendio",
-    "fecha": "2026-02-25",
-    "hora": "19:57",
-    "lat": -6.89296,
-    "lon": -75.02466
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-02-26",
     "hora": "20:36",
     "lat": -6.82311,
@@ -19,6 +12,21 @@
     "hora": "20:36",
     "lat": -4.86921,
     "lon": -80.57102
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-27",
+    "hora": "02:02",
+    "lat": -15.47999,
+    "lon": -74.63478
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-02-26T23:21:09.815Z",
+    "lugar": "13 km NNW of San Bartolo, Peru",
+    "magnitud": "4.9",
+    "lat": -12.2734,
+    "lon": -76.8265
   },
   {
     "tipo": "Sismo",
