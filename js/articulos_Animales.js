@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "Pez guitarra: científicos y pescadores deportivos de Argentina se unen para proteger a esta singular especie del Atlántico",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/26012519/Captura-de-pantalla-2026-02-25-a-las-6.24.17-p.m-768x512.png",
-    "fecha": "Feb 26, 2026",
+    "fecha": "Feb 27, 2026",
     "url": "https://es.mongabay.com/2026/02/pez-guitarra-cientificos-pescadores-argentina-proteccion/"
+  },
+  {
+    "titulo": "El último refugio del huemul: un hospital único en Chile busca salvar a este ciervo de los atropellos y de una bacteria mortal",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/27141739/WhatsApp-Image-2026-02-26-at-10.56.58-AM-768x512.jpeg",
+    "fecha": "Feb 27, 2026",
+    "url": "https://es.mongabay.com/2026/02/huemul-hospital-chile-salvar-ciervo-atropellos-bacteria-mortal/"
   },
   {
     "titulo": "Confirmado: nueva especie de pulpo en aguas profundas chilenas",
@@ -7332,7 +7338,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Feb 27 12:50:57 2026",
+    "titulo": "Última actualización automática - Fri Feb 27 18:39:56 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
