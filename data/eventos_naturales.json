@@ -189,6 +189,13 @@
     "lon": -76.16612
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "13:31",
+    "lat": -17.49205,
+    "lon": -71.34902
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-27T18:55:55.800Z",
     "lugar": "14 km NE of Orcopampa, Peru",
