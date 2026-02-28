@@ -6,6 +6,12 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/02/pez-guitarra-cientificos-pescadores-argentina-proteccion/"
   },
   {
+    "titulo": "Especies invasoras sin límites: el grave impacto de la flora y fauna exóticas en América Latina | Reportaje fotográfico",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/29130146/iguana-iguana-2-768x512.jpg",
+    "fecha": "Feb 27, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/02/especies-invasoras-impacto-flora-fauna-exoticas-america-latina/"
+  },
+  {
     "titulo": "El último refugio del huemul: un hospital único en Chile busca salvar a este ciervo de los atropellos y de una bacteria mortal",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/27141739/WhatsApp-Image-2026-02-26-at-10.56.58-AM-768x512.jpeg",
     "fecha": "Feb 27, 2026",
@@ -7338,7 +7344,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Feb 27 18:39:56 2026",
+    "titulo": "Última actualización automática - Sat Feb 28 01:28:37 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
