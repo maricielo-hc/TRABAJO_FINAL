@@ -168,6 +168,42 @@ const eventosNaturales = [
     "lon": -76.00121
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-27",
+    "hora": "19:34",
+    "lat": -11.59402,
+    "lon": -73.16178
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-27",
+    "hora": "19:34",
+    "lat": -11.5886,
+    "lon": -73.16675
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-27",
+    "hora": "19:36",
+    "lat": -0.01006,
+    "lon": -70.12023
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-27",
+    "hora": "19:36",
+    "lat": -0.01204,
+    "lon": -70.13367
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-02-27T18:55:55.800Z",
+    "lugar": "14 km NE of Orcopampa, Peru",
+    "magnitud": "4.2",
+    "lat": -15.1813,
+    "lon": -72.2435
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-26T23:21:09.815Z",
     "lugar": "13 km NNW of San Bartolo, Peru",
@@ -198,13 +234,5 @@ const eventosNaturales = [
     "magnitud": "5",
     "lat": -4.641,
     "lon": -76.4488
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-02-20T18:48:51.478Z",
-    "lugar": "19 km ENE of El Pedregal, Peru",
-    "magnitud": "4.2",
-    "lat": -16.2765,
-    "lon": -72.0322
   }
 ];
