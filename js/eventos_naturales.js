@@ -133,6 +133,13 @@ const eventosNaturales = [
     "lon": -70.24671
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-01",
+    "hora": "08:34",
+    "lat": -0.07508,
+    "lon": -77.65557
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-27T18:55:55.800Z",
     "lugar": "14 km NE of Orcopampa, Peru",
@@ -163,13 +170,5 @@ const eventosNaturales = [
     "magnitud": "4.4",
     "lat": -16.1236,
     "lon": -75.3451
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-02-22T06:43:52.678Z",
-    "lugar": "32 km NE of Barranca, Peru",
-    "magnitud": "5",
-    "lat": -4.641,
-    "lon": -76.4488
   }
 ];
