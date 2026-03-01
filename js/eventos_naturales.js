@@ -196,6 +196,111 @@ const eventosNaturales = [
     "lon": -71.34902
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:12",
+    "lat": -14.24108,
+    "lon": -71.76541
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:12",
+    "lat": -11.59363,
+    "lon": -74.38163
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:12",
+    "lat": -10.45848,
+    "lon": -73.74212
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:12",
+    "lat": -10.36707,
+    "lon": -75.36876
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -7.82613,
+    "lon": -79.27959
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -5.03799,
+    "lon": -73.81731
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -3.89865,
+    "lon": -71.74103
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -0.21998,
+    "lon": -74.66832
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -0.17454,
+    "lon": -74.55402
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -0.17583,
+    "lon": -74.5629
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -0.89847,
+    "lon": -79.50089
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -0.37782,
+    "lon": -76.63319
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -0.0144,
+    "lon": -74.46592
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -0.15893,
+    "lon": -76.64975
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-02-28",
+    "hora": "20:14",
+    "lat": -0.08862,
+    "lon": -76.2935
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-27T18:55:55.800Z",
     "lugar": "14 km NE of Orcopampa, Peru",
