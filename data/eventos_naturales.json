@@ -140,6 +140,28 @@
     "lon": -77.65557
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-01",
+    "hora": "14:07",
+    "lat": -5.47013,
+    "lon": -72.18477
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-01",
+    "hora": "14:09",
+    "lat": -13.63553,
+    "lon": -72.88289
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-03-01T17:19:09.629Z",
+    "lugar": "38 km SSE of Palca, Peru",
+    "magnitud": "4.3",
+    "lat": -18.1072,
+    "lon": -69.8503
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-02-27T18:55:55.800Z",
     "lugar": "14 km NE of Orcopampa, Peru",
@@ -162,13 +184,5 @@
     "magnitud": "5.3",
     "lat": -13.5581,
     "lon": -76.7385
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-02-22T18:03:32.888Z",
-    "lugar": "86 km SSW of San Juan, Peru",
-    "magnitud": "4.4",
-    "lat": -16.1236,
-    "lon": -75.3451
   }
 ]
