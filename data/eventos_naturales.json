@@ -176,13 +176,5 @@
     "magnitud": "4.9",
     "lat": -12.2734,
     "lon": -76.8265
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-02-22T22:36:17.004Z",
-    "lugar": "60 km WNW of Pisco, Peru",
-    "magnitud": "5.3",
-    "lat": -13.5581,
-    "lon": -76.7385
   }
 ]
