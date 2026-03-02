@@ -35,6 +35,13 @@ const eventosNaturales = [
     "lon": -72.88289
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-02",
+    "hora": "07:39",
+    "lat": -17.48904,
+    "lon": -71.35426
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-01T17:19:09.629Z",
     "lugar": "38 km SSE of Palca, Peru",
