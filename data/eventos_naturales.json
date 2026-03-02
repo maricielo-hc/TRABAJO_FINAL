@@ -42,6 +42,13 @@
     "lon": -71.35426
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-02",
+    "hora": "13:12",
+    "lat": -17.49628,
+    "lon": -71.34996
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-01T17:19:09.629Z",
     "lugar": "38 km SSE of Palca, Peru",
