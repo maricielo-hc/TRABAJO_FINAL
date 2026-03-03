@@ -14,6 +14,48 @@ const eventosNaturales = [
     "lon": -71.34996
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-03",
+    "hora": "13:50",
+    "lat": -13.63773,
+    "lon": -72.88144
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-03",
+    "hora": "13:50",
+    "lat": -14.27684,
+    "lon": -71.23014
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-03",
+    "hora": "13:50",
+    "lat": -14.8797,
+    "lon": -70.59499
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-03",
+    "hora": "13:50",
+    "lat": -14.79447,
+    "lon": -71.41081
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-03",
+    "hora": "13:50",
+    "lat": -14.8919,
+    "lon": -71.21263
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-03",
+    "hora": "13:50",
+    "lat": -14.69239,
+    "lon": -74.12408
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-01T17:19:09.629Z",
     "lugar": "38 km SSE of Palca, Peru",
