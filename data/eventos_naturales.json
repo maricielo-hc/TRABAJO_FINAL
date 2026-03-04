@@ -105,6 +105,13 @@
     "lon": -78.34298
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-04",
+    "hora": "07:18",
+    "lat": -17.48679,
+    "lon": -71.34621
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-04T04:14:24.786Z",
     "lugar": "18 km NNE of Máncora, Peru",
