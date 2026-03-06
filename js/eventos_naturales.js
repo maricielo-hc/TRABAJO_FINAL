@@ -1,20 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-03-04",
-    "hora": "02:04",
-    "lat": -2.00467,
-    "lon": -78.34298
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-03-04",
-    "hora": "07:18",
-    "lat": -17.48679,
-    "lon": -71.34621
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-03-05",
     "hora": "07:54",
     "lat": -17.48448,
@@ -40,6 +26,14 @@ const eventosNaturales = [
     "hora": "20:06",
     "lat": -12.06191,
     "lon": -75.62719
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-03-06T01:40:25.071Z",
+    "lugar": "30 km NNW of Barranca, Peru",
+    "magnitud": "4.6",
+    "lat": -4.5678,
+    "lon": -76.7478
   },
   {
     "tipo": "Sismo",
