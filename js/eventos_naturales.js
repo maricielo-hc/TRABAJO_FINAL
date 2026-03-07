@@ -15,6 +15,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-03-07T16:36:10.708Z",
+    "lugar": "21 km ENE of Sallique, Peru",
+    "magnitud": "4.6",
+    "lat": -5.6155,
+    "lon": -79.1231
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-03-06T01:40:25.071Z",
     "lugar": "30 km NNW of Barranca, Peru",
     "magnitud": "4.6",
