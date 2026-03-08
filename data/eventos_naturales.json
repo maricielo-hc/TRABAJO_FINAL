@@ -14,6 +14,35 @@
     "lon": -79.69896
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-07",
+    "hora": "14:44",
+    "lat": -0.36128,
+    "lon": -78.46038
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-07",
+    "hora": "14:44",
+    "lat": -0.36504,
+    "lon": -78.43398
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-07",
+    "hora": "19:46",
+    "lat": -4.23411,
+    "lon": -69.93923
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-03-07T18:15:33.419Z",
+    "lugar": "8 km NNW of Huabal, Peru",
+    "magnitud": "4.8",
+    "lat": -5.5447,
+    "lon": -78.9535
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-07T16:36:10.708Z",
     "lugar": "21 km ENE of Sallique, Peru",
