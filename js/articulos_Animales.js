@@ -1,7 +1,7 @@
 const articulos = [
   {
     "titulo": "Ciencia hecha por mujeres: investigaciones clave para entender y proteger los ecosistemas de América Latina",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/30023303/Equipo-con-ballena-Aurum_credito-Paula-Faiferman-Siguiendoballenas-768x512.jpg",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/13161230/acustica-portada2-768x512.jpg",
     "fecha": "Mar 07, 2026",
     "url": "https://es.mongabay.com/2026/03/mujeres-ciencia-conservacion-biodiversidad-america-latina/"
   },
@@ -7350,7 +7350,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Mar  8 01:49:29 2026",
+    "titulo": "Última actualización automática - Sun Mar  8 06:41:41 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
