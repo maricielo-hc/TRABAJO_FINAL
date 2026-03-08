@@ -58,13 +58,5 @@
     "magnitud": "4.5",
     "lat": -3.9482,
     "lon": -81.0108
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-03-01T17:19:09.629Z",
-    "lugar": "38 km SSE of Palca, Peru",
-    "magnitud": "4.3",
-    "lat": -18.1072,
-    "lon": -69.8503
   }
 ]
