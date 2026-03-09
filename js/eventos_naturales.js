@@ -14,6 +14,21 @@ const eventosNaturales = [
     "lon": -71.35691
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-09",
+    "hora": "14:25",
+    "lat": -1.563,
+    "lon": -79.75097
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-03-09T15:41:40.993Z",
+    "lugar": "77 km SE of Palca, Peru",
+    "magnitud": "4.9",
+    "lat": -18.3384,
+    "lon": -69.5254
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-08T22:02:15.220Z",
     "lugar": "22 km S of Soritor, Peru",
