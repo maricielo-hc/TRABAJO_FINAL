@@ -1,31 +1,25 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-03-07",
-    "hora": "14:44",
-    "lat": -0.36128,
-    "lon": -78.46038
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-03-07",
-    "hora": "14:44",
-    "lat": -0.36504,
-    "lon": -78.43398
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-03-07",
-    "hora": "19:46",
-    "lat": -4.23411,
-    "lon": -69.93923
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-03-08",
     "hora": "08:07",
     "lat": -0.07861,
     "lon": -77.6549
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-09",
+    "hora": "02:00",
+    "lat": -17.48275,
+    "lon": -71.35691
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-03-08T22:02:15.220Z",
+    "lugar": "22 km S of Soritor, Peru",
+    "magnitud": "4.6",
+    "lat": -6.3404,
+    "lon": -77.0716
   },
   {
     "tipo": "Sismo",
