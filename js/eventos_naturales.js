@@ -1,13 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-03-08",
-    "hora": "08:07",
-    "lat": -0.07861,
-    "lon": -77.6549
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-03-09",
     "hora": "02:00",
     "lat": -17.48275,
