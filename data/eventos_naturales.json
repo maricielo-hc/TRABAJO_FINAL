@@ -1,20 +1,6 @@
 [
   {
     "tipo": "Incendio",
-    "fecha": "2026-03-09",
-    "hora": "02:00",
-    "lat": -17.48275,
-    "lon": -71.35691
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-03-09",
-    "hora": "14:25",
-    "lat": -1.563,
-    "lon": -79.75097
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-03-10",
     "hora": "13:29",
     "lat": -17.49227,
@@ -59,13 +45,5 @@
     "magnitud": "4.6",
     "lat": -4.5678,
     "lon": -76.7478
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-03-04T04:14:24.786Z",
-    "lugar": "18 km NNE of Máncora, Peru",
-    "magnitud": "4.5",
-    "lat": -3.9482,
-    "lon": -81.0108
   }
 ]
