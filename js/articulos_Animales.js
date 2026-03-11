@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "El misterio de Pará: la desaparición de dos jaguares cachorros en Argentina reabre el debate sobre la reubicación de felinos",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/09151251/WhatsApp-Image-2026-03-07-at-15.18.36-768x512.jpeg",
+    "fecha": "Mar 10, 2026",
+    "url": "https://es.mongabay.com/2026/03/desaparicion-cachorros-jaguar-argentina-debate-reubicacion-felinos/"
+  },
+  {
     "titulo": "Ciencia hecha por mujeres: investigaciones clave para entender y proteger los ecosistemas de América Latina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/10/13161230/acustica-portada2-768x512.jpg",
     "fecha": "Mar 08, 2026",
@@ -7350,7 +7356,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Mar 10 18:45:58 2026",
+    "titulo": "Última actualización automática - Wed Mar 11 01:32:42 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
