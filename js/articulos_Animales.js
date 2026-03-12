@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Los puentes en las copas de los árboles se vuelven salvavidas para monos, perezosos y puercoespines en Sudamérica",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/07055044/Captura-de-pantalla-2026-03-06-a-las-10.49.19-p.m-768x512.png",
+    "fecha": "Mar 12, 2026",
+    "url": "https://es.mongabay.com/2026/03/puentes-copas-arboles-salvavidas-monos-perezosos-puercoespines-sudamerica/"
+  },
+  {
     "titulo": "El misterio de Pará: la desaparición de dos jaguares cachorros en Argentina reabre el debate sobre la reubicación de felinos",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/09151251/WhatsApp-Image-2026-03-07-at-15.18.36-768x512.jpeg",
     "fecha": "Mar 10, 2026",
@@ -7356,7 +7362,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Mar 12 12:51:47 2026",
+    "titulo": "Última actualización automática - Thu Mar 12 18:50:16 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
