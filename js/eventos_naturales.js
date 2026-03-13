@@ -1,5 +1,12 @@
 const eventosNaturales = [
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-12",
+    "hora": "19:42",
+    "lat": -0.89184,
+    "lon": -74.81853
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-12T04:41:07.449Z",
     "lugar": "28 km N of Tisco, Peru",
