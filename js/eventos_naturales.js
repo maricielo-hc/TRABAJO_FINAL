@@ -70,6 +70,27 @@ const eventosNaturales = [
     "lon": -77.64927
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-14",
+    "hora": "14:25",
+    "lat": -0.0771,
+    "lon": -77.6617
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-14",
+    "hora": "14:25",
+    "lat": -0.21535,
+    "lon": -78.33865
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-14",
+    "hora": "14:25",
+    "lat": -0.91355,
+    "lon": -77.80838
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-12T04:41:07.449Z",
     "lugar": "28 km N of Tisco, Peru",
@@ -92,21 +113,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -6.3404,
     "lon": -77.0716
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-03-07T18:15:38.393Z",
-    "lugar": "8 km NNE of Huabal, Peru",
-    "magnitud": "4.8",
-    "lat": -5.5395,
-    "lon": -78.8816
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-03-07T16:36:10.708Z",
-    "lugar": "21 km ENE of Sallique, Peru",
-    "magnitud": "4.6",
-    "lat": -5.6155,
-    "lon": -79.1231
   }
 ];
