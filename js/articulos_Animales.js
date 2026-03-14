@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Jaguares y ganaderos: un proyecto en México demuestra que pueden compartir el territorio | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/13065601/Captura-de-pantalla-2026-03-12-a-las-11.55.35-p.m-768x512.png",
+    "fecha": "Mar 14, 2026",
+    "url": "https://es.mongabay.com/2026/03/jaguares-ganaderos-proyecto-mexico-demuestra-que-pueden-compartir-territorio/"
+  },
+  {
     "titulo": "Los puentes en las copas de los árboles se vuelven salvavidas para monos, perezosos y puercoespines en Sudamérica",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/07055044/Captura-de-pantalla-2026-03-06-a-las-10.49.19-p.m-768x512.png",
     "fecha": "Mar 12, 2026",
@@ -7362,7 +7368,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Mar 14 12:43:50 2026",
+    "titulo": "Última actualización automática - Sat Mar 14 18:35:34 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
