@@ -7,6 +7,34 @@ const eventosNaturales = [
     "lon": -74.81853
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-13",
+    "hora": "20:17",
+    "lat": -16.63359,
+    "lon": -72.73594
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-13",
+    "hora": "20:19",
+    "lat": -1.78902,
+    "lon": -79.29008
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-13",
+    "hora": "20:19",
+    "lat": -1.71348,
+    "lon": -79.40112
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-13",
+    "hora": "20:19",
+    "lat": -1.57989,
+    "lon": -79.46856
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-12T04:41:07.449Z",
     "lugar": "28 km N of Tisco, Peru",
