@@ -28,6 +28,49 @@
     "lon": -72.43045
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "08:18",
+    "lat": -0.07378,
+    "lon": -77.65937
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "08:18",
+    "lat": -0.0814,
+    "lon": -77.65716
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "08:20",
+    "lat": -1.99437,
+    "lon": -78.34711
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "08:20",
+    "lat": -2.0039,
+    "lon": -78.34678
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "08:20",
+    "lat": -2.00541,
+    "lon": -78.33676
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-03-16T09:19:11.726Z",
+    "lugar": "56 km NE of Villa Rica, Peru",
+    "magnitud": "4.6",
+    "lat": -10.3463,
+    "lon": -74.9438
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-15T18:31:39.097Z",
     "lugar": "44 km SE of Tena, Ecuador",
