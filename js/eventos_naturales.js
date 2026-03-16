@@ -70,6 +70,35 @@ const eventosNaturales = [
     "lon": -71.35227
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-15",
+    "hora": "20:00",
+    "lat": -3.26857,
+    "lon": -79.95886
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-15",
+    "hora": "20:00",
+    "lat": -2.66766,
+    "lon": -78.86174
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-15",
+    "hora": "20:00",
+    "lat": -0.5756,
+    "lon": -72.43045
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-03-15T18:31:39.097Z",
+    "lugar": "44 km SE of Tena, Ecuador",
+    "magnitud": "4.4",
+    "lat": -1.3215,
+    "lon": -77.5782
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-12T04:41:07.449Z",
     "lugar": "28 km N of Tisco, Peru",
@@ -84,13 +113,5 @@ const eventosNaturales = [
     "magnitud": "4.9",
     "lat": -18.3384,
     "lon": -69.5254
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-03-08T22:02:15.220Z",
-    "lugar": "22 km S of Soritor, Peru",
-    "magnitud": "4.6",
-    "lat": -6.3404,
-    "lon": -77.0716
   }
 ];
