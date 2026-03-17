@@ -91,6 +91,55 @@ const eventosNaturales = [
     "lon": -69.31399
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "20:34",
+    "lat": -6.79494,
+    "lon": -79.77962
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "20:34",
+    "lat": -6.00125,
+    "lon": -79.02199
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "20:36",
+    "lat": -2.31191,
+    "lon": -78.63711
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "20:36",
+    "lat": -2.31322,
+    "lon": -78.64606
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "20:36",
+    "lat": -2.21232,
+    "lon": -78.58331
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "20:36",
+    "lat": -1.86784,
+    "lon": -78.81609
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-16",
+    "hora": "20:34",
+    "lat": -8.90239,
+    "lon": -78.52538
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-16T09:19:11.726Z",
     "lugar": "56 km NE of Villa Rica, Peru",
