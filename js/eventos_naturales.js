@@ -1,5 +1,12 @@
 const eventosNaturales = [
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-18",
+    "hora": "20:14",
+    "lat": -3.55977,
+    "lon": -80.07563
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-16T09:19:11.726Z",
     "lugar": "56 km NE of Villa Rica, Peru",
