@@ -21,13 +21,5 @@ const eventosNaturales = [
     "magnitud": "4.4",
     "lat": -1.3215,
     "lon": -77.5782
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-03-12T04:41:07.449Z",
-    "lugar": "28 km N of Tisco, Peru",
-    "magnitud": "4.9",
-    "lat": -15.0902,
-    "lon": -71.413
   }
 ];
