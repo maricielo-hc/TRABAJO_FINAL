@@ -7,6 +7,35 @@ const eventosNaturales = [
     "lon": -80.07563
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-19",
+    "hora": "08:35",
+    "lat": -0.07994,
+    "lon": -77.65299
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-19",
+    "hora": "08:35",
+    "lat": -2.00026,
+    "lon": -78.34615
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-19",
+    "hora": "08:35",
+    "lat": -2.00164,
+    "lon": -78.33693
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-03-18T13:51:51.210Z",
+    "lugar": "68 km NNW of Camiña, Chile",
+    "magnitud": "4.1",
+    "lat": -18.712,
+    "lon": -69.5853
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-16T09:19:11.726Z",
     "lugar": "56 km NE of Villa Rica, Peru",
