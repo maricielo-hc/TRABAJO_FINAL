@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Perú: la pesca con palangre amenaza a los albatros, pero científicos buscan soluciones",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/18224656/IMG_3753-salv-bait-768x512.jpg",
-    "fecha": "Mar 19, 2026",
+    "fecha": "Mar 20, 2026",
     "url": "https://es.mongabay.com/2026/03/peru-pesca-palangre-amenaza-albatros-cientificos-soluciones/"
   },
   {
@@ -7374,7 +7374,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Mar 20 12:52:40 2026",
+    "titulo": "Última actualización automática - Fri Mar 20 18:45:39 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
