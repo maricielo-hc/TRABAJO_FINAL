@@ -1,13 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-03-18",
-    "hora": "20:14",
-    "lat": -3.55977,
-    "lon": -80.07563
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-03-19",
     "hora": "08:35",
     "lat": -0.07994,
@@ -96,6 +89,28 @@ const eventosNaturales = [
     "hora": "14:25",
     "lat": -3.24066,
     "lon": -79.82934
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-20",
+    "hora": "02:43",
+    "lat": -7.77796,
+    "lon": -79.2619
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-20",
+    "hora": "02:43",
+    "lat": -7.78377,
+    "lon": -79.26659
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-03-20T05:30:09.796Z",
+    "lugar": "66 km SW of San Juan, Peru",
+    "magnitud": "4.6",
+    "lat": -15.7539,
+    "lon": -75.6388
   },
   {
     "tipo": "Sismo",
