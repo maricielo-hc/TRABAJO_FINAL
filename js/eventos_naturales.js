@@ -196,6 +196,35 @@ const eventosNaturales = [
     "lon": -77.63824
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-22",
+    "hora": "14:42",
+    "lat": -0.3522,
+    "lon": -78.46026
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-22",
+    "hora": "14:42",
+    "lat": -0.35419,
+    "lon": -78.46604
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-22",
+    "hora": "14:42",
+    "lat": -0.35774,
+    "lon": -78.44025
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-03-22T15:06:17.024Z",
+    "lugar": "4 km W of Chivay, Peru",
+    "magnitud": "4.6",
+    "lat": -15.6416,
+    "lon": -71.6388
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-22T08:02:54.325Z",
     "lugar": "42 km E of Palca, Peru",
