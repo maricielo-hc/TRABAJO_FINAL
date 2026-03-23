@@ -79,13 +79,5 @@ const eventosNaturales = [
     "magnitud": "4.1",
     "lat": -18.712,
     "lon": -69.5853
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-03-16T09:19:11.726Z",
-    "lugar": "56 km NE of Villa Rica, Peru",
-    "magnitud": "4.6",
-    "lat": -10.3463,
-    "lon": -74.9438
   }
 ];
