@@ -217,6 +217,13 @@ const eventosNaturales = [
     "lon": -78.44025
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-22",
+    "hora": "19:30",
+    "lat": -4.23895,
+    "lon": -69.92952
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-22T15:06:17.024Z",
     "lugar": "4 km W of Chivay, Peru",
@@ -255,13 +262,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -10.3463,
     "lon": -74.9438
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-03-15T18:31:39.097Z",
-    "lugar": "44 km SE of Tena, Ecuador",
-    "magnitud": "4.4",
-    "lat": -1.3215,
-    "lon": -77.5782
   }
 ];
