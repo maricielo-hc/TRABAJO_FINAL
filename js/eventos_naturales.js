@@ -22,6 +22,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-03-24T11:39:27.728Z",
+    "lugar": "60 km WSW of Pacasmayo, Peru",
+    "magnitud": "4.4",
+    "lat": -7.6672,
+    "lon": -80.05
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-03-22T15:06:17.024Z",
     "lugar": "4 km W of Chivay, Peru",
     "magnitud": "4.6",
