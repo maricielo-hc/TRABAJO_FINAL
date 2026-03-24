@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Investigadores awá: el equipo que une ciencia y ancestralidad para proteger la selva en Colombia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/23050349/Captura-de-pantalla-2026-03-22-a-las-10.02.18-p.m-768x512.png",
-    "fecha": "Mar 23, 2026",
+    "fecha": "Mar 24, 2026",
     "url": "https://es.mongabay.com/2026/03/investigadores-awa-ciencia-ancestralidad-proteger-selva-colombia/"
   },
   {
@@ -7380,7 +7380,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Mar 24 13:05:04 2026",
+    "titulo": "Última actualización automática - Tue Mar 24 19:01:12 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
