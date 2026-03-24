@@ -63,6 +63,13 @@ const eventosNaturales = [
     "lon": -70.10013
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-23",
+    "hora": "20:04",
+    "lat": -17.49164,
+    "lon": -71.35606
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-22T15:06:17.024Z",
     "lugar": "4 km W of Chivay, Peru",
