@@ -21,6 +21,55 @@ const eventosNaturales = [
     "lon": -71.35606
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-24",
+    "hora": "14:25",
+    "lat": -9.24225,
+    "lon": -78.37205
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-24",
+    "hora": "14:25",
+    "lat": -9.2411,
+    "lon": -78.37794
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-24",
+    "hora": "14:25",
+    "lat": -9.52457,
+    "lon": -77.52712
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-24",
+    "hora": "14:22",
+    "lat": -0.21815,
+    "lon": -78.33817
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-24",
+    "hora": "14:25",
+    "lat": -5.09175,
+    "lon": -80.16619
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-24",
+    "hora": "14:25",
+    "lat": -5.10115,
+    "lon": -80.16746
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-24",
+    "hora": "14:25",
+    "lat": -5.70895,
+    "lon": -78.80202
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-24T11:39:27.728Z",
     "lugar": "60 km WSW of Pacasmayo, Peru",
