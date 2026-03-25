@@ -70,6 +70,20 @@ const eventosNaturales = [
     "lon": -78.80202
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-24",
+    "hora": "20:44",
+    "lat": -8.96431,
+    "lon": -78.51791
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-24",
+    "hora": "20:44",
+    "lat": -6.84906,
+    "lon": -79.61638
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-24T11:39:27.728Z",
     "lugar": "60 km WSW of Pacasmayo, Peru",
