@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "Incendio",
+    "fecha": "2026-03-26",
+    "hora": "20:25",
+    "lat": -0.15125,
+    "lon": -74.84824
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-03-26",
+    "hora": "20:25",
+    "lat": -0.37694,
+    "lon": -76.63605
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-24T11:39:27.728Z",
     "lugar": "60 km WSW of Pacasmayo, Peru",
