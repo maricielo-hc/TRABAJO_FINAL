@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Alertan no comer gatuzo en Semana Santa: este tiburón está en peligro crítico de extinción en Argentina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/26194008/unnamed-768x512.jpg",
+    "fecha": "Mar 27, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/03/alertan-no-comer-gatuzo-semana-santa-tiburon-peligro-extincion-argentina/"
+  },
+  {
     "titulo": "Investigadores awá: el equipo que une ciencia y ancestralidad para proteger la selva en Colombia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/23050349/Captura-de-pantalla-2026-03-22-a-las-10.02.18-p.m-768x512.png",
     "fecha": "Mar 24, 2026",
@@ -7380,7 +7386,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Mar 27 12:59:50 2026",
+    "titulo": "Última actualización automática - Fri Mar 27 18:54:30 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
