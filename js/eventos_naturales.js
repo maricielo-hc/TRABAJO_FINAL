@@ -1,6 +1,14 @@
 const eventosNaturales = [
   {
     "tipo": "Sismo",
+    "fecha": "2026-03-27T18:55:04.013Z",
+    "lugar": "41 km ENE of Palca, Peru",
+    "magnitud": "4.4",
+    "lat": -17.5938,
+    "lon": -69.6232
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-03-24T11:39:27.728Z",
     "lugar": "60 km WSW of Pacasmayo, Peru",
     "magnitud": "4.4",
