@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Ranas doradas panameñas fueron criadas en cautiverio y liberadas en la naturaleza",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31142752/ranas-panama-rhett-butler-768x512.jpg",
+    "fecha": "Mar 31, 2026",
+    "url": "https://es.mongabay.com/2026/03/ranas-doradas-panamenas-criadas-cautiverio-liberadas-naturaleza/"
+  },
+  {
     "titulo": "Alertan no comer gatuzo en Semana Santa: este tiburón está en peligro crítico de extinción en Argentina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/26194008/unnamed-768x512.jpg",
     "fecha": "Mar 27, 2026",
@@ -7362,7 +7368,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Mar 31 13:10:49 2026",
+    "titulo": "Última actualización automática - Tue Mar 31 19:00:25 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
