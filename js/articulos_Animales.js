@@ -1794,18 +1794,6 @@ const articulos = [
     "url": "https://es.mongabay.com/2024/08/expedicion-virtual-parques-resguardan-nuevas-especies-refugio-dinosaurios-fuentes-de-agua/"
   },
   {
-    "titulo": "Descubren una nueva especie de nutria en América Latina",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2024/08/26163120/nutria-5-768x512.jpg",
-    "fecha": "Aug 26, 2024",
-    "url": "https://es.mongabay.com/2024/08/descubren-nueva-especie-nutria-america-latina/"
-  },
-  {
-    "titulo": "El asesinato de un jaguar en Argentina recuerda la urgencia de proteger a la especie en Latinoamérica | Cinco lecturas ambientales",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/04/21220543/Monitoreo-de-poblacion-Creditos-Proyecto-Yaguarete_CeIBA_IBS_CONICET-768x512.jpg",
-    "fecha": "Aug 25, 2024",
-    "url": "https://es.mongabay.com/2024/08/asesinato-jaguar-argentina-urgencia-proteger-especie-latinoamerica/"
-  },
-  {
     "titulo": "#ExpediciónVirtual: Conguillío, el parque nacional con el otoño más hermoso de Chile",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2024/08/21201431/Otono-Rocio-del-Valle-768x512.jpg",
     "fecha": "Aug 23, 2024",
@@ -3466,12 +3454,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2022/11/09185222/Nuevo-registro-yaguaret%C2%AE-Fundaci%C2%A6n-Rewilding-Argentina-30-768x512.jpg",
     "fecha": "Nov 14, 2022",
     "url": "https://es.mongabay.com/2022/11/en-video-los-jaguares-del-chaco-argentino-captados-en-camara-trampa/"
-  },
-  {
-    "titulo": "Aparición simultánea de dos jaguares machos reaviva la esperanza de recuperar la población de la especie en el Chaco argentino",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2022/11/09184338/Jaguar_ElChaco-768x512.jpeg",
-    "fecha": "Nov 11, 2022",
-    "url": "https://es.mongabay.com/2022/11/aparicion-de-dos-jaguares-machos-reaviva-la-esperanza-de-recuperar-la-especie-en-el-chaco-argentino/"
   },
   {
     "titulo": "EN VIDEO | Tres estrategias de conservación que buscan proteger a las especies de tortugas en Latinoamérica",
@@ -5442,12 +5424,6 @@ const articulos = [
     "url": "https://es.mongabay.com/2020/09/parque-nacional-el-tuparro-colombia-presiones-y-conservacion/"
   },
   {
-    "titulo": "Video | ¿Qué es la lista roja de la UICN? #MongabayExplica",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2019/03/29201408/3fa6261a-gp0stpaf5-768x512.jpg",
-    "fecha": "Sep 23, 2020",
-    "url": "https://es.mongabay.com/2020/09/video-lista-roja-de-la-uicn/"
-  },
-  {
     "titulo": "Chile: el parque Archipiélago de Juan Fernández se defiende de las especies invasoras",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/09/21182726/Isla-Robinson-Crusoe_Hector-Gutierrez-768x512.jpg",
     "fecha": "Sep 22, 2020",
@@ -7386,7 +7362,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Mar 31 07:11:22 2026",
+    "titulo": "Última actualización automática - Tue Mar 31 13:10:49 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
