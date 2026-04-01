@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Las zanjas de Kast: animales y humedales del Altiplano están en riesgo por el plan fronterizo de Chile",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31154907/zanja3-768x512.jpg",
+    "fecha": "Apr 01, 2026",
+    "url": "https://es.mongabay.com/2026/04/zanjas-kast-animales-humedales-altiplano-riesgo-plan-fronterizo-chile/"
+  },
+  {
     "titulo": "Ranas doradas panameñas fueron criadas en cautiverio y liberadas en la naturaleza",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31142752/ranas-panama-rhett-butler-768x512.jpg",
     "fecha": "Mar 31, 2026",
@@ -58,12 +64,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/29130146/iguana-iguana-2-768x512.jpg",
     "fecha": "Feb 27, 2026",
     "url": "https://es.mongabay.com/custom-story/2026/02/especies-invasoras-impacto-flora-fauna-exoticas-america-latina/"
-  },
-  {
-    "titulo": "El último refugio del huemul: un hospital único en Chile busca salvar a este ciervo de los atropellos y de una bacteria mortal",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/27141739/WhatsApp-Image-2026-02-26-at-10.56.58-AM-768x512.jpeg",
-    "fecha": "Feb 27, 2026",
-    "url": "https://es.mongabay.com/2026/02/huemul-hospital-chile-salvar-ciervo-atropellos-bacteria-mortal/"
   },
   {
     "titulo": "Confirmado: nueva especie de pulpo en aguas profundas chilenas",
@@ -484,12 +484,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/03/07175937/Registro-de-camara-trampa-de-WCS-Argentina-5-Mendoza-2024-768x512.jpg",
     "fecha": "Oct 04, 2025",
     "url": "https://es.mongabay.com/2025/10/camaras-trampa-registran-jaguar-negro-oso-anteojos-reaparicion-conejo-extinto/"
-  },
-  {
-    "titulo": "Indígenas leco recuperaron la población de un ave endémica de Bolivia que se creía extinta",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/09/29212230/1.-La-palkachupa-es-una-especie-endemica-de-Bolivia-que-vive-unicamente-en-el-norte-de-La-Paz.-FOTO-TEODORO-CAMACHO-768x512.jpg",
-    "fecha": "Oct 02, 2025",
-    "url": "https://es.mongabay.com/2025/10/indigenas-leco-recuperaron-ave-pallkachupa-bolivia-extincion/"
   },
   {
     "titulo": "Rastreando el nacimiento de la tortuga verde: el aumento de la temperatura en el mar impacta en la anidación de la especie en las costas de México",
@@ -7368,7 +7362,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Apr  1 13:14:18 2026",
+    "titulo": "Última actualización automática - Wed Apr  1 18:59:22 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
