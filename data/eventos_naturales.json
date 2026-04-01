@@ -77,6 +77,35 @@
     "lon": -76.05756
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-01",
+    "hora": "08:39",
+    "lat": -0.08389,
+    "lon": -77.65683
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-01",
+    "hora": "08:39",
+    "lat": -2.00312,
+    "lon": -78.34628
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-01",
+    "hora": "08:39",
+    "lat": -2.00471,
+    "lon": -78.33565
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-04-01T11:20:25.881Z",
+    "lugar": "27 km ESE of Picota, Peru",
+    "magnitud": "6",
+    "lat": -7.0558,
+    "lon": -76.1241
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-03-31T04:39:03.977Z",
     "lugar": "10 km NNW of San Alejandro, Peru",
