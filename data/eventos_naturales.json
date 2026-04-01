@@ -78,6 +78,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-03-31T04:39:03.977Z",
+    "lugar": "10 km NNW of San Alejandro, Peru",
+    "magnitud": "4.3",
+    "lat": -8.7445,
+    "lon": -75.2588
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-03-27T18:55:04.013Z",
     "lugar": "41 km ENE of Palca, Peru",
     "magnitud": "4.4",
