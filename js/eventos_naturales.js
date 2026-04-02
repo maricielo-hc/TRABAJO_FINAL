@@ -91,6 +91,27 @@ const eventosNaturales = [
     "lon": -71.34863
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-02",
+    "hora": "13:44",
+    "lat": -13.78658,
+    "lon": -76.16641
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-02",
+    "hora": "13:46",
+    "lat": -14.2609,
+    "lon": -75.65152
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-02",
+    "hora": "13:46",
+    "lat": -17.48919,
+    "lon": -71.35591
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-01T11:20:25.881Z",
     "lugar": "27 km ESE of Picota, Peru",
