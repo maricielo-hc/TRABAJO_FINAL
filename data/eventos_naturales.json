@@ -70,6 +70,20 @@
     "lon": -76.16916
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-03",
+    "hora": "14:22",
+    "lat": -6.75564,
+    "lon": -79.75307
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-03",
+    "hora": "14:22",
+    "lat": -6.75711,
+    "lon": -79.74227
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-01T11:20:25.881Z",
     "lugar": "27 km ESE of Picota, Peru",
