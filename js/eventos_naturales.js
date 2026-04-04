@@ -84,6 +84,13 @@ const eventosNaturales = [
     "lon": -79.74227
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-03",
+    "hora": "20:34",
+    "lat": -2.82557,
+    "lon": -76.17472
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-01T11:20:25.881Z",
     "lugar": "27 km ESE of Picota, Peru",
@@ -98,13 +105,5 @@ const eventosNaturales = [
     "magnitud": "4.3",
     "lat": -8.7445,
     "lon": -75.2588
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-03-27T18:55:04.013Z",
-    "lugar": "41 km ENE of Palca, Peru",
-    "magnitud": "4.4",
-    "lat": -17.5938,
-    "lon": -69.6232
   }
 ];
