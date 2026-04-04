@@ -1,48 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-04-02",
-    "hora": "07:44",
-    "lat": -17.49333,
-    "lon": -71.34863
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-02",
-    "hora": "13:44",
-    "lat": -13.78658,
-    "lon": -76.16641
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-02",
-    "hora": "13:46",
-    "lat": -14.2609,
-    "lon": -75.65152
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-02",
-    "hora": "13:46",
-    "lat": -17.48919,
-    "lon": -71.35591
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-02",
-    "hora": "19:53",
-    "lat": -16.57883,
-    "lon": -71.8109
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-02",
-    "hora": "19:53",
-    "lat": -16.58094,
-    "lon": -71.82773
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-04-03",
     "hora": "01:56",
     "lat": -17.48768,
