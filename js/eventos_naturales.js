@@ -50,6 +50,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-04-04T12:23:28.453Z",
+    "lugar": "39 km N of Playas, Ecuador",
+    "magnitud": "4.9",
+    "lat": -2.2754,
+    "lon": -80.365
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-04-01T11:20:25.881Z",
     "lugar": "27 km ESE of Picota, Peru",
     "magnitud": "6",
