@@ -28,6 +28,20 @@ const eventosNaturales = [
     "lon": -76.17116
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-06",
+    "hora": "08:35",
+    "lat": -6.80919,
+    "lon": -79.81983
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-06",
+    "hora": "08:35",
+    "lat": -6.81052,
+    "lon": -79.81103
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-04T12:23:28.453Z",
     "lugar": "39 km N of Playas, Ecuador",
