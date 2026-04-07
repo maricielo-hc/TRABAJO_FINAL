@@ -1,15 +1,15 @@
 const articulos = [
   {
-    "titulo": "Pasos de fauna aéreos: la alternativa para evitar que los monos mueran electrocutados en Costa Rica",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31051508/Foto-1-Creditos-Salve-Monos-768x512.jpg",
-    "fecha": "Apr 06, 2026",
-    "url": "https://es.mongabay.com/2026/04/pasos-fauna-aereos-evitan-muerte-monos-electrocutados-costa-rica/"
-  },
-  {
     "titulo": "“Se han restringido investigaciones que podrían permitirnos conocer más de algunos grupos de murciélagos” | ENTREVISTA",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/01215435/2032026-JOAQUIN-ARROYO-MTD-2-768x512.jpg",
     "fecha": "Apr 06, 2026",
     "url": "https://es.mongabay.com/2026/04/mexico-investigaciones-murcielagos-conservacion-entrevista-joaquin-arroyo-cabrales/"
+  },
+  {
+    "titulo": "Pasos de fauna aéreos: la alternativa para evitar que los monos mueran electrocutados en Costa Rica",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31051508/Foto-1-Creditos-Salve-Monos-768x512.jpg",
+    "fecha": "Apr 06, 2026",
+    "url": "https://es.mongabay.com/2026/04/pasos-fauna-aereos-evitan-muerte-monos-electrocutados-costa-rica/"
   },
   {
     "titulo": "De jaguares a cardenalitos: seis historias que dan esperanza a animales en peligro de extinción",
@@ -7392,7 +7392,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Apr  6 18:56:26 2026",
+    "titulo": "Última actualización automática - Tue Apr  7 02:01:52 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
