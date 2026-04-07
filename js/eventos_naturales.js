@@ -42,6 +42,55 @@ const eventosNaturales = [
     "lon": -79.81103
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-06",
+    "hora": "14:40",
+    "lat": -0.70327,
+    "lon": -80.09689
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-06",
+    "hora": "14:40",
+    "lat": -1.03021,
+    "lon": -79.46344
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-06",
+    "hora": "14:40",
+    "lat": -1.80368,
+    "lon": -79.53491
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-06",
+    "hora": "14:42",
+    "lat": -7.03702,
+    "lon": -79.65806
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-06",
+    "hora": "20:49",
+    "lat": -7.92284,
+    "lon": -79.22972
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-06",
+    "hora": "20:49",
+    "lat": -7.9173,
+    "lon": -79.22649
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-06",
+    "hora": "20:49",
+    "lat": -7.91889,
+    "lon": -79.23703
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-04T12:23:28.453Z",
     "lugar": "39 km N of Playas, Ecuador",
