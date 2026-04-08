@@ -1,15 +1,15 @@
 const articulos = [
   {
+    "titulo": "El loro pecho vinoso iba camino a la extinción, pero un pueblo de la selva misionera argentina lo está salvando",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/06185534/Copia-de-Marc-Estornell_LoroVinoso-768x512.jpg",
+    "fecha": "Apr 08, 2026",
+    "url": "https://es.mongabay.com/2026/04/loro-pecho-vinoso-extincion-salvado-pueblo-argentina/"
+  },
+  {
     "titulo": "Pasos de fauna aéreos: la alternativa para evitar que los monos mueran electrocutados en Costa Rica",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31051508/Foto-1-Creditos-Salve-Monos-768x512.jpg",
     "fecha": "Apr 07, 2026",
     "url": "https://es.mongabay.com/2026/04/pasos-fauna-aereos-evitan-muerte-monos-electrocutados-costa-rica/"
-  },
-  {
-    "titulo": "El loro pecho vinoso iba camino a la extinción, pero un pueblo de la selva misionera argentina lo está salvando",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/06185534/Copia-de-Marc-Estornell_LoroVinoso-768x512.jpg",
-    "fecha": "Apr 07, 2026",
-    "url": "https://es.mongabay.com/2026/04/loro-pecho-vinoso-extincion-salvado-pueblo-argentina/"
   },
   {
     "titulo": "“Se han restringido investigaciones que podrían permitirnos conocer más de algunos grupos de murciélagos” | ENTREVISTA",
@@ -7398,7 +7398,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Apr  8 13:15:32 2026",
+    "titulo": "Última actualización automática - Wed Apr  8 19:14:06 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
