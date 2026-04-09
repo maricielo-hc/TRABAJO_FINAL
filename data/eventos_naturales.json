@@ -77,6 +77,13 @@
     "lon": -80.65294
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-09",
+    "hora": "13:27",
+    "lat": -17.49292,
+    "lon": -71.35577
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-04T12:23:28.453Z",
     "lugar": "39 km N of Playas, Ecuador",
