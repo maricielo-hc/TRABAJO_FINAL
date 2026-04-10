@@ -35,6 +35,13 @@
     "lon": -71.35146
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-10",
+    "hora": "14:01",
+    "lat": -6.06954,
+    "lon": -79.94552
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-09T23:57:48.436Z",
     "lugar": "19 km E of Coayllo, Peru",
