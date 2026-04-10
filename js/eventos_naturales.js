@@ -1,87 +1,39 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "14:20",
-    "lat": -0.8474,
-    "lon": -80.16074
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "20:29",
-    "lat": -2.00169,
-    "lon": -78.34481
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "20:25",
-    "lat": -17.49614,
-    "lon": -71.35723
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "20:25",
-    "lat": -17.49103,
-    "lon": -71.35375
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "20:27",
-    "lat": -13.79194,
-    "lon": -76.1749
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "20:27",
-    "lat": -13.72826,
-    "lon": -75.8692
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "20:27",
-    "lat": -13.72959,
-    "lon": -75.8784
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "20:29",
-    "lat": -8.94736,
-    "lon": -78.62604
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "20:29",
-    "lat": -8.71275,
-    "lon": -78.40795
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "20:29",
-    "lat": -6.22252,
-    "lon": -78.53666
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-08",
-    "hora": "20:29",
-    "lat": -5.48671,
-    "lon": -80.65294
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-04-09",
     "hora": "13:27",
     "lat": -17.49292,
     "lon": -71.35577
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-10",
+    "hora": "01:39",
+    "lat": -8.44039,
+    "lon": -78.73901
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-10",
+    "hora": "01:39",
+    "lat": -8.42774,
+    "lon": -78.71202
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-10",
+    "hora": "01:39",
+    "lat": -8.4321,
+    "lon": -78.74715
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-04-09T23:57:48.436Z",
+    "lugar": "19 km E of Coayllo, Peru",
+    "magnitud": "4.5",
+    "lat": -12.71,
+    "lon": -76.289
   },
   {
     "tipo": "Sismo",
