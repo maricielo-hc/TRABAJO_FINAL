@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Chile: encuentran ballena jorobada muerta en Chiloé y piden investigación por intervención humana",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/10183231/Ballena-jorobada-muerta-en-la-costa-de-Chiloe-768x512.jpg",
+    "fecha": "Apr 10, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/04/chile-encuentran-ballena-jorobada-muerta-chiloe-piden-investigacion-intervencion-humana/"
+  },
+  {
     "titulo": "Describen nueva rana de cristal que honra a la primera mujer de Ecuador en ganar una medalla de oro olímpica",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/09172840/rana-de-cristal-de-Dajomes-768x512.jpg",
     "fecha": "Apr 09, 2026",
@@ -7404,7 +7410,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Apr 10 13:03:42 2026",
+    "titulo": "Última actualización automática - Fri Apr 10 18:48:47 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
