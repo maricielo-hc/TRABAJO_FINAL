@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Describen nueva rana de cristal que honra a la primera mujer de Ecuador en ganar una medalla de oro olímpica",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/09172840/rana-de-cristal-de-Dajomes-768x512.jpg",
+    "fecha": "Apr 09, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/04/describen-nueva-rana-cristal-honra-primera-mujer-ecuador-ganar-medalla-oro-olimpica/"
+  },
+  {
     "titulo": "El loro pecho vinoso iba camino a la extinción, pero un pueblo de la selva misionera argentina lo está salvando",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/06185534/Copia-de-Marc-Estornell_LoroVinoso-768x512.jpg",
     "fecha": "Apr 08, 2026",
@@ -7398,7 +7404,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Apr  9 19:02:25 2026",
+    "titulo": "Última actualización automática - Fri Apr 10 02:07:27 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
