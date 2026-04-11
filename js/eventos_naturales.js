@@ -70,6 +70,35 @@ const eventosNaturales = [
     "lon": -76.16666
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-11",
+    "hora": "14:42",
+    "lat": -6.8156,
+    "lon": -79.57127
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-11",
+    "hora": "14:42",
+    "lat": -6.81816,
+    "lon": -79.57687
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-11",
+    "hora": "14:40",
+    "lat": -0.70557,
+    "lon": -80.09754
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-04-11T13:44:11.786Z",
+    "lugar": "30 km SSE of La Breita, Peru",
+    "magnitud": "4.8",
+    "lat": -4.4971,
+    "lon": -80.76
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-09T23:57:48.436Z",
     "lugar": "19 km E of Coayllo, Peru",
