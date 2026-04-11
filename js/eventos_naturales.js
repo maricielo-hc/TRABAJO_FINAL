@@ -42,6 +42,20 @@ const eventosNaturales = [
     "lon": -79.94552
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-10",
+    "hora": "20:08",
+    "lat": -1.00426,
+    "lon": -77.81245
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-10",
+    "hora": "20:04",
+    "lat": -14.68984,
+    "lon": -68.37621
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-09T23:57:48.436Z",
     "lugar": "19 km E of Coayllo, Peru",
