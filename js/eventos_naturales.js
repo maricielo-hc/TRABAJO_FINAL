@@ -91,6 +91,48 @@ const eventosNaturales = [
     "lon": -80.09754
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-11",
+    "hora": "20:46",
+    "lat": -2.32766,
+    "lon": -79.69916
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-11",
+    "hora": "20:46",
+    "lat": -2.34034,
+    "lon": -80.09426
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-11",
+    "hora": "20:44",
+    "lat": -7.76431,
+    "lon": -79.28978
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-11",
+    "hora": "20:44",
+    "lat": -7.31844,
+    "lon": -79.32711
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-11",
+    "hora": "20:44",
+    "lat": -7.21916,
+    "lon": -79.47426
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-11",
+    "hora": "20:44",
+    "lat": -7.22049,
+    "lon": -79.48325
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-11T13:44:11.786Z",
     "lugar": "30 km SSE of La Breita, Peru",
