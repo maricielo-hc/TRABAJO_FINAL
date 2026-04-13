@@ -21,12 +21,55 @@
     "lon": -76.1708
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-13",
+    "hora": "08:09",
+    "lat": -17.48842,
+    "lon": -71.35493
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-13",
+    "hora": "14:18",
+    "lat": -0.9465,
+    "lon": -79.22703
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-13",
+    "hora": "14:18",
+    "lat": -1.44718,
+    "lon": -79.4608
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-13",
+    "hora": "14:20",
+    "lat": -1.80583,
+    "lon": -79.53468
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-13",
+    "hora": "14:22",
+    "lat": -6.7662,
+    "lon": -79.49641
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-11T13:44:11.786Z",
     "lugar": "30 km SSE of La Breita, Peru",
     "magnitud": "4.8",
     "lat": -4.4971,
     "lon": -80.76
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-04-10T14:15:31.530Z",
+    "lugar": "22 km SE of Palora, Ecuador",
+    "magnitud": "4.6",
+    "lat": -1.8675,
+    "lon": -77.8537
   },
   {
     "tipo": "Sismo",
