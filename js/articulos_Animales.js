@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Cocodrilos de Tumbes en peligro crítico de extinción encuentran una esperanza en la costa norte de Perú",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/10233028/Cocodrilo-de-Tumbes-centro-de-conservacion-Leandro-Amaya-1-768x512.jpg",
+    "fecha": "Apr 13, 2026",
+    "url": "https://es.mongabay.com/2026/04/cocodrilos-tumbes-peligro-critico-extincion-encuentran-esperanza-costa-norte-peru/"
+  },
+  {
     "titulo": "Pingüino emperador y lobo marino antártico están en peligro de extinción por el cambio climático",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2019/08/07030409/1-768x512.jpg",
     "fecha": "Apr 11, 2026",
@@ -7422,7 +7428,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Apr 13 13:19:59 2026",
+    "titulo": "Última actualización automática - Mon Apr 13 19:12:51 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
