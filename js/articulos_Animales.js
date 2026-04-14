@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Colombia autoriza plan de eutanasia para controlar población invasora de 80 hipopótamos",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/13201324/Proyecto-nuevo-40-768x512.jpg",
+    "fecha": "Apr 14, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/04/colombia-autoriza-eutanasia-para-controlar-poblacion-invasora-hipopotamos/"
+  },
+  {
     "titulo": "Cocodrilos de Tumbes en peligro crítico de extinción encuentran una esperanza en la costa norte de Perú",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/10233028/Cocodrilo-de-Tumbes-centro-de-conservacion-Leandro-Amaya-1-768x512.jpg",
     "fecha": "Apr 13, 2026",
@@ -7428,7 +7434,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Apr 14 13:20:40 2026",
+    "titulo": "Última actualización automática - Tue Apr 14 19:10:40 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
