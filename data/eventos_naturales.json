@@ -35,6 +35,20 @@
     "lon": -71.35363
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-15",
+    "hora": "14:01",
+    "lat": -8.06951,
+    "lon": -78.8493
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-15",
+    "hora": "14:03",
+    "lat": -17.48814,
+    "lon": -71.34632
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-11T13:44:11.786Z",
     "lugar": "30 km SSE of La Breita, Peru",
