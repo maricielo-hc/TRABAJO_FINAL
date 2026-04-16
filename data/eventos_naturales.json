@@ -43,6 +43,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-04-16T08:09:02.443Z",
+    "lugar": "102 km SSW of Paracas, Peru",
+    "magnitud": "5.2",
+    "lat": -14.6589,
+    "lon": -76.767
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-04-16T06:18:51.120Z",
     "lugar": "26 km WSW of Tabalosos, Peru",
     "magnitud": "4.6",
