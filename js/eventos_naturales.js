@@ -1,34 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-04-14",
-    "hora": "02:38",
-    "lat": -2.00179,
-    "lon": -78.34899
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-14",
-    "hora": "08:43",
-    "lat": -2.00376,
-    "lon": -78.34198
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-14",
-    "hora": "13:25",
-    "lat": -17.43317,
-    "lon": -68.2146
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-14",
-    "hora": "13:25",
-    "lat": -17.43449,
-    "lon": -68.20469
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-04-15",
     "hora": "01:34",
     "lat": -17.48508,
@@ -68,6 +40,14 @@ const eventosNaturales = [
     "hora": "20:00",
     "lat": -8.64395,
     "lon": -74.73233
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-04-16T06:18:51.120Z",
+    "lugar": "26 km WSW of Tabalosos, Peru",
+    "magnitud": "4.6",
+    "lat": -6.4014,
+    "lon": -76.9169
   },
   {
     "tipo": "Sismo",
