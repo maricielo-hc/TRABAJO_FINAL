@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Argentina: el regreso de los guanacos al Gran Chaco reaviva el debate sobre las reintroducciones de fauna silvestre",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/24192110/Guanacos-en-Argentina-Antonella-Panebianco-2-768x512.jpeg",
-    "fecha": "Apr 15, 2026",
+    "fecha": "Apr 16, 2026",
     "url": "https://es.mongabay.com/2026/04/argentina-regreso-guanacos-gran-chaco-reaviva-debate-reintroducciones-fauna-silvestre/"
   },
   {
@@ -7440,7 +7440,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Apr 16 13:25:19 2026",
+    "titulo": "Última actualización automática - Thu Apr 16 19:10:30 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
