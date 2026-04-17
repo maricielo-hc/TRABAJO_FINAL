@@ -28,6 +28,20 @@ const eventosNaturales = [
     "lon": -76.27146
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-17",
+    "hora": "13:44",
+    "lat": -13.6638,
+    "lon": -76.17838
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-17",
+    "hora": "13:44",
+    "lat": -17.49076,
+    "lon": -71.35419
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-16T08:09:02.443Z",
     "lugar": "102 km SSW of Paracas, Peru",
@@ -58,13 +72,5 @@ const eventosNaturales = [
     "magnitud": "4.8",
     "lat": -4.4971,
     "lon": -80.76
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-04-10T14:15:31.530Z",
-    "lugar": "22 km SE of Palora, Ecuador",
-    "magnitud": "4.6",
-    "lat": -1.8675,
-    "lon": -77.8537
   }
 ];
