@@ -49,6 +49,27 @@ const eventosNaturales = [
     "lon": -79.4621
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-16",
+    "hora": "20:40",
+    "lat": -0.33997,
+    "lon": -80.3588
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-16",
+    "hora": "20:38",
+    "lat": -8.39516,
+    "lon": -78.71101
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-16",
+    "hora": "20:38",
+    "lat": -6.62641,
+    "lon": -76.27146
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-16T08:09:02.443Z",
     "lugar": "102 km SSW of Paracas, Peru",
@@ -87,13 +108,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -1.8675,
     "lon": -77.8537
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-04-09T23:57:48.436Z",
-    "lugar": "19 km E of Coayllo, Peru",
-    "magnitud": "4.5",
-    "lat": -12.71,
-    "lon": -76.289
   }
 ];
