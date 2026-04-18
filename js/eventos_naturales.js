@@ -43,6 +43,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-04-17T03:54:28.374Z",
+    "lugar": "81 km S of Pacocha, Peru",
+    "magnitud": "4.2",
+    "lat": -18.386,
+    "lon": -71.314
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-04-16T08:09:02.443Z",
     "lugar": "102 km SSW of Paracas, Peru",
     "magnitud": "5.2",
