@@ -126,6 +126,77 @@ const eventosNaturales = [
     "lon": -78.95435
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-18",
+    "hora": "20:14",
+    "lat": -13.71694,
+    "lon": -75.8563
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-18",
+    "hora": "20:14",
+    "lat": -13.71874,
+    "lon": -75.86967
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-18",
+    "hora": "20:14",
+    "lat": -13.668,
+    "lon": -76.09087
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-18",
+    "hora": "20:19",
+    "lat": -2.72626,
+    "lon": -78.65195
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-18",
+    "hora": "20:19",
+    "lat": -2.64493,
+    "lon": -78.42438
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-18",
+    "hora": "20:19",
+    "lat": -1.65225,
+    "lon": -79.42855
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-18",
+    "hora": "20:14",
+    "lat": -16.22423,
+    "lon": -72.47031
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-18",
+    "hora": "20:14",
+    "lat": -16.09781,
+    "lon": -72.49163
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-18",
+    "hora": "20:14",
+    "lat": -14.58942,
+    "lon": -70.63281
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-04-18T23:56:47.822Z",
+    "lugar": "34 km NNE of Pucallpa, Peru",
+    "magnitud": "4.2",
+    "lat": -8.0836,
+    "lon": -74.4617
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-17T03:54:28.374Z",
     "lugar": "81 km S of Pacocha, Peru",
