@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Colombia autorizó la eutanasia a hipopótamos: ¿Cuál ha sido el impacto de esta especie invasora en la biodiversidad? | Lecturas ambientales",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/10/13175529/DSC_0734-768x472.jpg",
+    "fecha": "Apr 19, 2026",
+    "url": "https://es.mongabay.com/2026/04/colombia-eutanasia-hipopotamos-impacto-especie-invasora-biodiversidad/"
+  },
+  {
     "titulo": "Argentina: el regreso de los guanacos al Gran Chaco reaviva el debate sobre las reintroducciones de fauna silvestre",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/11/24192110/Guanacos-en-Argentina-Antonella-Panebianco-2-768x512.jpeg",
     "fecha": "Apr 16, 2026",
@@ -7440,7 +7446,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Apr 19 12:56:53 2026",
+    "titulo": "Última actualización automática - Sun Apr 19 18:46:00 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
