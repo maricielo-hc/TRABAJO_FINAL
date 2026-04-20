@@ -176,6 +176,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-04-19T18:20:00.432Z",
+    "lugar": "26 km SE of Palca, Peru",
+    "magnitud": "4.5",
+    "lat": -17.97,
+    "lon": -69.8069
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-04-18T23:56:47.822Z",
     "lugar": "34 km NNE of Pucallpa, Peru",
     "magnitud": "4.2",
