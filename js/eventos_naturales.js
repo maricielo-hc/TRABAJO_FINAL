@@ -1,5 +1,33 @@
 const eventosNaturales = [
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-20",
+    "hora": "13:59",
+    "lat": -5.04883,
+    "lon": -80.38322
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-20",
+    "hora": "13:59",
+    "lat": -7.13853,
+    "lon": -79.40501
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-20",
+    "hora": "13:59",
+    "lat": -7.13997,
+    "lon": -79.39518
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-20",
+    "hora": "14:01",
+    "lat": -13.78982,
+    "lon": -76.16792
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-19T18:20:00.432Z",
     "lugar": "26 km SE of Palca, Peru",
