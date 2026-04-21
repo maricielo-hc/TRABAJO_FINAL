@@ -29,6 +29,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-04-20T23:26:41.426Z",
+    "lugar": "81 km SW of Paracas, Peru",
+    "magnitud": "4.3",
+    "lat": -14.4599,
+    "lon": -76.708
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-04-19T18:20:00.432Z",
     "lugar": "26 km SE of Palca, Peru",
     "magnitud": "4.5",
@@ -66,13 +74,5 @@
     "magnitud": "4.6",
     "lat": -6.4014,
     "lon": -76.9169
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-04-13T20:42:49.749Z",
-    "lugar": "6 km NW of Sama Grande, Peru",
-    "magnitud": "4.2",
-    "lat": -17.7438,
-    "lon": -70.5433
   }
 ]
