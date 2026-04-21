@@ -28,6 +28,48 @@ const eventosNaturales = [
     "lon": -76.16792
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-21",
+    "hora": "02:17",
+    "lat": -7.95791,
+    "lon": -77.87932
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-21",
+    "hora": "02:17",
+    "lat": -2.00288,
+    "lon": -78.33708
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-21",
+    "hora": "02:13",
+    "lat": -13.92394,
+    "lon": -75.89404
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-21",
+    "hora": "02:17",
+    "lat": -2.00424,
+    "lon": -78.34701
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-21",
+    "hora": "02:19",
+    "lat": -0.07922,
+    "lon": -77.65193
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-21",
+    "hora": "02:19",
+    "lat": -0.08103,
+    "lon": -77.66472
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-20T23:26:41.426Z",
     "lugar": "81 km SW of Paracas, Peru",
