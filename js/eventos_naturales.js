@@ -112,6 +112,21 @@ const eventosNaturales = [
     "lon": -76.16638
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-21",
+    "hora": "14:37",
+    "lat": -0.08338,
+    "lon": -77.65515
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-04-21T16:18:55.418Z",
+    "lugar": "24 km ESE of Laraos, Peru",
+    "magnitud": "4.5",
+    "lat": -12.425,
+    "lon": -75.5727
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-20T23:26:41.426Z",
     "lugar": "81 km SW of Paracas, Peru",
