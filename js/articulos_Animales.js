@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Descubren un mundo oculto en Argentina: arrecifes gigantes, especies desconocidas y una medusa fantasma en el fondo del mar",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/23142805/WhatsApp-Image-2026-04-23-at-9.27.41-AM-768x512.jpeg",
+    "fecha": "Apr 23, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/04/descubren-mundo-oculto-mar-argentina-arrecifes-gigantes-especies-desconocidas-medusa-fantasma/"
+  },
+  {
     "titulo": "Colombia autorizó la eutanasia a hipopótamos: ¿Cuál ha sido el impacto de esta especie invasora en la biodiversidad? | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/10/13175529/DSC_0734-768x472.jpg",
     "fecha": "Apr 19, 2026",
@@ -7446,7 +7452,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Apr 23 13:20:50 2026",
+    "titulo": "Última actualización automática - Thu Apr 23 19:06:49 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
