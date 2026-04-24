@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Reportaje fotográfico: la famosa serpiente gushnayera y los secretos del bosque nuboso de Baja Verapaz, en Guatemala",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/09/21071439/1K7A7723-Editar-768x512.jpg",
+    "fecha": "Apr 24, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/04/reportaje-fotografico-famosa-serpiente-gushnayera-secretos-bosque-nuboso-baja-verapaz-guatemala/"
+  },
+  {
     "titulo": "Descubren un mundo oculto en Argentina: arrecifes gigantes, especies desconocidas y una medusa fantasma en el fondo del mar",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/23142805/WhatsApp-Image-2026-04-23-at-9.27.41-AM-768x512.jpeg",
     "fecha": "Apr 23, 2026",
@@ -7452,7 +7458,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Apr 24 13:16:56 2026",
+    "titulo": "Última actualización automática - Fri Apr 24 18:47:14 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
