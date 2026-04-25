@@ -78,6 +78,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-04-25T09:53:40.539Z",
+    "lugar": "22 km WSW of Tournavista, Peru",
+    "magnitud": "4.6",
+    "lat": -8.9734,
+    "lon": -74.9018
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-04-21T16:18:55.418Z",
     "lugar": "24 km ESE of Laraos, Peru",
     "magnitud": "4.5",
