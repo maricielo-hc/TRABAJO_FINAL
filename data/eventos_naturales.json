@@ -77,6 +77,27 @@
     "lon": -77.67337
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-25",
+    "hora": "14:01",
+    "lat": -13.92843,
+    "lon": -75.85574
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-25",
+    "hora": "14:01",
+    "lat": -13.92979,
+    "lon": -75.86241
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-25",
+    "hora": "13:59",
+    "lat": -2.21423,
+    "lon": -78.65764
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-25T09:53:40.539Z",
     "lugar": "22 km WSW of Tournavista, Peru",
