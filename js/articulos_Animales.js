@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "El río Magdalena es clave para entender la verdadera distribución de los monos nocturnos en Colombia | Estudio",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/24203248/Screen-Shot-2026-04-24-at-3.30.50-PM-768x512.png",
+    "fecha": "Apr 26, 2026",
+    "url": "https://es.mongabay.com/2026/04/el-rio-magdalena-es-clave-para-entender-la-verdadera-distribucion-de-los-monos-nocturnos-en-colombia-estudio/"
+  },
+  {
     "titulo": "Reportaje fotográfico: la famosa serpiente gushnayera y los secretos del bosque nuboso de Baja Verapaz, en Guatemala",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/09/21071439/1K7A7723-Editar-768x512.jpg",
     "fecha": "Apr 24, 2026",
@@ -7458,7 +7464,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Apr 26 13:00:51 2026",
+    "titulo": "Última actualización automática - Sun Apr 26 18:48:43 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
