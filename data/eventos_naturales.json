@@ -63,6 +63,34 @@
     "lon": -79.46658
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-27",
+    "hora": "13:40",
+    "lat": -11.12698,
+    "lon": -75.35915
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-27",
+    "hora": "13:42",
+    "lat": -14.92479,
+    "lon": -75.00233
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-27",
+    "hora": "13:42",
+    "lat": -15.46503,
+    "lon": -74.70981
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-27",
+    "hora": "13:42",
+    "lat": -17.49148,
+    "lon": -71.35447
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-25T20:14:39.279Z",
     "lugar": "82 km SSW of Paracas, Peru",
