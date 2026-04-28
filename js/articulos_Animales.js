@@ -1,15 +1,15 @@
 const articulos = [
   {
-    "titulo": "Día del Tapir: los esfuerzos para proteger a los guardianes elusivos de los bosques en tres países latinoamericanos",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/24002605/tapir-orinoquia-768x512.jpg",
-    "fecha": "Apr 27, 2026",
-    "url": "https://es.mongabay.com/2026/04/dia-del-tapir-esfuerzos-proteger-guardianes-silenciosos-bosques-latinoamerica/"
-  },
-  {
     "titulo": "Argentina: por lo menos 160 aves murieron electrocutadas en tendidos de cables | Estudio",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/24234018/20231021085507184274-768x512.png",
     "fecha": "Apr 27, 2026",
     "url": "https://es.mongabay.com/2026/04/argentina-aves-murieron-electrocutadas-tendidos-cables-estudio/"
+  },
+  {
+    "titulo": "Día del Tapir: los esfuerzos para proteger a los guardianes elusivos de los bosques en tres países latinoamericanos",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/24002605/tapir-orinoquia-768x512.jpg",
+    "fecha": "Apr 27, 2026",
+    "url": "https://es.mongabay.com/2026/04/dia-del-tapir-esfuerzos-proteger-guardianes-silenciosos-bosques-latinoamerica/"
   },
   {
     "titulo": "El río Magdalena es clave para entender la verdadera distribución de los monos nocturnos en Colombia | Estudio",
@@ -7476,7 +7476,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Apr 27 19:16:02 2026",
+    "titulo": "Última actualización automática - Tue Apr 28 02:34:31 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
