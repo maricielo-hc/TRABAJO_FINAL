@@ -113,13 +113,5 @@ const eventosNaturales = [
     "magnitud": "4.5",
     "lat": -12.425,
     "lon": -75.5727
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-04-20T23:26:41.426Z",
-    "lugar": "81 km SW of Paracas, Peru",
-    "magnitud": "4.3",
-    "lat": -14.4599,
-    "lon": -76.708
   }
 ];
