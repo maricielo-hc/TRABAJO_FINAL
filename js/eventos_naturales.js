@@ -42,6 +42,55 @@ const eventosNaturales = [
     "lon": -77.66105
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-28",
+    "hora": "14:16",
+    "lat": -0.10302,
+    "lon": -78.47243
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-28",
+    "hora": "14:16",
+    "lat": -0.10733,
+    "lon": -78.44161
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-28",
+    "hora": "14:16",
+    "lat": -1.8718,
+    "lon": -79.98011
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-28",
+    "hora": "14:16",
+    "lat": -2.67904,
+    "lon": -79.62153
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-28",
+    "hora": "14:18",
+    "lat": -6.83292,
+    "lon": -79.81139
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-28",
+    "hora": "14:18",
+    "lat": -6.83431,
+    "lon": -79.80118
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-28",
+    "hora": "14:20",
+    "lat": -13.92652,
+    "lon": -75.86497
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-25T20:14:39.279Z",
     "lugar": "82 km SSW of Paracas, Peru",
@@ -56,13 +105,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -8.9734,
     "lon": -74.9018
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-04-21T16:18:55.418Z",
-    "lugar": "24 km ESE of Laraos, Peru",
-    "magnitud": "4.5",
-    "lat": -12.425,
-    "lon": -75.5727
   }
 ];
