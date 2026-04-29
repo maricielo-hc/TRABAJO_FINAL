@@ -91,6 +91,13 @@ const eventosNaturales = [
     "lon": -75.86497
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-28",
+    "hora": "20:02",
+    "lat": -18.98244,
+    "lon": -68.8715
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-25T20:14:39.279Z",
     "lugar": "82 km SSW of Paracas, Peru",
