@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Ecuador: comunidades del Chocó Andino se unen para salvar al mono capuchino y a la pava del Chocó, especies en riesgo de extinción",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/28113650/1-Mono-Capuchino-1-768x512.jpg",
+    "fecha": "Apr 29, 2026",
+    "url": "https://es.mongabay.com/2026/04/ecuador-conservar-mono-capuchino-pava-choco-andino-extincion/"
+  },
+  {
     "titulo": "Argentina: por lo menos 160 aves murieron electrocutadas en tendidos de cables | Estudio",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/24234018/20231021085507184274-768x512.png",
     "fecha": "Apr 27, 2026",
@@ -7476,7 +7482,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Apr 29 13:50:17 2026",
+    "titulo": "Última actualización automática - Wed Apr 29 19:22:14 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
