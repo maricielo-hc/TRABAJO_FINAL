@@ -1,34 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-04-27",
-    "hora": "13:40",
-    "lat": -11.12698,
-    "lon": -75.35915
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-27",
-    "hora": "13:42",
-    "lat": -14.92479,
-    "lon": -75.00233
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-27",
-    "hora": "13:42",
-    "lat": -15.46503,
-    "lon": -74.70981
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-04-27",
-    "hora": "13:42",
-    "lat": -17.49148,
-    "lon": -71.35447
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-04-28",
     "hora": "01:56",
     "lat": -0.08671,
@@ -96,6 +68,14 @@ const eventosNaturales = [
     "hora": "20:02",
     "lat": -18.98244,
     "lon": -68.8715
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-04-29T06:12:17.005Z",
+    "lugar": "10 km WNW of Huabal, Peru",
+    "magnitud": "4.8",
+    "lat": -5.5896,
+    "lon": -79.0082
   },
   {
     "tipo": "Sismo",
