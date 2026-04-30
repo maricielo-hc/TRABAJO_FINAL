@@ -126,6 +126,27 @@ const eventosNaturales = [
     "lon": -78.66718
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-04-30",
+    "hora": "13:59",
+    "lat": -13.91954,
+    "lon": -75.86583
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-30",
+    "hora": "14:01",
+    "lat": -17.49814,
+    "lon": -71.34066
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-04-30",
+    "hora": "13:59",
+    "lat": -8.97286,
+    "lon": -78.47919
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-04-29T06:12:17.005Z",
     "lugar": "10 km WNW of Huabal, Peru",
