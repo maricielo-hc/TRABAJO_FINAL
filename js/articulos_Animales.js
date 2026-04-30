@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Ecuador: comunidades del Chocó Andino se unen para salvar al mono capuchino y a la pava del Chocó, especies en riesgo de extinción",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/28113650/1-Mono-Capuchino-1-768x512.jpg",
-    "fecha": "Apr 29, 2026",
+    "fecha": "Apr 30, 2026",
     "url": "https://es.mongabay.com/2026/04/ecuador-conservar-mono-capuchino-pava-choco-andino-extincion/"
   },
   {
@@ -7482,7 +7482,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Apr 30 13:35:50 2026",
+    "titulo": "Última actualización automática - Thu Apr 30 19:17:31 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
