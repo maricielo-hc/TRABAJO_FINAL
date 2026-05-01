@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Jaguares, osos y más de mil aves: imágenes que revelan por qué el Parque Nacional Madidi, en Bolivia, es una joya natural del planeta | Reportaje fotográfico",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/06/26090432/6_Kentropyx-sp.-nov.-Heath-Mileniusz-Spanowicz-WCS-7226-768x512.jpg",
+    "fecha": "May 01, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/05/jaguares-osos-aves-imagenes-parque-madidi-joya-natural-planeta/"
+  },
+  {
     "titulo": "Ecuador: comunidades del Chocó Andino se unen para salvar al mono capuchino y a la pava del Chocó, especies en riesgo de extinción",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/28113650/1-Mono-Capuchino-1-768x512.jpg",
     "fecha": "Apr 30, 2026",
@@ -10,12 +16,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/24234018/20231021085507184274-768x512.png",
     "fecha": "Apr 27, 2026",
     "url": "https://es.mongabay.com/2026/04/argentina-aves-murieron-electrocutadas-tendidos-cables-estudio/"
-  },
-  {
-    "titulo": "Día del Tapir: los esfuerzos para proteger a los guardianes elusivos de los bosques en tres países latinoamericanos",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/24002605/tapir-orinoquia-768x512.jpg",
-    "fecha": "Apr 27, 2026",
-    "url": "https://es.mongabay.com/2026/04/dia-del-tapir-esfuerzos-proteger-guardianes-silenciosos-bosques-latinoamerica/"
   },
   {
     "titulo": "El río Magdalena es clave para entender la verdadera distribución de los monos nocturnos en Colombia | Estudio",
@@ -7482,7 +7482,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri May  1 13:13:54 2026",
+    "titulo": "Última actualización automática - Fri May  1 19:09:52 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
