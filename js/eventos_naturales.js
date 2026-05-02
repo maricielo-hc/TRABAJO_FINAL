@@ -105,13 +105,5 @@ const eventosNaturales = [
     "magnitud": "5",
     "lat": -14.5752,
     "lon": -76.4954
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-04-25T09:53:40.539Z",
-    "lugar": "22 km WSW of Tournavista, Peru",
-    "magnitud": "4.6",
-    "lat": -8.9734,
-    "lon": -74.9018
   }
 ];
