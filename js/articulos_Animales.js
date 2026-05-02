@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Orcas cazando tiburones, estrategias de caza de felinos y aves hembras que cantan: los hallazgos científicos que sorprenden a América Latina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/01/28194028/Orcas_hunting_white_sharks_IV_Photo_by_Marco_Villegas-768x512.jpg",
+    "fecha": "May 02, 2026",
+    "url": "https://es.mongabay.com/2026/05/orcas-cazando-tiburones-estrategias-caza-felinos-aves-hembras-cantan-hallazgos-cientificos-america-latina/"
+  },
+  {
     "titulo": "Jaguares, osos y más de mil aves: imágenes que revelan por qué el Parque Nacional Madidi, en Bolivia, es una joya natural del planeta | Reportaje fotográfico",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2018/06/26090432/6_Kentropyx-sp.-nov.-Heath-Mileniusz-Spanowicz-WCS-7226-768x512.jpg",
     "fecha": "May 01, 2026",
@@ -220,6 +226,12 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/08/07235550/Colombia-7-Barto-hogar-de-paso-Foto-Santiago-Wills-768x512.jpg",
     "fecha": "Feb 13, 2026",
     "url": "https://es.mongabay.com/custom-story/2026/02/imagenes-horror-felinos-victimas-trafico-ilegal-latinoamerica-reportaje-fotografico/"
+  },
+  {
+    "titulo": "¿Cómo compiten jaguares, pumas, ocelotes y tigrillos por alimento? Estudio de felinos en Guatemala revela sus formas de caza",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/10080843/felinos-guatemala-caza-alimento-estudio4-768x512.jpg",
+    "fecha": "Feb 12, 2026",
+    "url": "https://es.mongabay.com/2026/02/felinos-guatemala-caza-alimento-estudio/"
   },
   {
     "titulo": "Serranía de Sunsas: un santuario poco explorado en Bolivia que protege 176 especies de aves",
@@ -7476,7 +7488,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat May  2 13:03:48 2026",
+    "titulo": "Última actualización automática - Sat May  2 18:56:59 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
