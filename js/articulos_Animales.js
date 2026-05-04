@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Bolivia: reúnen por primera vez más de 4000 fotos del perro fantasma, el cánido más huidizo de la Amazonía | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/29175529/3.-Atelocynus-microtis-Guido-AyalaMariga-Viscarra-Camera-Traps-WCS-Bolivia-2-768x512.jpg",
+    "fecha": "May 04, 2026",
+    "url": "https://es.mongabay.com/2026/05/bolivia-reunen-por-primera-vez-mas-de-4-mil-fotos-del-perro-fantasma-el-canido-mas-huidizo-de-la-amazonia-estudio/"
+  },
+  {
+    "titulo": "Marsopa espinosa en Perú: pesca incidental amenaza a esta especie en la costa norte de La Libertad",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/29123525/marsopa-espinosa-3-768x512.jpg",
+    "fecha": "May 04, 2026",
+    "url": "https://es.mongabay.com/2026/05/marsopa-espinosa-en-peru-pesca-incidental-amenaza-a-esta-especie-en-la-costa-norte-de-la-libertad/"
+  },
+  {
     "titulo": "El fraude que hace pasar tiburones por peces espada, corvinas y tollos en mercados de Sudamérica",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/11151618/42.-Tarqui-landings-Alex-Hearn-USFQ-768x512.jpg",
     "fecha": "May 03, 2026",
@@ -7500,7 +7512,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon May  4 13:52:01 2026",
+    "titulo": "Última actualización automática - Mon May  4 19:27:09 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
