@@ -22,6 +22,22 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-05-05T15:58:27.768Z",
+    "lugar": "13 km NW of Tumbes, Peru",
+    "magnitud": "5",
+    "lat": -3.5014,
+    "lon": -80.5487
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-05-05T13:24:14.397Z",
+    "lugar": "100 km NNE of Camiña, Chile",
+    "magnitud": "4.2",
+    "lat": -18.4359,
+    "lon": -69.1789
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-04-29T06:12:17.005Z",
     "lugar": "10 km WNW of Huabal, Peru",
     "magnitud": "4.8",
