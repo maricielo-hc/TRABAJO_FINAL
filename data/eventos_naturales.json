@@ -64,11 +64,11 @@
   },
   {
     "tipo": "Sismo",
-    "fecha": "2026-05-05T15:58:27.768Z",
-    "lugar": "13 km NW of Tumbes, Peru",
-    "magnitud": "5",
-    "lat": -3.5014,
-    "lon": -80.5487
+    "fecha": "2026-05-05T15:58:27.033Z",
+    "lugar": "14 km N of Zorritos, Peru",
+    "magnitud": "5.1",
+    "lat": -3.547,
+    "lon": -80.6705
   },
   {
     "tipo": "Sismo",
