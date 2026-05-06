@@ -56,6 +56,13 @@ const eventosNaturales = [
     "lon": -77.66148
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-06",
+    "hora": "08:01",
+    "lat": -17.49368,
+    "lon": -71.35626
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-05T15:58:27.768Z",
     "lugar": "13 km NW of Tumbes, Peru",
