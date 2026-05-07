@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "México: 40 años de rescatar y reintegrar monos nativos en la selva veracruzana",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/06185755/mono-arana1-768x512.jpeg",
+    "fecha": "May 07, 2026",
+    "url": "https://es.mongabay.com/2026/05/mexico-40-anos-de-rescatar-y-reintegrar-monos-nativos-en-la-selva-veracruzana/"
+  },
+  {
     "titulo": "Bolivia: reúnen por primera vez más de 4000 fotos del perro fantasma, el cánido más huidizo de la Amazonía | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/04/29175529/3.-Atelocynus-microtis-Guido-AyalaMariga-Viscarra-Camera-Traps-WCS-Bolivia-2-768x512.jpg",
     "fecha": "May 06, 2026",
@@ -7512,7 +7518,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu May  7 13:58:44 2026",
+    "titulo": "Última actualización automática - Thu May  7 19:43:35 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
