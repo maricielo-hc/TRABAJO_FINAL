@@ -1,34 +1,6 @@
 [
   {
     "tipo": "Incendio",
-    "fecha": "2026-05-05",
-    "hora": "13:57",
-    "lat": -6.00781,
-    "lon": -80.12244
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-05-05",
-    "hora": "13:57",
-    "lat": -7.13714,
-    "lon": -79.39861
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-05-05",
-    "hora": "13:57",
-    "lat": -7.1418,
-    "lon": -79.40548
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-05-05",
-    "hora": "13:57",
-    "lat": -7.14333,
-    "lon": -79.39531
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-05-06",
     "hora": "02:13",
     "lat": -2.00484,
@@ -92,11 +64,11 @@
   },
   {
     "tipo": "Sismo",
-    "fecha": "2026-05-06T22:06:49.638Z",
-    "lugar": "29 km NE of La Troncal, Ecuador",
+    "fecha": "2026-05-06T22:06:49.692Z",
+    "lugar": "25 km NE of La Troncal, Ecuador",
     "magnitud": "4.6",
-    "lat": -2.2513,
-    "lon": -79.1407
+    "lat": -2.2614,
+    "lon": -79.181
   },
   {
     "tipo": "Sismo",
