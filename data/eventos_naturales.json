@@ -63,6 +63,42 @@
     "lon": -71.35626
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-06",
+    "hora": "20:14",
+    "lat": -12.86121,
+    "lon": -73.60542
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-06",
+    "hora": "20:14",
+    "lat": -11.89729,
+    "lon": -73.86225
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-06",
+    "hora": "20:14",
+    "lat": -11.89364,
+    "lon": -73.90804
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-06",
+    "hora": "20:14",
+    "lat": -11.89152,
+    "lon": -73.91389
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-05-06T22:06:49.638Z",
+    "lugar": "29 km NE of La Troncal, Ecuador",
+    "magnitud": "4.6",
+    "lat": -2.2513,
+    "lon": -79.1407
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-05T15:58:27.033Z",
     "lugar": "14 km N of Zorritos, Peru",
