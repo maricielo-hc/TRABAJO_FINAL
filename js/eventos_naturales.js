@@ -63,6 +63,62 @@ const eventosNaturales = [
     "lon": -73.91389
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-07",
+    "hora": "20:51",
+    "lat": -13.78848,
+    "lon": -76.16977
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-07",
+    "hora": "20:51",
+    "lat": -11.03189,
+    "lon": -77.50401
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-07",
+    "hora": "20:51",
+    "lat": -7.90804,
+    "lon": -79.19863
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-07",
+    "hora": "20:51",
+    "lat": -7.89869,
+    "lon": -79.2001
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-07",
+    "hora": "20:53",
+    "lat": -7.23165,
+    "lon": -79.4865
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-07",
+    "hora": "20:53",
+    "lat": -7.23768,
+    "lon": -79.52611
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-07",
+    "hora": "20:53",
+    "lat": -6.29067,
+    "lon": -78.51543
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-07",
+    "hora": "20:53",
+    "lat": -2.00874,
+    "lon": -78.33896
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-06T22:06:49.692Z",
     "lugar": "25 km NE of La Troncal, Ecuador",
