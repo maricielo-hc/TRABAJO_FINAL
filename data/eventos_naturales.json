@@ -70,6 +70,43 @@
     "lon": -77.66054
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-08",
+    "hora": "14:14",
+    "lat": -0.98903,
+    "lon": -77.81135
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-08",
+    "hora": "14:14",
+    "lat": -2.32259,
+    "lon": -80.66946
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-08",
+    "hora": "14:14",
+    "lat": -2.40323,
+    "lon": -80.43507
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-05-08T17:50:14.413Z",
+    "lugar": "120 km SE of Yantzaza, Ecuador",
+    "magnitud": "4.3",
+    "lat": -4.6052,
+    "lon": -77.9947
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-05-08T17:14:38.393Z",
+    "lugar": "76 km WNW of San Juan, Peru",
+    "magnitud": "4.8",
+    "lat": -15.1037,
+    "lon": -75.8215
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-06T22:06:49.692Z",
     "lugar": "25 km NE of La Troncal, Ecuador",
