@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "El «jaguar de las nubes»: por primera vez en una década captan a este felino en lo más alto de Honduras",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/08051456/Captura-de-pantalla-2026-05-07-a-las-10.11.22-p.m-768x512.png",
+    "fecha": "May 08, 2026",
+    "url": "https://es.mongabay.com/2026/05/el-jaguar-de-las-nubes-por-primera-vez-en-una-decada-captan-a-este-felino-en-lo-mas-alto-de-honduras/"
+  },
+  {
     "titulo": "México: 40 años de rescatar y reintegrar monos nativos en la selva veracruzana",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/06185755/mono-arana1-768x512.jpeg",
     "fecha": "May 07, 2026",
@@ -7518,7 +7524,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri May  8 13:26:13 2026",
+    "titulo": "Última actualización automática - Fri May  8 19:14:59 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
