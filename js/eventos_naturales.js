@@ -42,6 +42,97 @@ const eventosNaturales = [
     "lon": -72.67912
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:29",
+    "lat": -13.93532,
+    "lon": -75.87144
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:29",
+    "lat": -13.72213,
+    "lon": -75.99973
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:29",
+    "lat": -10.73313,
+    "lon": -77.75298
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:29",
+    "lat": -10.7346,
+    "lon": -77.7635
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:29",
+    "lat": -10.65472,
+    "lon": -77.71734
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:29",
+    "lat": -8.86797,
+    "lon": -78.54029
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:29",
+    "lat": -8.17831,
+    "lon": -76.53473
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:32",
+    "lat": -7.29828,
+    "lon": -79.32606
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:32",
+    "lat": -7.27809,
+    "lon": -79.47271
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:32",
+    "lat": -4.79334,
+    "lon": -80.5693
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:32",
+    "lat": -2.67867,
+    "lon": -78.85349
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:32",
+    "lat": -1.82732,
+    "lon": -79.34663
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-09",
+    "hora": "20:32",
+    "lat": -1.79911,
+    "lon": -80.05064
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-08T17:50:14.413Z",
     "lugar": "120 km SE of Yantzaza, Ecuador",
