@@ -98,6 +98,13 @@ const eventosNaturales = [
     "lon": -77.66268
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-10",
+    "hora": "13:59",
+    "lat": -13.78813,
+    "lon": -76.17109
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-08T17:50:14.413Z",
     "lugar": "120 km SE of Yantzaza, Ecuador",
