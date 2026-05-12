@@ -7,6 +7,41 @@ const eventosNaturales = [
     "lon": -75.94732
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-12",
+    "hora": "13:40",
+    "lat": -13.79028,
+    "lon": -76.16835
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-12",
+    "hora": "13:40",
+    "lat": -13.81451,
+    "lon": -76.13868
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-12",
+    "hora": "13:40",
+    "lat": -13.81888,
+    "lon": -76.13433
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-12",
+    "hora": "13:40",
+    "lat": -13.92838,
+    "lon": -75.86726
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-12",
+    "hora": "13:40",
+    "lat": -13.92997,
+    "lon": -75.85679
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-12T06:03:08.618Z",
     "lugar": "35 km SW of Atico, Peru",
@@ -37,13 +72,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -2.2614,
     "lon": -79.181
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-05-05T15:58:27.033Z",
-    "lugar": "14 km N of Zorritos, Peru",
-    "magnitud": "5.1",
-    "lat": -3.547,
-    "lon": -80.6705
   }
 ];
