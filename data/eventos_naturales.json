@@ -45,13 +45,5 @@
     "magnitud": "5.1",
     "lat": -3.547,
     "lon": -80.6705
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-05-05T13:24:14.397Z",
-    "lugar": "100 km NNE of Camiña, Chile",
-    "magnitud": "4.2",
-    "lat": -18.4359,
-    "lon": -69.1789
   }
 ]
