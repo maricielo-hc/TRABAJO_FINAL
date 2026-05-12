@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Colombia: casi 200 cocodrilos en peligro crítico de extinción están sin alimento por un conflicto administrativo",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/12135651/cocodrilos-orinoco-colombia-conflicto-alimento-unal-2-1200x806-1-768x512.jpg",
+    "fecha": "May 12, 2026",
+    "url": "https://es.mongabay.com/2026/05/cocodrilos-orinoco-colombia-conflicto-alimento-atencion/"
+  },
+  {
     "titulo": "El «jaguar de las nubes»: por primera vez en una década captan a este felino en lo más alto de Honduras",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/08051456/Captura-de-pantalla-2026-05-07-a-las-10.11.22-p.m-768x512.png",
     "fecha": "May 11, 2026",
@@ -3250,6 +3256,12 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2022/01/29233320/P1780420-copy-768x512.jpg",
     "fecha": "Apr 17, 2023",
     "url": "https://es.mongabay.com/2023/04/en-corto-ranas-diminutas-descubiertas-en-ecuador/"
+  },
+  {
+    "titulo": "Colombia: la liberación de cocodrilos del Orinoco que lleva la esperanza de salvar a su especie",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/04/15003115/Foto-Camila-Duran_WCS-Colombia-2-768x512.jpg",
+    "fecha": "Apr 17, 2023",
+    "url": "https://es.mongabay.com/2023/04/conservacion-cocodrilos-del-orinoco-colombia/"
   },
   {
     "titulo": "Perú: estudio revela la presencia de 150 especies y más de mil corredores de conectividad en áreas impactadas por minería en Madre de Dios",
@@ -7518,7 +7530,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue May 12 14:14:20 2026",
+    "titulo": "Última actualización automática - Tue May 12 19:47:57 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
