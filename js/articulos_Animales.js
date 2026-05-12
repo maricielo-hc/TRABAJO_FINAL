@@ -3252,12 +3252,6 @@ const articulos = [
     "url": "https://es.mongabay.com/2023/04/en-corto-ranas-diminutas-descubiertas-en-ecuador/"
   },
   {
-    "titulo": "Colombia: la liberación de cocodrilos del Orinoco que lleva la esperanza de salvar a su especie",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/04/15003115/Foto-Camila-Duran_WCS-Colombia-2-768x512.jpg",
-    "fecha": "Apr 17, 2023",
-    "url": "https://es.mongabay.com/2023/04/conservacion-cocodrilos-del-orinoco-colombia/"
-  },
-  {
     "titulo": "Perú: estudio revela la presencia de 150 especies y más de mil corredores de conectividad en áreas impactadas por minería en Madre de Dios",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/04/13021901/Oso-bandera-Myrmecophaga-tridactyla-Nuevo-San-Juan-768x512.jpg",
     "fecha": "Apr 13, 2023",
@@ -7524,7 +7518,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue May 12 02:37:51 2026",
+    "titulo": "Última actualización automática - Tue May 12 08:37:40 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
