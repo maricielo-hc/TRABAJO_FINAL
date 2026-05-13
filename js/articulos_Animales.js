@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Colombia: casi 200 cocodrilos en peligro crítico de extinción están sin alimento por un conflicto administrativo",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/12135651/cocodrilos-orinoco-colombia-conflicto-alimento-unal-2-1200x806-1-768x512.jpg",
-    "fecha": "May 12, 2026",
+    "fecha": "May 13, 2026",
     "url": "https://es.mongabay.com/2026/05/cocodrilos-orinoco-colombia-conflicto-alimento-atencion/"
   },
   {
@@ -7530,7 +7530,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed May 13 14:25:26 2026",
+    "titulo": "Última actualización automática - Wed May 13 19:52:56 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
