@@ -261,13 +261,5 @@ const eventosNaturales = [
     "magnitud": "4.8",
     "lat": -15.1037,
     "lon": -75.8215
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-05-06T22:06:49.692Z",
-    "lugar": "25 km NE of La Troncal, Ecuador",
-    "magnitud": "4.6",
-    "lat": -2.2614,
-    "lon": -79.181
   }
 ];
