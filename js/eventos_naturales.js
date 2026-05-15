@@ -147,6 +147,20 @@ const eventosNaturales = [
     "lon": -74.925
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-15",
+    "hora": "08:48",
+    "lat": -2.00289,
+    "lon": -78.33774
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-15",
+    "hora": "08:48",
+    "lat": -5.79512,
+    "lon": -78.49757
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-12T18:32:39.115Z",
     "lugar": "13 km S of Mazo Cruz, Peru",
