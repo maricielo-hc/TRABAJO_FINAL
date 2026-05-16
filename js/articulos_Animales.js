@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Muere el cuarto perezoso en cautiverio víctima del fallido proyecto Sloth World en Florida",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/15210742/Captura-de-pantalla-2026-05-15-a-las-2.06.25-p.m-768x512.png",
+    "fecha": "May 15, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/05/muere-el-cuarto-perezoso-en-cautiverio-victima-del-fallido-proyecto-sloth-world-en-florida/"
+  },
+  {
     "titulo": "Caso Sloth World: la tragedia de los perezosos exportados a Florida desde Perú y Guyana",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/09233446/Captura-de-pantalla-2026-05-09-a-las-4.34.10-p.m-768x512.png",
     "fecha": "May 14, 2026",
@@ -7536,7 +7542,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri May 15 19:29:58 2026",
+    "titulo": "Última actualización automática - Sat May 16 02:35:02 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
