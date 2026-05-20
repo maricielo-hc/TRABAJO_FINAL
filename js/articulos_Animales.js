@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Caso Sloth World: la tragedia de los perezosos exportados a Florida desde Perú y Guyana",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/09233446/Captura-de-pantalla-2026-05-09-a-las-4.34.10-p.m-768x512.png",
-    "fecha": "May 19, 2026",
+    "fecha": "May 20, 2026",
     "url": "https://es.mongabay.com/2026/05/caso-sloth-world-perezosos-exportados-muertos-florida-peru-guyana/"
   },
   {
@@ -7542,7 +7542,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed May 20 14:53:18 2026",
+    "titulo": "Última actualización automática - Wed May 20 20:12:33 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
