@@ -56,6 +56,20 @@ const eventosNaturales = [
     "lon": -79.17374
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-20",
+    "hora": "13:53",
+    "lat": -0.08222,
+    "lon": -77.66293
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-20",
+    "hora": "13:53",
+    "lat": -0.08356,
+    "lon": -77.65348
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-19T17:57:54.220Z",
     "lugar": "20 km ESE of Pampa de Tate, Peru",
