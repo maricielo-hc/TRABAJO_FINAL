@@ -133,6 +133,13 @@ const eventosNaturales = [
     "lon": -79.74522
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-21",
+    "hora": "14:33",
+    "lat": -5.30062,
+    "lon": -79.93328
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-19T17:57:54.220Z",
     "lugar": "20 km ESE of Pampa de Tate, Peru",
@@ -142,10 +149,10 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
-    "fecha": "2026-05-15T15:45:18.856Z",
-    "lugar": "11 km WNW of Palca, Peru",
+    "fecha": "2026-05-15T15:45:18.684Z",
+    "lugar": "13 km NW of Palca, Peru",
     "magnitud": "4.9",
-    "lat": -17.732,
-    "lon": -70.0593
+    "lat": -17.685,
+    "lon": -70.0413
   }
 ];
