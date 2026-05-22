@@ -21,19 +21,46 @@
     "lon": -79.93328
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-22",
+    "hora": "13:36",
+    "lat": -10.28377,
+    "lon": -77.52393
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-22",
+    "hora": "13:38",
+    "lat": -13.80637,
+    "lon": -76.11517
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-22",
+    "hora": "13:38",
+    "lat": -13.92853,
+    "lon": -75.85971
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-22",
+    "hora": "13:38",
+    "lat": -14.88893,
+    "lon": -75.01575
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-22",
+    "hora": "13:38",
+    "lat": -17.49586,
+    "lon": -71.35602
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-19T17:57:54.220Z",
     "lugar": "20 km ESE of Pampa de Tate, Peru",
     "magnitud": "5.8",
     "lat": -14.2075,
     "lon": -75.5167
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-05-15T15:45:18.684Z",
-    "lugar": "13 km NW of Palca, Peru",
-    "magnitud": "4.9",
-    "lat": -17.685,
-    "lon": -70.0413
   }
 ]
