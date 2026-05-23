@@ -211,6 +211,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-05-23T08:44:52.286Z",
+    "lugar": "73 km ESE of Sucúa, Ecuador",
+    "magnitud": "4.5",
+    "lat": -2.6369,
+    "lon": -77.5345
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-05-19T17:57:54.220Z",
     "lugar": "20 km ESE of Pampa de Tate, Peru",
     "magnitud": "5.8",
