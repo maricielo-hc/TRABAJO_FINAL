@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Uchuy es el primer polluelo de cóndor andino que lleva un transmisor satelital en Perú",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22182333/Uchuy-condor-andino-Fundacion-Condor-Andino-Peru-9-768x512.jpg",
+    "fecha": "May 23, 2026",
+    "url": "https://es.mongabay.com/2026/05/uchuy-primer-polluelo-condor-andino-transmisor-satelital-peru/"
+  },
+  {
     "titulo": "Caso Sloth World: la tragedia de los perezosos exportados a Florida desde Perú y Guyana",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/09233446/Captura-de-pantalla-2026-05-09-a-las-4.34.10-p.m-768x512.png",
     "fecha": "May 20, 2026",
@@ -7542,7 +7548,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat May 23 13:18:34 2026",
+    "titulo": "Última actualización automática - Sat May 23 19:07:16 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
