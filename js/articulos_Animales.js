@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Claves para evitar las colisiones de aves con estructuras urbanas, según una red de ciencia participativa | ENTREVISTA",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22202806/Captura-de-pantalla-2026-05-22-a-las-1.27.34-p.m-768x512.png",
+    "fecha": "May 24, 2026",
+    "url": "https://es.mongabay.com/2026/05/claves-para-evitar-las-colisiones-de-aves-con-estructuras-urbanas-segun-una-red-de-ciencia-participativa-entrevista/"
+  },
+  {
     "titulo": "Uchuy es el primer polluelo de cóndor andino que lleva un transmisor satelital en Perú",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22182333/Uchuy-condor-andino-Fundacion-Condor-Andino-Peru-9-768x512.jpg",
     "fecha": "May 23, 2026",
@@ -7548,7 +7554,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun May 24 13:19:03 2026",
+    "titulo": "Última actualización automática - Sun May 24 19:14:57 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
