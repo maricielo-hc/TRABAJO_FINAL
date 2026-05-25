@@ -70,6 +70,34 @@
     "lon": -75.6993
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-25",
+    "hora": "13:55",
+    "lat": -12.96045,
+    "lon": -73.78306
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-25",
+    "hora": "13:55",
+    "lat": -6.24651,
+    "lon": -79.74851
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-25",
+    "hora": "13:55",
+    "lat": -6.24823,
+    "lon": -79.73691
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-25",
+    "hora": "13:55",
+    "lat": -7.13804,
+    "lon": -79.3988
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-23T08:44:52.286Z",
     "lugar": "73 km ESE of Sucúa, Ecuador",
