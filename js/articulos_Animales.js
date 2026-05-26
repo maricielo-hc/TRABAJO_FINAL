@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "La inteligencia artificial se convierte en aliada clave para conservar la biodiversidad de América Latina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/21141027/Clasificacion_2-768x513.jpg",
+    "fecha": "May 26, 2026",
+    "url": "https://es.mongabay.com/2026/05/inteligencia-artificial-aliada-clave-conservar-biodiversidad-america-latina/"
+  },
+  {
+    "titulo": "La inteligencia artificial que permite el regreso masivo de conchas a los mares de Costa Rica",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/21140836/Still-6_55-768x512.png",
+    "fecha": "May 26, 2026",
+    "url": "https://es.mongabay.com/2026/05/inteligencia-artificial-permite-regreso-conchas-mares-costa-rica/"
+  },
+  {
     "titulo": "Claves para evitar las colisiones de aves con estructuras urbanas, según una red de ciencia participativa | ENTREVISTA",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22202806/Captura-de-pantalla-2026-05-22-a-las-1.27.34-p.m-768x512.png",
     "fecha": "May 24, 2026",
@@ -7554,7 +7566,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue May 26 09:47:40 2026",
+    "titulo": "Última actualización automática - Tue May 26 15:00:54 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
