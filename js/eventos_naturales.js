@@ -84,6 +84,42 @@ const eventosNaturales = [
     "lon": -69.12224
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-27",
+    "hora": "08:16",
+    "lat": -13.78298,
+    "lon": -76.1649
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-27",
+    "hora": "08:11",
+    "lat": -0.08169,
+    "lon": -77.65415
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-27",
+    "hora": "13:33",
+    "lat": -8.15858,
+    "lon": -70.76956
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-27",
+    "hora": "13:38",
+    "lat": -17.49317,
+    "lon": -71.35455
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-05-27T11:14:06.894Z",
+    "lugar": "21 km SSE of El Algarrobal, Peru",
+    "magnitud": "4.4",
+    "lat": -17.7903,
+    "lon": -71.1743
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-27T02:42:03.063Z",
     "lugar": "23 km SE of Mazo Cruz, Peru",
