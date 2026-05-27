@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "La inteligencia artificial se convierte en aliada clave para conservar la biodiversidad de América Latina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/21141027/Clasificacion_2-768x513.jpg",
-    "fecha": "May 26, 2026",
+    "fecha": "May 27, 2026",
     "url": "https://es.mongabay.com/2026/05/inteligencia-artificial-aliada-clave-conservar-biodiversidad-america-latina/"
+  },
+  {
+    "titulo": "Argentina: las ballenas jorobadas regresaron al Canal Beagle en busca de alimento",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/26195915/IMG_8586-foto-Sebastian-Dirube-768x512.jpg",
+    "fecha": "May 27, 2026",
+    "url": "https://es.mongabay.com/2026/05/argentina-ballenas-jorobadas-regresaron-canal-beagle-alimento/"
   },
   {
     "titulo": "La inteligencia artificial que permite el regreso masivo de conchas a los mares de Costa Rica",
@@ -7584,7 +7590,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed May 27 09:41:32 2026",
+    "titulo": "Última actualización automática - Wed May 27 15:30:35 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
