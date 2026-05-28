@@ -301,6 +301,20 @@ const eventosNaturales = [
     "lon": -80.52487
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-28",
+    "hora": "14:12",
+    "lat": -0.84531,
+    "lon": -78.6663
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-28",
+    "hora": "14:14",
+    "lat": -10.07436,
+    "lon": -74.7456
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-27T11:14:06.894Z",
     "lugar": "21 km SSE of El Algarrobal, Peru",
