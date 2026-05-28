@@ -6,6 +6,12 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/05/inteligencia-artificial-aliada-clave-conservar-biodiversidad-america-latina/"
   },
   {
+    "titulo": "Comunidades kichwa lograron proteger su territorio gracias a la IA entrenada con miles de sonidos de la Amazonía ecuatoriana",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22000423/foto-portada-768x512.jpg",
+    "fecha": "May 27, 2026",
+    "url": "https://es.mongabay.com/2026/05/comunidades-kichwa-protegen-territorio-ia-entrenada-miles-sonidos-amazonia-ecuatoriana/"
+  },
+  {
     "titulo": "Argentina: las ballenas jorobadas regresaron al Canal Beagle en busca de alimento",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/26195915/IMG_8586-foto-Sebastian-Dirube-768x512.jpg",
     "fecha": "May 27, 2026",
@@ -28,12 +34,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/19202318/Gallineta-Chica_Hernan-Povedano-1-768x512.jpg",
     "fecha": "May 26, 2026",
     "url": "https://es.mongabay.com/2026/05/algoritmos-revolucionan-estudio-gallineta-chica-argentina/"
-  },
-  {
-    "titulo": "Comunidades kichwa lograron proteger su territorio gracias a la IA entrenada con miles de sonidos de la Amazonía ecuatoriana",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22000423/foto-portada-768x512.jpg",
-    "fecha": "May 26, 2026",
-    "url": "https://es.mongabay.com/2026/05/comunidades-kichwa-protegen-territorio-ia-entrenada-miles-sonidos-amazonia-ecuatoriana/"
   },
   {
     "titulo": "Claves para evitar las colisiones de aves con estructuras urbanas, según una red de ciencia participativa | ENTREVISTA",
@@ -7590,7 +7590,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu May 28 09:58:08 2026",
+    "titulo": "Última actualización automática - Thu May 28 15:43:10 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
