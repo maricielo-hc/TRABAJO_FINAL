@@ -1,15 +1,27 @@
 const articulos = [
   {
+    "titulo": "Comunidades kichwa lograron proteger su territorio gracias a la IA entrenada con miles de sonidos de la Amazonía ecuatoriana",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22000423/foto-portada-768x512.jpg",
+    "fecha": "May 28, 2026",
+    "url": "https://es.mongabay.com/2026/05/comunidades-kichwa-protegen-territorio-ia-entrenada-miles-sonidos-amazonia-ecuatoriana/"
+  },
+  {
+    "titulo": "El último refugio de las polillas: inteligencia artificial para descifrar la «diversidad oscura» en Panamá",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22005802/PORTADA-Francisco-Serrano-Panama-768x512.png",
+    "fecha": "May 28, 2026",
+    "url": "https://es.mongabay.com/2026/05/ultimo-refugio-polillas-inteligencia-artificial-descifrar-diversidad-oscura-panama/"
+  },
+  {
+    "titulo": "Hantavirus Andes: ¿por qué preocupa la única variante que se transmite entre humanos tras brote en el crucero MV Hondius?",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/28182439/raton-colilargo-Oligoryzomys-longicaudatus-1-768x512.jpg",
+    "fecha": "May 28, 2026",
+    "url": "https://es.mongabay.com/2026/05/hantavirus-andes-transmision-humanos-brote-crucero-mv-hondius/"
+  },
+  {
     "titulo": "La inteligencia artificial se convierte en aliada clave para conservar la biodiversidad de América Latina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/21141027/Clasificacion_2-768x513.jpg",
     "fecha": "May 27, 2026",
     "url": "https://es.mongabay.com/2026/05/inteligencia-artificial-aliada-clave-conservar-biodiversidad-america-latina/"
-  },
-  {
-    "titulo": "Comunidades kichwa lograron proteger su territorio gracias a la IA entrenada con miles de sonidos de la Amazonía ecuatoriana",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22000423/foto-portada-768x512.jpg",
-    "fecha": "May 27, 2026",
-    "url": "https://es.mongabay.com/2026/05/comunidades-kichwa-protegen-territorio-ia-entrenada-miles-sonidos-amazonia-ecuatoriana/"
   },
   {
     "titulo": "Argentina: las ballenas jorobadas regresaron al Canal Beagle en busca de alimento",
@@ -22,12 +34,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/21140836/Still-6_55-768x512.png",
     "fecha": "May 26, 2026",
     "url": "https://es.mongabay.com/2026/05/inteligencia-artificial-permite-regreso-conchas-mares-costa-rica/"
-  },
-  {
-    "titulo": "El último refugio de las polillas: inteligencia artificial para descifrar la «diversidad oscura» en Panamá",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22005802/PORTADA-Francisco-Serrano-Panama-768x512.png",
-    "fecha": "May 26, 2026",
-    "url": "https://es.mongabay.com/2026/05/ultimo-refugio-polillas-inteligencia-artificial-descifrar-diversidad-oscura-panama/"
   },
   {
     "titulo": "Los códigos del canto: los algoritmos revolucionan el estudio poblacional de la gallineta chica en Argentina",
@@ -7590,7 +7596,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu May 28 15:43:10 2026",
+    "titulo": "Última actualización automática - Thu May 28 20:17:15 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
