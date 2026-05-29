@@ -50,6 +50,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-05-29T12:25:53.648Z",
+    "lugar": "13 km NNE of Palpacachi, Peru",
+    "magnitud": "4.8",
+    "lat": -13.758,
+    "lon": -72.4559
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-05-29T05:32:39.548Z",
     "lugar": "86 km S of Pacocha, Peru",
     "magnitud": "5.1",
