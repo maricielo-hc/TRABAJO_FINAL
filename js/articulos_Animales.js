@@ -6,6 +6,12 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/05/comunidades-kichwa-protegen-territorio-ia-entrenada-miles-sonidos-amazonia-ecuatoriana/"
   },
   {
+    "titulo": "Los códigos del canto: los algoritmos revolucionan el estudio poblacional de la gallineta chica en Argentina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/19202318/Gallineta-Chica_Hernan-Povedano-1-768x512.jpg",
+    "fecha": "May 28, 2026",
+    "url": "https://es.mongabay.com/2026/05/algoritmos-revolucionan-estudio-gallineta-chica-argentina/"
+  },
+  {
     "titulo": "El último refugio de las polillas: inteligencia artificial para descifrar la «diversidad oscura» en Panamá",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22005802/PORTADA-Francisco-Serrano-Panama-768x512.png",
     "fecha": "May 28, 2026",
@@ -34,12 +40,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/21140836/Still-6_55-768x512.png",
     "fecha": "May 26, 2026",
     "url": "https://es.mongabay.com/2026/05/inteligencia-artificial-permite-regreso-conchas-mares-costa-rica/"
-  },
-  {
-    "titulo": "Los códigos del canto: los algoritmos revolucionan el estudio poblacional de la gallineta chica en Argentina",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/19202318/Gallineta-Chica_Hernan-Povedano-1-768x512.jpg",
-    "fecha": "May 26, 2026",
-    "url": "https://es.mongabay.com/2026/05/algoritmos-revolucionan-estudio-gallineta-chica-argentina/"
   },
   {
     "titulo": "Claves para evitar las colisiones de aves con estructuras urbanas, según una red de ciencia participativa | ENTREVISTA",
@@ -7596,7 +7596,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu May 28 20:17:15 2026",
+    "titulo": "Última actualización automática - Fri May 29 02:49:03 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
