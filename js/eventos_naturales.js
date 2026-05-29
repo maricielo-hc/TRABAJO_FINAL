@@ -58,6 +58,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-05-29T09:08:47.514Z",
+    "lugar": "70 km ENE of San Fernando, Peru",
+    "magnitud": "4.5",
+    "lat": -8.1696,
+    "lon": -73.9355
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-05-29T05:32:39.548Z",
     "lugar": "86 km S of Pacocha, Peru",
     "magnitud": "5.1",
