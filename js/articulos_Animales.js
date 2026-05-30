@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Peces, pulpos y estrellas de mar: Argentina incauta más de 700 animales marinos traficados desde Kenia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/28203834/AP26146520215343-768x512.jpg",
+    "fecha": "May 30, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/05/peces-pulpos-estrellas-de-mar-argentina-incauta-700-animales-marinos-traficados-desde-kenia/"
+  },
+  {
     "titulo": "Los códigos del canto: los algoritmos revolucionan el estudio poblacional de la gallineta chica en Argentina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/19202318/Gallineta-Chica_Hernan-Povedano-1-768x512.jpg",
     "fecha": "May 29, 2026",
@@ -7596,7 +7602,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat May 30 08:27:41 2026",
+    "titulo": "Última actualización automática - Sat May 30 13:21:57 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
