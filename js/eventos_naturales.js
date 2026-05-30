@@ -175,6 +175,83 @@ const eventosNaturales = [
     "lon": -76.16536
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:53",
+    "lat": -5.99912,
+    "lon": -80.12414
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:53",
+    "lat": -6.00104,
+    "lon": -80.1115
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:53",
+    "lat": -7.19446,
+    "lon": -76.65828
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:55",
+    "lat": -8.31318,
+    "lon": -78.92007
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:55",
+    "lat": -8.31468,
+    "lon": -78.90999
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:55",
+    "lat": -8.32252,
+    "lon": -78.92155
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:55",
+    "lat": -11.38435,
+    "lon": -74.96633
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:55",
+    "lat": -12.75432,
+    "lon": -70.08219
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:55",
+    "lat": -13.7888,
+    "lon": -76.17039
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:55",
+    "lat": -13.92242,
+    "lon": -75.86217
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "13:55",
+    "lat": -13.92377,
+    "lon": -75.85209
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-30T04:09:15.250Z",
     "lugar": "60 km SSW of Pacocha, Peru",
