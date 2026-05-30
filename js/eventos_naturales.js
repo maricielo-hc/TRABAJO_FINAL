@@ -168,6 +168,13 @@ const eventosNaturales = [
     "lon": -70.18783
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-30",
+    "hora": "08:33",
+    "lat": -13.78304,
+    "lon": -76.16536
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-30T04:09:15.250Z",
     "lugar": "60 km SSW of Pacocha, Peru",
@@ -214,13 +221,5 @@ const eventosNaturales = [
     "magnitud": "4.4",
     "lat": -16.872,
     "lon": -69.5374
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-05-23T08:44:52.286Z",
-    "lugar": "73 km ESE of Sucúa, Ecuador",
-    "magnitud": "4.5",
-    "lat": -2.6369,
-    "lon": -77.5345
   }
 ];
