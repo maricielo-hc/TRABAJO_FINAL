@@ -48,6 +48,12 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/05/argentina-ballenas-jorobadas-regresaron-canal-beagle-alimento/"
   },
   {
+    "titulo": "La inteligencia artificial que permite el regreso masivo de conchas a los mares de Costa Rica",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/21140836/Still-6_55-768x512.png",
+    "fecha": "May 26, 2026",
+    "url": "https://es.mongabay.com/2026/05/inteligencia-artificial-permite-regreso-conchas-mares-costa-rica/"
+  },
+  {
     "titulo": "Claves para evitar las colisiones de aves con estructuras urbanas, según una red de ciencia participativa | ENTREVISTA",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22202806/Captura-de-pantalla-2026-05-22-a-las-1.27.34-p.m-768x512.png",
     "fecha": "May 24, 2026",
@@ -7602,7 +7608,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun May 31 08:43:55 2026",
+    "titulo": "Última actualización automática - Sun May 31 13:30:32 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
