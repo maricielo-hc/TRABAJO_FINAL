@@ -224,6 +224,13 @@
     "lon": -76.6572
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-05-31",
+    "hora": "14:29",
+    "lat": -3.52103,
+    "lon": -80.31222
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-05-30T04:09:15.250Z",
     "lugar": "60 km SSW of Pacocha, Peru",
