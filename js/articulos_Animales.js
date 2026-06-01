@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Ecuador: crean una «isla inteligente» para salvar a Galápagos de las especies invasoras",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22230804/Jocotoco-and-Park-Ranger-Floreana_Smart_Island_team_setup-enero-2026-Bryan-Perez-768x512.jpg",
+    "fecha": "Jun 01, 2026",
+    "url": "https://es.mongabay.com/2026/06/ecuador-floreana-isla-inteligente-salvar-galapagos-especies-invasoras/"
+  },
+  {
     "titulo": "Peces, pulpos y estrellas de mar: Argentina incauta más de 700 animales marinos traficados desde Kenia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/28203834/AP26146520215343-768x512.jpg",
     "fecha": "May 30, 2026",
@@ -7608,7 +7614,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Jun  1 11:27:08 2026",
+    "titulo": "Última actualización automática - Mon Jun  1 17:32:36 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
