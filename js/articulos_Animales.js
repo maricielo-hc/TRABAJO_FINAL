@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Cocodrilos sin alimento: autoridades ambientales de Colombia anuncian medidas para resolver conflicto que los pone en riesgo",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/01194801/cocodrilos-colombia-autoridades-ambientales-medidas-768x512.jpeg",
+    "fecha": "Jun 01, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/06/cocodrilos-colombia-alimento-autoridades-ambientales-medidas/"
+  },
+  {
     "titulo": "Ecuador: crean una «isla inteligente» para salvar a Galápagos de las especies invasoras",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22230804/Jocotoco-and-Park-Ranger-Floreana_Smart_Island_team_setup-enero-2026-Bryan-Perez-768x512.jpg",
     "fecha": "Jun 01, 2026",
@@ -7614,7 +7620,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Jun  1 21:31:10 2026",
+    "titulo": "Última actualización automática - Tue Jun  2 03:32:57 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
