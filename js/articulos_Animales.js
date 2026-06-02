@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Bolivia: la jaguar Shiva pudo ser atendida en La Paz, superó la infección en el maxilar y regresa a su refugio",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/02171521/711679907_18009322121910660_8867788725561610832_n-768x512.jpg",
+    "fecha": "Jun 02, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/06/bolivia-jaguar-shiva-supera-infeccion-maxilar-regresa-refugio/"
+  },
+  {
     "titulo": "Ecuador: crean una «isla inteligente» para salvar a Galápagos de las especies invasoras",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22230804/Jocotoco-and-Park-Ranger-Floreana_Smart_Island_team_setup-enero-2026-Bryan-Perez-768x512.jpg",
     "fecha": "Jun 02, 2026",
@@ -7626,7 +7632,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Jun  2 16:17:08 2026",
+    "titulo": "Última actualización automática - Tue Jun  2 20:45:10 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
