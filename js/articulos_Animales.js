@@ -1,15 +1,21 @@
 const articulos = [
   {
+    "titulo": "Ecuador: crean una «isla inteligente» para salvar a Galápagos de las especies invasoras",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22230804/Jocotoco-and-Park-Ranger-Floreana_Smart_Island_team_setup-enero-2026-Bryan-Perez-768x512.jpg",
+    "fecha": "Jun 02, 2026",
+    "url": "https://es.mongabay.com/2026/06/ecuador-floreana-isla-inteligente-salvar-galapagos-especies-invasoras/"
+  },
+  {
+    "titulo": "Perú: la inteligencia artificial analiza miles de imágenes para estimar la densidad de jaguares en la Reserva Nacional Tambopata",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/01173252/FOTO-1-768x512.jpg",
+    "fecha": "Jun 02, 2026",
+    "url": "https://es.mongabay.com/2026/06/peru-inteligencia-artificial-conservacion-jaguares-reserva-nacional-tambopata/"
+  },
+  {
     "titulo": "Cocodrilos sin alimento: autoridades ambientales de Colombia anuncian medidas para resolver conflicto que los pone en riesgo",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/01194801/cocodrilos-colombia-autoridades-ambientales-medidas-768x512.jpeg",
     "fecha": "Jun 01, 2026",
     "url": "https://es.mongabay.com/short-article/2026/06/cocodrilos-colombia-alimento-autoridades-ambientales-medidas/"
-  },
-  {
-    "titulo": "Ecuador: crean una «isla inteligente» para salvar a Galápagos de las especies invasoras",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/22230804/Jocotoco-and-Park-Ranger-Floreana_Smart_Island_team_setup-enero-2026-Bryan-Perez-768x512.jpg",
-    "fecha": "Jun 01, 2026",
-    "url": "https://es.mongabay.com/2026/06/ecuador-floreana-isla-inteligente-salvar-galapagos-especies-invasoras/"
   },
   {
     "titulo": "Peces, pulpos y estrellas de mar: Argentina incauta más de 700 animales marinos traficados desde Kenia",
@@ -7620,7 +7626,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Jun  2 10:18:16 2026",
+    "titulo": "Última actualización automática - Tue Jun  2 16:17:08 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
