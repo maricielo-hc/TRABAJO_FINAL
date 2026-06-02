@@ -161,6 +161,27 @@ const eventosNaturales = [
     "lon": -77.66366
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-02",
+    "hora": "14:12",
+    "lat": -6.15285,
+    "lon": -79.94347
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-02",
+    "hora": "14:12",
+    "lat": -6.15413,
+    "lon": -79.93434
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-02",
+    "hora": "14:12",
+    "lat": -9.26624,
+    "lon": -73.25056
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-01T23:53:54.025Z",
     "lugar": "17 km WNW of San Ramón, Peru",
