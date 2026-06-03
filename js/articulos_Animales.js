@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Colombia: autoridades anunciaron que alimentarán a cocodrilos y que habría acuerdos tras meses de conflicto",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/12135651/cocodrilos-orinoco-colombia-conflicto-alimento-unal-2-1200x806-1-768x512.jpg",
+    "fecha": "Jun 03, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/06/colombia-cocodrilos-alimentacion-acuerdos-conflicto/"
+  },
+  {
     "titulo": "Bolivia: la jaguar Shiva pudo ser atendida en La Paz, superó la infección en el maxilar y regresa a su refugio",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/02171521/711679907_18009322121910660_8867788725561610832_n-768x512.jpg",
     "fecha": "Jun 02, 2026",
@@ -7632,7 +7638,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jun  3 16:32:24 2026",
+    "titulo": "Última actualización automática - Wed Jun  3 20:56:07 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
