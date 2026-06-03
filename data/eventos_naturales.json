@@ -227,13 +227,5 @@
     "magnitud": "5.1",
     "lat": -18.4158,
     "lon": -71.4602
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-05-27T11:14:06.894Z",
-    "lugar": "21 km SSE of El Algarrobal, Peru",
-    "magnitud": "4.4",
-    "lat": -17.7903,
-    "lon": -71.1743
   }
 ]
