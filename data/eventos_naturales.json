@@ -189,6 +189,56 @@
     "lon": -80.80339
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-03",
+    "hora": "20:00",
+    "lat": -8.19428,
+    "lon": -70.08295
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-03",
+    "hora": "20:00",
+    "lat": -8.04051,
+    "lon": -71.25996
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-03",
+    "hora": "20:00",
+    "lat": -7.33251,
+    "lon": -72.97661
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-03",
+    "hora": "20:00",
+    "lat": -7.33485,
+    "lon": -72.99342
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-03",
+    "hora": "20:00",
+    "lat": -12.90209,
+    "lon": -72.707
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-03",
+    "hora": "20:00",
+    "lat": -9.47902,
+    "lon": -70.48082
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-06-03T17:21:24.203Z",
+    "lugar": "39 km NE of San Fernando, Peru",
+    "magnitud": "5.2",
+    "lat": -8.2012,
+    "lon": -74.2436
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-01T23:53:54.025Z",
     "lugar": "17 km WNW of San Ramón, Peru",
