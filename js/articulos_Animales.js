@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Del laboratorio al río: ¿podrá la reintroducción de especies salvar a las ranas arlequín en Ecuador?",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/04004143/Atelopus-limon_SGS_11-scaled-e1780535527240-768x512.jpg",
+    "fecha": "Jun 04, 2026",
+    "url": "https://es.mongabay.com/2026/06/reintroduccion-especies-ranas-arlequin-ecuador/"
+  },
+  {
     "titulo": "Colombia: autoridades anunciaron que alimentarán a cocodrilos y que habría acuerdos tras meses de conflicto",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/12135651/cocodrilos-orinoco-colombia-conflicto-alimento-unal-2-1200x806-1-768x512.jpg",
     "fecha": "Jun 03, 2026",
@@ -7638,7 +7644,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Jun  4 14:51:53 2026",
+    "titulo": "Última actualización automática - Thu Jun  4 20:03:34 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
