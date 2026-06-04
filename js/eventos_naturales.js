@@ -1,195 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "01:49",
-    "lat": -8.17737,
-    "lon": -77.20819
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "01:49",
-    "lat": -0.08561,
-    "lon": -77.66263
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "01:49",
-    "lat": -0.07595,
-    "lon": -77.66366
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "14:12",
-    "lat": -6.15285,
-    "lon": -79.94347
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "14:12",
-    "lat": -6.15413,
-    "lon": -79.93434
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "14:12",
-    "lat": -9.26624,
-    "lon": -73.25056
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -7.43995,
-    "lon": -79.54678
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.96808,
-    "lon": -79.61855
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.96982,
-    "lon": -79.62963
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.96569,
-    "lon": -79.61326
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.96736,
-    "lon": -79.62434
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.72636,
-    "lon": -79.84266
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.654,
-    "lon": -79.84952
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.64139,
-    "lon": -79.89575
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.64809,
-    "lon": -79.9387
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.63788,
-    "lon": -79.89098
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.6395,
-    "lon": -79.90176
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.55603,
-    "lon": -79.93681
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.55116,
-    "lon": -79.93327
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.53175,
-    "lon": -79.86993
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.16308,
-    "lon": -79.9411
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.1534,
-    "lon": -79.94266
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "20:59",
-    "lat": -6.04715,
-    "lon": -79.38009
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "21:01",
-    "lat": -5.34459,
-    "lon": -80.70622
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "21:01",
-    "lat": -5.27145,
-    "lon": -80.70249
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "21:01",
-    "lat": -4.85429,
-    "lon": -80.83211
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-02",
-    "hora": "21:01",
-    "lat": -4.84034,
-    "lon": -80.80339
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-06-03",
     "hora": "20:00",
     "lat": -8.19428,
@@ -229,6 +40,21 @@ const eventosNaturales = [
     "hora": "20:00",
     "lat": -9.47902,
     "lon": -70.48082
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-04",
+    "hora": "01:28",
+    "lat": -7.9419,
+    "lon": -71.45897
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-06-04T09:00:09.987Z",
+    "lugar": "48 km SW of Santiago de Cao, Peru",
+    "magnitud": "4.9",
+    "lat": -8.2783,
+    "lon": -79.535
   },
   {
     "tipo": "Sismo",
