@@ -49,6 +49,20 @@ const eventosNaturales = [
     "lon": -71.45897
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-04",
+    "hora": "13:53",
+    "lat": -6.74972,
+    "lon": -71.69811
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-04",
+    "hora": "13:53",
+    "lat": -7.9396,
+    "lon": -71.46348
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-04T09:00:09.987Z",
     "lugar": "48 km SW of Santiago de Cao, Peru",
