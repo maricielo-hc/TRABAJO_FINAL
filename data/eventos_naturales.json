@@ -63,6 +63,55 @@
     "lon": -71.46348
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-04",
+    "hora": "20:36",
+    "lat": -13.78864,
+    "lon": -76.17203
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-04",
+    "hora": "20:36",
+    "lat": -8.71363,
+    "lon": -68.97079
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-04",
+    "hora": "20:36",
+    "lat": -7.94294,
+    "lon": -71.47122
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-04",
+    "hora": "20:38",
+    "lat": -7.9586,
+    "lon": -77.93513
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-04",
+    "hora": "20:38",
+    "lat": -6.56791,
+    "lon": -76.37901
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-04",
+    "hora": "20:38",
+    "lat": -6.60378,
+    "lon": -79.88952
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-04",
+    "hora": "20:38",
+    "lat": -5.71084,
+    "lon": -77.52572
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-04T09:00:09.987Z",
     "lugar": "48 km SW of Santiago de Cao, Peru",
