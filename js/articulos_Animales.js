@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "Del laboratorio al río: ¿podrá la reintroducción de especies salvar a las ranas arlequín en Ecuador?",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/04004143/Atelopus-limon_SGS_11-scaled-e1780535527240-768x512.jpg",
-    "fecha": "Jun 04, 2026",
+    "fecha": "Jun 05, 2026",
     "url": "https://es.mongabay.com/2026/06/reintroduccion-especies-ranas-arlequin-ecuador/"
+  },
+  {
+    "titulo": "Día Mundial del Medioambiente: tres investigaciones que muestran cómo la ciencia enfrenta el cambio climático",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/03180023/Amazonia-y-cambio-climatico-Jesus-ACCA-1-768x512.jpg",
+    "fecha": "Jun 05, 2026",
+    "url": "https://es.mongabay.com/2026/06/dia-mundial-del-medioambiente-investigaciones-ciencia-cambio-climatico/"
   },
   {
     "titulo": "Colombia: autoridades anunciaron que alimentarán a cocodrilos y que habría acuerdos tras meses de conflicto",
@@ -7644,7 +7650,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Jun  5 09:42:37 2026",
+    "titulo": "Última actualización automática - Fri Jun  5 14:42:06 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
