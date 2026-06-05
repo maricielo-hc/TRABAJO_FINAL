@@ -86,11 +86,11 @@
   },
   {
     "tipo": "Sismo",
-    "fecha": "2026-06-03T17:21:24.203Z",
-    "lugar": "39 km NE of San Fernando, Peru",
+    "fecha": "2026-06-03T17:21:25.301Z",
+    "lugar": "35 km ENE of San Fernando, Peru",
     "magnitud": "5.2",
-    "lat": -8.2012,
-    "lon": -74.2436
+    "lat": -8.2249,
+    "lon": -74.263
   },
   {
     "tipo": "Sismo",
