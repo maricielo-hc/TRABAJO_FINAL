@@ -12,6 +12,12 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/06/dia-mundial-del-medioambiente-investigaciones-ciencia-cambio-climatico/"
   },
   {
+    "titulo": "Reportaje fotográfico | El asombroso parque de Ecuador donde habitan lobos de páramo, osos y más de 500 especies de aves",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2022/08/02180541/00-Lycalopex-culpaeus-Parque-Nacional-Podocarpus-Cajanuma-2-768x512.jpg",
+    "fecha": "Jun 05, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/06/reportaje-fotografico-asombroso-parque-ecuador-habitan-lobos-de-paramo-osos-aves/"
+  },
+  {
     "titulo": "Colombia: autoridades anunciaron que alimentarán a cocodrilos y que habría acuerdos tras meses de conflicto",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/12135651/cocodrilos-orinoco-colombia-conflicto-alimento-unal-2-1200x806-1-768x512.jpg",
     "fecha": "Jun 03, 2026",
@@ -7650,7 +7656,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Jun  5 14:42:06 2026",
+    "titulo": "Última actualización automática - Fri Jun  5 19:52:39 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
