@@ -1,48 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-06-03",
-    "hora": "20:00",
-    "lat": -8.19428,
-    "lon": -70.08295
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-03",
-    "hora": "20:00",
-    "lat": -8.04051,
-    "lon": -71.25996
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-03",
-    "hora": "20:00",
-    "lat": -7.33251,
-    "lon": -72.97661
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-03",
-    "hora": "20:00",
-    "lat": -7.33485,
-    "lon": -72.99342
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-03",
-    "hora": "20:00",
-    "lat": -12.90209,
-    "lon": -72.707
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-03",
-    "hora": "20:00",
-    "lat": -9.47902,
-    "lon": -70.48082
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-06-04",
     "hora": "01:28",
     "lat": -7.9419,
@@ -112,6 +70,13 @@ const eventosNaturales = [
     "lon": -77.52572
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-05",
+    "hora": "02:04",
+    "lat": -13.78835,
+    "lon": -76.1721
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-04T09:00:09.987Z",
     "lugar": "48 km SW of Santiago de Cao, Peru",
@@ -150,21 +115,5 @@ const eventosNaturales = [
     "magnitud": "4.8",
     "lat": -13.758,
     "lon": -72.4559
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-05-29T09:08:47.514Z",
-    "lugar": "70 km ENE of San Fernando, Peru",
-    "magnitud": "4.5",
-    "lat": -8.1696,
-    "lon": -73.9355
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-05-29T05:32:39.548Z",
-    "lugar": "86 km S of Pacocha, Peru",
-    "magnitud": "5.1",
-    "lat": -18.4158,
-    "lon": -71.4602
   }
 ];
