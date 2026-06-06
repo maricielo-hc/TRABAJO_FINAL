@@ -77,6 +77,27 @@
     "lon": -76.1721
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-05",
+    "hora": "19:34",
+    "lat": -16.36191,
+    "lon": -69.22988
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-05",
+    "hora": "19:38",
+    "lat": -5.11565,
+    "lon": -71.84241
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-05",
+    "hora": "21:16",
+    "lat": -7.76251,
+    "lon": -79.12722
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-04T09:00:09.987Z",
     "lugar": "48 km SW of Santiago de Cao, Peru",
