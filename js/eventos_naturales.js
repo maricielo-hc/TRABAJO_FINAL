@@ -28,6 +28,28 @@ const eventosNaturales = [
     "lon": -79.12722
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-06",
+    "hora": "13:33",
+    "lat": -13.79105,
+    "lon": -76.16858
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-06",
+    "hora": "13:33",
+    "lat": -13.81661,
+    "lon": -76.13609
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-06-06T16:30:42.397Z",
+    "lugar": "33 km WSW of Callao, Peru",
+    "magnitud": "4.6",
+    "lat": -12.2009,
+    "lon": -77.3929
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-06T04:24:48.388Z",
     "lugar": "75 km SW of San Juan, Peru",
