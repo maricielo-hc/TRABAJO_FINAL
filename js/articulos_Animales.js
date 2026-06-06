@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Monitoras chinantecas: las mujeres que protegen al bosque y los animales con cámaras trampa en Oaxaca",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/25215950/Captura-de-pantalla-2026-05-25-a-las-3.59.12-p.m-768x512.png",
+    "fecha": "Jun 06, 2026",
+    "url": "https://es.mongabay.com/2026/06/monitoras-chinantecas-mujeres-protegen-bosque-animales-camaras-trampa-oaxaca/"
+  },
+  {
     "titulo": "Del laboratorio al río: ¿podrá la reintroducción de especies salvar a las ranas arlequín en Ecuador?",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/04004143/Atelopus-limon_SGS_11-scaled-e1780535527240-768x512.jpg",
     "fecha": "Jun 05, 2026",
@@ -7656,7 +7662,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Jun  6 08:33:14 2026",
+    "titulo": "Última actualización automática - Sat Jun  6 13:25:59 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
