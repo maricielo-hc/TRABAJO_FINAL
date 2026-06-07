@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "El regreso de los monos: tres historias de conservación que les dan esperanza en América Latina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31051407/Foto-10-Creditos-Salve-Monos-768x512.jpg",
+    "fecha": "Jun 07, 2026",
+    "url": "https://es.mongabay.com/2026/06/regreso-monos-historias-conservacion-america-latina/"
+  },
+  {
     "titulo": "Reportaje fotográfico | El asombroso parque de Ecuador donde habitan lobos de páramo, osos y más de 500 especies de aves",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2022/08/02180541/00-Lycalopex-culpaeus-Parque-Nacional-Podocarpus-Cajanuma-2-768x512.jpg",
     "fecha": "Jun 06, 2026",
@@ -10,12 +16,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/25215950/Captura-de-pantalla-2026-05-25-a-las-3.59.12-p.m-768x512.png",
     "fecha": "Jun 06, 2026",
     "url": "https://es.mongabay.com/2026/06/monitoras-chinantecas-mujeres-protegen-bosque-animales-camaras-trampa-oaxaca/"
-  },
-  {
-    "titulo": "El regreso de los monos: tres historias de conservación que les dan esperanza en América Latina",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31051407/Foto-10-Creditos-Salve-Monos-768x512.jpg",
-    "fecha": "Jun 06, 2026",
-    "url": "https://es.mongabay.com/2026/06/regreso-monos-historias-conservacion-america-latina/"
   },
   {
     "titulo": "Del laboratorio al río: ¿podrá la reintroducción de especies salvar a las ranas arlequín en Ecuador?",
@@ -7668,7 +7668,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Jun  7 13:46:55 2026",
+    "titulo": "Última actualización automática - Sun Jun  7 19:19:32 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
