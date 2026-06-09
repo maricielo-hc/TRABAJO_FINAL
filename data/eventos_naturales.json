@@ -56,6 +56,20 @@
     "lon": -79.51227
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-08",
+    "hora": "19:53",
+    "lat": -10.84103,
+    "lon": -69.44796
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-08",
+    "hora": "19:53",
+    "lat": -7.27538,
+    "lon": -72.72267
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-07T15:43:18.800Z",
     "lugar": "75 km SW of Santiago, Peru",
@@ -94,13 +108,5 @@
     "magnitud": "5.2",
     "lat": -8.2249,
     "lon": -74.263
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-06-01T23:53:54.121Z",
-    "lugar": "19 km WNW of San Ramón, Peru",
-    "magnitud": "4.3",
-    "lat": -11.0526,
-    "lon": -75.5204
   }
 ]
