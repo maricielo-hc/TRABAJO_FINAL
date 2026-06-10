@@ -58,13 +58,5 @@ const eventosNaturales = [
     "magnitud": "4.9",
     "lat": -8.2783,
     "lon": -79.535
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-06-03T17:21:25.301Z",
-    "lugar": "35 km ENE of San Fernando, Peru",
-    "magnitud": "5.2",
-    "lat": -8.2249,
-    "lon": -74.263
   }
 ];
