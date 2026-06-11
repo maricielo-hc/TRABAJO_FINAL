@@ -28,6 +28,48 @@ const eventosNaturales = [
     "lon": -80.66605
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-10",
+    "hora": "21:10",
+    "lat": -6.9224,
+    "lon": -79.59608
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-10",
+    "hora": "21:10",
+    "lat": -5.32006,
+    "lon": -80.71676
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-10",
+    "hora": "21:10",
+    "lat": -5.30079,
+    "lon": -80.66289
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-10",
+    "hora": "21:10",
+    "lat": -4.83379,
+    "lon": -80.83778
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-10",
+    "hora": "21:08",
+    "lat": -8.73975,
+    "lon": -77.81091
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-10",
+    "hora": "21:08",
+    "lat": -8.73974,
+    "lon": -77.81709
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-07T15:43:18.800Z",
     "lugar": "75 km SW of Santiago, Peru",
