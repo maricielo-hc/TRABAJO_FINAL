@@ -1,34 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-06-09",
-    "hora": "01:28",
-    "lat": -0.07801,
-    "lon": -77.6603
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-09",
-    "hora": "20:29",
-    "lat": -13.69514,
-    "lon": -76.05394
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-09",
-    "hora": "20:32",
-    "lat": -7.20655,
-    "lon": -79.4657
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-09",
-    "hora": "20:32",
-    "lat": -5.39677,
-    "lon": -80.66605
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-06-10",
     "hora": "21:10",
     "lat": -6.9224,
@@ -92,13 +64,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -15.8169,
     "lon": -75.6938
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-06-04T09:00:09.987Z",
-    "lugar": "48 km SW of Santiago de Cao, Peru",
-    "magnitud": "4.9",
-    "lat": -8.2783,
-    "lon": -79.535
   }
 ];
