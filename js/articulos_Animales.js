@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Mujeres indígenas contra la crisis ambiental: así protegen tortugas, jaguares, bosques y fuentes de agua en América Latina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/08030423/Un-grupo-de-mujeres-quechua-que-reforestan-el-parque-Tunari.-FOTO-FAUNAGUA-768x512.jpg",
+    "fecha": "Jun 13, 2026",
+    "url": "https://es.mongabay.com/2026/06/mujeres-indigenas-contra-crisis-ambiental-protegen-tortugas-jaguares-bosques-agua-america-latina/"
+  },
+  {
     "titulo": "El regreso de los monos: tres historias de conservación que les dan esperanza en América Latina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31051407/Foto-10-Creditos-Salve-Monos-768x512.jpg",
     "fecha": "Jun 07, 2026",
@@ -7668,7 +7674,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Jun 13 08:56:55 2026",
+    "titulo": "Última actualización automática - Sat Jun 13 13:53:27 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
