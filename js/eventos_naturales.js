@@ -154,13 +154,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -14.6568,
     "lon": -76.2166
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-06-06T16:30:42.397Z",
-    "lugar": "33 km WSW of Callao, Peru",
-    "magnitud": "4.6",
-    "lat": -12.2009,
-    "lon": -77.3929
   }
 ];
