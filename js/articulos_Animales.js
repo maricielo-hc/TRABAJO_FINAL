@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "¿Puede la inteligencia artificial proteger la biodiversidad en América Latina? | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/01173218/FOTO-4-768x512.jpg",
-    "fecha": "Jun 14, 2026",
+    "fecha": "Jun 15, 2026",
     "url": "https://es.mongabay.com/2026/06/inteligencia-artificial-proteger-biodiversidad-america-latina-lecturas-ambientales/"
   },
   {
@@ -7680,7 +7680,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Jun 15 11:58:45 2026",
+    "titulo": "Última actualización automática - Mon Jun 15 17:12:55 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
