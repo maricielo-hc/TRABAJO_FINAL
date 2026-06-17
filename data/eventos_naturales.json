@@ -56,6 +56,27 @@
     "lon": -80.72774
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-16",
+    "hora": "20:04",
+    "lat": -0.5156,
+    "lon": -79.3616
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-16",
+    "hora": "20:02",
+    "lat": -16.5192,
+    "lon": -69.22974
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-16",
+    "hora": "20:02",
+    "lat": -15.5331,
+    "lon": -70.2069
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-13T06:35:39.650Z",
     "lugar": "0 km ESE of Suyo, Peru",
