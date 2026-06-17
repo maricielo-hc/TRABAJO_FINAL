@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Día Mundial de las Tortugas Marinas: tres historias dan esperanza en América Latina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/16002529/Credito_-Proyecto-Tortuga-Laud-Argentina-1-768x512.jpg",
+    "fecha": "Jun 16, 2026",
+    "url": "https://es.mongabay.com/2026/06/dia-mundial-tortugas-marinas-historias-esperanza-america-latina/"
+  },
+  {
     "titulo": "¿Puede la inteligencia artificial proteger la biodiversidad en América Latina? | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/01173218/FOTO-4-768x512.jpg",
     "fecha": "Jun 15, 2026",
@@ -7680,7 +7686,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jun 17 15:20:36 2026",
+    "titulo": "Última actualización automática - Wed Jun 17 20:11:24 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
