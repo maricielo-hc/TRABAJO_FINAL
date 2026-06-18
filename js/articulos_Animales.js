@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Una nueva rata vizcacha del Chaco Serrano revela la biodiversidad aún desconocida de Argentina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/18192344/oo_1677625-768x512.jpg",
+    "fecha": "Jun 18, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/06/nueva-rata-vizcacha-chaco-serrano-revela-biodiversidad-desconocida-argentina/"
+  },
+  {
     "titulo": "Día Mundial de las Tortugas Marinas: tres historias dan esperanza en América Latina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/16002529/Credito_-Proyecto-Tortuga-Laud-Argentina-1-768x512.jpg",
     "fecha": "Jun 16, 2026",
@@ -7686,7 +7692,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Jun 18 15:01:30 2026",
+    "titulo": "Última actualización automática - Thu Jun 18 20:22:05 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
