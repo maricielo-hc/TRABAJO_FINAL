@@ -1,13 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-06-18",
-    "hora": "13:12",
-    "lat": -13.75073,
-    "lon": -68.11032
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-06-19",
     "hora": "01:22",
     "lat": -14.54666,
@@ -154,11 +147,24 @@ const eventosNaturales = [
     "lon": -75.74993
   },
   {
-    "tipo": "Sismo",
-    "fecha": "2026-06-13T06:35:39.650Z",
-    "lugar": "0 km ESE of Suyo, Peru",
-    "magnitud": "5.1",
-    "lat": -4.5157,
-    "lon": -79.9986
+    "tipo": "Incendio",
+    "fecha": "2026-06-20",
+    "hora": "02:04",
+    "lat": -4.01339,
+    "lon": -79.37713
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-20",
+    "hora": "02:04",
+    "lat": -4.01461,
+    "lon": -79.38615
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-20",
+    "hora": "02:06",
+    "lat": -0.08214,
+    "lon": -77.6616
   }
 ];
