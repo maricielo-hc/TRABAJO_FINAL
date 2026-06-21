@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Ranas, roedores y pulpos: descubren tres nuevas especies en América Latina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/24045022/Graneledone-sellanesi-2024-2-768x512.jpeg",
+    "fecha": "Jun 21, 2026",
+    "url": "https://es.mongabay.com/2026/06/ranas-roedores-pulpos-descubren-nuevas-especies-america-latina/"
+  },
+  {
     "titulo": "Una nueva rata vizcacha del Chaco Serrano revela la biodiversidad aún desconocida de Argentina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/18192344/oo_1677625-768x512.jpg",
     "fecha": "Jun 18, 2026",
@@ -7692,7 +7698,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Jun 21 14:02:50 2026",
+    "titulo": "Última actualización automática - Sun Jun 21 19:28:08 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
