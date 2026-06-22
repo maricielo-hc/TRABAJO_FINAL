@@ -161,11 +161,26 @@
     "lon": -69.03954
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-22",
+    "hora": "14:05",
+    "lat": -0.10278,
+    "lon": -78.47411
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-21T08:50:13.934Z",
     "lugar": "16 km E of Torata, Peru",
     "magnitud": "4.7",
     "lat": -17.055,
     "lon": -70.6857
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-06-18T05:12:45.463Z",
+    "lugar": "33 km E of San Fernando, Peru",
+    "magnitud": "4.5",
+    "lat": -8.3497,
+    "lon": -74.2379
   }
 ]
