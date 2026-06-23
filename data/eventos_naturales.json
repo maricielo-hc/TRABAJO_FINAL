@@ -448,6 +448,20 @@
     "lon": -80.535
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-23",
+    "hora": "13:10",
+    "lat": -14.16979,
+    "lon": -69.7177
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-23",
+    "hora": "13:10",
+    "lat": -17.75764,
+    "lon": -68.06409
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-21T08:50:13.934Z",
     "lugar": "16 km E of Torata, Peru",
