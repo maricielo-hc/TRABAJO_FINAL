@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Gato andino reaparece en Argentina: alianza entre científicos, comunidades y ganaderos abre una ruta de esperanza",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/22170005/Registro-gato-andino-en-enero-de-2026-via-camaras-trampa-de-WCS-Argentina.-Credito-WCS-Argentina-_-768x512.jpg",
+    "fecha": "Jun 23, 2026",
+    "url": "https://es.mongabay.com/2026/06/gato-andino-reaparece-argentina-alianza-cientificos-comunidades-ganaderos-conservacion/"
+  },
+  {
     "titulo": "Ranas, roedores y pulpos: descubren tres nuevas especies en América Latina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/02/24045022/Graneledone-sellanesi-2024-2-768x512.jpeg",
     "fecha": "Jun 21, 2026",
@@ -7698,7 +7704,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Jun 23 14:42:19 2026",
+    "titulo": "Última actualización automática - Tue Jun 23 19:59:15 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
