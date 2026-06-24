@@ -462,6 +462,34 @@ const eventosNaturales = [
     "lon": -68.06409
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-23",
+    "hora": "21:14",
+    "lat": -6.69169,
+    "lon": -79.78641
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-23",
+    "hora": "21:14",
+    "lat": -5.50479,
+    "lon": -80.75565
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-23",
+    "hora": "21:14",
+    "lat": -3.57342,
+    "lon": -80.50832
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-23",
+    "hora": "21:14",
+    "lat": -3.57858,
+    "lon": -80.51292
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-21T08:50:13.934Z",
     "lugar": "16 km E of Torata, Peru",
