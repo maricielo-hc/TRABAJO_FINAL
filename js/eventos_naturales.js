@@ -1,48 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-06-23",
-    "hora": "13:10",
-    "lat": -14.16979,
-    "lon": -69.7177
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-23",
-    "hora": "13:10",
-    "lat": -17.75764,
-    "lon": -68.06409
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-23",
-    "hora": "21:14",
-    "lat": -6.69169,
-    "lon": -79.78641
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-23",
-    "hora": "21:14",
-    "lat": -5.50479,
-    "lon": -80.75565
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-23",
-    "hora": "21:14",
-    "lat": -3.57342,
-    "lon": -80.50832
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-06-23",
-    "hora": "21:14",
-    "lat": -3.57858,
-    "lon": -80.51292
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-06-24",
     "hora": "01:22",
     "lat": -16.32399,
@@ -224,6 +182,48 @@ const eventosNaturales = [
     "lon": -76.28169
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "02:00",
+    "lat": -15.79622,
+    "lon": -70.17286
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "02:02",
+    "lat": -9.18118,
+    "lon": -77.78391
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "02:04",
+    "lat": -3.502,
+    "lon": -79.15942
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "02:04",
+    "lat": -3.50318,
+    "lon": -79.16806
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "02:04",
+    "lat": -0.07929,
+    "lon": -77.65358
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "02:04",
+    "lat": -0.08062,
+    "lon": -77.66329
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-24T16:25:59.573Z",
     "lugar": "41 km NE of San Fernando, Peru",
@@ -238,13 +238,5 @@ const eventosNaturales = [
     "magnitud": "4.7",
     "lat": -17.055,
     "lon": -70.6857
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-06-18T05:12:45.463Z",
-    "lugar": "33 km E of San Fernando, Peru",
-    "magnitud": "4.5",
-    "lat": -8.3497,
-    "lon": -74.2379
   }
 ];
