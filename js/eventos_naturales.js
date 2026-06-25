@@ -224,6 +224,41 @@ const eventosNaturales = [
     "lon": -77.66329
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "14:25",
+    "lat": -3.54879,
+    "lon": -80.35012
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "14:25",
+    "lat": -3.58311,
+    "lon": -80.52883
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "14:25",
+    "lat": -5.2477,
+    "lon": -76.90485
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "14:25",
+    "lat": -5.24739,
+    "lon": -76.9105
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-25",
+    "hora": "14:25",
+    "lat": -5.25094,
+    "lon": -76.88242
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-24T16:25:59.573Z",
     "lugar": "41 km NE of San Fernando, Peru",
