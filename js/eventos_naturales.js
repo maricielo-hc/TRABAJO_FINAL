@@ -196,19 +196,18 @@ const eventosNaturales = [
     "lon": -79.11774
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-28",
+    "hora": "13:08",
+    "lat": -13.18434,
+    "lon": -73.14293
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-24T16:25:59.573Z",
     "lugar": "41 km NE of San Fernando, Peru",
     "magnitud": "4.6",
     "lat": -8.1501,
     "lon": -74.2589
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-06-21T08:50:13.934Z",
-    "lugar": "16 km E of Torata, Peru",
-    "magnitud": "4.7",
-    "lat": -17.055,
-    "lon": -70.6857
   }
 ];
