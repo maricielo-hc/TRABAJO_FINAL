@@ -112,6 +112,34 @@
     "lon": -69.52106
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-06-29",
+    "hora": "13:46",
+    "lat": -7.78002,
+    "lon": -78.53201
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-29",
+    "hora": "13:46",
+    "lat": -7.78999,
+    "lon": -78.53151
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-29",
+    "hora": "13:46",
+    "lat": -7.9948,
+    "lon": -78.59447
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-06-29",
+    "hora": "13:46",
+    "lat": -7.99642,
+    "lon": -78.58369
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-06-24T16:25:59.573Z",
     "lugar": "41 km NE of San Fernando, Peru",
