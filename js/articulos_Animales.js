@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Close-up desde los árboles: cómo un nuevo ángulo de cámara revela los secretos de la güiña en la Patagonia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/30052823/guina-camaras-trampa-felino-america-estudio-1-768x511.jpg",
+    "fecha": "Jul 01, 2026",
+    "url": "https://es.mongabay.com/2026/07/guina-camaras-trampa-felino-america-estudio/"
+  },
+  {
     "titulo": "Tres señales de esperanza para la fauna argentina: ballenas, gato andino y elefantes marinos vuelven a sorprender a la ciencia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/22170148/gato-andino_-credito_-Juan-Repucci-de-Alianza-Gato-Andino-Gentileza-WCS-Argentina-768x512.jpg",
     "fecha": "Jun 27, 2026",
@@ -7716,7 +7722,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jul  1 14:28:40 2026",
+    "titulo": "Última actualización automática - Wed Jul  1 19:50:59 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
