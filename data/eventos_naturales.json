@@ -392,19 +392,75 @@
     "lon": -76.79575
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-01",
+    "hora": "13:27",
+    "lat": -7.8964,
+    "lon": -79.14296
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-01",
+    "hora": "13:27",
+    "lat": -7.90113,
+    "lon": -79.1132
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-01",
+    "hora": "13:27",
+    "lat": -7.89486,
+    "lon": -79.15004
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-01",
+    "hora": "13:27",
+    "lat": -7.89977,
+    "lon": -79.12054
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-01",
+    "hora": "13:27",
+    "lat": -11.86292,
+    "lon": -76.39391
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-01",
+    "hora": "13:27",
+    "lat": -13.93782,
+    "lon": -69.79379
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-01",
+    "hora": "13:27",
+    "lat": -13.93927,
+    "lon": -69.78283
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-01",
+    "hora": "19:42",
+    "lat": -18.0584,
+    "lon": -69.73888
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-07-02T01:39:27.829Z",
+    "lugar": "20 km ESE of Chapimarca, Peru",
+    "magnitud": "4.8",
+    "lat": -14.0634,
+    "lon": -72.9002
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-01T02:00:38.195Z",
     "lugar": "16 km WNW of Tournavista, Peru",
     "magnitud": "5",
     "lat": -8.8555,
     "lon": -74.831
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-06-24T16:25:59.573Z",
-    "lugar": "41 km NE of San Fernando, Peru",
-    "magnitud": "4.6",
-    "lat": -8.1501,
-    "lon": -74.2589
   }
 ]
