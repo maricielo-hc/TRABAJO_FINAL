@@ -70,6 +70,27 @@ const eventosNaturales = [
     "lon": -78.15617
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-02",
+    "hora": "14:03",
+    "lat": -6.23775,
+    "lon": -79.76402
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-02",
+    "hora": "14:03",
+    "lat": -6.58119,
+    "lon": -79.81845
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-02",
+    "hora": "14:03",
+    "lat": -6.59,
+    "lon": -79.81967
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-02T01:39:27.829Z",
     "lugar": "20 km ESE of Chapimarca, Peru",
