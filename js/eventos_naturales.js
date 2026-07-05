@@ -105,6 +105,27 @@ const eventosNaturales = [
     "lon": -70.02931
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-05",
+    "hora": "08:22",
+    "lat": -0.0748,
+    "lon": -77.65834
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-05",
+    "hora": "08:22",
+    "lat": -0.07444,
+    "lon": -77.66326
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-05",
+    "hora": "08:22",
+    "lat": -0.07638,
+    "lon": -77.65068
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-04T20:24:48.581Z",
     "lugar": "51 km S of Atico, Peru",
