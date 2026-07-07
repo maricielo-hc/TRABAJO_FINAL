@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Chile: pescadores artesanales frenan con sus refugios marinos el crecimiento descontrolado del erizo negro y reviven los bosques submarinos",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/06003937/Sergio-Veas-en-extraccion-de-locos.-Credito-Rodrigo-Sanchez_UW_LoRes_061123_0001-e1783299011495-768x472.jpg",
-    "fecha": "Jul 06, 2026",
+    "fecha": "Jul 07, 2026",
     "url": "https://es.mongabay.com/2026/07/chile-pescadores-artesanales-refugios-marinos-erizo-negro-reviven-bosques-submarinos/"
   },
   {
@@ -7752,7 +7752,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Jul  7 14:23:32 2026",
+    "titulo": "Última actualización automática - Tue Jul  7 19:53:02 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
