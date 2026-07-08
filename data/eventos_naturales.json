@@ -245,6 +245,13 @@
     "lon": -74.06322
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-08",
+    "hora": "13:06",
+    "lat": -12.94359,
+    "lon": -68.00121
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-08T05:00:32.411Z",
     "lugar": "25 km NNE of Santa Rosa, Peru",
