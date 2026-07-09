@@ -161,6 +161,34 @@ const eventosNaturales = [
     "lon": -79.37924
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-09",
+    "hora": "13:44",
+    "lat": -10.07555,
+    "lon": -76.24258
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-09",
+    "hora": "13:44",
+    "lat": -11.04741,
+    "lon": -74.78274
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-09",
+    "hora": "13:44",
+    "lat": -13.44303,
+    "lon": -72.93894
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-09",
+    "hora": "13:44",
+    "lat": -13.4425,
+    "lon": -72.93334
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-08T05:00:32.411Z",
     "lugar": "25 km NNE of Santa Rosa, Peru",
