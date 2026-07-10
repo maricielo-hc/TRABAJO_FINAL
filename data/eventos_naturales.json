@@ -105,6 +105,41 @@
     "lon": -77.78803
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-10",
+    "hora": "08:18",
+    "lat": -13.12198,
+    "lon": -72.59825
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-10",
+    "hora": "08:20",
+    "lat": -13.4342,
+    "lon": -72.92618
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-10",
+    "hora": "08:20",
+    "lat": -13.43561,
+    "lon": -72.91664
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-10",
+    "hora": "08:20",
+    "lat": -13.4444,
+    "lon": -72.91805
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-10",
+    "hora": "08:20",
+    "lat": -13.37449,
+    "lon": -75.37148
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-09T23:42:59.793Z",
     "lugar": "52 km WSW of Playas, Ecuador",
