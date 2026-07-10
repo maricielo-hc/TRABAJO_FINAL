@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Zopilotes rey en Costa Rica: la fotografía que revela la relación entre estas aves carroñeras",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/09052903/zopilotes-rey-costa-rica-fotografia-aves-1-768x512.jpg",
+    "fecha": "Jul 10, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/07/zopilotes-rey-costa-rica-fotografia-aves-conservacion/"
+  },
+  {
     "titulo": "México: la amenazada águila tirana fue registrada por primera vez en la Reserva de la Biosfera Sierra Gorda",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/08171652/aguila-tirana-gobierno-de-mexico-3-768x512.jpg",
     "fecha": "Jul 09, 2026",
@@ -7764,7 +7770,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Jul 10 14:14:51 2026",
+    "titulo": "Última actualización automática - Fri Jul 10 19:26:00 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
