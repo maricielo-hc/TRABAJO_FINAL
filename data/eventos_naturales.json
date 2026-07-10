@@ -189,6 +189,49 @@
     "lon": -72.93334
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-09",
+    "hora": "19:51",
+    "lat": -16.78843,
+    "lon": -70.6812
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-09",
+    "hora": "19:51",
+    "lat": -13.74673,
+    "lon": -68.15549
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-09",
+    "hora": "19:51",
+    "lat": -13.56731,
+    "lon": -69.42958
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-09",
+    "hora": "19:51",
+    "lat": -11.03416,
+    "lon": -68.81339
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-09",
+    "hora": "19:51",
+    "lat": -11.03663,
+    "lon": -68.81812
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-07-09T23:42:59.793Z",
+    "lugar": "52 km WSW of Playas, Ecuador",
+    "magnitud": "4.6",
+    "lat": -2.7476,
+    "lon": -80.8473
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-08T05:00:32.411Z",
     "lugar": "25 km NNE of Santa Rosa, Peru",
