@@ -358,6 +358,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-07-11T07:58:27.116Z",
+    "lugar": "129 km SW of Huarmey, Peru",
+    "magnitud": "5.1",
+    "lat": -10.8592,
+    "lon": -79.0295
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-07-09T23:42:59.793Z",
     "lugar": "52 km WSW of Playas, Ecuador",
     "magnitud": "4.6",
