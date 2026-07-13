@@ -126,6 +126,20 @@ const eventosNaturales = [
     "lon": -80.11789
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-13",
+    "hora": "13:06",
+    "lat": -17.4833,
+    "lon": -71.35372
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-13",
+    "hora": "13:06",
+    "lat": -17.49358,
+    "lon": -71.3558
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-11T07:58:27.116Z",
     "lugar": "129 km SW of Huarmey, Peru",
