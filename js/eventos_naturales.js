@@ -35,6 +35,13 @@ const eventosNaturales = [
     "lon": -68.8417
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-15",
+    "hora": "14:18",
+    "lat": -1.12259,
+    "lon": -80.61443
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-15T02:40:26.198Z",
     "lugar": "110 km SW of Santiago, Peru",
