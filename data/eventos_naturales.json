@@ -98,6 +98,20 @@
     "lon": -78.17188
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-17",
+    "hora": "14:01",
+    "lat": -13.64592,
+    "lon": -73.67207
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-17",
+    "hora": "14:01",
+    "lat": -13.65183,
+    "lon": -73.67635
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-15T02:40:26.198Z",
     "lugar": "110 km SW of Santiago, Peru",
