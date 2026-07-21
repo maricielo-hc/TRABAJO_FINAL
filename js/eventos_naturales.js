@@ -315,6 +315,27 @@ const eventosNaturales = [
     "lon": -76.15059
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-21",
+    "hora": "08:41",
+    "lat": -6.77611,
+    "lon": -79.76527
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-21",
+    "hora": "08:41",
+    "lat": -6.79745,
+    "lon": -79.62643
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-21",
+    "hora": "08:41",
+    "lat": -6.80641,
+    "lon": -79.62779
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-19T02:24:36.324Z",
     "lugar": "2 km WSW of Sicaya, Peru",
@@ -329,13 +350,5 @@ const eventosNaturales = [
     "magnitud": "4.5",
     "lat": -14.877,
     "lon": -76.448
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-07-14T08:21:06.499Z",
-    "lugar": "11 km N of Pichigua, Peru",
-    "magnitud": "5.6",
-    "lat": -14.5779,
-    "lon": -71.4358
   }
 ];
