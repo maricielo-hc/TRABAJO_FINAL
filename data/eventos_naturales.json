@@ -308,6 +308,20 @@
     "lon": -69.67164
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-22",
+    "hora": "13:59",
+    "lat": -0.08249,
+    "lon": -78.51575
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-22",
+    "hora": "14:01",
+    "lat": -11.83746,
+    "lon": -75.63042
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-21T17:43:01.447Z",
     "lugar": "139 km W of Puerto Santa, Peru",
