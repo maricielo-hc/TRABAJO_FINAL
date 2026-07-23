@@ -56,6 +56,13 @@ const eventosNaturales = [
     "lon": -72.60588
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-23",
+    "hora": "13:04",
+    "lat": -17.49736,
+    "lon": -71.35317
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-23T02:55:40.344Z",
     "lugar": "78 km WSW of Puerto Casma, Peru",
