@@ -1,15 +1,15 @@
 const articulos = [
   {
-    "titulo": "Enfermedades de animales domésticos acorralan al gato colocolo en Chile",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/14184651/PORTADA-Gato-colocolo-Francisco-Andreas-Colocolo_-768x512.jpg",
-    "fecha": "Jul 22, 2026",
-    "url": "https://es.mongabay.com/2026/07/enfermedades-animales-domesticos-acorralan-gato-colocolo-chile/"
-  },
-  {
     "titulo": "Leucemia y moquillo: las enfermedades de animales domésticos que acechan al ocelote en Ecuador",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/14225907/1-OCELOTE-REINSERTADO-768x512.jpeg",
     "fecha": "Jul 22, 2026",
     "url": "https://es.mongabay.com/2026/07/leucemia-moquillo-enfermedades-animales-domesticos-acechan-ocelote-ecuador/"
+  },
+  {
+    "titulo": "Enfermedades de animales domésticos acorralan al gato colocolo en Chile",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/14184651/PORTADA-Gato-colocolo-Francisco-Andreas-Colocolo_-768x512.jpg",
+    "fecha": "Jul 22, 2026",
+    "url": "https://es.mongabay.com/2026/07/enfermedades-animales-domesticos-acorralan-gato-colocolo-chile/"
   },
   {
     "titulo": "Cuando la carretera divide el bosque: los pasos de fauna reducen atropellamientos, pero requieren un sistema integral | ESTUDIO",
@@ -7848,7 +7848,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jul 22 19:10:29 2026",
+    "titulo": "Última actualización automática - Thu Jul 23 02:17:33 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
