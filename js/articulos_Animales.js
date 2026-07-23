@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Perú: detienen a precandidata de Fuerza Popular por supuesto tráfico de fauna silvestre",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/21193317/Caso-Los-Peludos-hermanas-ferreyra-trafico-de-fauna-Ministerio-Publico-768x512.jpeg",
+    "fecha": "Jul 23, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/07/peru-detienen-precandidata-fuerza-popular-supuesto-trafico-fauna-silvestre/"
+  },
+  {
+    "titulo": "El virus de la panleucopenia amenaza la supervivencia del gato montés en Bolivia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/16190151/Foto-6-768x512.jpg",
+    "fecha": "Jul 23, 2026",
+    "url": "https://es.mongabay.com/2026/07/virus-panleucopenia-amenaza-supervivencia-gato-montes-bolivia/"
+  },
+  {
     "titulo": "Leucemia y moquillo: las enfermedades de animales domésticos que acechan al ocelote en Ecuador",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/14225907/1-OCELOTE-REINSERTADO-768x512.jpeg",
     "fecha": "Jul 22, 2026",
@@ -34,12 +46,6 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/16181116/082_Ocelot_in_Encontro_das_Aguas_State_Park_Photo_by_Giles_Laurent-768x512.jpg",
     "fecha": "Jul 21, 2026",
     "url": "https://es.mongabay.com/2026/07/gatos-silvestres-brasil-enfrentan-multiples-enfermedades-fragmentacion-habitat/"
-  },
-  {
-    "titulo": "El virus de la panleucopenia amenaza la supervivencia del gato montés en Bolivia",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/16190151/Foto-6-768x512.jpg",
-    "fecha": "Jul 21, 2026",
-    "url": "https://es.mongabay.com/2026/07/virus-panleucopenia-amenaza-supervivencia-gato-montes-bolivia/"
   },
   {
     "titulo": "La cercanía con las mascotas está enfermando a los felinos silvestres de Costa Rica",
@@ -7848,7 +7854,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Jul 23 08:26:53 2026",
+    "titulo": "Última actualización automática - Thu Jul 23 13:48:53 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
