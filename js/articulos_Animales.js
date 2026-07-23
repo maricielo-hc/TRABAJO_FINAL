@@ -6,7 +6,7 @@ const articulos = [
     "url": "https://es.mongabay.com/short-article/2026/07/peru-detienen-precandidata-fuerza-popular-supuesto-trafico-fauna-silvestre/"
   },
   {
-    "titulo": "El virus de la panleucopenia amenaza la supervivencia del gato montés en Bolivia",
+    "titulo": "El gato montés en Bolivia enfrenta la amenaza del virus de la panleucopenia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/16190151/Foto-6-768x512.jpg",
     "fecha": "Jul 23, 2026",
     "url": "https://es.mongabay.com/2026/07/virus-panleucopenia-amenaza-supervivencia-gato-montes-bolivia/"
@@ -7854,7 +7854,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Jul 23 13:48:53 2026",
+    "titulo": "Última actualización automática - Thu Jul 23 19:11:26 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
