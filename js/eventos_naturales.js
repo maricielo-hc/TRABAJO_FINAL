@@ -315,6 +315,21 @@ const eventosNaturales = [
     "lon": -76.41225
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-24",
+    "hora": "13:42",
+    "lat": -11.87369,
+    "lon": -73.8598
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-07-24T07:41:41.602Z",
+    "lugar": "35 km ENE of Palca, Peru",
+    "magnitud": "4.3",
+    "lat": -17.6234,
+    "lon": -69.6685
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-23T02:55:40.344Z",
     "lugar": "78 km WSW of Puerto Casma, Peru",
