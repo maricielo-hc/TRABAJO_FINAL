@@ -35,6 +35,20 @@ const eventosNaturales = [
     "lon": -74.98827
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-25",
+    "hora": "14:16",
+    "lat": -1.02606,
+    "lon": -79.45526
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-25",
+    "hora": "14:18",
+    "lat": -4.59282,
+    "lon": -76.18995
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-24T07:41:41.602Z",
     "lugar": "35 km ENE of Palca, Peru",
