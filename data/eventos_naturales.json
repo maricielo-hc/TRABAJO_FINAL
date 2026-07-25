@@ -322,6 +322,13 @@
     "lon": -73.8598
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-24",
+    "hora": "21:14",
+    "lat": -1.03013,
+    "lon": -80.61126
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-24T07:41:41.602Z",
     "lugar": "35 km ENE of Palca, Peru",
