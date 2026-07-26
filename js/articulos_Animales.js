@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Cinco casos de tráfico ilegal de especies que alarman a América Latina | Lecturas ambientales",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2016/11/09195758/plan_conservacion_mongabay-8-493x330.jpg",
+    "fecha": "Jul 26, 2026",
+    "url": "https://es.mongabay.com/2026/07/cinco-casos-trafico-ilegal-especies-alarman-america-latina-lecturas-ambientales/"
+  },
+  {
     "titulo": "La cercanía con las mascotas está enfermando a los felinos silvestres de Costa Rica",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/18021017/Foto-principal-Credito_-Pepe-Manzanilla-Centro-de-Rescate-Las-Pumas-768x512.jpg",
     "fecha": "Jul 25, 2026",
@@ -7854,7 +7860,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Jul 26 02:18:13 2026",
+    "titulo": "Última actualización automática - Sun Jul 26 08:22:17 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
