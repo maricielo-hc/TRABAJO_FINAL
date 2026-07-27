@@ -252,6 +252,34 @@
     "lon": -73.6281
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-27",
+    "hora": "07:37",
+    "lat": -16.02895,
+    "lon": -68.1105
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-27",
+    "hora": "07:37",
+    "lat": -16.0506,
+    "lon": -68.1143
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-27",
+    "hora": "09:13",
+    "lat": -6.75657,
+    "lon": -79.77612
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-27",
+    "hora": "09:13",
+    "lat": -6.75934,
+    "lon": -79.76402
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-27T04:38:58.364Z",
     "lugar": "11 km SE of El Triunfo, Ecuador",
