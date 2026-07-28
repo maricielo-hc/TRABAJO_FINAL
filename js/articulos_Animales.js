@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Ballenas sei en Argentina: el tercer animal más grande regresó a la Patagonia y las rastrean satelitalmente para protegerlas",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/27192704/ballena-sei1-768x512.jpg",
+    "fecha": "Jul 28, 2026",
+    "url": "https://es.mongabay.com/2026/07/ballenas-sei-argentina-tercer-animal-mas-grande-regreso-patagonia-rastrean-satelitalmente-protegerlas/"
+  },
+  {
     "titulo": "Cinco casos de tráfico ilegal de especies que alarman a América Latina | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2016/11/09195758/plan_conservacion_mongabay-8-493x330.jpg",
     "fecha": "Jul 26, 2026",
@@ -7860,7 +7866,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Jul 28 13:56:47 2026",
+    "titulo": "Última actualización automática - Tue Jul 28 19:20:48 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
