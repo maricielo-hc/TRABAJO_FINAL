@@ -168,6 +168,34 @@
     "lon": -79.2051
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-28",
+    "hora": "08:16",
+    "lat": -13.80855,
+    "lon": -71.5747
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-28",
+    "hora": "08:16",
+    "lat": -13.80992,
+    "lon": -71.56536
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-28",
+    "hora": "08:16",
+    "lat": -13.81875,
+    "lon": -71.56661
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-28",
+    "hora": "08:16",
+    "lat": -15.2764,
+    "lon": -68.29858
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-27T22:36:40.575Z",
     "lugar": "12 km N of Honoria, Peru",
