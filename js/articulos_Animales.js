@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Brasil: la tortuga del río Amazonas ya está en peligro de extinción",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/29025426/tortuga-del-rio-amazonas-brasil-peligro-extincion-portada-768x512.jpg",
+    "fecha": "Jul 29, 2026",
+    "url": "https://es.mongabay.com/2026/07/tortuga-del-rio-amazonas-brasil-peligro-extincion/"
+  },
+  {
     "titulo": "Ballenas sei en Argentina: el tercer animal más grande regresó a la Patagonia y las rastrean satelitalmente para protegerlas",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/27192704/ballena-sei1-768x512.jpg",
     "fecha": "Jul 28, 2026",
@@ -7866,7 +7872,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Jul 29 14:01:58 2026",
+    "titulo": "Última actualización automática - Wed Jul 29 19:10:40 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
