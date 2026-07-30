@@ -777,6 +777,76 @@ const eventosNaturales = [
     "lon": -68.66951
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-29",
+    "hora": "21:04",
+    "lat": -10.18469,
+    "lon": -77.06426
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-29",
+    "hora": "21:04",
+    "lat": -10.18666,
+    "lon": -77.07632
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-29",
+    "hora": "21:04",
+    "lat": -10.18066,
+    "lon": -77.06981
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-29",
+    "hora": "21:06",
+    "lat": -6.57532,
+    "lon": -79.82965
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-29",
+    "hora": "21:06",
+    "lat": -3.28799,
+    "lon": -79.27599
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-29",
+    "hora": "21:08",
+    "lat": -1.26739,
+    "lon": -78.55608
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-29",
+    "hora": "21:08",
+    "lat": -1.26965,
+    "lon": -78.57074
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-29",
+    "hora": "21:08",
+    "lat": -1.26882,
+    "lon": -78.5612
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-29",
+    "hora": "21:04",
+    "lat": -13.67633,
+    "lon": -71.73283
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-07-29",
+    "hora": "21:04",
+    "lat": -13.7533,
+    "lon": -75.9392
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-28T13:24:33.262Z",
     "lugar": "151 km WSW of Puerto Santa, Peru",
