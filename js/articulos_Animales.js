@@ -1,8 +1,14 @@
 const articulos = [
   {
+    "titulo": "Un ejército de abejas nativas sostiene la producción de camu-camu, el fruto amazónico más rico en vitamina C",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/09/25014706/Camu-Camu-6-Foto-Sinchi-768x512.jpg",
+    "fecha": "Jul 30, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/07/ejercito-abejas-nativas-sostiene-produccion-camu-camu-fruto-amazonico-rico-vitaminas/"
+  },
+  {
     "titulo": "Brasil: la tortuga del río Amazonas ya está en peligro de extinción",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/29025426/tortuga-del-rio-amazonas-brasil-peligro-extincion-portada-768x512.jpg",
-    "fecha": "Jul 29, 2026",
+    "fecha": "Jul 30, 2026",
     "url": "https://es.mongabay.com/2026/07/tortuga-del-rio-amazonas-brasil-peligro-extincion/"
   },
   {
@@ -7872,7 +7878,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Jul 30 13:51:26 2026",
+    "titulo": "Última actualización automática - Thu Jul 30 19:22:33 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
