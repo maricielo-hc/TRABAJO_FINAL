@@ -427,6 +427,13 @@ const eventosNaturales = [
     "lon": -68.2802
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-07-31",
+    "hora": "08:33",
+    "lat": -13.7815,
+    "lon": -76.16757
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-31T01:10:00.736Z",
     "lugar": "46 km NW of Manta, Ecuador",
