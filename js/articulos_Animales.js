@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Capibaras, caimanes y asombrosos bosques: un viaje por Tapiche Blanco, joya de la Amazonía peruana | Reportaje fotográfico",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/10/12215300/IMG_3267-2-768x512.jpg",
+    "fecha": "Jul 31, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/07/capibaras-caimanes-asombrosos-bosques-tapiche-blanco-joya-amazonia-peruana-reportaje-fotografico/"
+  },
+  {
     "titulo": "Un ejército de abejas nativas sostiene la producción de camu-camu, el fruto amazónico más rico en vitamina C",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/09/25014706/Camu-Camu-6-Foto-Sinchi-768x512.jpg",
     "fecha": "Jul 30, 2026",
@@ -7878,7 +7884,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Jul 31 13:56:11 2026",
+    "titulo": "Última actualización automática - Fri Jul 31 19:21:32 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
