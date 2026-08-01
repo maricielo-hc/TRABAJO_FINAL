@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "Capibaras, caimanes y asombrosos bosques: un viaje por Tapiche Blanco, joya de la Amazonía peruana | Reportaje fotográfico",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/10/12215300/IMG_3267-2-768x512.jpg",
-    "fecha": "Jul 31, 2026",
-    "url": "https://es.mongabay.com/custom-story/2026/07/capibaras-caimanes-asombrosos-bosques-tapiche-blanco-joya-amazonia-peruana-reportaje-fotografico/"
+    "fecha": "Aug 01, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/08/capibaras-caimanes-asombrosos-bosques-tapiche-blanco-joya-amazonia-peruana-reportaje-fotografico/"
+  },
+  {
+    "titulo": "Brasil: la tortuga del río Amazonas ya está en peligro de extinción",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/29025426/tortuga-del-rio-amazonas-brasil-peligro-extincion-portada-768x512.jpg",
+    "fecha": "Jul 30, 2026",
+    "url": "https://es.mongabay.com/2026/07/tortuga-del-rio-amazonas-brasil-peligro-extincion/"
   },
   {
     "titulo": "Ballenas sei en Argentina: el tercer animal más grande regresó a la Patagonia y las rastrean satelitalmente para protegerlas",
@@ -7860,7 +7866,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Aug  1 08:16:36 2026",
+    "titulo": "Última actualización automática - Sat Aug  1 13:11:58 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
