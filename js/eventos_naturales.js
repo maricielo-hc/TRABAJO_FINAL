@@ -721,6 +721,62 @@ const eventosNaturales = [
     "lon": -75.06488
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-01",
+    "hora": "13:57",
+    "lat": -2.27167,
+    "lon": -80.22536
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-01",
+    "hora": "13:57",
+    "lat": -5.88648,
+    "lon": -72.53802
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-01",
+    "hora": "13:57",
+    "lat": -6.47859,
+    "lon": -76.71647
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-01",
+    "hora": "13:57",
+    "lat": -7.14706,
+    "lon": -76.75395
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-01",
+    "hora": "13:59",
+    "lat": -10.2745,
+    "lon": -71.39107
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-01",
+    "hora": "13:59",
+    "lat": -11.20761,
+    "lon": -74.64458
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-01",
+    "hora": "13:59",
+    "lat": -12.26793,
+    "lon": -74.00977
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-01",
+    "hora": "13:59",
+    "lat": -12.62896,
+    "lon": -72.92146
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-07-31T01:10:00.736Z",
     "lugar": "46 km NW of Manta, Ecuador",
