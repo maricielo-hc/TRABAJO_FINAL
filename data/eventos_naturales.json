@@ -238,6 +238,20 @@
     "lon": -74.25133
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-05",
+    "hora": "08:22",
+    "lat": -6.81774,
+    "lon": -76.18987
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-05",
+    "hora": "08:24",
+    "lat": -13.63693,
+    "lon": -72.55199
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-03T01:42:24.662Z",
     "lugar": "66 km WNW of San Alejandro, Peru",
