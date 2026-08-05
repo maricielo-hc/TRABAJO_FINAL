@@ -252,6 +252,48 @@ const eventosNaturales = [
     "lon": -72.55199
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-05",
+    "hora": "13:21",
+    "lat": -17.49002,
+    "lon": -71.35583
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-05",
+    "hora": "13:16",
+    "lat": -6.66698,
+    "lon": -69.28137
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-05",
+    "hora": "13:18",
+    "lat": -12.83384,
+    "lon": -74.25346
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-05",
+    "hora": "13:18",
+    "lat": -13.21173,
+    "lon": -72.17079
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-05",
+    "hora": "13:18",
+    "lat": -13.62799,
+    "lon": -72.53784
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-05",
+    "hora": "13:18",
+    "lat": -14.36116,
+    "lon": -69.35778
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-03T01:42:24.662Z",
     "lugar": "66 km WNW of San Alejandro, Peru",
