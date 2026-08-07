@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "El limbo legal de los delfines mantenidos en cautiverio en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/08/06113912/Captura-de-pantalla-2026-08-06-a-las-4.38.28-a.m-768x512.png",
-    "fecha": "Aug 06, 2026",
+    "fecha": "Aug 07, 2026",
     "url": "https://es.mongabay.com/2026/08/limbo-legal-delfines-mantenidos-cautiverio-mexico/"
+  },
+  {
+    "titulo": "Perú: el atractivo gallito de las rocas y la extraordinaria biodiversidad del parque Yanachaga-Chemillén | Reportaje fotográfico",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2022/09/19015121/CQS1427-768x512.jpg",
+    "fecha": "Aug 07, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/08/peru-atractivo-gallito-rocas-extraordinaria-biodiversidad-parque-yanachaga-chemillen-reportaje-fotografico/"
   },
   {
     "titulo": "El regreso histórico de las ballenas al Mar Argentino enfrenta una nueva carrera contra el tiempo",
@@ -7902,7 +7908,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Aug  7 12:56:33 2026",
+    "titulo": "Última actualización automática - Fri Aug  7 18:52:00 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
