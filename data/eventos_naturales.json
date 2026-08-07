@@ -1304,21 +1304,5 @@
     "magnitud": "4.3",
     "lat": -3.1098,
     "lon": -75.7698
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-07-31T01:10:00.736Z",
-    "lugar": "46 km NW of Manta, Ecuador",
-    "magnitud": "4.3",
-    "lat": -0.6197,
-    "lon": -80.9479
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-07-31T00:58:44.364Z",
-    "lugar": "13 km ENE of San Fernando, Peru",
-    "magnitud": "5.6",
-    "lat": -8.3349,
-    "lon": -74.4353
   }
 ]
