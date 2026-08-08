@@ -931,6 +931,13 @@
     "lon": -74.36732
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-08",
+    "hora": "08:39",
+    "lat": -9.82033,
+    "lon": -77.32648
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-07T23:11:23.416Z",
     "lugar": "17 km WNW of Yanacancha, Peru",
