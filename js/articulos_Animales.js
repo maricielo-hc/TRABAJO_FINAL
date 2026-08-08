@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "El limbo legal de los delfines mantenidos en cautiverio en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/08/06113912/Captura-de-pantalla-2026-08-06-a-las-4.38.28-a.m-768x512.png",
-    "fecha": "Aug 07, 2026",
+    "fecha": "Aug 08, 2026",
     "url": "https://es.mongabay.com/2026/08/limbo-legal-delfines-mantenidos-cautiverio-mexico/"
   },
   {
@@ -7908,7 +7908,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Aug  8 12:41:26 2026",
+    "titulo": "Última actualización automática - Sat Aug  8 18:34:14 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
