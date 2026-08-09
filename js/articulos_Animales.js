@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Ranas, aves, tortugas, peces y felinos: la fauna de Brasil enfrenta una creciente ola de amenazas | Lecturas ambientales",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/22130834/Un-cuervo-frutero-de-garganta-purpura-Querula-purpurata-una-de-las-aves-mas-grandes-afectadas-por-la-intensificacion-del-cultivo-de-acai.-Foto-lwolfartist-via-Wikimedia-Commons-CC-BY-2.0-768x512.jpg",
+    "fecha": "Aug 09, 2026",
+    "url": "https://es.mongabay.com/2026/08/ranas-aves-tortugas-peces-felinos-fauna-brasil-enfrenta-amenazas-lecturas-ambientales/"
+  },
+  {
     "titulo": "El limbo legal de los delfines mantenidos en cautiverio en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/08/06113912/Captura-de-pantalla-2026-08-06-a-las-4.38.28-a.m-768x512.png",
     "fecha": "Aug 08, 2026",
@@ -7908,7 +7914,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Aug  9 12:43:17 2026",
+    "titulo": "Última actualización automática - Sun Aug  9 18:36:48 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
