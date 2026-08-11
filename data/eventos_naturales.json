@@ -224,6 +224,56 @@
     "lon": -78.50185
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "08:52",
+    "lat": -0.02723,
+    "lon": -78.49665
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "08:52",
+    "lat": -0.03599,
+    "lon": -78.49804
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "08:54",
+    "lat": -1.6803,
+    "lon": -78.93163
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "08:54",
+    "lat": -4.45998,
+    "lon": -79.44758
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "08:54",
+    "lat": -7.06965,
+    "lon": -78.68124
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "08:54",
+    "lat": -8.59596,
+    "lon": -77.90679
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-08-11T08:00:34.362Z",
+    "lugar": "40 km SSW of Sechura, Peru",
+    "magnitud": "4.6",
+    "lat": -5.8682,
+    "lon": -81.0116
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-09T15:40:05.269Z",
     "lugar": "30 km NNE of Satipo, Peru",
