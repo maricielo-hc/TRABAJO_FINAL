@@ -266,6 +266,55 @@ const eventosNaturales = [
     "lon": -77.90679
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "13:55",
+    "lat": -7.07522,
+    "lon": -78.68887
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "13:55",
+    "lat": -7.07648,
+    "lon": -78.68007
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "13:53",
+    "lat": -0.02746,
+    "lon": -78.5039
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "13:53",
+    "lat": -0.02874,
+    "lon": -78.49496
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "13:53",
+    "lat": -0.03768,
+    "lon": -78.49602
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "13:55",
+    "lat": -2.32213,
+    "lon": -78.83936
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-11",
+    "hora": "13:55",
+    "lat": -6.31975,
+    "lon": -69.9351
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-11T08:00:34.362Z",
     "lugar": "40 km SSW of Sechura, Peru",
@@ -288,6 +337,14 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -12.0506,
     "lon": -75.4906
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-08-08T15:15:27.722Z",
+    "lugar": "49 km NNE of Camiña, Chile",
+    "magnitud": "4.4",
+    "lat": -18.9032,
+    "lon": -69.2409
   },
   {
     "tipo": "Sismo",
