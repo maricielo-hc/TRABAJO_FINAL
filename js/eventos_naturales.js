@@ -378,6 +378,20 @@ const eventosNaturales = [
     "lon": -78.51675
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-12",
+    "hora": "14:31",
+    "lat": -0.01724,
+    "lon": -78.51732
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-12",
+    "hora": "14:31",
+    "lat": -0.03239,
+    "lon": -78.49645
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-11T08:00:34.362Z",
     "lugar": "40 km SSW of Sechura, Peru",
