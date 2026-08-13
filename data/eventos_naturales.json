@@ -392,6 +392,49 @@
     "lon": -78.49645
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-12",
+    "hora": "20:06",
+    "lat": -14.7987,
+    "lon": -68.45552
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-12",
+    "hora": "20:06",
+    "lat": -14.52174,
+    "lon": -68.44465
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-12",
+    "hora": "20:06",
+    "lat": -14.52326,
+    "lon": -68.45591
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-12",
+    "hora": "20:06",
+    "lat": -13.16836,
+    "lon": -71.80087
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-12",
+    "hora": "20:10",
+    "lat": -3.80643,
+    "lon": -70.3859
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-08-12T18:28:30.735Z",
+    "lugar": "27 km E of Chuquitira, Peru",
+    "magnitud": "4.2",
+    "lat": -17.3277,
+    "lon": -69.7862
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-11T08:00:34.362Z",
     "lugar": "40 km SSW of Sechura, Peru",
