@@ -224,6 +224,34 @@ const eventosNaturales = [
     "lon": -79.26826
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-13",
+    "hora": "13:31",
+    "lat": -0.07709,
+    "lon": -77.66603
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-13",
+    "hora": "13:33",
+    "lat": -4.37207,
+    "lon": -79.24539
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-13",
+    "hora": "13:33",
+    "lat": -4.38448,
+    "lon": -79.24648
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-13",
+    "hora": "13:36",
+    "lat": -11.12213,
+    "lon": -75.36034
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-12T18:28:30.735Z",
     "lugar": "27 km E of Chuquitira, Peru",
