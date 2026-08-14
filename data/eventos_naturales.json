@@ -672,6 +672,41 @@
     "lon": -77.6584
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-14",
+    "hora": "14:12",
+    "lat": -2.5094,
+    "lon": -80.35702
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-14",
+    "hora": "14:12",
+    "lat": -2.51083,
+    "lon": -80.3468
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-14",
+    "hora": "14:14",
+    "lat": -6.82708,
+    "lon": -76.90402
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-14",
+    "hora": "14:14",
+    "lat": -8.27264,
+    "lon": -74.67914
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-14",
+    "hora": "14:14",
+    "lat": -8.26474,
+    "lon": -74.685
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-12T18:28:30.735Z",
     "lugar": "27 km E of Chuquitira, Peru",
@@ -718,13 +753,5 @@
     "magnitud": "4.7",
     "lat": -12.1235,
     "lon": -75.5241
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-07T15:42:24.743Z",
-    "lugar": "66 km NNW of Camiña, Chile",
-    "magnitud": "4.4",
-    "lat": -18.7433,
-    "lon": -69.6381
   }
 ]
