@@ -707,6 +707,27 @@ const eventosNaturales = [
     "lon": -74.685
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-14",
+    "hora": "19:47",
+    "lat": -12.6217,
+    "lon": -68.06187
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-14",
+    "hora": "19:47",
+    "lat": -12.62951,
+    "lon": -68.06763
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-14",
+    "hora": "19:47",
+    "lat": -11.61164,
+    "lon": -69.29341
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-12T18:28:30.735Z",
     "lugar": "27 km E of Chuquitira, Peru",
@@ -745,13 +766,5 @@ const eventosNaturales = [
     "magnitud": "4.4",
     "lat": -18.9032,
     "lon": -69.2409
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-07T23:11:23.416Z",
-    "lugar": "17 km WNW of Yanacancha, Peru",
-    "magnitud": "4.7",
-    "lat": -12.1235,
-    "lon": -75.5241
   }
 ];
