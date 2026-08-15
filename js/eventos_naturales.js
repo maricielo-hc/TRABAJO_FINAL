@@ -154,6 +154,27 @@ const eventosNaturales = [
     "lon": -69.29341
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-15",
+    "hora": "13:14",
+    "lat": -10.18683,
+    "lon": -76.00689
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-15",
+    "hora": "13:16",
+    "lat": -13.82924,
+    "lon": -70.15193
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-15",
+    "hora": "13:16",
+    "lat": -14.8505,
+    "lon": -68.48254
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-12T18:28:30.735Z",
     "lugar": "27 km E of Chuquitira, Peru",
@@ -184,13 +205,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -12.0506,
     "lon": -75.4906
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-08T15:15:27.722Z",
-    "lugar": "49 km NNE of Camiña, Chile",
-    "magnitud": "4.4",
-    "lat": -18.9032,
-    "lon": -69.2409
   }
 ];
