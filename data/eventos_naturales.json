@@ -1078,6 +1078,13 @@
     "lon": -68.20831
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-16",
+    "hora": "13:55",
+    "lat": -6.63403,
+    "lon": -76.74332
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-12T18:28:30.735Z",
     "lugar": "27 km E of Chuquitira, Peru",
@@ -1092,13 +1099,5 @@
     "magnitud": "4.6",
     "lat": -5.8682,
     "lon": -81.0116
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-09T15:40:05.269Z",
-    "lugar": "30 km NNE of Satipo, Peru",
-    "magnitud": "4.6",
-    "lat": -10.994,
-    "lon": -74.5481
   }
 ]
