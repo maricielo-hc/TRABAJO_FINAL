@@ -342,13 +342,5 @@ const eventosNaturales = [
     "magnitud": "4.2",
     "lat": -17.3277,
     "lon": -69.7862
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-11T08:00:34.362Z",
-    "lugar": "40 km SSW of Sechura, Peru",
-    "magnitud": "4.6",
-    "lat": -5.8682,
-    "lon": -81.0116
   }
 ];
