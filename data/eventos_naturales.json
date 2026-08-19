@@ -539,6 +539,62 @@
     "lon": -79.77
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "14:12",
+    "lat": -2.22934,
+    "lon": -78.72046
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "14:12",
+    "lat": -2.23084,
+    "lon": -78.70987
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "14:12",
+    "lat": -2.37296,
+    "lon": -80.68559
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "14:12",
+    "lat": -2.94365,
+    "lon": -78.3012
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "14:12",
+    "lat": -4.04747,
+    "lon": -79.75874
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "14:12",
+    "lat": -4.04902,
+    "lon": -79.74738
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "14:12",
+    "lat": -6.75255,
+    "lon": -79.53967
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "14:12",
+    "lat": -6.75423,
+    "lon": -79.52697
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-19T10:28:05.035Z",
     "lugar": "20 km WNW of San Bartolo, Peru",
