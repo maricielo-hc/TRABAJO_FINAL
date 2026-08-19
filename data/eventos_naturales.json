@@ -532,6 +532,21 @@
     "lon": -76.25585
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "09:05",
+    "lat": -6.77431,
+    "lon": -79.77
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-08-19T10:28:05.035Z",
+    "lugar": "20 km WNW of San Bartolo, Peru",
+    "magnitud": "4.4",
+    "lat": -12.3156,
+    "lon": -76.9552
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-12T18:28:30.735Z",
     "lugar": "27 km E of Chuquitira, Peru",
