@@ -595,19 +595,39 @@ const eventosNaturales = [
     "lon": -79.52697
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "21:18",
+    "lat": -2.51813,
+    "lon": -80.38806
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "21:18",
+    "lat": -6.97093,
+    "lon": -78.01476
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "21:18",
+    "lat": -6.58083,
+    "lon": -79.89396
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-19",
+    "hora": "21:18",
+    "lat": -6.5818,
+    "lon": -79.8997
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-19T10:28:05.035Z",
     "lugar": "20 km WNW of San Bartolo, Peru",
     "magnitud": "4.4",
     "lat": -12.3156,
     "lon": -76.9552
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-12T18:28:30.735Z",
-    "lugar": "27 km E of Chuquitira, Peru",
-    "magnitud": "4.2",
-    "lat": -17.3277,
-    "lon": -69.7862
   }
 ];
