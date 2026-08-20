@@ -176,6 +176,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-08-20T18:00:15.163Z",
+    "lugar": "38 km NW of Upahuacho, Peru",
+    "magnitud": "6.7",
+    "lat": -14.6262,
+    "lon": -73.616
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-08-19T10:28:05.035Z",
     "lugar": "20 km WNW of San Bartolo, Peru",
     "magnitud": "4.4",
