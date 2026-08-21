@@ -448,6 +448,76 @@ const eventosNaturales = [
     "lon": -74.76676
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-21",
+    "hora": "08:41",
+    "lat": -8.78775,
+    "lon": -78.05612
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-21",
+    "hora": "13:50",
+    "lat": -0.76954,
+    "lon": -78.77828
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-21",
+    "hora": "13:53",
+    "lat": -3.8806,
+    "lon": -80.09205
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-21",
+    "hora": "13:53",
+    "lat": -6.32594,
+    "lon": -76.67242
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-21",
+    "hora": "13:53",
+    "lat": -6.20262,
+    "lon": -79.73315
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-21",
+    "hora": "13:53",
+    "lat": -6.68701,
+    "lon": -76.72601
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-21",
+    "hora": "13:53",
+    "lat": -6.55223,
+    "lon": -77.74757
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-21",
+    "hora": "13:53",
+    "lat": -6.55347,
+    "lon": -77.73883
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-21",
+    "hora": "13:53",
+    "lat": -6.46302,
+    "lon": -79.84633
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-21",
+    "hora": "13:53",
+    "lat": -7.98496,
+    "lon": -77.65977
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-20T21:30:31.187Z",
     "lugar": "17 km SSW of Tambo, Peru",
