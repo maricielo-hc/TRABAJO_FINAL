@@ -693,6 +693,20 @@ const eventosNaturales = [
     "lon": -79.48673
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-22",
+    "hora": "12:55",
+    "lat": -15.64718,
+    "lon": -71.80383
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-22",
+    "hora": "12:55",
+    "lat": -15.64871,
+    "lon": -71.80946
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-20T21:30:31.187Z",
     "lugar": "17 km SSW of Tambo, Peru",
