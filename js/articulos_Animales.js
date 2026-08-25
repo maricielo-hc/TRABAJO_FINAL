@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Cero atropellos: los puentes que salvan animales de las carreteras en la Amazonía de Brasil",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/08/21160605/PORTADA-4-Macaco-aranha_Credito_Sergio-Leal-1-scaled-1-scaled-1-768x512.jpeg",
-    "fecha": "Aug 24, 2026",
+    "fecha": "Aug 25, 2026",
     "url": "https://es.mongabay.com/2026/08/cero-atropellos-puentes-salvan-animales-carreteras-amazonia-brasil/"
   },
   {
@@ -7956,7 +7956,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Aug 25 12:41:58 2026",
+    "titulo": "Última actualización automática - Tue Aug 25 18:37:16 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
