@@ -728,6 +728,13 @@
     "lon": -79.683
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-24",
+    "hora": "21:14",
+    "lat": -2.20813,
+    "lon": -79.71304
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-20T21:30:31.187Z",
     "lugar": "17 km SSW of Tambo, Peru",
