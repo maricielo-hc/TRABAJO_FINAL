@@ -217,6 +217,69 @@
     "lon": -74.94
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-26",
+    "hora": "08:37",
+    "lat": -13.12361,
+    "lon": -71.6593
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-26",
+    "hora": "08:37",
+    "lat": -13.12317,
+    "lon": -71.64977
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-26",
+    "hora": "13:48",
+    "lat": -1.07426,
+    "lon": -78.61539
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-26",
+    "hora": "13:50",
+    "lat": -6.66961,
+    "lon": -79.15192
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-26",
+    "hora": "13:50",
+    "lat": -6.67092,
+    "lon": -79.14291
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-26",
+    "hora": "13:50",
+    "lat": -6.67857,
+    "lon": -79.15283
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-26",
+    "hora": "13:53",
+    "lat": -10.43476,
+    "lon": -75.92304
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-26",
+    "hora": "13:53",
+    "lat": -12.02263,
+    "lon": -72.49055
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-26",
+    "hora": "13:53",
+    "lat": -13.12184,
+    "lon": -71.66012
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-20T21:30:31.187Z",
     "lugar": "17 km SSW of Tambo, Peru",
@@ -231,13 +294,5 @@
     "magnitud": "6.7",
     "lat": -14.6414,
     "lon": -73.5236
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-19T10:28:05.035Z",
-    "lugar": "20 km WNW of San Bartolo, Peru",
-    "magnitud": "4.4",
-    "lat": -12.3156,
-    "lon": -76.9552
   }
 ]
