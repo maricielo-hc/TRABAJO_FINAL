@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Una nueva rana descubierta en los bosques nublados de Colombia lleva un nombre inspirado en la crisis climática",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/08/28214418/oo_1742761-768x512.jpg",
+    "fecha": "Aug 29, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/08/nueva-rana-descubierta-bosques-nublados-colombia-nombre-inspirado-crisis-climatica/"
+  },
+  {
     "titulo": "Ineficiencia institucional convierte a Galápagos en nodo logístico del tráfico ilegal de especies y del crimen organizado",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/08/28151500/PORTADA-1-768x512.jpg",
     "fecha": "Aug 28, 2026",
@@ -7968,7 +7974,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Aug 29 12:13:59 2026",
+    "titulo": "Última actualización automática - Sat Aug 29 20:23:46 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
