@@ -546,6 +546,55 @@ const eventosNaturales = [
     "lon": -79.90688
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-08-30",
+    "hora": "13:12",
+    "lat": -12.23505,
+    "lon": -74.33254
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-30",
+    "hora": "13:12",
+    "lat": -13.73468,
+    "lon": -73.59373
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-30",
+    "hora": "13:12",
+    "lat": -13.74278,
+    "lon": -73.58656
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-30",
+    "hora": "13:12",
+    "lat": -14.55083,
+    "lon": -71.1945
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-30",
+    "hora": "13:12",
+    "lat": -15.67416,
+    "lon": -71.70692
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-30",
+    "hora": "13:12",
+    "lat": -15.99286,
+    "lon": -69.84155
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-08-30",
+    "hora": "13:12",
+    "lat": -15.99414,
+    "lon": -69.83247
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-28T20:44:36.759Z",
     "lugar": "38 km NNE of Cuya, Chile",
