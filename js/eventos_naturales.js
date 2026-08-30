@@ -596,6 +596,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-08-30T16:04:07.774Z",
+    "lugar": "62 km SSE of Palca, Peru",
+    "magnitud": "4.7",
+    "lat": -18.2459,
+    "lon": -69.6387
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-08-28T20:44:36.759Z",
     "lugar": "38 km NNE of Cuya, Chile",
     "magnitud": "4.5",
