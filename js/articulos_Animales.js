@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Día Internacional de los Primates: tres proyectos para salvarlos del tráfico y la pérdida de hábitat",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/08/31224357/Yellow-tailed-woolly-monkey-in-captivity_%C2%A9GersonFerrer-Yunkawasi-2-768x512.jpg",
+    "fecha": "Sep 01, 2026",
+    "url": "https://es.mongabay.com/2026/09/dia-internacional-de-los-primates-tres-proyectos-para-salvarlos-del-trafico-y-la-perdida-de-habitat/"
+  },
+  {
     "titulo": "Una nueva rana descubierta en los bosques nublados de Colombia lleva un nombre inspirado en la crisis climática",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/08/28214418/oo_1742761-768x512.jpg",
     "fecha": "Aug 29, 2026",
@@ -7974,7 +7980,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Sep  1 11:03:11 2026",
+    "titulo": "Última actualización automática - Tue Sep  1 16:02:34 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
