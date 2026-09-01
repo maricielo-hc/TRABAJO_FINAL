@@ -3717,6 +3717,27 @@ const eventosNaturales = [
     "lon": -68.18893
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-01",
+    "hora": "09:05",
+    "lat": -0.08019,
+    "lon": -77.64968
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-01",
+    "hora": "12:51",
+    "lat": -16.09414,
+    "lon": -69.08009
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-01",
+    "hora": "12:51",
+    "lat": -16.09616,
+    "lon": -69.06754
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-31T14:07:44.327Z",
     "lugar": "8 km SW of Iray, Peru",
