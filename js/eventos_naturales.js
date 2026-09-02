@@ -552,13 +552,5 @@ const eventosNaturales = [
     "magnitud": "4.1",
     "lat": -3.3927,
     "lon": -80.6517
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-26T19:29:18.381Z",
-    "lugar": "143 km SSW of Atiquipa, Peru",
-    "magnitud": "4",
-    "lat": -16.9936,
-    "lon": -74.8729
   }
 ];
