@@ -1246,6 +1246,48 @@
     "lon": -78.02084
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-03",
+    "hora": "14:08",
+    "lat": -0.18768,
+    "lon": -76.65166
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-03",
+    "hora": "14:08",
+    "lat": -0.18979,
+    "lon": -76.63692
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-03",
+    "hora": "14:08",
+    "lat": -0.29706,
+    "lon": -76.85645
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-03",
+    "hora": "14:08",
+    "lat": -0.60181,
+    "lon": -78.69552
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-03",
+    "hora": "14:08",
+    "lat": -3.31238,
+    "lon": -77.30487
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-03",
+    "hora": "14:08",
+    "lat": -4.09942,
+    "lon": -78.01842
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-31T14:07:44.327Z",
     "lugar": "8 km SW of Iray, Peru",
@@ -1284,29 +1326,5 @@
     "magnitud": "4.5",
     "lat": -18.8677,
     "lon": -69.9747
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-27T17:40:41.549Z",
-    "lugar": "42 km E of Estique, Peru",
-    "magnitud": "4.5",
-    "lat": -17.5572,
-    "lon": -69.6195
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-27T17:23:23.348Z",
-    "lugar": "14 km NNE of Machala, Ecuador",
-    "magnitud": "4.1",
-    "lat": -3.1421,
-    "lon": -79.8986
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-27T17:09:28.808Z",
-    "lugar": "29 km NW of Tumbes, Peru",
-    "magnitud": "4.1",
-    "lat": -3.3927,
-    "lon": -80.6517
   }
 ]
