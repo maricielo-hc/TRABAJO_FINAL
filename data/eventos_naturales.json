@@ -679,6 +679,13 @@
     "lon": -69.01735
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-04",
+    "hora": "20:00",
+    "lat": -3.47805,
+    "lon": -72.61189
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-08-31T14:07:44.327Z",
     "lugar": "8 km SW of Iray, Peru",
@@ -709,13 +716,5 @@
     "magnitud": "4.7",
     "lat": -18.2459,
     "lon": -69.6387
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-28T20:44:36.759Z",
-    "lugar": "38 km NNE of Cuya, Chile",
-    "magnitud": "4.5",
-    "lat": -18.8677,
-    "lon": -69.9747
   }
 ]
