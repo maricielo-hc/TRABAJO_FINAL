@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Costa Rica: la tecnología revela la vida secreta de los tiburones nodriza del Pacífico",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/04234443/2026-julio-Tiburon-La-Cruz-Mongabay-Cesar-Arroyo-29-768x512.jpg",
+    "fecha": "Sep 07, 2026",
+    "url": "https://es.mongabay.com/2026/09/costa-rica-tecnologia-revela-vida-secreta-tiburones-nodriza-pacifico/"
+  },
+  {
     "titulo": "Día Internacional de los Primates: tres proyectos para salvarlos del tráfico y la pérdida de hábitat",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/08/31224357/Yellow-tailed-woolly-monkey-in-captivity_%C2%A9GersonFerrer-Yunkawasi-2-768x512.jpg",
     "fecha": "Sep 01, 2026",
@@ -7980,7 +7986,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Sep  7 11:27:06 2026",
+    "titulo": "Última actualización automática - Mon Sep  7 17:09:59 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
