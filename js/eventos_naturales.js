@@ -1820,6 +1820,55 @@ const eventosNaturales = [
     "lon": -78.87774
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-06",
+    "hora": "21:14",
+    "lat": -9.22008,
+    "lon": -77.5883
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-06",
+    "hora": "21:14",
+    "lat": -7.24584,
+    "lon": -78.52503
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-06",
+    "hora": "21:14",
+    "lat": -6.86715,
+    "lon": -78.99358
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-06",
+    "hora": "21:16",
+    "lat": -4.86407,
+    "lon": -80.52494
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-06",
+    "hora": "21:14",
+    "lat": -11.30676,
+    "lon": -75.91007
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-06",
+    "hora": "21:14",
+    "lat": -10.40862,
+    "lon": -76.3035
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-06",
+    "hora": "21:14",
+    "lat": -9.54712,
+    "lon": -77.67831
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-06T09:14:26.925Z",
     "lugar": "65 km S of Camaná, Peru",
@@ -1842,21 +1891,5 @@ const eventosNaturales = [
     "magnitud": "4.7",
     "lat": -12.1824,
     "lon": -75.4097
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-31T01:08:05.874Z",
-    "lugar": "71 km WSW of Puerto Casma, Peru",
-    "magnitud": "4.5",
-    "lat": -9.6152,
-    "lon": -79.0145
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-08-30T16:04:07.774Z",
-    "lugar": "62 km SSE of Palca, Peru",
-    "magnitud": "4.7",
-    "lat": -18.2459,
-    "lon": -69.6387
   }
 ];
