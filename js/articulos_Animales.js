@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "El pez boliviano que respira por la piel y desafió a la extinción continúa en peligro",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07193047/imagen-principal-768x512.jpg",
+    "fecha": "Sep 08, 2026",
+    "url": "https://es.mongabay.com/2026/09/pez-boliviano-respira-piel-extincion-peligro/"
+  },
+  {
     "titulo": "Costa Rica: la tecnología revela la vida secreta de los tiburones nodriza del Pacífico",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/04234443/2026-julio-Tiburon-La-Cruz-Mongabay-Cesar-Arroyo-29-768x512.jpg",
     "fecha": "Sep 07, 2026",
@@ -7986,7 +7992,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Sep  8 10:32:41 2026",
+    "titulo": "Última actualización automática - Tue Sep  8 15:56:32 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
