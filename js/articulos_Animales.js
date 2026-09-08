@@ -6,6 +6,12 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/09/pez-boliviano-respira-piel-extincion-peligro/"
   },
   {
+    "titulo": "Colombia: cangrejos violinistas del Golfo de Urabá fragmentan microplásticos que podrían ser nueva fuente de contaminación | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07130755/IMG_3225-768x512.jpg",
+    "fecha": "Sep 08, 2026",
+    "url": "https://es.mongabay.com/2026/09/colombia-cangrejos-violinistas-golfo-de-uraba-fragmentan-microplasticos-contaminacion/"
+  },
+  {
     "titulo": "Costa Rica: la tecnología revela la vida secreta de los tiburones nodriza del Pacífico",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/04234443/2026-julio-Tiburon-La-Cruz-Mongabay-Cesar-Arroyo-29-768x512.jpg",
     "fecha": "Sep 07, 2026",
@@ -7992,7 +7998,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Sep  8 15:56:32 2026",
+    "titulo": "Última actualización automática - Tue Sep  8 20:41:12 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
