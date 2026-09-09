@@ -259,6 +259,13 @@
     "lon": -78.94176
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-09",
+    "hora": "13:10",
+    "lat": -17.48878,
+    "lon": -71.35164
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-06T09:14:26.925Z",
     "lugar": "65 km S of Camaná, Peru",
