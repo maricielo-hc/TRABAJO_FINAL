@@ -252,6 +252,112 @@ const eventosNaturales = [
     "lon": -78.3072
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:44",
+    "lat": -0.08488,
+    "lon": -77.66209
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:44",
+    "lat": -0.08613,
+    "lon": -77.65338
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:44",
+    "lat": -2.92451,
+    "lon": -71.06101
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:46",
+    "lat": -3.6975,
+    "lon": -79.40152
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:46",
+    "lat": -5.75611,
+    "lon": -79.0124
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:46",
+    "lat": -6.46733,
+    "lon": -75.3019
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:46",
+    "lat": -6.85668,
+    "lon": -76.74775
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:46",
+    "lat": -6.89103,
+    "lon": -76.76144
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:46",
+    "lat": -7.31854,
+    "lon": -76.61145
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:46",
+    "lat": -7.31732,
+    "lon": -76.75004
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:46",
+    "lat": -7.33263,
+    "lon": -76.77044
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:46",
+    "lat": -7.76071,
+    "lon": -78.35776
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:46",
+    "lat": -10.04436,
+    "lon": -74.67812
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-10",
+    "hora": "13:48",
+    "lat": -13.46188,
+    "lon": -69.9297
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-09-10T10:39:36.283Z",
+    "lugar": "116 km WSW of Alianza Cristiana, Peru",
+    "magnitud": "4.7",
+    "lat": -3.9669,
+    "lon": -77.3635
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-10T06:42:40.393Z",
     "lugar": "126 km WSW of Alianza Cristiana, Peru",
