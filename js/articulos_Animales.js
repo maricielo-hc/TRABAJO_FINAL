@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Cerro de Arcos, el hogar del fascinante colibrí estrella de garganta azul que está en peligro de extinción | Reportaje fotográfico",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/11/14053422/reserva-Cerro-de-Arcos-colibri-Estrella-de-Garganta-Azul-Byron-Puglla-768x512.jpg",
+    "fecha": "Sep 11, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/09/cerro-de-arcos-hogar-colibri-estrella-garganta-azul-extincion-reportaje-fotografico/"
+  },
+  {
     "titulo": "Colombia: cangrejos violinistas del Golfo de Urabá fragmentan microplásticos que podrían ser nueva fuente de contaminación | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07130755/IMG_3225-768x512.jpg",
     "fecha": "Sep 09, 2026",
@@ -7998,7 +8004,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Sep 11 15:48:42 2026",
+    "titulo": "Última actualización automática - Fri Sep 11 20:26:15 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
