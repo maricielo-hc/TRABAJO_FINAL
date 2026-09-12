@@ -6,12 +6,6 @@ const articulos = [
     "url": "https://es.mongabay.com/custom-story/2026/09/cerro-de-arcos-hogar-colibri-estrella-garganta-azul-extincion-reportaje-fotografico/"
   },
   {
-    "titulo": "Colombia: cangrejos violinistas del Golfo de Urabá fragmentan microplásticos que podrían ser nueva fuente de contaminación | ESTUDIO",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07130755/IMG_3225-768x512.jpg",
-    "fecha": "Sep 09, 2026",
-    "url": "https://es.mongabay.com/2026/09/colombia-cangrejos-violinistas-golfo-de-uraba-fragmentan-microplasticos-contaminacion/"
-  },
-  {
     "titulo": "El pez boliviano que respira por la piel y desafió a la extinción continúa en peligro",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07193047/imagen-principal-768x512.jpg",
     "fecha": "Sep 08, 2026",
@@ -8004,7 +7998,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Sep 11 20:26:15 2026",
+    "titulo": "Última actualización automática - Sat Sep 12 02:48:55 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
