@@ -1,9 +1,21 @@
 const articulos = [
   {
+    "titulo": "Microplásticos en animales: ya están dentro de peces, pulpos, murciélagos y cangrejos | Lecturas ambientales",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07114639/IMG_20211019_193254-scaled-e1788883967634-768x512.jpg",
+    "fecha": "Sep 13, 2026",
+    "url": "https://es.mongabay.com/2026/09/microplasticos-en-animales-ya-estan-dentro-de-peces-pulpos-murcielagos-y-cangrejos-lecturas-ambientales/"
+  },
+  {
     "titulo": "Cerro de Arcos, el hogar del fascinante colibrí estrella de garganta azul que está en peligro de extinción | Reportaje fotográfico",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/11/14053422/reserva-Cerro-de-Arcos-colibri-Estrella-de-Garganta-Azul-Byron-Puglla-768x512.jpg",
     "fecha": "Sep 11, 2026",
     "url": "https://es.mongabay.com/custom-story/2026/09/cerro-de-arcos-hogar-colibri-estrella-garganta-azul-extincion-reportaje-fotografico/"
+  },
+  {
+    "titulo": "Colombia: cangrejos violinistas del Golfo de Urabá fragmentan microplásticos que podrían ser nueva fuente de contaminación | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07130755/IMG_3225-768x512.jpg",
+    "fecha": "Sep 09, 2026",
+    "url": "https://es.mongabay.com/2026/09/colombia-cangrejos-violinistas-golfo-de-uraba-fragmentan-microplasticos-contaminacion/"
   },
   {
     "titulo": "El pez boliviano que respira por la piel y desafió a la extinción continúa en peligro",
@@ -7998,7 +8010,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Sep 13 11:02:53 2026",
+    "titulo": "Última actualización automática - Sun Sep 13 15:34:32 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
