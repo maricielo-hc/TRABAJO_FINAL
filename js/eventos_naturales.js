@@ -1758,6 +1758,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-09-14T19:16:49.927Z",
+    "lugar": "106 km WSW of Alianza Cristiana, Peru",
+    "magnitud": "4.8",
+    "lat": -3.7302,
+    "lon": -77.3609
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-09-12T08:46:38.186Z",
     "lugar": "63 km WSW of Santiago, Peru",
     "magnitud": "4.5",
