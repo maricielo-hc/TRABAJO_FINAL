@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "Microplásticos en animales: ya están dentro de peces, pulpos, murciélagos y cangrejos | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07114639/IMG_20211019_193254-scaled-e1788883967634-768x512.jpg",
-    "fecha": "Sep 13, 2026",
+    "fecha": "Sep 14, 2026",
     "url": "https://es.mongabay.com/2026/09/microplasticos-en-animales-ya-estan-dentro-de-peces-pulpos-murcielagos-y-cangrejos-lecturas-ambientales/"
+  },
+  {
+    "titulo": "Las entregas voluntarias: un punto ciego del tráfico de pequeños felinos en Colombia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/11184534/Corantioquia-devuelve-a-la-libertad-a-una-ocelote-tras-meses-de-rehabilitacion-1024x683-1-768x512.jpeg",
+    "fecha": "Sep 14, 2026",
+    "url": "https://es.mongabay.com/2026/09/entregas-voluntarias-punto-ciego-trafico-pequenos-felinos-colombia/"
   },
   {
     "titulo": "Cerro de Arcos, el hogar del fascinante colibrí estrella de garganta azul que está en peligro de extinción | Reportaje fotográfico",
@@ -8010,7 +8016,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Sep 14 11:36:52 2026",
+    "titulo": "Última actualización automática - Mon Sep 14 17:33:12 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
