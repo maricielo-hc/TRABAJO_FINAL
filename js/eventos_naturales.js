@@ -79,6 +79,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-09-12T16:04:36.167Z",
+    "lugar": "1 km E of Camilaca, Peru",
+    "magnitud": "4.3",
+    "lat": -17.2664,
+    "lon": -70.3681
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-09-12T08:46:38.186Z",
     "lugar": "63 km WSW of Santiago, Peru",
     "magnitud": "4.5",
