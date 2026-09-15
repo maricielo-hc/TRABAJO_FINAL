@@ -1757,6 +1757,13 @@ const eventosNaturales = [
     "lon": -70.79156
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-14",
+    "hora": "21:23",
+    "lat": -10.27517,
+    "lon": -77.49419
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-14T19:16:49.927Z",
     "lugar": "106 km WSW of Alianza Cristiana, Peru",
