@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Cangrejo rey del Caribe: el “jardinero del arrecife” que remueve toneladas de algas del Sistema Arrecifal Mesoamericano",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/14174013/Copia-de-Copia-de-DSCN0477-768x512.jpg",
+    "fecha": "Sep 15, 2026",
+    "url": "https://es.mongabay.com/2026/09/cangrejo-rey-caribe-jardinero-arrecife-recuperacion-sistema-arrecifal-mesoamericano/"
+  },
+  {
     "titulo": "Microplásticos en animales: ya están dentro de peces, pulpos, murciélagos y cangrejos | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07114639/IMG_20211019_193254-scaled-e1788883967634-768x512.jpg",
     "fecha": "Sep 14, 2026",
@@ -8016,7 +8022,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Sep 15 10:58:06 2026",
+    "titulo": "Última actualización automática - Tue Sep 15 16:09:38 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
