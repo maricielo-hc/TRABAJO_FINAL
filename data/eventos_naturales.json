@@ -441,6 +441,20 @@
     "lon": -79.46046
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-16",
+    "hora": "08:50",
+    "lat": -12.48645,
+    "lon": -75.94337
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-16",
+    "hora": "08:50",
+    "lat": -12.48907,
+    "lon": -75.95128
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-15T23:45:06.518Z",
     "lugar": "17 km WNW of Palora, Ecuador",
