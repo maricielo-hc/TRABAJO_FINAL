@@ -252,6 +252,27 @@ const eventosNaturales = [
     "lon": -80.78056
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-17",
+    "hora": "13:25",
+    "lat": -7.0218,
+    "lon": -78.72235
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-17",
+    "hora": "13:25",
+    "lat": -7.02494,
+    "lon": -78.70929
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-17",
+    "hora": "13:27",
+    "lat": -11.84126,
+    "lon": -72.94701
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-15T23:45:06.518Z",
     "lugar": "17 km WNW of Palora, Ecuador",
