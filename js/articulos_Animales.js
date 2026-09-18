@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Pasos de fauna en América Latina: los puentes en los árboles que ayudan a monos, perezosos y otros animales a cruzar con seguridad | Reportaje fotográfico",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31051407/Foto-10-Creditos-Salve-Monos-768x512.jpg",
+    "fecha": "Sep 18, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/09/pasos-fauna-america-latina-puentes-arboles-ayudan-animales-reportaje-fotografico/"
+  },
+  {
     "titulo": "Venezuela: pesca con redes de enmalle amenaza al delfín de Guyana en el Lago de Maracaibo",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/15141919/ORI6858-e1789500355418-768x512.jpg",
     "fecha": "Sep 17, 2026",
@@ -8028,7 +8034,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Sep 18 15:45:39 2026",
+    "titulo": "Última actualización automática - Fri Sep 18 20:23:05 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
