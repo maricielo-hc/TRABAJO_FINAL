@@ -280,6 +280,83 @@
     "lon": -79.61147
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:38",
+    "lat": -10.24753,
+    "lon": -68.75645
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:38",
+    "lat": -10.23688,
+    "lon": -68.7583
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:38",
+    "lat": -10.87603,
+    "lon": -76.81988
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:38",
+    "lat": -10.87824,
+    "lon": -76.83633
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:38",
+    "lat": -8.06229,
+    "lon": -70.47023
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:38",
+    "lat": -8.06399,
+    "lon": -70.48135
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:38",
+    "lat": -8.04714,
+    "lon": -71.28869
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:38",
+    "lat": -8.03162,
+    "lon": -71.24986
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:42",
+    "lat": -0.08235,
+    "lon": -77.65822
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:42",
+    "lat": -0.08383,
+    "lon": -77.66807
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-18",
+    "hora": "20:42",
+    "lat": -0.07665,
+    "lon": -78.49734
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-15T23:45:06.518Z",
     "lugar": "17 km WNW of Palora, Ecuador",
@@ -310,13 +387,5 @@
     "magnitud": "4.5",
     "lat": -14.4855,
     "lon": -76.2161
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-09-12T00:18:59.059Z",
-    "lugar": "9 km WNW of Quicacha, Peru",
-    "magnitud": "4.5",
-    "lat": -15.606,
-    "lon": -73.8803
   }
 ]
