@@ -133,6 +133,13 @@
     "lon": -78.49734
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-19",
+    "hora": "13:04",
+    "lat": -7.37637,
+    "lon": -68.01487
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-19T07:12:27.058Z",
     "lugar": "117 km NW of Barranca, Peru",
