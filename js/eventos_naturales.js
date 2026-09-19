@@ -149,6 +149,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-09-18T14:42:39.134Z",
+    "lugar": "72 km SE of Palca, Peru",
+    "magnitud": "4.1",
+    "lat": -18.1468,
+    "lon": -69.394
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-09-15T23:45:06.518Z",
     "lugar": "17 km WNW of Palora, Ecuador",
     "magnitud": "4.5",
@@ -162,13 +170,5 @@ const eventosNaturales = [
     "magnitud": "4.8",
     "lat": -3.7302,
     "lon": -77.3609
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-09-12T16:04:36.167Z",
-    "lugar": "1 km E of Camilaca, Peru",
-    "magnitud": "4.3",
-    "lat": -17.2664,
-    "lon": -70.3681
   }
 ];
