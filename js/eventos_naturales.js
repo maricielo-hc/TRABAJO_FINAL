@@ -245,6 +245,69 @@ const eventosNaturales = [
     "lon": -72.43036
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-20",
+    "hora": "13:44",
+    "lat": -11.32128,
+    "lon": -72.72997
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-20",
+    "hora": "13:44",
+    "lat": -11.12431,
+    "lon": -75.35995
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-20",
+    "hora": "13:44",
+    "lat": -11.87334,
+    "lon": -70.81339
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-20",
+    "hora": "13:44",
+    "lat": -13.31017,
+    "lon": -68.62423
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-20",
+    "hora": "13:44",
+    "lat": -13.73331,
+    "lon": -68.89091
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-20",
+    "hora": "13:44",
+    "lat": -13.34791,
+    "lon": -72.49715
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-20",
+    "hora": "13:46",
+    "lat": -15.65965,
+    "lon": -72.44367
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-20",
+    "hora": "13:46",
+    "lat": -15.67252,
+    "lon": -72.44448
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-20",
+    "hora": "13:46",
+    "lat": -15.67488,
+    "lon": -72.42373
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-19T07:12:27.058Z",
     "lugar": "117 km NW of Barranca, Peru",
