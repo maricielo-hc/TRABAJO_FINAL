@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Chile: el Congreso quiere controlar a los perros asilvestrados pero científicos cuestionan esa clasificación",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/18232235/P16_080225_M31-81-768x512.jpg",
+    "fecha": "Sep 21, 2026",
+    "url": "https://es.mongabay.com/2026/09/chile-congreso-controlar-perros-asilvestrados-cientificos-cuestionan-clasificacion/"
+  },
+  {
     "titulo": "Pasos de fauna en América Latina: los puentes en los árboles que ayudan a monos, perezosos y otros animales a cruzar con seguridad | Reportaje fotográfico",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31051407/Foto-10-Creditos-Salve-Monos-768x512.jpg",
     "fecha": "Sep 18, 2026",
@@ -8034,7 +8040,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Sep 21 11:51:00 2026",
+    "titulo": "Última actualización automática - Mon Sep 21 17:46:57 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
