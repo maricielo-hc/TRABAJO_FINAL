@@ -2618,6 +2618,62 @@ const eventosNaturales = [
     "lon": -68.66297
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-22",
+    "hora": "09:17",
+    "lat": -2.00667,
+    "lon": -78.33125
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-22",
+    "hora": "13:25",
+    "lat": -13.78375,
+    "lon": -76.16763
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-22",
+    "hora": "13:23",
+    "lat": -2.01262,
+    "lon": -78.33528
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-22",
+    "hora": "13:25",
+    "lat": -9.58066,
+    "lon": -73.40723
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-22",
+    "hora": "13:25",
+    "lat": -10.24992,
+    "lon": -68.74535
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-22",
+    "hora": "13:25",
+    "lat": -11.13615,
+    "lon": -68.98853
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-22",
+    "hora": "13:25",
+    "lat": -11.34594,
+    "lon": -69.33277
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-22",
+    "hora": "13:25",
+    "lat": -11.85204,
+    "lon": -69.43552
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-21T03:58:24.483Z",
     "lugar": "4 km W of Victor Raul, Peru",
