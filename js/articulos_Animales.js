@@ -1,27 +1,27 @@
 const articulos = [
   {
+    "titulo": "Proyecto de parque acuático más grande de Latinoamérica amenaza al jaguar y las tortugas marinas en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/15165025/Jaguar-3-768x512.jpg",
+    "fecha": "Sep 23, 2026",
+    "url": "https://es.mongabay.com/2026/09/mexico-proyecto-parque-acuatico-amenaza-jaguar-tortugas-marinas/"
+  },
+  {
+    "titulo": "El rugido del mar: bioacústica comunitaria para entender cómo el cambio climático afecta al pez mero del Caribe en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/08152800/Mero_Punta-Allen_Portada-768x512.jpg",
+    "fecha": "Sep 23, 2026",
+    "url": "https://es.mongabay.com/2026/09/bioacustica-entender-cambio-climatico-afecta-pez-mero-caribe-mexicano/"
+  },
+  {
     "titulo": "Chile: expertos advierten que los perros que afectan a la fauna y ganadería van más allá de los asilvestrados",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/18232235/P16_080225_M31-81-768x512.jpg",
     "fecha": "Sep 22, 2026",
     "url": "https://es.mongabay.com/2026/09/chile-congreso-controlar-perros-asilvestrados-cientificos-cuestionan-clasificacion/"
   },
   {
-    "titulo": "Proyecto de parque acuático más grande de Latinoamérica amenaza al jaguar y las tortugas marinas en México",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/15165025/Jaguar-3-768x512.jpg",
-    "fecha": "Sep 22, 2026",
-    "url": "https://es.mongabay.com/2026/09/mexico-proyecto-parque-acuatico-amenaza-jaguar-tortugas-marinas/"
-  },
-  {
     "titulo": "Colombia: la sobreexplotación pesquera afecta a por lo menos tres especies clave para comunidades del Pacífico | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/22034655/sobreexplotacion-pesquera-colombia-comunidades-pacifico-estudio-6-768x512.jpeg",
     "fecha": "Sep 22, 2026",
     "url": "https://es.mongabay.com/2026/09/sobreexplotacion-pesquera-colombia-comunidades-pacifico-estudio/"
-  },
-  {
-    "titulo": "El rugido del mar: bioacústica comunitaria para entender cómo el cambio climático afecta al pez mero del Caribe en México",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/08152800/Mero_Punta-Allen_Portada-768x512.jpg",
-    "fecha": "Sep 22, 2026",
-    "url": "https://es.mongabay.com/2026/09/bioacustica-entender-cambio-climatico-afecta-pez-mero-caribe-mexicano/"
   },
   {
     "titulo": "Perú: Ministerio del Ambiente autorizó cuotas para exportar aletas de tiburón que beneficiaron a empresario investigado por crimen organizado",
@@ -8064,7 +8064,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Sep 23 03:01:10 2026",
+    "titulo": "Última actualización automática - Wed Sep 23 16:03:08 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
