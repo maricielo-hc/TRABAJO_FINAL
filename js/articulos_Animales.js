@@ -6,6 +6,18 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/09/chile-congreso-controlar-perros-asilvestrados-cientificos-cuestionan-clasificacion/"
   },
   {
+    "titulo": "Proyecto de parque acuático más grande de Latinoamérica amenaza al jaguar y las tortugas marinas en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/15165025/Jaguar-3-768x512.jpg",
+    "fecha": "Sep 22, 2026",
+    "url": "https://es.mongabay.com/2026/09/mexico-proyecto-parque-acuatico-amenaza-jaguar-tortugas-marinas/"
+  },
+  {
+    "titulo": "Colombia: la sobreexplotación pesquera afecta a por lo menos tres especies clave para comunidades del Pacífico | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/22034655/sobreexplotacion-pesquera-colombia-comunidades-pacifico-estudio-6-768x512.jpeg",
+    "fecha": "Sep 22, 2026",
+    "url": "https://es.mongabay.com/2026/09/sobreexplotacion-pesquera-colombia-comunidades-pacifico-estudio/"
+  },
+  {
     "titulo": "El rugido del mar: bioacústica comunitaria para entender cómo el cambio climático afecta al pez mero del Caribe en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/08152800/Mero_Punta-Allen_Portada-768x512.jpg",
     "fecha": "Sep 22, 2026",
@@ -8052,7 +8064,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Sep 22 16:12:47 2026",
+    "titulo": "Última actualización automática - Wed Sep 23 03:01:10 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
