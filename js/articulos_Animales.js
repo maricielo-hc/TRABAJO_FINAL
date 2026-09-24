@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Malvinas: expertos argentinos advierten sobre impactos ambientales del proyecto petrolero Sea Lion, autorizado por Reino Unido",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/07/22140808/hidrocarburos-en-el-mar-argentino-Foto-Gobierno-de-Argentina-768x512.jpeg",
+    "fecha": "Sep 24, 2026",
+    "url": "https://es.mongabay.com/2026/09/malvinas-argentinos-advierten-impactos-ambientales-proyecto-petrolero-sea-lion-autorizado-reino-unido/"
+  },
+  {
+    "titulo": "La “autopista arbórea” de la Chiquitania en Bolivia: estudio revela la vida oculta en las copas de los árboles",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/18170533/1-PORTADA-768x512.jpg",
+    "fecha": "Sep 24, 2026",
+    "url": "https://es.mongabay.com/2026/09/estudio-revela-vida-oculta-copas-arboles-bolivia/"
+  },
+  {
     "titulo": "Proyecto de parque acuático más grande de Latinoamérica amenaza al jaguar y las tortugas marinas en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/15165025/Jaguar-3-768x512.jpg",
     "fecha": "Sep 23, 2026",
@@ -8064,7 +8076,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Sep 23 21:03:54 2026",
+    "titulo": "Última actualización automática - Thu Sep 24 16:25:43 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
