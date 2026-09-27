@@ -931,6 +931,27 @@ const eventosNaturales = [
     "lon": -68.53214
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-27",
+    "hora": "13:23",
+    "lat": -11.05621,
+    "lon": -68.44579
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-27",
+    "hora": "13:23",
+    "lat": -15.26868,
+    "lon": -73.06747
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-27",
+    "hora": "13:23",
+    "lat": -15.9716,
+    "lon": -69.62965
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-25T04:26:30.062Z",
     "lugar": "32 km SSW of Huacho, Peru",
