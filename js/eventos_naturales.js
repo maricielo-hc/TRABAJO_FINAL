@@ -301,6 +301,69 @@ const eventosNaturales = [
     "lon": -68.06275
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-09-28",
+    "hora": "13:59",
+    "lat": -0.26954,
+    "lon": -78.33212
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-28",
+    "hora": "13:59",
+    "lat": -0.3548,
+    "lon": -78.44801
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-28",
+    "hora": "14:01",
+    "lat": -7.62234,
+    "lon": -78.05393
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-28",
+    "hora": "14:01",
+    "lat": -7.62396,
+    "lon": -78.0419
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-28",
+    "hora": "14:01",
+    "lat": -7.81803,
+    "lon": -78.0443
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-28",
+    "hora": "14:01",
+    "lat": -9.29318,
+    "lon": -75.98973
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-28",
+    "hora": "14:01",
+    "lat": -9.29441,
+    "lon": -75.99523
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-28",
+    "hora": "14:01",
+    "lat": -9.3414,
+    "lon": -77.55606
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-09-28",
+    "hora": "14:01",
+    "lat": -9.52804,
+    "lon": -77.53158
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-25T04:26:30.062Z",
     "lugar": "32 km SSW of Huacho, Peru",
