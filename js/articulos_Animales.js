@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "La mayoría son murciélagos: estudio identifica 227 especies de mamíferos en Honduras, tras la mayor evaluación en 30 años",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/01033024/Captura-de-pantalla-2026-09-30-a-las-8.29.35-p.m-768x512.png",
+    "fecha": "Oct 01, 2026",
+    "url": "https://es.mongabay.com/2026/10/murcielagos-estudio-identifica-especies-mamiferos-honduras-tras-mayor-evaluacion/"
+  },
+  {
     "titulo": "Argentina: hallan muertas a un inusual número de crías de ballena franca austral en Península Valdés",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/25131711/Registro-de-muerte-de-crias-de-ballena-franca-austral-en-Argentina-Foto-cortesia-Instituto-de-Conservacion-de-Ballenas-768x511.jpg",
     "fecha": "Sep 25, 2026",
@@ -8088,7 +8094,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Oct  1 12:21:41 2026",
+    "titulo": "Última actualización automática - Thu Oct  1 22:20:40 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
