@@ -1232,6 +1232,97 @@ const eventosNaturales = [
     "lon": -71.31926
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "09:07",
+    "lat": -9.64528,
+    "lon": -77.71019
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "09:07",
+    "lat": -9.64704,
+    "lon": -77.71707
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "09:07",
+    "lat": -9.64875,
+    "lon": -77.70432
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "13:23",
+    "lat": -8.6992,
+    "lon": -77.45187
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "13:23",
+    "lat": -9.38543,
+    "lon": -77.19762
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "13:23",
+    "lat": -11.00542,
+    "lon": -74.87193
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "13:23",
+    "lat": -12.12371,
+    "lon": -74.48555
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "13:23",
+    "lat": -13.21512,
+    "lon": -72.16634
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "13:23",
+    "lat": -13.77237,
+    "lon": -70.23529
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "13:23",
+    "lat": -13.58004,
+    "lon": -73.74203
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "13:23",
+    "lat": -15.12386,
+    "lon": -73.72752
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "13:25",
+    "lat": -16.51239,
+    "lon": -71.33084
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "13:25",
+    "lat": -16.51373,
+    "lon": -71.32047
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-29T10:22:14.613Z",
     "lugar": "96 km ENE of Alianza Cristiana, Peru",
