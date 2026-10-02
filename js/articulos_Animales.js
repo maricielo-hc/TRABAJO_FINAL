@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Un cuento nacido de 356 dibujos infantiles busca proteger al jaguar en áreas rurales de México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/02044044/Captura-de-pantalla-2026-10-01-a-las-9.38.35-p.m-768x512.png",
+    "fecha": "Oct 02, 2026",
+    "url": "https://es.mongabay.com/2026/10/cuento-dibujos-infantiles-busca-proteger-jaguar-areas-rurales-mexico/"
+  },
+  {
     "titulo": "La mayoría son murciélagos: estudio identifica 227 especies de mamíferos en Honduras, tras la mayor evaluación en 30 años",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/01033024/Captura-de-pantalla-2026-09-30-a-las-8.29.35-p.m-768x512.png",
     "fecha": "Oct 01, 2026",
@@ -8094,7 +8100,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Oct  2 11:50:36 2026",
+    "titulo": "Última actualización automática - Fri Oct  2 17:22:41 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
