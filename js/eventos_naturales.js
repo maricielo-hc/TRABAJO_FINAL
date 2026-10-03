@@ -1323,6 +1323,153 @@ const eventosNaturales = [
     "lon": -71.32047
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "19:42",
+    "lat": -9.55525,
+    "lon": -68.5275
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -9.08906,
+    "lon": -77.69444
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -8.76851,
+    "lon": -77.62958
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -8.70679,
+    "lon": -77.46825
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -8.5812,
+    "lon": -77.90732
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -15.12288,
+    "lon": -73.71999
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -8.57008,
+    "lon": -77.9108
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -13.7694,
+    "lon": -72.47174
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -8.44998,
+    "lon": -78.02007
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -13.26171,
+    "lon": -72.14927
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -8.3233,
+    "lon": -77.45466
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -12.09,
+    "lon": -76.14764
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -10.47406,
+    "lon": -76.18544
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -10.47447,
+    "lon": -76.19116
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -9.84194,
+    "lon": -76.51125
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -9.84486,
+    "lon": -76.52882
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -9.8726,
+    "lon": -76.69637
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -9.8464,
+    "lon": -77.66418
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -9.83455,
+    "lon": -77.6628
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -9.61604,
+    "lon": -76.88905
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-02",
+    "hora": "21:18",
+    "lat": -9.33242,
+    "lon": -77.15119
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-09-29T10:22:14.613Z",
     "lugar": "96 km ENE of Alianza Cristiana, Peru",
