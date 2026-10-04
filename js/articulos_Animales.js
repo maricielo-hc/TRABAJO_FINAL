@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Día Mundial de los Animales: GPS, cámaras trampa y drones revelan la vida secreta de cinco especies de América Latina",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/26190113/fox5slide-1-768x512.png",
+    "fecha": "Oct 04, 2026",
+    "url": "https://es.mongabay.com/2026/10/dia-mundial-animales-gps-camaras-trampa-drones-revelan-vida-secreta-especies-america-latina/"
+  },
+  {
     "titulo": "Un cuento nacido de 356 dibujos infantiles busca proteger al jaguar en áreas rurales de México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/02044044/Captura-de-pantalla-2026-10-01-a-las-9.38.35-p.m-768x512.png",
     "fecha": "Oct 02, 2026",
@@ -8100,7 +8106,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Oct  4 11:46:19 2026",
+    "titulo": "Última actualización automática - Sun Oct  4 16:25:49 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
