@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Panamá: ruido de barcos reduce hasta 45 % la probabilidad de registrar cantos de ballenas jorobadas",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/05095554/ballena-cientificos-estudian-sonido-panama-impacto-del-ruido-foto-WWF-768x511.jpg",
+    "fecha": "Oct 05, 2026",
+    "url": "https://es.mongabay.com/2026/10/panama-ruido-barcos-reduce-probabilidad-registrar-cantos-ballenas-jorobadas/"
+  },
+  {
     "titulo": "Día Mundial de los Animales: GPS, cámaras trampa y drones revelan la vida secreta de cinco especies de América Latina",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/26190113/fox5slide-1-768x512.png",
     "fecha": "Oct 04, 2026",
@@ -8106,7 +8112,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Oct  5 13:26:55 2026",
+    "titulo": "Última actualización automática - Mon Oct  5 23:42:11 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
