@@ -6293,6 +6293,168 @@ const eventosNaturales = [
     "lon": -72.3475
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -11.28499,
+    "lon": -69.17815
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -7.9531,
+    "lon": -71.34041
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -7.95436,
+    "lon": -71.33157
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -7.85751,
+    "lon": -72.46257
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -11.76868,
+    "lon": -75.03699
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -7.88189,
+    "lon": -72.35625
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -7.88318,
+    "lon": -72.34732
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -7.88447,
+    "lon": -72.33839
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -7.89074,
+    "lon": -72.35751
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -12.3317,
+    "lon": -74.81176
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -7.89203,
+    "lon": -72.34858
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:21",
+    "lat": -12.91238,
+    "lon": -74.19659
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:21",
+    "lat": -13.25413,
+    "lon": -73.31454
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:21",
+    "lat": -13.46764,
+    "lon": -72.7832
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:21",
+    "lat": -13.63603,
+    "lon": -72.45472
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:21",
+    "lat": -13.65361,
+    "lon": -72.45703
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -8.74574,
+    "lon": -69.64188
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -8.75113,
+    "lon": -69.64901
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -8.75249,
+    "lon": -69.63893
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -8.86419,
+    "lon": -69.16879
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -8.97207,
+    "lon": -68.59473
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "13:18",
+    "lat": -8.72564,
+    "lon": -70.77631
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-10-07T16:06:06.205Z",
+    "lugar": "23 km E of Palora, Ecuador",
+    "magnitud": "4.3",
+    "lat": -1.7116,
+    "lon": -77.7569
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-04T08:57:21.555Z",
     "lugar": "42 km WNW of Puerto Bolívar, Ecuador",
