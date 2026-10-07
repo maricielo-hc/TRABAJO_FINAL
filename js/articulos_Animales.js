@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Un bosque para el búho de Santa Marta: la desconocida especie colombiana que necesita árboles altos y bromelias | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/07023808/Captura-de-pantalla-2026-10-06-a-las-7.35.31-p.m-768x512.png",
+    "fecha": "Oct 07, 2026",
+    "url": "https://es.mongabay.com/2026/10/buho-santa-marta-especie-desconocida-colombia-necesita-arboles-altos-bromelias/"
+  },
+  {
     "titulo": "Panamá: ruido de barcos reduce hasta 45 % la probabilidad de registrar cantos de ballenas jorobadas",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/05095554/ballena-cientificos-estudian-sonido-panama-impacto-del-ruido-foto-WWF-768x511.jpg",
     "fecha": "Oct 06, 2026",
@@ -8112,7 +8118,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Oct  7 12:35:55 2026",
+    "titulo": "Última actualización automática - Wed Oct  7 22:38:21 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
