@@ -1,8 +1,14 @@
 const articulos = [
   {
+    "titulo": "Argentina: oso hormiguero gigante vuelve a Corrientes después de 40 años",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/08183719/Image_1_Osa-hormiguero-sobre-Bermejo-Foto-Veronica-Quiroga-1-768x512.jpg",
+    "fecha": "Oct 08, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/10/argentina-oso-hormiguero-gigante-vuelve-corrientes/"
+  },
+  {
     "titulo": "Un bosque para el búho de Santa Marta: la desconocida especie colombiana que necesita árboles altos y bromelias | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/07023808/Captura-de-pantalla-2026-10-06-a-las-7.35.31-p.m-768x512.png",
-    "fecha": "Oct 07, 2026",
+    "fecha": "Oct 08, 2026",
     "url": "https://es.mongabay.com/2026/10/buho-santa-marta-especie-desconocida-colombia-necesita-arboles-altos-bromelias/"
   },
   {
@@ -8118,7 +8124,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Oct  8 12:45:16 2026",
+    "titulo": "Última actualización automática - Thu Oct  8 22:51:17 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
