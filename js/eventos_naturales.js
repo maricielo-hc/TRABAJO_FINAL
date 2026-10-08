@@ -854,6 +854,111 @@ const eventosNaturales = [
     "lon": -73.57775
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:57",
+    "lat": -0.97209,
+    "lon": -78.84917
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:57",
+    "lat": -0.97338,
+    "lon": -78.84007
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:57",
+    "lat": -3.61701,
+    "lon": -79.25938
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -6.49268,
+    "lon": -79.07092
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -6.49409,
+    "lon": -79.06075
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -7.62512,
+    "lon": -78.04855
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -7.82012,
+    "lon": -78.0422
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -8.21158,
+    "lon": -77.33286
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -9.79632,
+    "lon": -75.91351
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -9.79936,
+    "lon": -75.92169
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -9.80128,
+    "lon": -75.90585
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -10.54381,
+    "lon": -76.12179
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -10.76759,
+    "lon": -76.28822
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -12.72258,
+    "lon": -74.37009
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-08",
+    "hora": "13:59",
+    "lat": -12.72361,
+    "lon": -74.38018
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-07T16:06:06.205Z",
     "lugar": "23 km E of Palora, Ecuador",
