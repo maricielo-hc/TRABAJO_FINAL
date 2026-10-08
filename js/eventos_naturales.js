@@ -6447,6 +6447,97 @@ const eventosNaturales = [
     "lon": -70.77631
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:14",
+    "lat": -1.56248,
+    "lon": -78.64059
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:14",
+    "lat": -1.55614,
+    "lon": -78.63532
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:12",
+    "lat": -14.33602,
+    "lon": -71.16348
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:12",
+    "lat": -14.33825,
+    "lon": -71.16643
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:12",
+    "lat": -11.82539,
+    "lon": -75.51655
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:14",
+    "lat": -5.17943,
+    "lon": -79.00266
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:14",
+    "lat": -5.1811,
+    "lon": -79.01365
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:14",
+    "lat": -4.95545,
+    "lon": -79.21955
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:14",
+    "lat": -4.99284,
+    "lon": -79.66053
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:14",
+    "lat": -4.98208,
+    "lon": -79.65243
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:14",
+    "lat": -4.98364,
+    "lon": -79.66271
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:14",
+    "lat": -4.8118,
+    "lon": -79.49427
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-07",
+    "hora": "21:14",
+    "lat": -4.62284,
+    "lon": -79.59466
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-07T16:06:06.205Z",
     "lugar": "23 km E of Palora, Ecuador",
