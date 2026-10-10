@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Famosos que inspiran nombres de animales: los científicos hacen homenajes a Taylor Swift, Slash y Neisi Dajomes | Coyuntura ambiental",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/10001714/aletas-de-tiburon-1-768x512.jpg",
+    "fecha": "Oct 10, 2026",
+    "url": "https://es.mongabay.com/2026/10/famosos-inspiran-nombres-animales-taylor-swift-slash-neisi-dajomes-coyuntura-ambiental/"
+  },
+  {
+    "titulo": "October Big Day en América Latina: de la emoción de descubrir un ave a la defensa de su hábitat",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/10071407/4-768x512.jpeg",
+    "fecha": "Oct 10, 2026",
+    "url": "https://es.mongabay.com/2026/10/october-big-day-en-america-latina-de-la-emocion-de-descubrir-un-ave-a-la-defensa-de-su-habitat/"
+  },
+  {
     "titulo": "Capturan más de 400 peces león y alertan por la invasión de esta especie en Brasil",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/09172226/Peixe-leao-Bahia-Brasil-768x512.jpg",
     "fecha": "Oct 09, 2026",
@@ -8136,7 +8148,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Oct 10 11:51:32 2026",
+    "titulo": "Última actualización automática - Sat Oct 10 16:54:08 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
