@@ -1610,6 +1610,83 @@ const eventosNaturales = [
     "lon": -72.51252
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "19:49",
+    "lat": -13.6305,
+    "lon": -68.15747
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "21:27",
+    "lat": -14.71151,
+    "lon": -75.32558
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "21:29",
+    "lat": -6.2868,
+    "lon": -79.06101
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "21:29",
+    "lat": -6.28595,
+    "lon": -79.06803
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "21:29",
+    "lat": -5.59624,
+    "lon": -79.34762
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "19:49",
+    "lat": -11.72216,
+    "lon": -68.77412
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "19:49",
+    "lat": -9.71674,
+    "lon": -68.64703
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "19:49",
+    "lat": -9.47247,
+    "lon": -68.51421
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "19:49",
+    "lat": -9.47347,
+    "lon": -68.51915
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "19:51",
+    "lat": -8.42688,
+    "lon": -70.14255
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-10",
+    "hora": "21:29",
+    "lat": -2.30405,
+    "lon": -80.87482
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-09T10:55:29.279Z",
     "lugar": "20 km NNE of El Pedregal, Peru",
