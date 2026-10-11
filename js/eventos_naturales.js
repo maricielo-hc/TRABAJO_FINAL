@@ -707,6 +707,77 @@ const eventosNaturales = [
     "lon": -69.9451
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-11",
+    "hora": "12:42",
+    "lat": -14.90179,
+    "lon": -69.02433
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-11",
+    "hora": "12:42",
+    "lat": -14.90404,
+    "lon": -69.01112
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-11",
+    "hora": "12:42",
+    "lat": -15.31864,
+    "lon": -70.27167
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-11",
+    "hora": "14:16",
+    "lat": -3.25041,
+    "lon": -76.54478
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-11",
+    "hora": "14:16",
+    "lat": -3.41586,
+    "lon": -76.34991
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-11",
+    "hora": "14:16",
+    "lat": -3.41005,
+    "lon": -76.3545
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-11",
+    "hora": "14:16",
+    "lat": -3.95868,
+    "lon": -79.33681
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-11",
+    "hora": "14:16",
+    "lat": -4.07806,
+    "lon": -79.31991
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-11",
+    "hora": "14:16",
+    "lat": -7.17587,
+    "lon": -78.50394
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-10-11T13:42:59.788Z",
+    "lugar": "18 km SSE of Camaná, Peru",
+    "magnitud": "5.2",
+    "lat": -16.7849,
+    "lon": -72.6601
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-09T10:55:29.279Z",
     "lugar": "20 km NNE of El Pedregal, Peru",
