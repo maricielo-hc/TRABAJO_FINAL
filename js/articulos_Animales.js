@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Las poblaciones de fauna silvestre cayeron un 95 % en América Latina y el Caribe en últimos 50 años | INFORME",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/04135430/Canande-reserve-Spider-Monkey-Scott-Trageser-768x512.jpg",
+    "fecha": "Oct 10, 2026",
+    "url": "https://es.mongabay.com/2026/10/america-latina-caribe-caida-poblaciones-fauna-silvestre-informe-planeta-vivo/"
+  },
+  {
     "titulo": "Famosos que inspiran nombres de animales: los científicos hacen homenajes a Taylor Swift, Slash y Neisi Dajomes | Coyuntura ambiental",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/10001714/aletas-de-tiburon-1-768x512.jpg",
     "fecha": "Oct 10, 2026",
@@ -148,6 +154,12 @@ const articulos = [
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2023/11/14053422/reserva-Cerro-de-Arcos-colibri-Estrella-de-Garganta-Azul-Byron-Puglla-768x512.jpg",
     "fecha": "Sep 11, 2026",
     "url": "https://es.mongabay.com/custom-story/2026/09/cerro-de-arcos-hogar-colibri-estrella-garganta-azul-extincion-reportaje-fotografico/"
+  },
+  {
+    "titulo": "Cuando el zoológico se convierte en laboratorio: la ciencia que revela especies invisibles",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07114341/Olingo-en-recinto6-768x512.jpg",
+    "fecha": "Sep 10, 2026",
+    "url": "https://es.mongabay.com/2026/09/zoologico-laboratorio-ciencia-revela-especies-invisibles/"
   },
   {
     "titulo": "Colombia: cangrejos violinistas del Golfo de Urabá fragmentan microplásticos que podrían ser nueva fuente de contaminación | ESTUDIO",
@@ -8148,7 +8160,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Oct 10 21:07:29 2026",
+    "titulo": "Última actualización automática - Sun Oct 11 03:34:34 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
