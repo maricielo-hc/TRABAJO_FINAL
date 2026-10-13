@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Las voces de la naturaleza que dieron vida a Macondo: así se construyó el paisaje sonoro de Cien años de soledad",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/12231040/Verdulejo-Johnnier-Arango-%40TheAndeanBirder-768x512.jpg",
+    "fecha": "Oct 13, 2026",
+    "url": "https://es.mongabay.com/2026/10/voces-naturaleza-macondo-paisaje-sonoro-cien-anos-de-soledad/"
+  },
+  {
     "titulo": "Las poblaciones de fauna silvestre cayeron un 95 % en América Latina y el Caribe en últimos 50 años | INFORME",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/05/04135430/Canande-reserve-Spider-Monkey-Scott-Trageser-768x512.jpg",
     "fecha": "Oct 10, 2026",
@@ -8160,7 +8166,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Tue Oct 13 13:27:47 2026",
+    "titulo": "Última actualización automática - Tue Oct 13 22:17:55 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
