@@ -729,6 +729,14 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-10-12T07:08:08.682Z",
+    "lugar": "27 km WSW of Palora, Ecuador",
+    "magnitud": "4.1",
+    "lat": -1.7692,
+    "lon": -78.2036
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-10-11T13:42:59.788Z",
     "lugar": "18 km SSE of Camaná, Peru",
     "magnitud": "5.2",
