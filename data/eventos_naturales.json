@@ -1353,13 +1353,5 @@
     "magnitud": "4.3",
     "lat": -16.1934,
     "lon": -72.1105
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-10-07T16:06:06.205Z",
-    "lugar": "23 km E of Palora, Ecuador",
-    "magnitud": "4.3",
-    "lat": -1.7116,
-    "lon": -77.7569
   }
 ]
