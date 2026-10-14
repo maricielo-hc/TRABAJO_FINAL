@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "La nutria gigante ya lleva un año en los ríos argentinos tras 30 años de ausencia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/13154236/Rewilding-familai-liberada--768x512.jpg",
+    "fecha": "Oct 14, 2026",
+    "url": "https://es.mongabay.com/2026/10/nutria-gigante-lleva-un-ano-rios-argentinos-tras-30-anos-ausencia/"
+  },
+  {
+    "titulo": "La ruta de Tuta: revelan el viaje completo de una ballena jorobada desde Perú hasta la Antártida",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/12072301/Monitoreo-ballena-jorobada-Tuta-WWF-Peru-1-768x512.jpg",
+    "fecha": "Oct 14, 2026",
+    "url": "https://es.mongabay.com/2026/10/ruta-tuta-revelan-viaje-completo-ballena-jorobada-desde-peru-hasta-antartida/"
+  },
+  {
     "titulo": "Las voces de la naturaleza que dieron vida a Macondo: así se construyó el paisaje sonoro de Cien años de soledad",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/12231040/Verdulejo-Johnnier-Arango-%40TheAndeanBirder-768x512.jpg",
     "fecha": "Oct 13, 2026",
@@ -8166,7 +8178,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Oct 14 11:06:35 2026",
+    "titulo": "Última actualización automática - Wed Oct 14 16:26:35 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
