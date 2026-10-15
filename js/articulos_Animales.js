@@ -144,7 +144,7 @@ const articulos = [
     "url": "https://es.mongabay.com/custom-story/2026/09/pasos-fauna-america-latina-puentes-arboles-ayudan-animales-reportaje-fotografico/"
   },
   {
-    "titulo": "Última actualización automática - Thu Oct 15 16:08:40 2026",
+    "titulo": "Última actualización automática - Thu Oct 15 20:50:45 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
