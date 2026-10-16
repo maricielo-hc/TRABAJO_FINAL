@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Cada vez más animales de la Amazonía se venden como mascotas exóticas en Asia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/15144402/6.-IMG_0081-768x512.jpg",
+    "fecha": "Oct 15, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/10/animales-amazonia-se-venden-como-mascotas-exoticas-asia/"
+  },
+  {
     "titulo": "La nutria gigante ya lleva un año en los ríos argentinos tras 30 años de ausencia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/13154236/Rewilding-familai-liberada--768x512.jpg",
     "fecha": "Oct 15, 2026",
@@ -138,13 +144,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/09/peru-ministerio-ambiente-autorizo-cuotas-exportar-aletas-tiburon-beneficiaron-empresario-investigado-crimen-organizado/"
   },
   {
-    "titulo": "Pasos de fauna en América Latina: los puentes en los árboles que ayudan a monos, perezosos y otros animales a cruzar con seguridad | Reportaje fotográfico",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/31051407/Foto-10-Creditos-Salve-Monos-768x512.jpg",
-    "fecha": "Sep 18, 2026",
-    "url": "https://es.mongabay.com/custom-story/2026/09/pasos-fauna-america-latina-puentes-arboles-ayudan-animales-reportaje-fotografico/"
-  },
-  {
-    "titulo": "Última actualización automática - Thu Oct 15 20:50:45 2026",
+    "titulo": "Última actualización automática - Fri Oct 16 02:46:13 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
