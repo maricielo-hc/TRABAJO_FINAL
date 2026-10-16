@@ -987,6 +987,48 @@ const eventosNaturales = [
     "lon": -77.66305
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-16",
+    "hora": "08:07",
+    "lat": -8.43211,
+    "lon": -74.89886
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-16",
+    "hora": "08:09",
+    "lat": -9.66133,
+    "lon": -73.69857
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-16",
+    "hora": "08:09",
+    "lat": -10.42913,
+    "lon": -73.7599
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-16",
+    "hora": "08:09",
+    "lat": -10.44177,
+    "lon": -73.76202
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-16",
+    "hora": "08:09",
+    "lat": -13.63464,
+    "lon": -72.40265
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-16",
+    "hora": "08:09",
+    "lat": -13.64311,
+    "lon": -72.41731
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-14T20:34:46.590Z",
     "lugar": "33 km NE of Bahía de Caráquez, Ecuador",
@@ -1017,13 +1059,5 @@ const eventosNaturales = [
     "magnitud": "5.2",
     "lat": -16.7849,
     "lon": -72.6601
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-10-09T10:55:29.279Z",
-    "lugar": "20 km NNE of El Pedregal, Peru",
-    "magnitud": "4.3",
-    "lat": -16.1934,
-    "lon": -72.1105
   }
 ];
