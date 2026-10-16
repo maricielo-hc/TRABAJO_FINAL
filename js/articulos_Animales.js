@@ -144,7 +144,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/09/peru-ministerio-ambiente-autorizo-cuotas-exportar-aletas-tiburon-beneficiaron-empresario-investigado-crimen-organizado/"
   },
   {
-    "titulo": "Última actualización automática - Fri Oct 16 02:46:13 2026",
+    "titulo": "Última actualización automática - Fri Oct 16 10:30:59 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
