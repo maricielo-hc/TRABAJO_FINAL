@@ -144,7 +144,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/09/sobreexplotacion-pesquera-colombia-comunidades-pacifico-estudio/"
   },
   {
-    "titulo": "Última actualización automática - Fri Oct 16 15:56:28 2026",
+    "titulo": "Última actualización automática - Fri Oct 16 20:24:11 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
