@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "El Niño amenaza la supervivencia de los pingüinos de Galápagos por el calentamiento del mar | Reportaje fotográfico",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/08/18002822/Pinguinos-Galapagos_%C2%A9AuraBanda.jpg-768x512.png",
+    "fecha": "Oct 16, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/10/el-nino-amenaza-supervivencia-pinguinos-galapagos-calentamiento-mar-reportaje-fotografico/"
+  },
+  {
     "titulo": "Cada vez más animales de la Amazonía se venden como mascotas exóticas en Asia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/15144402/6.-IMG_0081-768x512.jpg",
     "fecha": "Oct 15, 2026",
@@ -138,13 +144,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/09/sobreexplotacion-pesquera-colombia-comunidades-pacifico-estudio/"
   },
   {
-    "titulo": "Perú: Ministerio del Ambiente autorizó cuotas para exportar aletas de tiburón que beneficiaron a empresario investigado por crimen organizado",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/18211434/Caso-Aletas-1-incautacion-de-noviembre-de-2025-Foto-Embajada-Estados-Unidos-768x511.jpg",
-    "fecha": "Sep 21, 2026",
-    "url": "https://es.mongabay.com/2026/09/peru-ministerio-ambiente-autorizo-cuotas-exportar-aletas-tiburon-beneficiaron-empresario-investigado-crimen-organizado/"
-  },
-  {
-    "titulo": "Última actualización automática - Fri Oct 16 10:30:59 2026",
+    "titulo": "Última actualización automática - Fri Oct 16 15:56:28 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
