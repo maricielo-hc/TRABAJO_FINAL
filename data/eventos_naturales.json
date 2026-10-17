@@ -812,6 +812,55 @@
     "lon": -72.98583
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-17",
+    "hora": "13:18",
+    "lat": -14.9802,
+    "lon": -74.86076
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-17",
+    "hora": "13:18",
+    "lat": -15.47021,
+    "lon": -72.98062
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-17",
+    "hora": "13:18",
+    "lat": -15.49516,
+    "lon": -72.99363
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-17",
+    "hora": "13:18",
+    "lat": -15.49775,
+    "lon": -72.97565
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-17",
+    "hora": "13:18",
+    "lat": -16.54344,
+    "lon": -68.07634
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-17",
+    "hora": "13:18",
+    "lat": -16.43089,
+    "lon": -71.84316
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-17",
+    "hora": "13:18",
+    "lat": -16.43219,
+    "lon": -71.83376
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-14T20:34:46.590Z",
     "lugar": "33 km NE of Bahía de Caráquez, Ecuador",
