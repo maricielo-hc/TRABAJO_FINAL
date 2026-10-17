@@ -805,6 +805,13 @@
     "lon": -68.00268
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-17",
+    "hora": "08:48",
+    "lat": -15.49031,
+    "lon": -72.98583
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-14T20:34:46.590Z",
     "lugar": "33 km NE of Bahía de Caráquez, Ecuador",
