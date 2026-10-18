@@ -504,6 +504,62 @@ const eventosNaturales = [
     "lon": -77.65825
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-18",
+    "hora": "13:55",
+    "lat": -7.39357,
+    "lon": -78.56676
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-18",
+    "hora": "13:57",
+    "lat": -9.14085,
+    "lon": -77.82336
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-18",
+    "hora": "13:55",
+    "lat": -0.35607,
+    "lon": -78.44243
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-18",
+    "hora": "13:57",
+    "lat": -9.35088,
+    "lon": -77.17041
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-18",
+    "hora": "13:57",
+    "lat": -9.52664,
+    "lon": -77.52612
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-18",
+    "hora": "13:57",
+    "lat": -10.43761,
+    "lon": -73.77064
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-18",
+    "hora": "13:57",
+    "lat": -10.24933,
+    "lon": -76.34845
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-18",
+    "hora": "13:57",
+    "lat": -10.25191,
+    "lon": -76.32785
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-17T04:28:16.909Z",
     "lugar": "71 km S of Camaná, Peru",
