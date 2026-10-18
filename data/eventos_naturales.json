@@ -534,13 +534,5 @@
     "magnitud": "4.1",
     "lat": -1.7692,
     "lon": -78.2036
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-10-11T13:42:59.788Z",
-    "lugar": "18 km SSE of Camaná, Peru",
-    "magnitud": "5.2",
-    "lat": -16.7849,
-    "lon": -72.6601
   }
 ]
