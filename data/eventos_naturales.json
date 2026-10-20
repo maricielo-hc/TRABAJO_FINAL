@@ -679,6 +679,13 @@
     "lon": -73.77638
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-20",
+    "hora": "13:38",
+    "lat": -11.91742,
+    "lon": -74.65674
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-17T04:28:16.909Z",
     "lugar": "71 km S of Camaná, Peru",
@@ -693,13 +700,5 @@
     "magnitud": "4.1",
     "lat": -0.3599,
     "lon": -80.2447
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-10-13T11:20:04.077Z",
-    "lugar": "22 km NNE of Bahía de Caráquez, Ecuador",
-    "magnitud": "4.4",
-    "lat": -0.4259,
-    "lon": -80.3128
   }
 ]
