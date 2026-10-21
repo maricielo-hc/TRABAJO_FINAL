@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Animales marinos disminuyeron un 60 % en zona profunda del Golfo de México tras derrame de petróleo de 2010 | ESTUDIO",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/21192917/La-vida-marina-disminuyo-drasticamente-en-el-golfo-de-Mexico-en-los-anos-posteriores-al-derrame-de-petroleo-de-BP-768x511.jpg",
+    "fecha": "Oct 21, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/10/animales-marinos-disminuyeron-golfo-mexico-derrame-petroleo-2010/"
+  },
+  {
     "titulo": "Científicos descubren una rana venenosa en Ecuador, pero reservan su ubicación para protegerla de los traficantes | ENTREVISTA",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/21000119/Sopladora-47-768x512.jpg",
     "fecha": "Oct 21, 2026",
@@ -8220,7 +8226,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Oct 21 16:35:14 2026",
+    "titulo": "Última actualización automática - Wed Oct 21 21:13:44 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
