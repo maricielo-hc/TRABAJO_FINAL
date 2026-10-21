@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "Científicos descubren una rana venenosa en Ecuador, pero reservan su ubicación para protegerla de los traficantes | ENTREVISTA",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/21000119/Sopladora-47-768x512.jpg",
+    "fecha": "Oct 21, 2026",
+    "url": "https://es.mongabay.com/2026/10/cientificos-descubren-rana-venenosa-ecuador-reservan-ubicacion-protegerla-traficantes-entrevista/"
+  },
+  {
+    "titulo": "Perú: la primera colección científica de peces de Madre de Dios refleja los cambios que genera la minería ilegal en la vida acuática",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/20194331/WhatsApp-Image-2026-09-25-at-20.25.34-768x512.jpeg",
+    "fecha": "Oct 21, 2026",
+    "url": "https://es.mongabay.com/2026/10/peru-primera-coleccion-cientifica-peces-madre-de-dios-mineria-ilegal/"
+  },
+  {
     "titulo": "Ballenas en Perú: alarmas acústicas podrían salvarlas de morir en redes de pesca",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/18201727/FOTO-1-2-768x512.jpg",
     "fecha": "Oct 20, 2026",
@@ -8208,7 +8220,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Oct 21 11:07:03 2026",
+    "titulo": "Última actualización automática - Wed Oct 21 16:35:14 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
