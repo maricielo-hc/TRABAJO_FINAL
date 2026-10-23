@@ -70,6 +70,20 @@ const eventosNaturales = [
     "lon": -68.93272
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-23",
+    "hora": "13:53",
+    "lat": -0.35686,
+    "lon": -78.4516
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-23",
+    "hora": "13:53",
+    "lat": -1.78898,
+    "lon": -79.28822
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-17T04:28:16.909Z",
     "lugar": "71 km S of Camaná, Peru",
