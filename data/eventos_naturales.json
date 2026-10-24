@@ -61,5 +61,20 @@
     "hora": "02:09",
     "lat": -2.00712,
     "lon": -78.34414
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-24",
+    "hora": "12:55",
+    "lat": -11.21239,
+    "lon": -69.06384
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-10-24T11:30:45.048Z",
+    "lugar": "22 km ENE of Palora, Ecuador",
+    "magnitud": "4.2",
+    "lat": -1.6316,
+    "lon": -77.7768
   }
 ]
