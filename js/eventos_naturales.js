@@ -84,6 +84,34 @@ const eventosNaturales = [
     "lon": -79.28822
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-23",
+    "hora": "19:51",
+    "lat": -11.18938,
+    "lon": -68.85178
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-23",
+    "hora": "19:51",
+    "lat": -11.11476,
+    "lon": -68.89346
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-23",
+    "hora": "19:51",
+    "lat": -11.14024,
+    "lon": -68.92751
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-23",
+    "hora": "19:51",
+    "lat": -11.12055,
+    "lon": -68.89721
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-17T04:28:16.909Z",
     "lugar": "71 km S of Camaná, Peru",
