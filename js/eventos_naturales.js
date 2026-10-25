@@ -1113,6 +1113,62 @@ const eventosNaturales = [
     "lon": -68.58202
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-25",
+    "hora": "13:36",
+    "lat": -13.0071,
+    "lon": -69.88542
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-25",
+    "hora": "13:33",
+    "lat": -7.07931,
+    "lon": -75.18227
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-25",
+    "hora": "13:33",
+    "lat": -8.06297,
+    "lon": -74.68795
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-25",
+    "hora": "13:33",
+    "lat": -8.52014,
+    "lon": -74.32
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-25",
+    "hora": "13:33",
+    "lat": -9.6652,
+    "lon": -74.09887
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-25",
+    "hora": "13:33",
+    "lat": -10.67176,
+    "lon": -71.65644
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-25",
+    "hora": "13:33",
+    "lat": -11.84231,
+    "lon": -73.9413
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-25",
+    "hora": "13:33",
+    "lat": -11.8556,
+    "lon": -73.98688
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-25T07:11:49.640Z",
     "lugar": "50 km SW of Atiquipa, Peru",
