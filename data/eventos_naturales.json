@@ -1170,6 +1170,14 @@
   },
   {
     "tipo": "Sismo",
+    "fecha": "2026-10-25T17:11:49.932Z",
+    "lugar": "19 km NE of Atico, Peru",
+    "magnitud": "4.7",
+    "lat": -16.0993,
+    "lon": -73.4741
+  },
+  {
+    "tipo": "Sismo",
     "fecha": "2026-10-25T07:11:49.640Z",
     "lugar": "50 km SW of Atiquipa, Peru",
     "magnitud": "4.6",
