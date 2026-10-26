@@ -357,6 +357,27 @@
     "lon": -75.89402
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-26",
+    "hora": "14:12",
+    "lat": -6.49484,
+    "lon": -76.36666
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-26",
+    "hora": "14:12",
+    "lat": -7.14617,
+    "lon": -78.50776
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-26",
+    "hora": "14:12",
+    "lat": -7.18487,
+    "lon": -78.49767
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-25T17:11:49.932Z",
     "lugar": "19 km NE of Atico, Peru",
