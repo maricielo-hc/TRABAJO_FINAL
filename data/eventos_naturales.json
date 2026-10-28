@@ -147,6 +147,34 @@
     "lon": -77.65924
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-28",
+    "hora": "13:53",
+    "lat": -2.00347,
+    "lon": -78.34328
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-28",
+    "hora": "13:53",
+    "lat": -2.00476,
+    "lon": -78.33402
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-28",
+    "hora": "13:53",
+    "lat": -2.01233,
+    "lon": -78.34402
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-28",
+    "hora": "13:53",
+    "lat": -2.01362,
+    "lon": -78.33475
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-27T03:55:23.686Z",
     "lugar": "5 km SW of Azogues, Ecuador",
