@@ -1,111 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "08:30",
-    "lat": -1.99802,
-    "lon": -78.34631
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "08:30",
-    "lat": -2.00113,
-    "lon": -78.32636
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "08:33",
-    "lat": -7.94741,
-    "lon": -72.94417
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:44",
-    "lat": -13.1962,
-    "lon": -74.03915
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:46",
-    "lat": -9.00919,
-    "lon": -77.38276
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:46",
-    "lat": -8.61137,
-    "lon": -77.59909
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:46",
-    "lat": -5.99874,
-    "lon": -78.96635
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:46",
-    "lat": -5.98741,
-    "lon": -78.96641
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:49",
-    "lat": -0.86904,
-    "lon": -76.83873
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:49",
-    "lat": -0.73198,
-    "lon": -76.97575
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:49",
-    "lat": -0.65762,
-    "lon": -77.29309
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:49",
-    "lat": -0.084,
-    "lon": -77.65911
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:44",
-    "lat": -14.44643,
-    "lon": -70.63548
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:44",
-    "lat": -14.39763,
-    "lon": -73.93221
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-27",
-    "hora": "20:44",
-    "lat": -14.39903,
-    "lon": -73.94226
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-10-28",
     "hora": "09:09",
     "lat": -5.99443,
@@ -229,6 +124,13 @@ const eventosNaturales = [
     "hora": "21:25",
     "lat": -5.4896,
     "lon": -78.88229
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-29",
+    "hora": "08:09",
+    "lat": -9.33288,
+    "lon": -68.76617
   },
   {
     "tipo": "Sismo",
