@@ -133,6 +133,13 @@
     "lon": -68.76617
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-29",
+    "hora": "12:55",
+    "lat": -17.67789,
+    "lon": -68.01534
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-27T03:55:23.686Z",
     "lugar": "5 km SW of Azogues, Ecuador",
