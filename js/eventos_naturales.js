@@ -175,6 +175,27 @@ const eventosNaturales = [
     "lon": -78.32877
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "13:31",
+    "lat": -8.09719,
+    "lon": -78.005
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "13:31",
+    "lat": -8.09868,
+    "lon": -77.99487
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "13:31",
+    "lat": -8.10295,
+    "lon": -78.00229
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-29T08:17:33.999Z",
     "lugar": "34 km SSE of San Fernando, Peru",
