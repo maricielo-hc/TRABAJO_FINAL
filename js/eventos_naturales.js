@@ -1,132 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "09:09",
-    "lat": -5.99443,
-    "lon": -78.96877
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "09:09",
-    "lat": -5.99609,
-    "lon": -78.95774
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "09:09",
-    "lat": -6.00067,
-    "lon": -78.96396
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "01:28",
-    "lat": -5.99221,
-    "lon": -78.96886
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "01:28",
-    "lat": -5.99159,
-    "lon": -78.97485
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "01:32",
-    "lat": -0.08527,
-    "lon": -77.65924
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "13:53",
-    "lat": -2.00347,
-    "lon": -78.34328
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "13:53",
-    "lat": -2.00476,
-    "lon": -78.33402
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "13:53",
-    "lat": -2.01233,
-    "lon": -78.34402
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "13:53",
-    "lat": -2.01362,
-    "lon": -78.33475
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "21:23",
-    "lat": -9.50236,
-    "lon": -77.28104
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "21:23",
-    "lat": -8.29844,
-    "lon": -77.41236
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "21:23",
-    "lat": -7.78781,
-    "lon": -78.68301
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "21:25",
-    "lat": -6.01146,
-    "lon": -78.98325
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "21:25",
-    "lat": -6.00079,
-    "lon": -78.98759
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "21:25",
-    "lat": -5.83976,
-    "lon": -78.26095
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "21:25",
-    "lat": -5.84249,
-    "lon": -78.278
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-10-28",
-    "hora": "21:25",
-    "lat": -5.4896,
-    "lon": -78.88229
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-10-29",
     "hora": "08:09",
     "lat": -9.33288,
@@ -271,6 +145,42 @@ const eventosNaturales = [
     "hora": "20:25",
     "lat": -3.09287,
     "lon": -68.26179
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "08:48",
+    "lat": -2.00017,
+    "lon": -78.34401
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "08:48",
+    "lat": -2.00182,
+    "lon": -78.33313
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "08:48",
+    "lat": -2.00276,
+    "lon": -78.3377
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "08:48",
+    "lat": -2.00414,
+    "lon": -78.32877
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-10-29T08:17:33.999Z",
+    "lugar": "34 km SSE of San Fernando, Peru",
+    "magnitud": "4.4",
+    "lat": -8.6664,
+    "lon": -74.3793
   },
   {
     "tipo": "Sismo",
