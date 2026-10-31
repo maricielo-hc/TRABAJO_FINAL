@@ -196,6 +196,84 @@ const eventosNaturales = [
     "lon": -78.00229
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "20:59",
+    "lat": -13.94472,
+    "lon": -75.80224
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "21:01",
+    "lat": -11.87493,
+    "lon": -75.25516
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "21:01",
+    "lat": -11.87637,
+    "lon": -75.2645
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "21:01",
+    "lat": -11.771,
+    "lon": -74.81406
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "21:01",
+    "lat": -11.77253,
+    "lon": -74.82407
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "21:01",
+    "lat": -11.60232,
+    "lon": -75.53336
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "21:01",
+    "lat": -10.09624,
+    "lon": -76.26367
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "21:01",
+    "lat": -9.24752,
+    "lon": -77.65883
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "21:01",
+    "lat": -5.29202,
+    "lon": -78.83517
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-30",
+    "hora": "21:01",
+    "lat": -5.29329,
+    "lon": -78.84389
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-10-30T22:46:57.982Z",
+    "lugar": "33 km NE of Mazo Cruz, Peru",
+    "magnitud": "4.6",
+    "lat": -16.5439,
+    "lon": -69.4844
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-29T08:17:33.999Z",
     "lugar": "34 km SSE of San Fernando, Peru",
