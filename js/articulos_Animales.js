@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "De cuentos infantiles a guías comunitarias: así buscan en México y Colombia convivir en paz con los animales silvestres | Coyuntura ambiental",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/21220249/oso-de-anteojos-by-Federico-Mosquera-768x512.jpg",
+    "fecha": "Oct 31, 2026",
+    "url": "https://es.mongabay.com/2026/10/cuentos-infantiles-guias-comunitarias-mexico-colombia-convivir-paz-animales-silvestres/"
+  },
+  {
     "titulo": "El Galápagos que no se ve a primera vista: estudio registró 524 avispas, hormigas y abejas en el archipiélago",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/29032018/insectos-Galapagos-13-768x512.jpg",
     "fecha": "Oct 30, 2026",
@@ -8262,7 +8268,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Oct 31 11:39:25 2026",
+    "titulo": "Última actualización automática - Sat Oct 31 16:47:11 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
