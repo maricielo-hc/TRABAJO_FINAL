@@ -133,6 +133,76 @@ const eventosNaturales = [
     "lon": -78.33768
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-10-31",
+    "hora": "20:00",
+    "lat": -17.19095,
+    "lon": -69.19058
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-31",
+    "hora": "20:00",
+    "lat": -17.17584,
+    "lon": -69.19287
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-31",
+    "hora": "20:00",
+    "lat": -17.17832,
+    "lon": -69.19712
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-31",
+    "hora": "20:00",
+    "lat": -16.6608,
+    "lon": -70.37359
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-31",
+    "hora": "20:00",
+    "lat": -16.6702,
+    "lon": -70.3793
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-31",
+    "hora": "20:00",
+    "lat": -11.78681,
+    "lon": -68.70911
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-31",
+    "hora": "20:02",
+    "lat": -11.07145,
+    "lon": -69.46054
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-31",
+    "hora": "20:02",
+    "lat": -8.74985,
+    "lon": -69.47007
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-31",
+    "hora": "20:02",
+    "lat": -8.73143,
+    "lon": -69.29522
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-10-31",
+    "hora": "20:02",
+    "lat": -8.74209,
+    "lon": -69.47796
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-10-30T22:46:57.982Z",
     "lugar": "33 km NE of Mazo Cruz, Peru",
@@ -171,13 +241,5 @@ const eventosNaturales = [
     "magnitud": "4.6",
     "lat": -16.0676,
     "lon": -74.747
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-10-24T20:57:03.106Z",
-    "lugar": "37 km ESE of Cañaveral, Peru",
-    "magnitud": "4.1",
-    "lat": -4.0944,
-    "lon": -80.3538
   }
 ];
