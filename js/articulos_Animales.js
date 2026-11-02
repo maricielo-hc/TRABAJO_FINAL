@@ -1,6 +1,6 @@
 const articulos = [
   {
-    "titulo": "Última actualización automática - Sun Nov  1 21:36:17 2026",
+    "titulo": "Última actualización automática - Mon Nov  2 03:55:56 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
