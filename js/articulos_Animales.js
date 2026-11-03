@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "Tráfico de aletas, pesca y comercio ilegal: las amenazas a los tiburones en cuatro países que rechazaron un acuerdo internacional de protección | Lecturas ambientales",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/11151618/42.-Tarqui-landings-Alex-Hearn-USFQ-768x512.jpg",
-    "fecha": "Nov 01, 2026",
+    "fecha": "Nov 02, 2026",
     "url": "https://es.mongabay.com/2026/11/trafico-aletas-pesca-comercio-ilegal-amenazas-tiburones-lecturas-ambientales/"
+  },
+  {
+    "titulo": "«No hay manera de extraer kril de forma sostenible en la Antártida», advierte la oceanógrafa Sylvia Earle",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/30155142/AP26301683452513-768x513.jpg",
+    "fecha": "Nov 02, 2026",
+    "url": "https://es.mongabay.com/2026/11/no-hay-manera-de-extraer-kril-forma-sostenible-antartida-entrevista-oceanografa-sylvia-earle/"
   },
   {
     "titulo": "De cuentos infantiles a guías comunitarias: así buscan en México y Colombia convivir en paz con los animales silvestres | Coyuntura ambiental",
@@ -8274,7 +8280,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Nov  2 14:38:08 2026",
+    "titulo": "Última actualización automática - Tue Nov  3 00:27:13 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
