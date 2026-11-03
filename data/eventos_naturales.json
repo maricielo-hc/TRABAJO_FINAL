@@ -182,6 +182,13 @@
     "lon": -79.65095
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-03",
+    "hora": "12:55",
+    "lat": -17.22407,
+    "lon": -69.08772
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-02T15:28:13.954Z",
     "lugar": "50 km WSW of Huarmey, Peru",
