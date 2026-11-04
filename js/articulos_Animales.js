@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Redes fantasma en México: más de 77 mil artes de pesca a la deriva siguen atrapando peces y animales en el mar",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/04052039/pesca-fantasma-mexico-redes-deriva-mar-2-768x512.jpg",
+    "fecha": "Nov 04, 2026",
+    "url": "https://es.mongabay.com/2026/11/pesca-fantasma-mexico-redes-deriva-mar/"
+  },
+  {
     "titulo": "Mantarrayas cruzan fronteras en Centroamérica: científicos proponen protección transnacional de sus rutas en el océano | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/31013017/Benjamin-Valenzuela-1-768x512.jpg",
     "fecha": "Nov 03, 2026",
@@ -8292,7 +8298,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Nov  4 13:45:25 2026",
+    "titulo": "Última actualización automática - Wed Nov  4 23:11:32 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
