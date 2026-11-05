@@ -1,5 +1,17 @@
 const articulos = [
   {
+    "titulo": "La historia de convivencia entre los indígenas baniwa y las nutrias, consideradas guardianas espirituales de los peces",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/05210819/pteronura-brasiliensis-2-768x512.jpg",
+    "fecha": "Nov 05, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/11/historia-convivencia-indigenas-baniwa-nutrias-guardianas-espirituales-peces/"
+  },
+  {
+    "titulo": "El Niño golpea al bobo de Cocos: científicos encuentran polluelos débiles, esqueletos y menos nidos en Isla Pajarera, México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/05160231/PXL_20260914_160542976-1-768x512.jpg",
+    "fecha": "Nov 05, 2026",
+    "url": "https://es.mongabay.com/2026/11/el-nino-golpea-bobo-de-cocos-disminucion-nidos-pacifico-mexicano/"
+  },
+  {
     "titulo": "Redes fantasma en México: más de 77 mil artes de pesca a la deriva siguen atrapando peces y animales en el mar",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/04052039/pesca-fantasma-mexico-redes-deriva-mar-2-768x512.jpg",
     "fecha": "Nov 04, 2026",
@@ -8298,7 +8310,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Nov  5 13:57:42 2026",
+    "titulo": "Última actualización automática - Thu Nov  5 23:16:06 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
