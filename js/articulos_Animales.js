@@ -2,8 +2,14 @@ const articulos = [
   {
     "titulo": "La historia de convivencia entre los indígenas baniwa y las nutrias, consideradas guardianas espirituales de los peces",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/05210819/pteronura-brasiliensis-2-768x512.jpg",
-    "fecha": "Nov 05, 2026",
+    "fecha": "Nov 06, 2026",
     "url": "https://es.mongabay.com/short-article/2026/11/historia-convivencia-indigenas-baniwa-nutrias-guardianas-espirituales-peces/"
+  },
+  {
+    "titulo": "Reportaje fotográfico | Viajes extraordinarios de hasta 3500 kilómetros: así migran pingüinos, tiburones y ballenas para alimentarse y reproducirse",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/17205402/Researcher-about-to-tag-a-SHH_Credit-to-Mark-Wong-768x512.jpg",
+    "fecha": "Nov 06, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/11/reportaje-fotografico-viajes-migratorios-pinguinos-tiburones-ballenas-alimentacion-reproduccion/"
   },
   {
     "titulo": "El Niño golpea al bobo de Cocos: científicos encuentran polluelos débiles, esqueletos y menos nidos en Isla Pajarera, México",
@@ -8310,7 +8316,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Nov  6 13:43:37 2026",
+    "titulo": "Última actualización automática - Fri Nov  6 22:44:05 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
