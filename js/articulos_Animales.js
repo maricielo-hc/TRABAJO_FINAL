@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Científicos y pescadores se unen para salvar ballenas, albatros, tiburones y otras especies amenazadas por la pesca | Lecturas ambientales",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/03/18224711/Albatros_peru-2026-03-12-at-22.46.56-2-768x512.jpeg",
+    "fecha": "Nov 08, 2026",
+    "url": "https://es.mongabay.com/2026/11/cientificos-pescadores-salvar-ballenas-albatros-tiburones-pesca-lecturas-ambientales/"
+  },
+  {
     "titulo": "La historia de convivencia entre los indígenas baniwa y las nutrias, consideradas guardianas espirituales de los peces",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/05210819/pteronura-brasiliensis-2-768x512.jpg",
     "fecha": "Nov 06, 2026",
@@ -138,13 +144,7 @@ const articulos = [
     "url": "https://es.mongabay.com/short-article/2026/10/animales-amazonia-se-venden-como-mascotas-exoticas-asia/"
   },
   {
-    "titulo": "La nutria gigante ya lleva un año en los ríos argentinos tras 30 años de ausencia",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/13154236/Rewilding-familai-liberada--768x512.jpg",
-    "fecha": "Oct 15, 2026",
-    "url": "https://es.mongabay.com/2026/10/nutria-gigante-lleva-un-ano-rios-argentinos-tras-30-anos-ausencia/"
-  },
-  {
-    "titulo": "Última actualización automática - Sun Nov  8 12:37:48 2026",
+    "titulo": "Última actualización automática - Sun Nov  8 21:34:42 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
