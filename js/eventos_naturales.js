@@ -308,6 +308,13 @@ const eventosNaturales = [
     "lon": -73.40253
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-07",
+    "hora": "21:10",
+    "lat": -10.43389,
+    "lon": -73.73791
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-07T17:17:38.931Z",
     "lugar": "45 km NNW of Salinas, Ecuador",
