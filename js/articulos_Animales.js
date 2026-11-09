@@ -144,7 +144,7 @@ const articulos = [
     "url": "https://es.mongabay.com/short-article/2026/10/animales-amazonia-se-venden-como-mascotas-exoticas-asia/"
   },
   {
-    "titulo": "Última actualización automática - Sun Nov  8 21:34:42 2026",
+    "titulo": "Última actualización automática - Mon Nov  9 04:09:52 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
