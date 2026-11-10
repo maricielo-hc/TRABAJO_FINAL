@@ -63,6 +63,41 @@ const eventosNaturales = [
     "lon": -69.04167
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-09",
+    "hora": "20:46",
+    "lat": -13.03016,
+    "lon": -73.5181
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-09",
+    "hora": "20:48",
+    "lat": -8.51284,
+    "lon": -72.45948
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-09",
+    "hora": "20:48",
+    "lat": -4.73131,
+    "lon": -79.56798
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-09",
+    "hora": "20:50",
+    "lat": -2.27098,
+    "lon": -79.89006
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-09",
+    "hora": "20:50",
+    "lat": -2.25971,
+    "lon": -79.89169
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-09T10:23:53.528Z",
     "lugar": "80 km ENE of Lagunas, Peru",
@@ -85,13 +120,5 @@ const eventosNaturales = [
     "magnitud": "4.3",
     "lat": -9.8421,
     "lon": -75.7965
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-11-02T15:28:13.954Z",
-    "lugar": "50 km WSW of Huarmey, Peru",
-    "magnitud": "5.1",
-    "lat": -10.1699,
-    "lon": -78.5994
   }
 ];
