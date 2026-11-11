@@ -70,6 +70,27 @@ const eventosNaturales = [
     "lon": -81.12849
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-10",
+    "hora": "19:46",
+    "lat": -12.63406,
+    "lon": -68.07987
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-10",
+    "hora": "21:27",
+    "lat": -7.2023,
+    "lon": -79.48306
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-10",
+    "hora": "21:27",
+    "lat": -6.03332,
+    "lon": -79.36952
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-09T10:23:53.528Z",
     "lugar": "80 km ENE of Lagunas, Peru",
