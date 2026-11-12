@@ -441,6 +441,13 @@
     "lon": -73.66385
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-12",
+    "hora": "13:46",
+    "lat": -8.02129,
+    "lon": -77.54131
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-09T10:23:53.528Z",
     "lugar": "80 km ENE of Lagunas, Peru",
