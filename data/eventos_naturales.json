@@ -35,6 +35,20 @@
     "lon": -77.90616
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-14",
+    "hora": "13:29",
+    "lat": -13.06373,
+    "lon": -68.06134
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-14",
+    "hora": "13:29",
+    "lat": -13.06779,
+    "lon": -68.06861
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-13T16:43:02.131Z",
     "lugar": "79 km WSW of Changuillo, Peru",
@@ -73,13 +87,5 @@
     "magnitud": "5.3",
     "lat": -4.9495,
     "lon": -75.0002
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-11-07T17:17:38.931Z",
-    "lugar": "45 km NNW of Salinas, Ecuador",
-    "magnitud": "4.7",
-    "lat": -1.8505,
-    "lon": -81.1439
   }
 ]
