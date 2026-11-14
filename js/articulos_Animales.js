@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Especies amenazadas: una cotorra, un ave marina y un pez tienen en riesgo su supervivencia | Coyuntura ambiental",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/09/07193052/Plano-detalle-del-moema-768x512.jpg",
+    "fecha": "Nov 14, 2026",
+    "url": "https://es.mongabay.com/2026/11/especies-amenazadas-cotorra-ave-marina-pez-riesgo-supervivencia-coyuntura-ambiental/"
+  },
+  {
     "titulo": "Reportaje fotográfico | Las imponentes ballenas regresan a la Patagonia argentina tras décadas de caza, pero sufren nuevas amenazas",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2025/07/14095847/Captura-de-pantalla-2025-07-29-a-las-5.21.22%E2%80%AFp.m-768x512.png",
     "fecha": "Nov 13, 2026",
@@ -132,13 +138,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2026/10/cientificos-descubren-rana-venenosa-ecuador-reservan-ubicacion-protegerla-traficantes-entrevista/"
   },
   {
-    "titulo": "Ballenas en Perú: alarmas acústicas podrían salvarlas de morir en redes de pesca",
-    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/10/18201727/FOTO-1-2-768x512.jpg",
-    "fecha": "Oct 20, 2026",
-    "url": "https://es.mongabay.com/2026/10/ballenas-peru-alarmas-acusticas-podrian-salvarlas-morir-redes-pesca/"
-  },
-  {
-    "titulo": "Última actualización automática - Sat Nov 14 12:51:56 2026",
+    "titulo": "Última actualización automática - Sat Nov 14 21:54:06 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
