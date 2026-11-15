@@ -273,6 +273,21 @@
     "lon": -76.16428
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-15",
+    "hora": "12:29",
+    "lat": -13.07132,
+    "lon": -68.07204
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-11-15T18:52:21.570Z",
+    "lugar": "26 km E of Estique, Peru",
+    "magnitud": "4.2",
+    "lat": -17.5342,
+    "lon": -69.7721
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-13T16:43:02.131Z",
     "lugar": "79 km WSW of Changuillo, Peru",
