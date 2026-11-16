@@ -280,6 +280,34 @@ const eventosNaturales = [
     "lon": -68.07204
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-15",
+    "hora": "21:18",
+    "lat": -7.26459,
+    "lon": -76.60104
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-15",
+    "hora": "21:20",
+    "lat": -2.00833,
+    "lon": -78.33253
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-15",
+    "hora": "21:20",
+    "lat": -2.01058,
+    "lon": -78.34726
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-15",
+    "hora": "21:22",
+    "lat": -0.08418,
+    "lon": -77.64459
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-15T18:52:21.570Z",
     "lugar": "26 km E of Estique, Peru",
