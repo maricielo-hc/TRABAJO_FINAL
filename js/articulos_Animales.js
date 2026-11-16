@@ -12,6 +12,12 @@ const articulos = [
     "url": "https://es.mongabay.com/custom-story/2026/11/reportaje-fotografico-imponentes-ballenas-regresan-patagonia-argentina-caza-nuevas-amenazas/"
   },
   {
+    "titulo": "Bolivia: el pequeño territorio de la tangara inti, ave recién descrita por la ciencia, amenazado por minería y deforestación",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/10050124/PORTADA-DSC_5874-768x512.jpg",
+    "fecha": "Nov 13, 2026",
+    "url": "https://es.mongabay.com/2026/11/bolivia-territorio-tangara-inti-ave-recien-descrita-amenazado-mineria-deforestacion/"
+  },
+  {
     "titulo": "Perú: confiscan más de 3000 tarántulas a presuntos traficantes europeos",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/10174723/Peru-autoridades-confiscan-mas-de-3000-tarantulas-a-presuntos-traficantes-europeos-768x512.jpeg",
     "fecha": "Nov 10, 2026",
@@ -8346,7 +8352,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sun Nov 15 22:30:26 2026",
+    "titulo": "Última actualización automática - Mon Nov 16 04:28:21 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
