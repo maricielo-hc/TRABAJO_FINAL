@@ -91,6 +91,289 @@ const eventosNaturales = [
     "lon": -77.64459
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "13:05",
+    "lat": -0.07444,
+    "lon": -77.66162
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "13:05",
+    "lat": -0.07967,
+    "lon": -77.6711
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "13:08",
+    "lat": -2.00431,
+    "lon": -78.32829
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "13:10",
+    "lat": -11.13493,
+    "lon": -68.77502
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:16",
+    "lat": -17.35098,
+    "lon": -68.9596
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:16",
+    "lat": -16.08287,
+    "lon": -68.794
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:16",
+    "lat": -16.08878,
+    "lon": -68.78396
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:16",
+    "lat": -15.30029,
+    "lon": -68.24452
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:16",
+    "lat": -12.95662,
+    "lon": -69.91123
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:16",
+    "lat": -12.95856,
+    "lon": -69.92629
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:16",
+    "lat": -11.92881,
+    "lon": -69.0778
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:16",
+    "lat": -11.58495,
+    "lon": -68.49698
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -11.35824,
+    "lon": -69.22488
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -11.35999,
+    "lon": -69.2375
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -11.1326,
+    "lon": -68.78069
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -11.13418,
+    "lon": -68.79238
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -11.08968,
+    "lon": -68.91275
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -11.09132,
+    "lon": -68.92477
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -10.58734,
+    "lon": -68.15317
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -10.74403,
+    "lon": -69.44461
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.94452,
+    "lon": -68.58182
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -9.49947,
+    "lon": -73.53973
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.34161,
+    "lon": -70.93363
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.24386,
+    "lon": -70.46433
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.2155,
+    "lon": -70.60094
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.25152,
+    "lon": -70.86031
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.62809,
+    "lon": -75.1569
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.30078,
+    "lon": -74.74001
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.16357,
+    "lon": -74.26124
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.16331,
+    "lon": -74.26611
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -7.97791,
+    "lon": -74.35817
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -7.98153,
+    "lon": -74.38569
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.04454,
+    "lon": -75.36875
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -8.05146,
+    "lon": -75.37545
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -7.93103,
+    "lon": -75.19168
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -7.93719,
+    "lon": -75.19532
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-16",
+    "hora": "20:18",
+    "lat": -6.4106,
+    "lon": -75.97492
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-11-16T19:26:34.776Z",
+    "lugar": "77 km WSW of Changuillo, Peru",
+    "magnitud": "4.7",
+    "lat": -14.9779,
+    "lon": -75.8684
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-11-16T16:23:18.453Z",
+    "lugar": "28 km SW of Changuillo, Peru",
+    "magnitud": "4.8",
+    "lat": -14.8364,
+    "lon": -75.4229
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-11-16T16:16:45.265Z",
+    "lugar": "95 km WSW of Changuillo, Peru",
+    "magnitud": "5.4",
+    "lat": -15.0306,
+    "lon": -76.0259
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-16T06:47:34.187Z",
     "lugar": "124 km NE of Quiaca, Peru",
