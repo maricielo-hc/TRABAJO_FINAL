@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Licencia ambiental a la medida en Gorgona: el aval que permite a la Armada de Colombia construir en un parque nacional pese a las alertas de la ciencia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/18090612/Ballena-jorobada-en-el-area-marina-protegida-del-Parque-Nacional-Natural-Gorgona-Foto-Laura-Benitez-768x511.jpg",
+    "fecha": "Nov 18, 2026",
+    "url": "https://es.mongabay.com/2026/11/licencia-ambiental-gorgona-armada-colombia-construir-parque-nacional-alertas-ciencia/"
+  },
+  {
     "titulo": "Describen dos nuevas especies de monos aulladores rojos en la Amazonía | ESTUDIO",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/16162623/Un-estudio-genetico-describe-dos-nuevas-especies-de-monos-aulladores-amazonicos-mongabay-latam-768x512.jpg",
     "fecha": "Nov 16, 2026",
@@ -8358,7 +8364,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Nov 18 00:29:21 2026",
+    "titulo": "Última actualización automática - Wed Nov 18 15:03:43 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
