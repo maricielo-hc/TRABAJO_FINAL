@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Reportaje fotográfico | El pez más grande del mundo: drones revelan cómo impacta el turismo al tiburón ballena en México",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/10/10000907/JYW5478_HR-768x512.jpg",
+    "fecha": "Nov 20, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/11/reportaje-fotografico-pez-mas-grande-del-mundo-drones-revelan-impacta-turismo-tiburon-ballena-mexico/"
+  },
+  {
     "titulo": "Licencia ambiental a la medida en Gorgona: el aval que permite a la Armada de Colombia construir en un parque nacional pese a las alertas de la ciencia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/18090612/Ballena-jorobada-en-el-area-marina-protegida-del-Parque-Nacional-Natural-Gorgona-Foto-Laura-Benitez-768x511.jpg",
     "fecha": "Nov 18, 2026",
@@ -8364,7 +8370,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Nov 20 14:51:53 2026",
+    "titulo": "Última actualización automática - Fri Nov 20 23:40:50 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
