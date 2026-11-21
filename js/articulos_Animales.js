@@ -2,7 +2,7 @@ const articulos = [
   {
     "titulo": "Reportaje fotográfico | El pez más grande del mundo: drones revelan cómo impacta el turismo al tiburón ballena en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/10/10000907/JYW5478_HR-768x512.jpg",
-    "fecha": "Nov 20, 2026",
+    "fecha": "Nov 21, 2026",
     "url": "https://es.mongabay.com/custom-story/2026/11/reportaje-fotografico-pez-mas-grande-del-mundo-drones-revelan-impacta-turismo-tiburon-ballena-mexico/"
   },
   {
@@ -8370,7 +8370,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Sat Nov 21 05:19:42 2026",
+    "titulo": "Última actualización automática - Sat Nov 21 14:07:19 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
