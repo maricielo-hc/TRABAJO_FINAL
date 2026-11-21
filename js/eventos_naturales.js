@@ -490,6 +490,48 @@ const eventosNaturales = [
     "lon": -78.33894
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-21",
+    "hora": "13:10",
+    "lat": -17.28315,
+    "lon": -69.2964
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-21",
+    "hora": "20:10",
+    "lat": -13.93805,
+    "lon": -68.02303
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-21",
+    "hora": "20:10",
+    "lat": -13.93846,
+    "lon": -68.01215
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-21",
+    "hora": "20:12",
+    "lat": -10.75097,
+    "lon": -68.81544
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-21",
+    "hora": "20:12",
+    "lat": -10.48831,
+    "lon": -68.22338
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-21",
+    "hora": "20:12",
+    "lat": -8.7419,
+    "lon": -69.05282
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-21T05:12:04.898Z",
     "lugar": "0 km NE of Carhuamayo, Peru",
