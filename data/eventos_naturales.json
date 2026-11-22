@@ -77,6 +77,112 @@
     "lon": -74.72136
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:42",
+    "lat": -0.08269,
+    "lon": -77.65601
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:42",
+    "lat": -2.21133,
+    "lon": -68.32204
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:42",
+    "lat": -2.22803,
+    "lon": -68.32419
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:44",
+    "lat": -5.44987,
+    "lon": -78.46687
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:44",
+    "lat": -5.46242,
+    "lon": -78.44177
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:44",
+    "lat": -5.44305,
+    "lon": -79.03551
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:44",
+    "lat": -8.23728,
+    "lon": -74.78265
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:44",
+    "lat": -8.23907,
+    "lon": -74.78872
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:44",
+    "lat": -8.24088,
+    "lon": -74.77458
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:44",
+    "lat": -8.29228,
+    "lon": -74.72335
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:44",
+    "lat": -8.25064,
+    "lon": -77.36269
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:46",
+    "lat": -15.6826,
+    "lon": -72.55267
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:46",
+    "lat": -15.69773,
+    "lon": -72.55042
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-22",
+    "hora": "13:46",
+    "lat": -15.68284,
+    "lon": -72.56255
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-11-22T21:35:31.763Z",
+    "lugar": "9 km N of Carhuamayo, Peru",
+    "magnitud": "5.4",
+    "lat": -10.8345,
+    "lon": -76.0169
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-22T05:51:58.624Z",
     "lugar": "15 km NNE of Carhuamayo, Peru",
@@ -179,13 +285,5 @@
     "magnitud": "4.3",
     "lat": -13.6058,
     "lon": -68.57
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-11-15T18:52:21.570Z",
-    "lugar": "26 km E of Estique, Peru",
-    "magnitud": "4.2",
-    "lat": -17.5342,
-    "lon": -69.7721
   }
 ]
