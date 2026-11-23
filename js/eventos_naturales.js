@@ -1,48 +1,6 @@
 const eventosNaturales = [
   {
     "tipo": "Incendio",
-    "fecha": "2026-11-21",
-    "hora": "13:10",
-    "lat": -17.28315,
-    "lon": -69.2964
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-11-21",
-    "hora": "20:10",
-    "lat": -13.93805,
-    "lon": -68.02303
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-11-21",
-    "hora": "20:10",
-    "lat": -13.93846,
-    "lon": -68.01215
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-11-21",
-    "hora": "20:12",
-    "lat": -10.75097,
-    "lon": -68.81544
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-11-21",
-    "hora": "20:12",
-    "lat": -10.48831,
-    "lon": -68.22338
-  },
-  {
-    "tipo": "Incendio",
-    "fecha": "2026-11-21",
-    "hora": "20:12",
-    "lat": -8.7419,
-    "lon": -69.05282
-  },
-  {
-    "tipo": "Incendio",
     "fecha": "2026-11-22",
     "hora": "01:19",
     "lat": -11.2519,
@@ -721,6 +679,62 @@ const eventosNaturales = [
     "lon": -78.53406
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "02:00",
+    "lat": -8.49826,
+    "lon": -74.70431
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "09:11",
+    "lat": -2.00675,
+    "lon": -78.33621
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "12:46",
+    "lat": -13.71992,
+    "lon": -71.63662
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "12:46",
+    "lat": -13.72944,
+    "lon": -71.65498
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "12:46",
+    "lat": -13.73204,
+    "lon": -71.63908
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "12:46",
+    "lat": -13.72328,
+    "lon": -71.64308
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "12:46",
+    "lat": -13.73554,
+    "lon": -71.64468
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "12:46",
+    "lat": -13.73815,
+    "lon": -71.62926
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-22T21:35:31.763Z",
     "lugar": "9 km N of Carhuamayo, Peru",
@@ -754,11 +768,11 @@ const eventosNaturales = [
   },
   {
     "tipo": "Sismo",
-    "fecha": "2026-11-21T00:09:19.667Z",
-    "lugar": "9 km NE of Carhuamayo, Peru",
+    "fecha": "2026-11-21T00:09:21.810Z",
+    "lugar": "7 km ENE of Carhuamayo, Peru",
     "magnitud": "6.7",
-    "lat": -10.8548,
-    "lon": -75.9779
+    "lat": -10.8889,
+    "lon": -75.966
   },
   {
     "tipo": "Sismo",
@@ -807,29 +821,5 @@ const eventosNaturales = [
     "magnitud": "4.7",
     "lat": -14.9779,
     "lon": -75.8684
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-11-16T16:23:18.453Z",
-    "lugar": "28 km SW of Changuillo, Peru",
-    "magnitud": "4.8",
-    "lat": -14.8364,
-    "lon": -75.4229
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-11-16T16:16:45.265Z",
-    "lugar": "95 km WSW of Changuillo, Peru",
-    "magnitud": "5.4",
-    "lat": -15.0306,
-    "lon": -76.0259
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-11-16T06:47:34.187Z",
-    "lugar": "124 km NE of Quiaca, Peru",
-    "magnitud": "4.3",
-    "lat": -13.6058,
-    "lon": -68.57
   }
 ];
