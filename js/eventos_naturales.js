@@ -735,6 +735,55 @@ const eventosNaturales = [
     "lon": -71.62926
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "21:27",
+    "lat": -10.0275,
+    "lon": -76.65485
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "21:27",
+    "lat": -9.96066,
+    "lon": -76.55711
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "21:27",
+    "lat": -9.95744,
+    "lon": -76.5657
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "21:27",
+    "lat": -9.77741,
+    "lon": -76.25991
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "21:27",
+    "lat": -9.39497,
+    "lon": -77.18635
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "21:27",
+    "lat": -9.4013,
+    "lon": -77.18897
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-23",
+    "hora": "21:27",
+    "lat": -8.29122,
+    "lon": -74.728
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-22T21:35:31.763Z",
     "lugar": "9 km N of Carhuamayo, Peru",
@@ -805,21 +854,5 @@ const eventosNaturales = [
     "magnitud": "4.1",
     "lat": -16.609,
     "lon": -71.3236
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-11-16T19:44:54.003Z",
-    "lugar": "103 km WSW of Changuillo, Peru",
-    "magnitud": "4.5",
-    "lat": -15.0591,
-    "lon": -76.0946
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-11-16T19:26:34.776Z",
-    "lugar": "77 km WSW of Changuillo, Peru",
-    "magnitud": "4.7",
-    "lat": -14.9779,
-    "lon": -75.8684
   }
 ];
