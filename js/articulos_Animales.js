@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Licencia ambiental a la medida en isla Gorgona: la estación de guardacostas en un parque nacional de Colombia | PODCAST",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/18091348/una-lancha-de-la-Armada-Nacional-cerca-a-la-entrada-del-Parque-Nacional-Natural-Gorgona-Foto-Daniela-Castro-768x512.jpg",
+    "fecha": "Nov 21, 2026",
+    "url": "https://es.mongabay.com/podcast/2026/11/licencia-ambiental-a-la-medida-en-isla-gorgona-la-estacion-de-guardacostas-en-un-parque-nacional-de-colombia-podcast/"
+  },
+  {
     "titulo": "Reportaje fotográfico | El pez más grande del mundo: drones revelan cómo impacta el turismo al tiburón ballena en México",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2020/10/10000907/JYW5478_HR-768x512.jpg",
     "fecha": "Nov 21, 2026",
@@ -8370,7 +8376,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Mon Nov 23 17:13:33 2026",
+    "titulo": "Última actualización automática - Tue Nov 24 03:49:02 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
