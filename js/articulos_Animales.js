@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "De suelo degradado a refugio de aves: una apuesta por construir un hogar en pequeñas fincas de Colombia",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2019/06/22020503/Iguaza-careta-dendrocygna-viudata-3Calidris-768x512.jpg",
+    "fecha": "Nov 26, 2026",
+    "url": "https://es.mongabay.com/2026/11/suelo-degradado-refugio-aves-apuesta-construir-hogar-pequenas-fincas-colombia/"
+  },
+  {
     "titulo": "Vaquita marina en México: organizaciones ambientalistas impugnan los cambios en la zona de protección de esta especie en peligro de extinción",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/25211159/AP26038090604260-768x512.jpg",
     "fecha": "Nov 25, 2026",
@@ -8382,7 +8388,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Thu Nov 26 01:33:23 2026",
+    "titulo": "Última actualización automática - Thu Nov 26 16:19:07 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
