@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Vaquita marina en México: organizaciones ambientalistas impugnan los cambios en la zona de protección de esta especie en peligro de extinción",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/25211159/AP26038090604260-768x512.jpg",
+    "fecha": "Nov 25, 2026",
+    "url": "https://es.mongabay.com/short-article/2026/11/vaquita-marina-mexico-organizaciones-ambientalistas-impugnan-cambios-zona-proteccion-especie-peligro-extincion/"
+  },
+  {
     "titulo": "Licencia ambiental a la medida en isla Gorgona: la estación de guardacostas en un parque nacional de Colombia | PODCAST",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/11/18091348/una-lancha-de-la-Armada-Nacional-cerca-a-la-entrada-del-Parque-Nacional-Natural-Gorgona-Foto-Daniela-Castro-768x512.jpg",
     "fecha": "Nov 21, 2026",
@@ -8376,7 +8382,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Wed Nov 25 16:45:55 2026",
+    "titulo": "Última actualización automática - Thu Nov 26 01:33:23 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
