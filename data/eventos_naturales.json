@@ -1,5 +1,47 @@
 [
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-27",
+    "hora": "20:44",
+    "lat": -0.5448,
+    "lon": -77.23278
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-27",
+    "hora": "20:40",
+    "lat": -16.34127,
+    "lon": -69.16451
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-27",
+    "hora": "20:42",
+    "lat": -13.63994,
+    "lon": -73.35017
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-27",
+    "hora": "20:42",
+    "lat": -7.87254,
+    "lon": -74.92784
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-27",
+    "hora": "20:44",
+    "lat": -7.37855,
+    "lon": -75.19268
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-27",
+    "hora": "20:44",
+    "lat": -7.3303,
+    "lon": -75.21799
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-24T22:36:30.355Z",
     "lugar": "64 km W of San Juan, Peru",
@@ -38,13 +80,5 @@
     "magnitud": "5",
     "lat": -10.913,
     "lon": -76.0308
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-11-21T00:09:21.810Z",
-    "lugar": "7 km ENE of Carhuamayo, Peru",
-    "magnitud": "6.7",
-    "lat": -10.8889,
-    "lon": -75.966
   }
 ]
