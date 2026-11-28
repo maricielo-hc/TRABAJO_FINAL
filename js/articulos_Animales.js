@@ -1,5 +1,11 @@
 const articulos = [
   {
+    "titulo": "Reportaje fotográfico | El perro fantasma de Bolivia y el zorro enano de México: dos misteriosos cánidos que la ciencia busca conocer mejor",
+    "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2026/06/26190233/fox7slide-1-768x512.png",
+    "fecha": "Nov 27, 2026",
+    "url": "https://es.mongabay.com/custom-story/2026/11/reportaje-fotografico-perro-fantasma-bolivia-zorro-enano-mexico-misteriosos-canidos-ciencia-busca-conocer/"
+  },
+  {
     "titulo": "De suelo degradado a refugio de aves: una apuesta por construir un hogar en pequeñas fincas de Colombia",
     "imagen": "https://imgs.mongabay.com/wp-content/uploads/sites/25/2019/06/22020503/Iguaza-careta-dendrocygna-viudata-3Calidris-768x512.jpg",
     "fecha": "Nov 26, 2026",
@@ -8388,7 +8394,7 @@ const articulos = [
     "url": "https://es.mongabay.com/2016/07/el-misterioso-yaguarundi/"
   },
   {
-    "titulo": "Última actualización automática - Fri Nov 27 16:04:51 2026",
+    "titulo": "Última actualización automática - Sat Nov 28 01:04:05 2026",
     "imagen": "",
     "fecha": "",
     "url": "#"
