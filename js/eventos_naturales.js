@@ -42,6 +42,28 @@ const eventosNaturales = [
     "lon": -75.21799
   },
   {
+    "tipo": "Incendio",
+    "fecha": "2026-11-28",
+    "hora": "02:00",
+    "lat": -7.99619,
+    "lon": -74.9378
+  },
+  {
+    "tipo": "Incendio",
+    "fecha": "2026-11-28",
+    "hora": "09:04",
+    "lat": -0.07772,
+    "lon": -77.65039
+  },
+  {
+    "tipo": "Sismo",
+    "fecha": "2026-11-28T02:55:35.595Z",
+    "lugar": "26 km NNW of Cuya, Chile",
+    "magnitud": "4.6",
+    "lat": -18.945,
+    "lon": -70.2869
+  },
+  {
     "tipo": "Sismo",
     "fecha": "2026-11-24T22:36:30.355Z",
     "lugar": "64 km W of San Juan, Peru",
@@ -72,13 +94,5 @@ const eventosNaturales = [
     "magnitud": "4.3",
     "lat": -7.8618,
     "lon": -74.5078
-  },
-  {
-    "tipo": "Sismo",
-    "fecha": "2026-11-21T05:12:04.898Z",
-    "lugar": "0 km NE of Carhuamayo, Peru",
-    "magnitud": "5",
-    "lat": -10.913,
-    "lon": -76.0308
   }
 ];
